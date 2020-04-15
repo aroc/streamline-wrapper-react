@@ -8,5 +8,6 @@ import FinanceSavings from "./FinanceSavings.js"
 import ModernPayments from "./ModernPayments.js"
 import Money from "./Money.js"
 import Wealth from "./Wealth.js"
+import index from "./index.js"
 
-export default { AccountingBilling, CashPayments, CheckPayments, CreditCardPayments, CryptoCurrencies, Currencies, FinanceSavings, ModernPayments, Money, Wealth }
+export default { AccountingBilling, CashPayments, CheckPayments, CreditCardPayments, CryptoCurrencies, Currencies, FinanceSavings, ModernPayments, Money, Wealth, index }

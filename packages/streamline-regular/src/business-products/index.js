@@ -11,5 +11,6 @@ import Performances from "./Performances.js"
 import ProductLaunch from "./ProductLaunch.js"
 import SEO from "./SEO.js"
 import Strategy from "./Strategy.js"
+import index from "./index.js"
 
-export default { ABTesting, Advertising, Analytics, Business, BusinessDeals, BusinessMetaphors, DataFiles, MonetizationProfits, Optimization, Performances, ProductLaunch, SEO, Strategy }
+export default { ABTesting, Advertising, Analytics, Business, BusinessDeals, BusinessMetaphors, DataFiles, MonetizationProfits, Optimization, Performances, ProductLaunch, SEO, Strategy, index }

@@ -11,5 +11,6 @@ import RewardsAwards from "./RewardsAwards.js"
 import SocialProfile from "./SocialProfile.js"
 import Trends from "./Trends.js"
 import VIPTopUsers from "./VIPTopUsers.js"
+import index from "./index.js"
 
-export default { Certified, Flags, Gaming, Gifts, Likes, LoveIt, Mood, Ranking, Rating, RewardsAwards, SocialProfile, Trends, VIPTopUsers }
+export default { Certified, Flags, Gaming, Gifts, Likes, LoveIt, Mood, Ranking, Rating, RewardsAwards, SocialProfile, Trends, VIPTopUsers, index }

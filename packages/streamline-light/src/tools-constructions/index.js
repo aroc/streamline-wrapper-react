@@ -6,5 +6,6 @@ import MeasuresLevels from "./MeasuresLevels.js"
 import PowerTools from "./PowerTools.js"
 import Safety from "./Safety.js"
 import Tools from "./Tools.js"
+import index from "./index.js"
 
-export default { ClampsJacks, Equipment, Hardware, Materials, MeasuresLevels, PowerTools, Safety, Tools }
+export default { ClampsJacks, Equipment, Hardware, Materials, MeasuresLevels, PowerTools, Safety, Tools, index }

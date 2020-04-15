@@ -10,5 +10,6 @@ import Hats from "./Hats.js"
 import ShirtsSweatersTop from "./ShirtsSweatersTop.js"
 import TrousersShorts from "./TrousersShorts.js"
 import Underwear from "./Underwear.js"
+import index from "./index.js"
 
-export default { Accessories, Bags, Beanies, Caps, ClothesDesign, DressSkirts, Footwear, Glasses, Hats, ShirtsSweatersTop, TrousersShorts, Underwear }
+export default { Accessories, Bags, Beanies, Caps, ClothesDesign, DressSkirts, Footwear, Glasses, Hats, ShirtsSweatersTop, TrousersShorts, Underwear, index }

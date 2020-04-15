@@ -7,5 +7,6 @@ import LandmarksTheAmericas from "./LandmarksTheAmericas.js"
 import OfficialBuildings from "./OfficialBuildings.js"
 import Parks from "./Parks.js"
 import VariousBuildings from "./VariousBuildings.js"
+import index from "./index.js"
 
-export default { Bridges, HistoricalBuildings, LandmarksAsiaAustralia, LandmarksEurope, LandmarksMiddleEastIndia, LandmarksTheAmericas, OfficialBuildings, Parks, VariousBuildings }
+export default { Bridges, HistoricalBuildings, LandmarksAsiaAustralia, LandmarksEurope, LandmarksMiddleEastIndia, LandmarksTheAmericas, OfficialBuildings, Parks, VariousBuildings, index }

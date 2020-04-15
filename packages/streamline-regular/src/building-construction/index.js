@@ -6,5 +6,6 @@ import HeavyEquipment from "./HeavyEquipment.js"
 import Houses from "./Houses.js"
 import ModernArchitecture from "./ModernArchitecture.js"
 import Utilities from "./Utilities.js"
+import index from "./index.js"
 
-export default { ArchitecturalFeatures, Buildings, ConceptionProjects, Construction, HeavyEquipment, Houses, ModernArchitecture, Utilities }
+export default { ArchitecturalFeatures, Buildings, ConceptionProjects, Construction, HeavyEquipment, Houses, ModernArchitecture, Utilities, index }

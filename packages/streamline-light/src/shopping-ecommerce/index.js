@@ -8,5 +8,6 @@ import Receipts from "./Receipts.js"
 import ShoppingBags from "./ShoppingBags.js"
 import Shops from "./Shops.js"
 import TagsCodes from "./TagsCodes.js"
+import index from "./index.js"
 
-export default { Baskets, Carts, DiscountCoupons, ECommerce, MobileShopping, Products, Receipts, ShoppingBags, Shops, TagsCodes }
+export default { Baskets, Carts, DiscountCoupons, ECommerce, MobileShopping, Products, Receipts, ShoppingBags, Shops, TagsCodes, index }

@@ -9,5 +9,6 @@ import Police from "./Police.js"
 import Protection from "./Protection.js"
 import Punishment from "./Punishment.js"
 import Surveillance from "./Surveillance.js"
+import index from "./index.js"
 
-export default { AntiqueWeapons, Army, Bombs, Crime, Death, Legal, ModernWeapons, Police, Protection, Punishment, Surveillance }
+export default { AntiqueWeapons, Army, Bombs, Crime, Death, Legal, ModernWeapons, Police, Protection, Punishment, Surveillance, index }

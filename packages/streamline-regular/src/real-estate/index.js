@@ -13,5 +13,6 @@ import Search from "./Search.js"
 import Settings from "./Settings.js"
 import Signs from "./Signs.js"
 import Update from "./Update.js"
+import index from "./index.js"
 
-export default { ActionsBuildings, ActionsHouses, Advertising, AppsWebsites, Deals, Favorites, InsuranceProtection, Location, MapsDimensions, Market, RealEstate, Search, Settings, Signs, Update }
+export default { ActionsBuildings, ActionsHouses, Advertising, AppsWebsites, Deals, Favorites, InsuranceProtection, Location, MapsDimensions, Market, RealEstate, Search, Settings, Signs, Update, index }

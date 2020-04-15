@@ -8,5 +8,6 @@ import NauticalSports from "./NauticalSports.js"
 import OutdoorParks from "./OutdoorParks.js"
 import Sailing from "./Sailing.js"
 import Trekking from "./Trekking.js"
+import index from "./index.js"
 
-export default { Beach, Camping, Canoe, Diving, Fishing, LandmarksViewPoints, NauticalSports, OutdoorParks, Sailing, Trekking }
+export default { Beach, Camping, Canoe, Diving, Fishing, LandmarksViewPoints, NauticalSports, OutdoorParks, Sailing, Trekking, index }

@@ -16,5 +16,6 @@ import Speakers from "./Speakers.js"
 import VinylRecords from "./VinylRecords.js"
 import VolumeControls from "./VolumeControls.js"
 import WalkmanTapes from "./WalkmanTapes.js"
+import index from "./index.js"
 
-export default { AudioFiles, AudioSystemEqualizer, CDPlayer, EarpodsAirpods, Headphones, IPodDigitalPlayers, Microphone, ModernMusic, Music, MusicGenres, MusicInstruments, Playlists, Podcasts, Radios, Speakers, VinylRecords, VolumeControls, WalkmanTapes }
+export default { AudioFiles, AudioSystemEqualizer, CDPlayer, EarpodsAirpods, Headphones, IPodDigitalPlayers, Microphone, ModernMusic, Music, MusicGenres, MusicInstruments, Playlists, Podcasts, Radios, Speakers, VinylRecords, VolumeControls, WalkmanTapes, index }

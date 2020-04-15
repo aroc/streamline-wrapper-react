@@ -9,5 +9,11 @@
   },
   "scripts": {
     "build": "lerna exec -- ./node_modules/.bin/babel src -d lib"
-  }
+  },
+  "publishConfig" : {
+    "access" : "public",
+    "registry": "https://npm.cloudsmith.io/streamlinehq/streamline-icons-beta/",
+    "directory": "lib"
+  },
+  "workspaces": ["packages/*"]
 }

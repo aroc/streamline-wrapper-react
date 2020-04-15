@@ -4,5 +4,6 @@ import LighterMatchesCandles from "./LighterMatchesCandles.js"
 import SmartLighting from "./SmartLighting.js"
 import StandingLamps from "./StandingLamps.js"
 import TableLamps from "./TableLamps.js"
+import index from "./index.js"
 
-export default { CeilingLamps, LightBubbles, LighterMatchesCandles, SmartLighting, StandingLamps, TableLamps }
+export default { CeilingLamps, LightBubbles, LighterMatchesCandles, SmartLighting, StandingLamps, TableLamps, index }

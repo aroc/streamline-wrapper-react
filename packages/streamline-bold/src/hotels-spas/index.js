@@ -8,5 +8,6 @@ import RoomService from "./RoomService.js"
 import Sauna from "./Sauna.js"
 import Spas from "./Spas.js"
 import TV from "./TV.js"
+import index from "./index.js"
 
-export default { ACHeating, Bathroom, GarageParking, HotelBedrooms, RatingReviews, Reception, RoomService, Sauna, Spas, TV }
+export default { ACHeating, Bathroom, GarageParking, HotelBedrooms, RatingReviews, Reception, RoomService, Sauna, Spas, TV, index }

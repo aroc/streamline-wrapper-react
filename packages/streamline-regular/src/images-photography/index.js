@@ -16,5 +16,6 @@ import TakingPictures from "./TakingPictures.js"
 import Timer from "./Timer.js"
 import TransferingPictures from "./TransferingPictures.js"
 import VintageCameras from "./VintageCameras.js"
+import index from "./index.js"
 
-export default { Accessories, CameraSettings, Cameras, Composition, Focus, ImageFiles, Lenses, LightModes, Lights, Masks, ModernCameras, Pictures, PicturesFrames, RetouchingEnchancing, TakingPictures, Timer, TransferingPictures, VintageCameras }
+export default { Accessories, CameraSettings, Cameras, Composition, Focus, ImageFiles, Lenses, LightModes, Lights, Masks, ModernCameras, Pictures, PicturesFrames, RetouchingEnchancing, TakingPictures, Timer, TransferingPictures, VintageCameras, index }

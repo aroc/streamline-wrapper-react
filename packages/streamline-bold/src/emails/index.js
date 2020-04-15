@@ -5,5 +5,6 @@ import Mailbox from "./Mailbox.js"
 import ReadEmail from "./ReadEmail.js"
 import SendEmail from "./SendEmail.js"
 import Stamps from "./Stamps.js"
+import index from "./index.js"
 
-export default { Drawers, EmailActions, Envelopes, Mailbox, ReadEmail, SendEmail, Stamps }
+export default { Drawers, EmailActions, Envelopes, Mailbox, ReadEmail, SendEmail, Stamps, index }

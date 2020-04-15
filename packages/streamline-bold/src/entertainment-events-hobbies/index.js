@@ -12,5 +12,6 @@ import MuseumExhibitions from "./MuseumExhibitions.js"
 import Party from "./Party.js"
 import ShowTheater from "./ShowTheater.js"
 import Ticketing from "./Ticketing.js"
+import index from "./index.js"
 
-export default { AmusementParks, BrainBoardGames, CardGames, Casino, Circus, ConcertsNightClubs, Crafts, FarmersMarket, Fireworks, Movies, MuseumExhibitions, Party, ShowTheater, Ticketing }
+export default { AmusementParks, BrainBoardGames, CardGames, Casino, Circus, ConcertsNightClubs, Crafts, FarmersMarket, Fireworks, Movies, MuseumExhibitions, Party, ShowTheater, Ticketing, index }

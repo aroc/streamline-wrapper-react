@@ -9,5 +9,6 @@ import Visibility from "./Visibility.js"
 import Weather from "./Weather.js"
 import WeatherApps from "./WeatherApps.js"
 import Wind from "./Wind.js"
+import index from "./index.js"
 
-export default { DayNight, Humidity, IceSnow, NaturalDisasters, Rain, Temperatures, UV, Visibility, Weather, WeatherApps, Wind }
+export default { DayNight, Humidity, IceSnow, NaturalDisasters, Rain, Temperatures, UV, Visibility, Weather, WeatherApps, Wind, index }

@@ -36,5 +36,6 @@ import VariousMammals from "./VariousMammals.js"
 import Whales from "./Whales.js"
 import WildBirds from "./WildBirds.js"
 import WolvesFoxes from "./WolvesFoxes.js"
+import index from "./index.js"
 
-export default { Amphibians, AnimalPrints, Apes, Bears, Birds, Cats, ChickenDucks, Deers, Dogs, ElephantsRhinoceros, Fish, FlyingInsects, Girafe, Insects, Jellyfish, Koala, LionTigers, Livestock, MarineMammals, MiceRats, OctopusSquids, Peacocks, Pets, PetsTracking, Rabbit, Reptiles, Rodents, SharksSportFish, Shellfish, Shells, Snails, Spiders, Swans, VariousFish, VariousMammals, Whales, WildBirds, WolvesFoxes }
+export default { Amphibians, AnimalPrints, Apes, Bears, Birds, Cats, ChickenDucks, Deers, Dogs, ElephantsRhinoceros, Fish, FlyingInsects, Girafe, Insects, Jellyfish, Koala, LionTigers, Livestock, MarineMammals, MiceRats, OctopusSquids, Peacocks, Pets, PetsTracking, Rabbit, Reptiles, Rodents, SharksSportFish, Shellfish, Shells, Snails, Spiders, Swans, VariousFish, VariousMammals, Whales, WildBirds, WolvesFoxes, index }

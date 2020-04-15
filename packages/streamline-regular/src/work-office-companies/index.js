@@ -9,5 +9,6 @@ import Presentations from "./Presentations.js"
 import Tasks from "./Tasks.js"
 import VideoMeetings from "./VideoMeetings.js"
 import WorkOffice from "./WorkOffice.js"
+import index from "./index.js"
 
-export default { HumanResources, IdeasCreativity, JobSearchRecruiting, Legal, MeetingsCollaboration, Office, OfficeFiles, Presentations, Tasks, VideoMeetings, WorkOffice }
+export default { HumanResources, IdeasCreativity, JobSearchRecruiting, Legal, MeetingsCollaboration, Office, OfficeFiles, Presentations, Tasks, VideoMeetings, WorkOffice, index }

@@ -29,5 +29,6 @@ import Monitoring from "./Monitoring.js"
 import RadiologyScanner from "./RadiologyScanner.js"
 import Transfusions from "./Transfusions.js"
 import WaitingRoomAppointments from "./WaitingRoomAppointments.js"
+import index from "./index.js"
 
-export default { Ambulance, BandagesCasts, BeardShaving, Blood, BodyCare, Brain, Dentistry, Dietetics, DrugsMedication, FertilityPregnancy, Hair, HairDress, Hospital, HospitalBedrooms, InsuranceProtection, Laboratory, LaboratoryTests, MakeUp, MedicalApps, MedicalConditions, MedicalFiles, MedicalInstruments, MedicalNanobots, MedicalPersonnel, MedicalSpecialities, MedicalSymbols, MedicalTechnologicAdvances, Monitoring, RadiologyScanner, Transfusions, WaitingRoomAppointments }
+export default { Ambulance, BandagesCasts, BeardShaving, Blood, BodyCare, Brain, Dentistry, Dietetics, DrugsMedication, FertilityPregnancy, Hair, HairDress, Hospital, HospitalBedrooms, InsuranceProtection, Laboratory, LaboratoryTests, MakeUp, MedicalApps, MedicalConditions, MedicalFiles, MedicalInstruments, MedicalNanobots, MedicalPersonnel, MedicalSpecialities, MedicalSymbols, MedicalTechnologicAdvances, Monitoring, RadiologyScanner, Transfusions, WaitingRoomAppointments, index }

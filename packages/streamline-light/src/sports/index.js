@@ -22,5 +22,6 @@ import Swimming from "./Swimming.js"
 import TennisBadminton from "./TennisBadminton.js"
 import VariousSports from "./VariousSports.js"
 import YogaStretching from "./YogaStretching.js"
+import index from "./index.js"
 
-export default { Archery, Athletics, BaseballBallGames, BasketballVolleyball, Biking, Bowling, Boxing, ClimbingSpeleology, Dancing, Fitness, Golf, Gymnastics, MatrialArts, OlympicsParalympicsGames, Pool, RugbyAmericanFootball, Shooting, SkateboardRollerblades, Skiing, Soccer, Swimming, TennisBadminton, VariousSports, YogaStretching }
+export default { Archery, Athletics, BaseballBallGames, BasketballVolleyball, Biking, Bowling, Boxing, ClimbingSpeleology, Dancing, Fitness, Golf, Gymnastics, MatrialArts, OlympicsParalympicsGames, Pool, RugbyAmericanFootball, Shooting, SkateboardRollerblades, Skiing, Soccer, Swimming, TennisBadminton, VariousSports, YogaStretching, index }

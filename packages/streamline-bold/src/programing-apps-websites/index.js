@@ -10,5 +10,6 @@ import ProgramingLanguages from "./ProgramingLanguages.js"
 import ResponsiveDesign from "./ResponsiveDesign.js"
 import UIComponents from "./UIComponents.js"
 import WebsiteDevelopment from "./WebsiteDevelopment.js"
+import index from "./index.js"
 
-export default { AndroidApps, Apps, BugSecurity, CodingFiles, Databases, LearningPrograming, PluginsModules, Programing, ProgramingLanguages, ResponsiveDesign, UIComponents, WebsiteDevelopment }
+export default { AndroidApps, Apps, BugSecurity, CodingFiles, Databases, LearningPrograming, PluginsModules, Programing, ProgramingLanguages, ResponsiveDesign, UIComponents, WebsiteDevelopment, index }

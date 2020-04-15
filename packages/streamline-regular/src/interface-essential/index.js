@@ -55,5 +55,6 @@ import View from "./View.js"
 import VoiceID from "./VoiceID.js"
 import Wireless from "./Wireless.js"
 import Zoom from "./Zoom.js"
+import index from "./index.js"
 
-export default { Alert, Alerts, CellFormating, Connect, Controls, CopyPaste, Dashboard, DateCalendar, Delete, Edit, ExpandRetract, FaceID, Filter, Flip, FormEdition, FormValidation, Help, HierachyOrganization, Home, IrisScan, Keyboard, KeyboardID, Layouts, LinkUnlink, Lists, Loading, LockUnlock, LoginLogout, Menu, Move, MultimediaControls, Navigate, OnOff, Paginate, Paragraphs, Password, Pin, Print, RemoveAdd, Resize, Search, Select, Settings, Share, Stats, Synchronize, TagsBookmarks, TextFormating, TextOptions, Time, TimeFiles, TouchGestures, TouchID, View, VoiceID, Wireless, Zoom }
+export default { Alert, Alerts, CellFormating, Connect, Controls, CopyPaste, Dashboard, DateCalendar, Delete, Edit, ExpandRetract, FaceID, Filter, Flip, FormEdition, FormValidation, Help, HierachyOrganization, Home, IrisScan, Keyboard, KeyboardID, Layouts, LinkUnlink, Lists, Loading, LockUnlock, LoginLogout, Menu, Move, MultimediaControls, Navigate, OnOff, Paginate, Paragraphs, Password, Pin, Print, RemoveAdd, Resize, Search, Select, Settings, Share, Stats, Synchronize, TagsBookmarks, TextFormating, TextOptions, Time, TimeFiles, TouchGestures, TouchID, View, VoiceID, Wireless, Zoom, index }

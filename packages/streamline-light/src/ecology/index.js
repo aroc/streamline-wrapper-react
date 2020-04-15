@@ -13,5 +13,6 @@ import RenewableEnergy from "./RenewableEnergy.js"
 import Seasons from "./Seasons.js"
 import WaterProtection from "./WaterProtection.js"
 import WildlifeProtection from "./WildlifeProtection.js"
+import index from "./index.js"
 
-export default { CleanCars, Deforestation, EcologicalHouses, Ecology, GMOChemicalFood, GlobalWarming, NuclearFossilEnergy, OrganicNonGMO, PlantGrowthOrganicFertilizer, Pollution, Recycling, RenewableEnergy, Seasons, WaterProtection, WildlifeProtection }
+export default { CleanCars, Deforestation, EcologicalHouses, Ecology, GMOChemicalFood, GlobalWarming, NuclearFossilEnergy, OrganicNonGMO, PlantGrowthOrganicFertilizer, Pollution, Recycling, RenewableEnergy, Seasons, WaterProtection, WildlifeProtection, index }

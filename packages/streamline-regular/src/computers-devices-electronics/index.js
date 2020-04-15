@@ -17,5 +17,6 @@ import Screens from "./Screens.js"
 import SmartWatches from "./SmartWatches.js"
 import TabletsKindle from "./TabletsKindle.js"
 import Webcam from "./Webcam.js"
+import index from "./index.js"
 
-export default { Arduino, CDRom, Cables, DesktopActions, DesktopComputers, Electronics, FloppyDisks, HardDrives, KeyboardMouse, LaptopActions, LaptopComputers, Memory, MicroprocessorChips, PowerSupply, ScanPrint, Screens, SmartWatches, TabletsKindle, Webcam }
+export default { Arduino, CDRom, Cables, DesktopActions, DesktopComputers, Electronics, FloppyDisks, HardDrives, KeyboardMouse, LaptopActions, LaptopComputers, Memory, MicroprocessorChips, PowerSupply, ScanPrint, Screens, SmartWatches, TabletsKindle, Webcam, index }

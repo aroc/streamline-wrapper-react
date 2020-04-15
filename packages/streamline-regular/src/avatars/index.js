@@ -13,5 +13,6 @@ import GeometricWomenPoliceArmyCrime from "./GeometricWomenPoliceArmyCrime.js"
 import GeometricWomenProfessions from "./GeometricWomenProfessions.js"
 import GeometricWomenReligion from "./GeometricWomenReligion.js"
 import GeometricWomenVintage from "./GeometricWomenVintage.js"
+import index from "./index.js"
 
-export default { GeometricMenHistory, GeometricMenOldPeople, GeometricMenPeople, GeometricMenPoliceArmyCrime, GeometricMenProfessions, GeometricMenReligion, GeometricMenVintage, GeometricWomenFamousPeople, GeometricWomenHistory, GeometricWomenOldPeople, GeometricWomenPeople, GeometricWomenPoliceArmyCrime, GeometricWomenProfessions, GeometricWomenReligion, GeometricWomenVintage }
+export default { GeometricMenHistory, GeometricMenOldPeople, GeometricMenPeople, GeometricMenPoliceArmyCrime, GeometricMenProfessions, GeometricMenReligion, GeometricMenVintage, GeometricWomenFamousPeople, GeometricWomenHistory, GeometricWomenOldPeople, GeometricWomenPeople, GeometricWomenPoliceArmyCrime, GeometricWomenProfessions, GeometricWomenReligion, GeometricWomenVintage, index }

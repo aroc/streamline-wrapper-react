@@ -1,0 +1,12 @@
+export default { ReligionWomanJapan:
+   [ 'religion-woman-japan',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M8.277 23.25L16.854 14.673', 'M7.2 14.673L12.027 19.5', 'M14.277 23.25L17.598 15.098', 'M6.83,6.75a5.25,5.25,0,0,0,10.393,0', 'M2.277,6.75c0-3.314,4.365-6,9.75-6s9.75,2.686,9.75,6Z', 'M22.5,23.25a10.5,10.5,0,0,0-20.946,0', 'M6.83,6.75S6.777,10.5,3.777,12', 'M17.224,6.75s.053,3.75,3.053,5.25' ] ],
+  ReligionWomanMuslim:
+   [ 'religion-woman-muslim',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M22.5,23.25a10.506,10.506,0,0,0-6.408-8.934l-.006.007', 'M7.687,14.483l-.03-.033a10.5,10.5,0,0,0-6.1,8.8', 'M12.027,11.25c2.485,0,3.756-1.265,3.756-3.75,0-.079,0-.157-.006-.235A5.611,5.611,0,0,0,12.027,6a5.611,5.611,0,0,0-3.75,1.265c0,.078-.006.156-.006.235C8.271,9.985,9.542,11.25,12.027,11.25Z', 'M16.086,14.323A11.227,11.227,0,0,0,18.777,7.5a6.75,6.75,0,0,0-13.5,0,10.267,10.267,0,0,0,2.41,6.983,1.612,1.612,0,0,0-.91,1.267c0,1.243.75,3.75,5.25,3.75s5.25-2.507,5.25-3.75C17.277,15.208,16.83,14.711,16.086,14.323Z' ] ] }

@@ -1,0 +1,12 @@
+export default { Printer:
+   [ 'printer',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M6.5 7.5L17.5 7.5', 'M16.5 7.5L7.5 7.5 7.5 0.5 14.5 0.5 16.5 2.5 16.5 7.5z', 'M6.25,18.5H3.383a1,1,0,0,1-.992-.876L1.5,10.5h21l-.891,7.124a1,1,0,0,1-.992.876H17.25', 'M16.5,5.5h3.323a1,1,0,0,1,.928.629L22.5,10.5H1.5L3.249,6.129A1,1,0,0,1,4.177,5.5H7.5', 'M7 15.5L16.5 15.5 18.5 23.5 5 23.5 7 15.5z', 'M19.5,12.75a.25.25,0,1,1-.25.25.25.25,0,0,1,.25-.25', 'M19.5,15.25a.25.25,0,1,1-.25.25.25.25,0,0,1,.25-.25', 'M11.5 17.5L14 17.5', 'M8.5 19.5L14.5 19.5', 'M7.5 21.5L15 21.5' ] ],
+  Scanner:
+   [ 'scanner',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M23.5,19.5c0,2.762-2.238,4-5,4H5.5c-2.762,0-5-1.238-5-4Z', 'M0.5 19.5L4.5 9.5 19.5 9.5 23.5 19.5', 'M21.5 2.5L2.5 2.5 4.5 9.5 19.5 9.5 21.5 2.5z', 'M2.5,2.5a2,2,0,0,1,2-2h15a2,2,0,0,1,2,2Z', 'M17.5 11.5L6.5 11.5 4.5 17.5 19.5 17.5 17.5 11.5z', 'M16.25,21.25a.25.25,0,1,1-.25.25.25.25,0,0,1,.25-.25', 'M19.25,21.25a.25.25,0,1,1-.25.25.25.25,0,0,1,.25-.25' ] ] }

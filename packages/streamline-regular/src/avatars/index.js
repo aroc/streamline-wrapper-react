@@ -1,0 +1,17 @@
+import GeometricMenHistory from "./GeometricMenHistory.js"
+import GeometricMenOldPeople from "./GeometricMenOldPeople.js"
+import GeometricMenPeople from "./GeometricMenPeople.js"
+import GeometricMenPoliceArmyCrime from "./GeometricMenPoliceArmyCrime.js"
+import GeometricMenProfessions from "./GeometricMenProfessions.js"
+import GeometricMenReligion from "./GeometricMenReligion.js"
+import GeometricMenVintage from "./GeometricMenVintage.js"
+import GeometricWomenFamousPeople from "./GeometricWomenFamousPeople.js"
+import GeometricWomenHistory from "./GeometricWomenHistory.js"
+import GeometricWomenOldPeople from "./GeometricWomenOldPeople.js"
+import GeometricWomenPeople from "./GeometricWomenPeople.js"
+import GeometricWomenPoliceArmyCrime from "./GeometricWomenPoliceArmyCrime.js"
+import GeometricWomenProfessions from "./GeometricWomenProfessions.js"
+import GeometricWomenReligion from "./GeometricWomenReligion.js"
+import GeometricWomenVintage from "./GeometricWomenVintage.js"
+
+export default { GeometricMenHistory, GeometricMenOldPeople, GeometricMenPeople, GeometricMenPoliceArmyCrime, GeometricMenProfessions, GeometricMenReligion, GeometricMenVintage, GeometricWomenFamousPeople, GeometricWomenHistory, GeometricWomenOldPeople, GeometricWomenPeople, GeometricWomenPoliceArmyCrime, GeometricWomenProfessions, GeometricWomenReligion, GeometricWomenVintage }

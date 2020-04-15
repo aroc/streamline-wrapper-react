@@ -1,0 +1,17 @@
+import CleanCars from "./CleanCars.js"
+import Deforestation from "./Deforestation.js"
+import EcologicalHouses from "./EcologicalHouses.js"
+import Ecology from "./Ecology.js"
+import GMOChemicalFood from "./GMOChemicalFood.js"
+import GlobalWarming from "./GlobalWarming.js"
+import NuclearFossilEnergy from "./NuclearFossilEnergy.js"
+import OrganicNonGMO from "./OrganicNonGMO.js"
+import PlantGrowthOrganicFertilizer from "./PlantGrowthOrganicFertilizer.js"
+import Pollution from "./Pollution.js"
+import Recycling from "./Recycling.js"
+import RenewableEnergy from "./RenewableEnergy.js"
+import Seasons from "./Seasons.js"
+import WaterProtection from "./WaterProtection.js"
+import WildlifeProtection from "./WildlifeProtection.js"
+
+export default { CleanCars, Deforestation, EcologicalHouses, Ecology, GMOChemicalFood, GlobalWarming, NuclearFossilEnergy, OrganicNonGMO, PlantGrowthOrganicFertilizer, Pollution, Recycling, RenewableEnergy, Seasons, WaterProtection, WildlifeProtection }

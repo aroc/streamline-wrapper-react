@@ -1,0 +1,33 @@
+export default { CarGarage:
+   [ 'car-garage',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.75 8.25L12 0.75 23.25 8.25', 'M5.250 21.750 A1.500 1.500 0 1 0 8.250 21.750 A1.500 1.500 0 1 0 5.250 21.750 Z', 'M17.250 21.750 A1.500 1.500 0 1 0 20.250 21.750 A1.500 1.500 0 1 0 17.250 21.750 Z', 'M8.25 21.75L17.25 21.75', 'M20.25,21.75h1.5a1.5,1.5,0,0,0,1.5-1.5v-1.5a3,3,0,0,0-3-3l-1.835-3.671a1.5,1.5,0,0,0-1.342-.829h-7.9a1.5,1.5,0,0,0-1.341.829L6,15.75H3.75a3,3,0,0,0-3,3v1.5a1.5,1.5,0,0,0,1.5,1.5h3', 'M6 15.75L20.25 15.75' ] ],
+  CarGarage1:
+   [ 'car-garage-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M17.579,9.75H6.422a1.5,1.5,0,0,0-1.456,1.136L3.75,14.25h16.5l-1.216-3.364A1.5,1.5,0,0,0,17.579,9.75Z', 'M21,20.25H3a.75.75,0,0,1-.75-.75V15.75a1.5,1.5,0,0,1,1.5-1.5h16.5a1.5,1.5,0,0,1,1.5,1.5V19.5A.75.75,0,0,1,21,20.25Z', 'M2.25 17.25L5.25 17.25', 'M18.75 17.25L21.75 17.25', 'M9.75 17.25H14.25V20.25H9.75z', 'M17.25,23.25h1.5a1.5,1.5,0,0,0,1.5-1.5v-1.5h-4.5v1.5A1.5,1.5,0,0,0,17.25,23.25Z', 'M5.25,23.25h1.5a1.5,1.5,0,0,0,1.5-1.5v-1.5H3.75v1.5A1.5,1.5,0,0,0,5.25,23.25Z', 'M0.75 8.25L12 0.75 23.25 8.25' ] ],
+  CarKey:
+   [ 'car-key',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M5.250 3.745 A3.000 3.000 0 1 0 11.250 3.745 A3.000 3.000 0 1 0 5.250 3.745 Z', 'M11.25 3.745L18.75 3.745 18.75 5.995', 'M15.75 3.745L15.75 5.245', 'M17.579,9.745H6.421a1.5,1.5,0,0,0-1.455,1.136L3.75,14.245h16.5l-1.216-3.364A1.5,1.5,0,0,0,17.579,9.745Z', 'M21,20.245H3a.75.75,0,0,1-.75-.75v-3.75a1.5,1.5,0,0,1,1.5-1.5h16.5a1.5,1.5,0,0,1,1.5,1.5V19.5A.75.75,0,0,1,21,20.245Z', 'M2.25 17.245L5.25 17.245', 'M18.75 17.245L21.75 17.245', 'M9.75 17.245H14.25V20.245H9.75z', 'M17.25,23.245h1.5a1.5,1.5,0,0,0,1.5-1.5v-1.5h-4.5v1.5A1.5,1.5,0,0,0,17.25,23.245Z', 'M5.25,23.245h1.5a1.5,1.5,0,0,0,1.5-1.5v-1.5H3.75v1.5A1.5,1.5,0,0,0,5.25,23.245Z' ] ],
+  CarKey1:
+   [ 'car-key-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M5.250 21.750 A1.500 1.500 0 1 0 8.250 21.750 A1.500 1.500 0 1 0 5.250 21.750 Z', 'M17.250 21.750 A1.500 1.500 0 1 0 20.250 21.750 A1.500 1.500 0 1 0 17.250 21.750 Z', 'M8.25 21.75L17.25 21.75', 'M20.25,21.75h1.5a1.5,1.5,0,0,0,1.5-1.5v-1.5a3,3,0,0,0-3-3l-1.835-3.671a1.5,1.5,0,0,0-1.342-.829h-7.9a1.5,1.5,0,0,0-1.342.829L6,15.75H3.75a3,3,0,0,0-3,3v1.5a1.5,1.5,0,0,0,1.5,1.5h3', 'M6 15.75L20.25 15.75', 'M5.250 3.750 A3.000 3.000 0 1 0 11.250 3.750 A3.000 3.000 0 1 0 5.250 3.750 Z', 'M11.25 3.75L18.75 3.75 18.75 6', 'M15.75 3.75L15.75 5.25' ] ] }

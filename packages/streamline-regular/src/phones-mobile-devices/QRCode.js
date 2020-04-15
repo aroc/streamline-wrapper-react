@@ -1,0 +1,23 @@
+export default { MobileQrCode:
+   [ 'mobile-qr-code',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M5.250 0.750 L18.750 0.750 L18.750 23.250 L5.250 23.250 Z', 'M5.25 19.125L18.75 19.125', 'M8.25 6.375L8.25 4.875 9.75 4.875', 'M12.75 4.875H15.75V7.875H12.75z', 'M8.25 12.375H11.25V15.375H8.25z', 'M8.25 9.375L11.25 9.375', 'M13.5 10.875L15.75 10.875', 'M15.75 13.875L15.75 15.375 13.5 15.375' ] ],
+  QrCodeScan:
+   [ 'qr-code-scan',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M5.25 5.25H8.25V8.25H5.25z', 'M5.25 15.75H8.25V18.75H5.25z', 'M15.75 5.25H18.75V8.25H15.75z', 'M5.25 12.75L11.25 12.75 11.25 14.25', 'M14.25 14.25L14.25 18.75 18.75 18.75 18.75 14.25 17.25 14.25', 'M11.25 17.25L11.25 18.75', 'M11.25 5.25L11.25 9.75 12.75 9.75', 'M15.75 11.25L18.75 11.25', 'M.75,6V2.25A1.5,1.5,0,0,1,2.25.75H6', 'M18,.75h3.75a1.5,1.5,0,0,1,1.5,1.5V6', 'M23.25,18v3.75a1.5,1.5,0,0,1-1.5,1.5H18', 'M6,23.25H2.25a1.5,1.5,0,0,1-1.5-1.5V18' ] ] }

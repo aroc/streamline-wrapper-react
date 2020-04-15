@@ -1,0 +1,21 @@
+export default { CarInsurance:
+   [ 'car-insurance',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M18,1.5h3.75A1.5,1.5,0,0,1,23.25,3V15a7.5,7.5,0,0,1-7.5,7.5H8.25A7.5,7.5,0,0,1,.75,15V3a1.5,1.5,0,0,1,1.5-1.5H6', 'M8.25 12.75L9.75 12.75', 'M14.25 12.75L15.75 12.75', 'M6.75 15.75L6.75 17.25', 'M17.25 15.75L17.25 17.25', 'M18.5,11.622,17.25,9.75,16.092,6.276A1.5,1.5,0,0,0,14.669,5.25H9.331A1.5,1.5,0,0,0,7.908,6.276L6.75,9.75,5.5,11.622a1.5,1.5,0,0,0-.252.832v1.8a1.5,1.5,0,0,0,1.5,1.5h10.5a1.5,1.5,0,0,0,1.5-1.5v-1.8A1.5,1.5,0,0,0,18.5,11.622Z', 'M6.75 9.75L17.25 9.75' ] ],
+  CarInsuranceHands:
+   [ 'car-insurance-hands',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M3.75,23.25,1.736,20.869A4.5,4.5,0,0,1,.75,18.058V12.887a1.5,1.5,0,0,1,1.5-1.5h0a1.5,1.5,0,0,1,1.5,1.5v3.75', 'M8.25,23.25v-3a4.5,4.5,0,0,0-.757-2.5L6.351,16.04A1.4,1.4,0,0,0,4.374,15.6h0A1.4,1.4,0,0,0,3.9,17.387l1.352,2.25', 'M20.25,23.25l2.014-2.381a4.5,4.5,0,0,0,.986-2.811V12.887a1.5,1.5,0,0,0-1.5-1.5h0a1.5,1.5,0,0,0-1.5,1.5v3.75', 'M15.75,23.25v-3a4.5,4.5,0,0,1,.757-2.5l1.142-1.712a1.4,1.4,0,0,1,1.977-.444h0a1.4,1.4,0,0,1,.476,1.791l-1.352,2.25', 'M8.25 8.25L9.75 8.25', 'M14.25 8.25L15.75 8.25', 'M6.75 11.25L6.75 12.75', 'M17.25 11.25L17.25 12.75', 'M18.5,7.122,17.25,5.25,16.092,1.776A1.5,1.5,0,0,0,14.669.75H9.331A1.5,1.5,0,0,0,7.908,1.776L6.75,5.25,5.5,7.122a1.5,1.5,0,0,0-.252.832v1.8a1.5,1.5,0,0,0,1.5,1.5h10.5a1.5,1.5,0,0,0,1.5-1.5v-1.8A1.5,1.5,0,0,0,18.5,7.122Z', 'M6.75 5.25L17.25 5.25' ] ] }

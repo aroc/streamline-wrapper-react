@@ -1,0 +1,21 @@
+export default { Fireplace:
+   [ 'fireplace',
+     24,
+     24,
+     [ { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 } ],
+     [ 'M23.786,2.135A1,1,0,0,0,23,1.75H1a.991.991,0,0,0-.788.385,1.015,1.015,0,0,0-.166.912L.777,4.992a1,1,0,0,0,.97.758h20.5a.979.979,0,0,0,.953-.7l.767-2.054A1,1,0,0,0,23.786,2.135Z', 'M1.497 7.250 L4.497 7.250 L4.497 11.250 L1.497 11.250 Z', 'M1.497 12.750 L4.497 12.750 L4.497 16.750 L1.497 16.750 Z', 'M1.497 18.250 L4.497 18.250 L4.497 22.250 L1.497 22.250 Z', 'M19.497 7.250 L22.497 7.250 L22.497 11.250 L19.497 11.250 Z', 'M19.497 12.750 L22.497 12.750 L22.497 16.750 L19.497 16.750 Z', 'M19.497 18.250 L22.497 18.250 L22.497 22.250 L19.497 22.250 Z', 'M17.5,7.25H6.5a.5.5,0,0,0-.5.5v14a.5.5,0,0,0,.5.5h11a.5.5,0,0,0,.5-.5v-14A.5.5,0,0,0,17.5,7.25Zm-5.5,13a3.59,3.59,0,0,1-3.591-3.591,3.205,3.205,0,0,1,1.737-2.9.452.452,0,0,1,.63.209,1.793,1.793,0,0,0,.207.341.5.5,0,0,0,.88-.179,3.894,3.894,0,0,0-.22-2.534.451.451,0,0,1,.633-.582,6.621,6.621,0,0,1,3.315,5.649A3.591,3.591,0,0,1,12,20.25Z' ] ],
+  Fireplace1:
+   [ 'fireplace-1',
+     24,
+     24,
+     [ { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 },
+       { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 },
+       { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 },
+       { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 },
+       { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 },
+       { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 },
+       { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 },
+       { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 },
+       { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 },
+       { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 } ],
+     [ 'M0.250 1.000 L23.750 1.000 L23.750 5.000 L0.250 5.000 Z', 'M12.345,15.031a.306.306,0,0,0-.39.442c.732,1.117,1.024,2.749-.316,2.749a1.1,1.1,0,0,1-1.128-.745.305.305,0,0,0-.511-.1,3.056,3.056,0,1,0,5.306,2.067A4.9,4.9,0,0,0,12.345,15.031Z', 'M8.750 6.500 L15.250 6.500 L15.250 11.000 L8.750 11.000 Z', 'M16.750 6.500 L22.750 6.500 L22.750 11.000 L16.750 11.000 Z', 'M1.250 6.500 L7.250 6.500 L7.250 11.000 L1.250 11.000 Z', 'M19.750 12.500 L22.750 12.500 L22.750 17.000 L19.750 17.000 Z', 'M1.250 12.500 L4.250 12.500 L4.250 17.000 L1.250 17.000 Z', 'M18.25,16.5V13a.5.5,0,0,0-.5-.5H6.25a.5.5,0,0,0-.5.5v3.5a.5.5,0,0,0,.5.5h.459a.249.249,0,0,0,.215-.124,5.917,5.917,0,0,1,10.152,0,.249.249,0,0,0,.215.124h.459A.5.5,0,0,0,18.25,16.5Z', 'M22.25,18.5H18.243a.5.5,0,0,0-.5.531c.005.073.007.146.007.219V22.5a.5.5,0,0,0,.5.5h4a.5.5,0,0,0,.5-.5V19A.5.5,0,0,0,22.25,18.5Z', 'M5.757,18.5H1.75a.5.5,0,0,0-.5.5v3.5a.5.5,0,0,0,.5.5h4a.5.5,0,0,0,.5-.5V19.25c0-.073,0-.146.007-.219a.5.5,0,0,0-.5-.531Z' ] ] }

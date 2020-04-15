@@ -1,0 +1,22 @@
+export default { RealEstateInsuranceBuilding:
+   [ 'real-estate-insurance-building',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.75 14.25L0.75 23.25', 'M15.75,21.75a3,3,0,0,0-3-3H9a3,3,0,0,0-3-3H.75v6Z', 'M6 18.75L9 18.75', 'M10.25,5.25H16a.5.5,0,0,1,.5.5V13.5a0,0,0,0,1,0,0H9.75a0,0,0,0,1,0,0V5.75A.5.5,0,0,1,10.25,5.25Z', 'M16.5,13.5h5.25V1.5A.75.75,0,0,0,21,.75H14.25a.75.75,0,0,0-.75.75V5.25', 'M9.75 13.5L8.25 13.5', 'M21.75 13.5L23.25 13.5', 'M13.5 8.25L16.5 8.25', 'M19.5 5.25L21.75 5.25', 'M19.5 8.25L21.75 8.25' ] ],
+  RealEstateInsuranceDollarHand:
+   [ 'real-estate-insurance-dollar-hand',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.75 14.25L0.75 23.25', 'M15.75,21.75a3,3,0,0,0-3-3H9a3,3,0,0,0-3-3H.75v6Z', 'M6 18.75L9 18.75', 'M10.5,9v5.25a1.5,1.5,0,0,0,1.5,1.5h7.5a1.5,1.5,0,0,0,1.5-1.5V9', 'M23.25,6.982l-6.5-5.847a1.5,1.5,0,0,0-2.006,0L8.25,6.982', 'M17.25,6H14.842a1.342,1.342,0,0,0-.5,2.587l2.814.826a1.342,1.342,0,0,1-.5,2.587H14.25', 'M15.75 6L15.75 5.25', 'M15.75 12.75L15.75 12' ] ],
+  RealEstateInsuranceHouse: [ 'real-estate-insurance-house', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M1 13.482L1 22.482', 'M16,20.982a3,3,0,0,0-3-3H9.25a3,3,0,0,0-3-3H1v6Z', 'M6.25 17.982L9.25 17.982', 'M10,8.232v3.75a1.5,1.5,0,0,0,1.5,1.5h6a1.5,1.5,0,0,0,1.5-1.5V8.232', 'M22,7.482,15.5,1.635a1.5,1.5,0,0,0-2.006,0L7,7.482', 'M20.5 6.132L20.5 2.232' ] ] }

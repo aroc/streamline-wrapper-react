@@ -1,0 +1,17 @@
+import ActionsBuildings from "./ActionsBuildings.js"
+import ActionsHouses from "./ActionsHouses.js"
+import Advertising from "./Advertising.js"
+import AppsWebsites from "./AppsWebsites.js"
+import Deals from "./Deals.js"
+import Favorites from "./Favorites.js"
+import InsuranceProtection from "./InsuranceProtection.js"
+import Location from "./Location.js"
+import MapsDimensions from "./MapsDimensions.js"
+import Market from "./Market.js"
+import RealEstate from "./RealEstate.js"
+import Search from "./Search.js"
+import Settings from "./Settings.js"
+import Signs from "./Signs.js"
+import Update from "./Update.js"
+
+export default { ActionsBuildings, ActionsHouses, Advertising, AppsWebsites, Deals, Favorites, InsuranceProtection, Location, MapsDimensions, Market, RealEstate, Search, Settings, Signs, Update }

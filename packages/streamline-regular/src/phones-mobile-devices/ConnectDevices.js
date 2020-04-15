@@ -1,0 +1,12 @@
+export default { ConnectDeviceCancel:
+   [ 'connect-device-cancel',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M9.75,18A2.25,2.25,0,0,1,7.5,20.25H3A2.25,2.25,0,0,1,.75,18V6A2.25,2.25,0,0,1,3,3.75H7.5A2.25,2.25,0,0,1,9.75,6', 'M14.25,6A2.25,2.25,0,0,1,16.5,3.75H21A2.25,2.25,0,0,1,23.25,6V18A2.25,2.25,0,0,1,21,20.25H16.5A2.25,2.25,0,0,1,14.25,18', 'M8.25 8.25L15.75 15.75', 'M15.75 8.25L8.25 15.75', 'M0.75 17.25L5.25 17.25', 'M18.75 17.25L23.25 17.25' ] ],
+  ConnectDeviceExchange:
+   [ 'connect-device-exchange',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M9.75,14.25V18A2.25,2.25,0,0,1,7.5,20.25H3A2.25,2.25,0,0,1,.75,18V6A2.25,2.25,0,0,1,3,3.75H7.5A2.25,2.25,0,0,1,9.75,6V8.25', 'M0.75 17.25L9.75 17.25', 'M14.25,8.25V6A2.25,2.25,0,0,1,16.5,3.75H21A2.25,2.25,0,0,1,23.25,6V18A2.25,2.25,0,0,1,21,20.25H16.5A2.25,2.25,0,0,1,14.25,18V14.251', 'M14.25 6.75L23.25 6.75', 'M14.25 17.25L23.25 17.25', 'M6.75 9L4.5 11.25 6.75 13.5', 'M17.25 9L19.5 11.25 17.25 13.5', 'M4.5 11.25L19.5 11.25' ] ] }

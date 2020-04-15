@@ -1,0 +1,18 @@
+import Armchairs from "./Armchairs.js"
+import AsianInteriors from "./AsianInteriors.js"
+import Beds from "./Beds.js"
+import ChairsStools from "./ChairsStools.js"
+import Consoles from "./Consoles.js"
+import Decoration from "./Decoration.js"
+import DressersDrawers from "./DressersDrawers.js"
+import Dressing from "./Dressing.js"
+import Fireplaces from "./Fireplaces.js"
+import Kitchen from "./Kitchen.js"
+import NightStands from "./NightStands.js"
+import Shelves from "./Shelves.js"
+import SofasBenches from "./SofasBenches.js"
+import Stairs from "./Stairs.js"
+import SteampunkDecoration from "./SteampunkDecoration.js"
+import Tables from "./Tables.js"
+
+export default { Armchairs, AsianInteriors, Beds, ChairsStools, Consoles, Decoration, DressersDrawers, Dressing, Fireplaces, Kitchen, NightStands, Shelves, SofasBenches, Stairs, SteampunkDecoration, Tables }

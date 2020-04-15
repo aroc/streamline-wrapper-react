@@ -1,0 +1,36 @@
+{
+  "name": "@streamlinehq/streamline-bold",
+  "version": "1.0.0",
+  "description": "Icons for Streamline Bold Ultimate",
+  "keywords": [
+    "icons",
+    "ui",
+    "design",
+    "iconography",
+    "svg",
+    "webalys",
+    "clementsauvage"
+  ],
+  "author": "Clément SAUVAGE <hello@clementsauvage.me>",
+  "homepage": "https://streamlineicons.com",
+  "license": "ISC",
+  "main": "lib/",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7"
+  }
+}

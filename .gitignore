@@ -111,4 +111,4 @@ tmp/
 temp/
 
 .npmrc
-**/.npmrc
+packages/**/.npmrc

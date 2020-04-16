@@ -1,5 +1,5 @@
 {
-  "name": "streamline-icons-react",
+  "name": "@streamlinehq/streamline-icons-react",
   "version": "0.1.0",
   "dependencies": {
     "humps": "^2.0.1"

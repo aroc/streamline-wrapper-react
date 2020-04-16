@@ -1,10 +1,19 @@
 export default { RatingBooklet: [ 'rating-booklet', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M17.25,5.249v-3A1.5,1.5,0,0,0,15.349.8L4.849,3.72a1.6,1.6,0,0,0-1.1,1.529', 'M3.75,21.749a1.5,1.5,0,0,0,1.5,1.5h13.5a1.5,1.5,0,0,0,1.5-1.5V6.743a1.5,1.5,0,0,0-1.5-1.5l-15,.006Z', 'M12.531,8.572l1.248,2.457h2.127a.583.583,0,0,1,.419,1l-1.953,1.922,1.082,2.485a.589.589,0,0,1-.839.736L12,15.7l-2.615,1.47a.589.589,0,0,1-.839-.736l1.082-2.485L7.675,12.026a.583.583,0,0,1,.419-1h2.127L11.47,8.572A.6.6,0,0,1,12.531,8.572Z', 'M8.25 20.249L15.75 20.249' ] ],
-  RatingFiveStar:
-   [ 'rating-five-star',
+  RatingHotel:
+   [ 'rating-hotel',
      24,
      24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M5.779,12.7l1.248,2.457H9.153a.582.582,0,0,1,.419,1L7.62,18.074,8.7,20.558a.589.589,0,0,1-.839.736l-2.614-1.47-2.615,1.47a.589.589,0,0,1-.839-.736l1.082-2.484L.925,16.152a.582.582,0,0,1,.419-1H3.47L4.718,12.7A.6.6,0,0,1,5.779,12.7Z', 'M12.529,2.949l1.248,2.457H15.9a.582.582,0,0,1,.419,1L14.37,8.324l1.082,2.484a.589.589,0,0,1-.839.736L12,10.074l-2.615,1.47a.589.589,0,0,1-.839-.736L9.627,8.324,7.675,6.4a.582.582,0,0,1,.419-1H10.22l1.248-2.457A.6.6,0,0,1,12.529,2.949Z', 'M18.221,12.7l-1.248,2.457H14.847a.582.582,0,0,0-.419,1l1.952,1.922L15.3,20.558a.589.589,0,0,0,.839.736l2.614-1.47,2.615,1.47a.589.589,0,0,0,.839-.736l-1.082-2.484,1.952-1.922a.582.582,0,0,0-.419-1H20.53L19.282,12.7A.6.6,0,0,0,18.221,12.7Z' ] ],
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.75 10.5L0.75 23.25', 'M23.25 14.25L23.25 23.25', 'M23.25 19.5L0.75 19.5', 'M3.750 14.250 A2.250 2.250 0 1 0 8.250 14.250 A2.250 2.250 0 1 0 3.750 14.250 Z', 'M11.25,16.5V12.961a.75.75,0,0,1,.932-.728L18.067,13.7a2.883,2.883,0,0,1,2.183,2.8Z', 'M19.28,1.073l1.249,2.458h2.127a.582.582,0,0,1,.419,1L21.122,6.449,22.2,8.934a.589.589,0,0,1-.839.736L18.75,8.2,16.135,9.67a.589.589,0,0,1-.839-.736l1.082-2.485L14.425,4.527a.582.582,0,0,1,.419-1h2.127l1.248-2.458A.6.6,0,0,1,19.28,1.073Z', 'M0.75 2.25L7.5 2.25', 'M11.25,2.25a.375.375,0,1,1-.375-.375.375.375,0,0,1,.375.375', 'M0.75 6.75L7.5 6.75', 'M11.25,6.75a.375.375,0,1,1-.375-.375.375.375,0,0,1,.375.375' ] ],
   RatingFiveStarHotel:
    [ 'rating-five-star-hotel',
      24,
@@ -28,18 +37,9 @@ export default { RatingBooklet: [ 'rating-booklet', 24, 24, [ { fill: 'none', st
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M12 0.749L12 2.999', 'M10.5 5.249L12 2.999 13.5 5.249', 'M9.75 2.249L12 2.999 14.25 2.249', 'M5.25 3.749L5.25 5.999', 'M3.75 8.249L5.25 5.999 6.75 8.249', 'M3 5.249L5.25 5.999 7.5 5.249', 'M18.75 3.749L18.75 5.999', 'M17.25 8.249L18.75 5.999 20.25 8.249', 'M16.5 5.249L18.75 5.999 21 5.249', 'M3 11.249L3 13.499', 'M1.5 15.749L3 13.499 4.5 15.749', 'M0.75 12.749L3 13.499 5.25 12.749', 'M21 11.249L21 13.499', 'M19.5 15.749L21 13.499 22.5 15.749', 'M18.75 12.749L21 13.499 23.25 12.749', 'M15.75 18.749L15.75 12.749 12 8.999 8.25 12.749 8.25 18.749 5.25 18.749 5.25 23.249 18.75 23.249 18.75 18.749 15.75 18.749z', 'M12 23.249L12 20.999', 'M8.25 14.249L15.75 14.249' ] ],
-  RatingHotel:
-   [ 'rating-hotel',
+  RatingFiveStar:
+   [ 'rating-five-star',
      24,
      24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.75 10.5L0.75 23.25', 'M23.25 14.25L23.25 23.25', 'M23.25 19.5L0.75 19.5', 'M3.750 14.250 A2.250 2.250 0 1 0 8.250 14.250 A2.250 2.250 0 1 0 3.750 14.250 Z', 'M11.25,16.5V12.961a.75.75,0,0,1,.932-.728L18.067,13.7a2.883,2.883,0,0,1,2.183,2.8Z', 'M19.28,1.073l1.249,2.458h2.127a.582.582,0,0,1,.419,1L21.122,6.449,22.2,8.934a.589.589,0,0,1-.839.736L18.75,8.2,16.135,9.67a.589.589,0,0,1-.839-.736l1.082-2.485L14.425,4.527a.582.582,0,0,1,.419-1h2.127l1.248-2.458A.6.6,0,0,1,19.28,1.073Z', 'M0.75 2.25L7.5 2.25', 'M11.25,2.25a.375.375,0,1,1-.375-.375.375.375,0,0,1,.375.375', 'M0.75 6.75L7.5 6.75', 'M11.25,6.75a.375.375,0,1,1-.375-.375.375.375,0,0,1,.375.375' ] ] }
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M5.779,12.7l1.248,2.457H9.153a.582.582,0,0,1,.419,1L7.62,18.074,8.7,20.558a.589.589,0,0,1-.839.736l-2.614-1.47-2.615,1.47a.589.589,0,0,1-.839-.736l1.082-2.484L.925,16.152a.582.582,0,0,1,.419-1H3.47L4.718,12.7A.6.6,0,0,1,5.779,12.7Z', 'M12.529,2.949l1.248,2.457H15.9a.582.582,0,0,1,.419,1L14.37,8.324l1.082,2.484a.589.589,0,0,1-.839.736L12,10.074l-2.615,1.47a.589.589,0,0,1-.839-.736L9.627,8.324,7.675,6.4a.582.582,0,0,1,.419-1H10.22l1.248-2.457A.6.6,0,0,1,12.529,2.949Z', 'M18.221,12.7l-1.248,2.457H14.847a.582.582,0,0,0-.419,1l1.952,1.922L15.3,20.558a.589.589,0,0,0,.839.736l2.614-1.47,2.615,1.47a.589.589,0,0,0,.839-.736l-1.082-2.484,1.952-1.922a.582.582,0,0,0-.419-1H20.53L19.282,12.7A.6.6,0,0,0,18.221,12.7Z' ] ] }

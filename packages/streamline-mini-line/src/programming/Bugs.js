@@ -1,0 +1,6 @@
+export default { ProgrammingBug:
+   [ 'programming-bug',
+     14,
+     14,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M2.500 8.000 A4.500 4.500 0 1 0 11.500 8.000 A4.500 4.500 0 1 0 2.500 8.000 Z', 'M2.5 8L0.5 8', 'M.5,11.5a3.489,3.489,0,0,0,2.634-1.2', 'M3.134,5.7A3.489,3.489,0,0,0,.5,4.5', 'M11.5 8L13.5 8', 'M13.5,11.5a3.489,3.489,0,0,1-2.634-1.2', 'M10.866,5.7A3.489,3.489,0,0,1,13.5,4.5', 'M8.237,3.672A2.5,2.5,0,0,0,9.5,1.5', 'M4.5,1.5A2.5,2.5,0,0,0,5.763,3.672', 'M2.613 7L11.387 7' ] ] }

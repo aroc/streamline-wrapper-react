@@ -1,10 +1,4 @@
-export default { PublicServicePolice1:
-   [ 'public-service-police-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M10,8V7a2,2,0,0,1,4,0V8', 'M17.500 17.000 A2.000 2.000 0 1 0 21.500 17.000 A2.000 2.000 0 1 0 17.500 17.000 Z', 'M3.5 17L0.5 17', 'M3.500 17.000 A2.000 2.000 0 1 0 7.500 17.000 A2.000 2.000 0 1 0 3.500 17.000 Z', 'M17.5 17L7.5 17', 'M1.5,17V13.5A1.5,1.5,0,0,1,3,12H4.5l2-4H16l2,4h4a1.5,1.5,0,0,1,1.5,1.5v3a.5.5,0,0,1-.5.5H21.5', 'M18 12L4.5 12', 'M12 12L12 8' ] ],
-  PublicServiceAmbulance:
+export default { PublicServiceAmbulance:
    [ 'public-service-ambulance',
      24,
      24,
@@ -21,6 +15,24 @@ export default { PublicServicePolice1:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M7,21.5V23a.5.5,0,0,1-.5.5h-2A.5.5,0,0,1,4,23V21.5', 'M20,21.5V23a.5.5,0,0,1-.5.5h-2A.5.5,0,0,1,17,23V21.5', 'M2,20a1.5,1.5,0,0,0,1.5,1.5h17a1.5,1.5,0,0,0,0-3H3.5A1.5,1.5,0,0,0,2,20Z', 'M21,18.586V13L19.109,6.853a.5.5,0,0,0-.478-.353H5.37a.5.5,0,0,0-.478.353L3,13v5.586', 'M3.001 13.5L21.001 13.5', 'M16,18.5V16a.5.5,0,0,0-.5-.5h-7A.5.5,0,0,0,8,16v2.5', 'M1,17V4.5a1,1,0,0,1,1-1H22a1,1,0,0,1,1,1V17', 'M21,15.5a3,3,0,0,0-3,3', 'M3,15.5a3,3,0,0,1,3,3', 'M19,3.5a3,3,0,0,0-3-3H8a3,3,0,0,0-3,3', 'M9 0.5L9 3.5', 'M15 0.5L15 3.5' ] ],
+  PublicServiceFirefighterTruck1:
+   [ 'public-service-firefighter-truck-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M17.000 21.219 A2.000 2.000 0 1 0 21.000 21.219 A2.000 2.000 0 1 0 17.000 21.219 Z', 'M3.000 21.219 A2.000 2.000 0 1 0 7.000 21.219 A2.000 2.000 0 1 0 3.000 21.219 Z', 'M3,21.219H1a.5.5,0,0,1-.5-.5v-10a.5.5,0,0,1,.5-.5H11a.5.5,0,0,1,.5.5v8.5', 'M17 21.219L7 21.219', 'M21,21.219h2a.5.5,0,0,0,.5-.5V16.926a.5.5,0,0,0-.147-.354L21.5,14.719l-2.357-4.243a.5.5,0,0,0-.437-.257H15a.5.5,0,0,0-.5.5v8.5', 'M23.5 19.219L0.5 19.219', 'M14.5 12.219L11.5 12.219', 'M23 0.781L1.203 10.219', 'M21.5 14.719L14.5 14.719', 'M15.5,10.219v-1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v1' ] ],
+  PublicServicePoliceVan:
+   [ 'public-service-police-van',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M17.000 19.000 A2.000 2.000 0 1 0 21.000 19.000 A2.000 2.000 0 1 0 17.000 19.000 Z', 'M3.000 19.000 A2.000 2.000 0 1 0 7.000 19.000 A2.000 2.000 0 1 0 3.000 19.000 Z', 'M21,19h2a.5.5,0,0,0,.5-.5V13.707a.5.5,0,0,0-.146-.353L21.5,11.5,19.143,7.257A.5.5,0,0,0,18.706,7H14.5V3H1a.5.5,0,0,0-.5.5v15A.5.5,0,0,0,1,19H3', 'M17 19L7 19', 'M14.5 7L14.5 17', 'M23.5 17L0.5 17', 'M14.5,6a2,2,0,0,1,4,0V7', 'M7.493 4.503L6 8 2.5 8 5.5 10.499 4 14.501 7.5 12.003 11 14.501 9.5 10.499 12.5 8 9 8 7.493 4.503z', 'M21.5 11.5L14.5 11.5' ] ],
+  PublicServicePolice1:
+   [ 'public-service-police-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M10,8V7a2,2,0,0,1,4,0V8', 'M17.500 17.000 A2.000 2.000 0 1 0 21.500 17.000 A2.000 2.000 0 1 0 17.500 17.000 Z', 'M3.5 17L0.5 17', 'M3.500 17.000 A2.000 2.000 0 1 0 7.500 17.000 A2.000 2.000 0 1 0 3.500 17.000 Z', 'M17.5 17L7.5 17', 'M1.5,17V13.5A1.5,1.5,0,0,1,3,12H4.5l2-4H16l2,4h4a1.5,1.5,0,0,1,1.5,1.5v3a.5.5,0,0,1-.5.5H21.5', 'M18 12L4.5 12', 'M12 12L12 8' ] ],
   PublicServiceAmbulance1:
    [ 'public-service-ambulance-1',
      24,
@@ -53,12 +65,6 @@ export default { PublicServicePolice1:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M21,11.5h1a1,1,0,0,0,1-1v-2a1,1,0,0,0-1-1H21', 'M21 21.5L18 17.5', 'M7,21.5v1a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1v-1', 'M20,21.5v1a1,1,0,0,1-1,1H18a1,1,0,0,1-1-1v-1', 'M2.000 17.500 L22.000 17.500 L22.000 21.500 L2.000 21.500 Z', 'M3,17.5V6.5a1,1,0,0,1,1-1H20a1,1,0,0,1,1,1v11', 'M7,5.5v-1a1,1,0,0,0-1-1H5a1,1,0,0,0-1,1v1', 'M20,5.5v-1a1,1,0,0,0-1-1H18a1,1,0,0,0-1,1v1', 'M3 11.5L21 11.5', 'M5.500 15.000 A1.000 1.000 0 1 0 7.500 15.000 A1.000 1.000 0 1 0 5.500 15.000 Z', 'M16.500 15.000 A1.000 1.000 0 1 0 18.500 15.000 A1.000 1.000 0 1 0 16.500 15.000 Z', 'M12 5.5L12 11.5', 'M3 21.5L6 17.5', 'M6 21.5L9 17.5', 'M18 21.5L15 17.5', 'M15 21.5L12 17.5 9 21.5', 'M9.5 13.5L14.5 13.5', 'M9.5 15.5L14.5 15.5', 'M3,11.5H2a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H3', 'M9 0.5L9 5.5 15 5.5 15 0.5', 'M7.5 1.5L17 1.5' ] ],
-  PublicServiceFirefighterTruck1:
-   [ 'public-service-firefighter-truck-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M17.000 21.219 A2.000 2.000 0 1 0 21.000 21.219 A2.000 2.000 0 1 0 17.000 21.219 Z', 'M3.000 21.219 A2.000 2.000 0 1 0 7.000 21.219 A2.000 2.000 0 1 0 3.000 21.219 Z', 'M3,21.219H1a.5.5,0,0,1-.5-.5v-10a.5.5,0,0,1,.5-.5H11a.5.5,0,0,1,.5.5v8.5', 'M17 21.219L7 21.219', 'M21,21.219h2a.5.5,0,0,0,.5-.5V16.926a.5.5,0,0,0-.147-.354L21.5,14.719l-2.357-4.243a.5.5,0,0,0-.437-.257H15a.5.5,0,0,0-.5.5v8.5', 'M23.5 19.219L0.5 19.219', 'M14.5 12.219L11.5 12.219', 'M23 0.781L1.203 10.219', 'M21.5 14.719L14.5 14.719', 'M15.5,10.219v-1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v1' ] ],
   PublicServicePolice:
    [ 'public-service-police',
      24,
@@ -79,10 +85,4 @@ export default { PublicServicePolice1:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M4.5,21.25v1.5a.5.5,0,0,1-.5.5H2a.5.5,0,0,1-.5-.5V20.982', 'M22.5,20.982V22.75a.5.5,0,0,1-.5.5H20a.5.5,0,0,1-.5-.5v-1.5', 'M21.5,21.25a2,2,0,0,0,2-2v-2l-3-4H3.5l-3,4v2a2,2,0,0,0,2,2Z', 'M20.5,13.25,18.614,7.592a.5.5,0,0,0-.475-.342H5.86a.5.5,0,0,0-.474.342L3.5,13.25', 'M3.5,13.25H1a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5H4.167', 'M19.833,11.25H23a.5.5,0,0,1,.5.5v1a.5.5,0,0,1-.5.5H20.5', 'M.5,17.25h2a4,4,0,0,1,4,4', 'M17.5,21.25a4,4,0,0,1,4-4h2', 'M2.5 17.25L21.5 17.25', 'M8 19.25L16 19.25', 'M16.5,7.25a3,3,0,0,0-3-3h-3a3,3,0,0,0-3,3', 'M10.5 4.25L10.5 7.25', 'M13.5 4.25L13.5 7.25', 'M11.5 2.25L11.5 0.75', 'M14.5 2.25L15.5 1.25', 'M9 2.25L8 1.25' ] ],
-  PublicServicePoliceVan:
-   [ 'public-service-police-van',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M17.000 19.000 A2.000 2.000 0 1 0 21.000 19.000 A2.000 2.000 0 1 0 17.000 19.000 Z', 'M3.000 19.000 A2.000 2.000 0 1 0 7.000 19.000 A2.000 2.000 0 1 0 3.000 19.000 Z', 'M21,19h2a.5.5,0,0,0,.5-.5V13.707a.5.5,0,0,0-.146-.353L21.5,11.5,19.143,7.257A.5.5,0,0,0,18.706,7H14.5V3H1a.5.5,0,0,0-.5.5v15A.5.5,0,0,0,1,19H3', 'M17 19L7 19', 'M14.5 7L14.5 17', 'M23.5 17L0.5 17', 'M14.5,6a2,2,0,0,1,4,0V7', 'M7.493 4.503L6 8 2.5 8 5.5 10.499 4 14.501 7.5 12.003 11 14.501 9.5 10.499 12.5 8 9 8 7.493 4.503z', 'M21.5 11.5L14.5 11.5' ] ] }
+     [ 'M4.5,21.25v1.5a.5.5,0,0,1-.5.5H2a.5.5,0,0,1-.5-.5V20.982', 'M22.5,20.982V22.75a.5.5,0,0,1-.5.5H20a.5.5,0,0,1-.5-.5v-1.5', 'M21.5,21.25a2,2,0,0,0,2-2v-2l-3-4H3.5l-3,4v2a2,2,0,0,0,2,2Z', 'M20.5,13.25,18.614,7.592a.5.5,0,0,0-.475-.342H5.86a.5.5,0,0,0-.474.342L3.5,13.25', 'M3.5,13.25H1a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5H4.167', 'M19.833,11.25H23a.5.5,0,0,1,.5.5v1a.5.5,0,0,1-.5.5H20.5', 'M.5,17.25h2a4,4,0,0,1,4,4', 'M17.5,21.25a4,4,0,0,1,4-4h2', 'M2.5 17.25L21.5 17.25', 'M8 19.25L16 19.25', 'M16.5,7.25a3,3,0,0,0-3-3h-3a3,3,0,0,0-3,3', 'M10.5 4.25L10.5 7.25', 'M13.5 4.25L13.5 7.25', 'M11.5 2.25L11.5 0.75', 'M14.5 2.25L15.5 1.25', 'M9 2.25L8 1.25' ] ] }

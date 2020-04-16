@@ -1,25 +1,10 @@
-export default { ToolsKitchenBasket:
-   [ 'tools-kitchen-basket',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M9.000 0.750 L15.000 0.750 L15.000 3.750 L9.000 3.750 Z', 'M14.25,23.25H9.75a9,9,0,0,1-9-9h0a1.5,1.5,0,0,1,1.5-1.5h19.5a1.5,1.5,0,0,1,1.5,1.5h0A9,9,0,0,1,14.25,23.25Z', 'M9.02,1.939a9.951,9.951,0,0,0-6.77,9.51v1.3', 'M21.75,12.75v-1.3A9.951,9.951,0,0,0,15,1.946', 'M0.875 15.75L23.125 15.75', 'M12 15.75L14.25 23.25', 'M12 15.75L9.75 23.25', 'M18 15.75L20.048 21.134', 'M18 15.75L15 23.219', 'M6 15.75L3.952 21.134', 'M6 15.75L9 23.219' ] ],
-  ToolsKitchenScale:
+export default { ToolsKitchenScale:
    [ 'tools-kitchen-scale',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M9.000 17.250 A3.000 3.000 0 1 0 15.000 17.250 A3.000 3.000 0 1 0 9.000 17.250 Z', 'M12 14.25L12 16.5', 'M22.432,21.3A1.5,1.5,0,0,1,21,23.25H3A1.5,1.5,0,0,1,1.568,21.3l2.813-9A1.5,1.5,0,0,1,5.812,11.25H18.187A1.5,1.5,0,0,1,19.619,12.3Z', 'M3,.75a.75.75,0,0,0-.692,1.039A10.5,10.5,0,0,0,12,8.25a10.5,10.5,0,0,0,9.689-6.462A.75.75,0,0,0,21,.75Z', 'M9 7.815L9 11.25', 'M15 7.815L15 11.25' ] ],
+  ToolsKitchenServingDome: [ 'tools-kitchen-serving-dome', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M0.75 16.5L23.25 16.5', 'M1.7,16.5l1.555,2.332A1.5,1.5,0,0,0,4.5,19.5h15a1.5,1.5,0,0,0,1.248-.668L22.3,16.5', 'M21.722,16.5a9.751,9.751,0,0,0-19.45.088', 'M10.500 6.000 A1.500 1.500 0 1 0 13.500 6.000 A1.500 1.500 0 1 0 10.500 6.000 Z' ] ],
   ToolsKitchenScale1:
    [ 'tools-kitchen-scale-1',
      24,
@@ -36,4 +21,19 @@ export default { ToolsKitchenBasket:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M20.491,22a1.614,1.614,0,0,1-1.629,1.253H5.138A1.614,1.614,0,0,1,3.509,22L1.645,11.847C.579,6.038,5.513.75,12,.75h0c6.487,0,11.421,5.288,10.355,11.1Z', 'M8.250 12.000 A3.750 3.750 0 1 0 15.750 12.000 A3.750 3.750 0 1 0 8.250 12.000 Z', 'M12 8.25L12 12', 'M12,4.875a.375.375,0,1,1-.375.375A.375.375,0,0,1,12,4.875', 'M6.962,6.962a.375.375,0,1,1,0,.53.374.374,0,0,1,0-.53', 'M5.25,11.625A.375.375,0,1,1,4.875,12a.375.375,0,0,1,.375-.375', 'M6.962,16.508a.375.375,0,1,1,0,.53.374.374,0,0,1,0-.53', 'M12,18.375a.375.375,0,1,1-.375.375A.375.375,0,0,1,12,18.375', 'M16.508,16.508a.375.375,0,1,1,0,.53.374.374,0,0,1,0-.53', 'M18.75,11.625a.375.375,0,1,1-.375.375.375.375,0,0,1,.375-.375', 'M16.508,6.962a.375.375,0,1,1,0,.53.374.374,0,0,1,0-.53' ] ],
-  ToolsKitchenServingDome: [ 'tools-kitchen-serving-dome', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M0.75 16.5L23.25 16.5', 'M1.7,16.5l1.555,2.332A1.5,1.5,0,0,0,4.5,19.5h15a1.5,1.5,0,0,0,1.248-.668L22.3,16.5', 'M21.722,16.5a9.751,9.751,0,0,0-19.45.088', 'M10.500 6.000 A1.500 1.500 0 1 0 13.500 6.000 A1.500 1.500 0 1 0 10.500 6.000 Z' ] ] }
+  ToolsKitchenBasket:
+   [ 'tools-kitchen-basket',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M9.000 0.750 L15.000 0.750 L15.000 3.750 L9.000 3.750 Z', 'M14.25,23.25H9.75a9,9,0,0,1-9-9h0a1.5,1.5,0,0,1,1.5-1.5h19.5a1.5,1.5,0,0,1,1.5,1.5h0A9,9,0,0,1,14.25,23.25Z', 'M9.02,1.939a9.951,9.951,0,0,0-6.77,9.51v1.3', 'M21.75,12.75v-1.3A9.951,9.951,0,0,0,15,1.946', 'M0.875 15.75L23.125 15.75', 'M12 15.75L14.25 23.25', 'M12 15.75L9.75 23.25', 'M18 15.75L20.048 21.134', 'M18 15.75L15 23.219', 'M6 15.75L3.952 21.134', 'M6 15.75L9 23.219' ] ] }

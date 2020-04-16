@@ -1,4 +1,22 @@
-export default { CarParking:
+export default { CarGarage:
+   [ 'car-garage',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M.5,10.823,11.326.939a1,1,0,0,1,1.348,0L23.5,10.823', 'M7.5 21.323L16.5 21.323', 'M20.5,21.323h1a1,1,0,0,0,1-1v-.354a3.646,3.646,0,0,0-3.646-3.646A2,2,0,0,1,17,15.066l-.743-1.857a3,3,0,0,0-2.785-1.886H9.14a2,2,0,0,0-1.962,1.608l-.356,1.784A2,2,0,0,1,4.86,16.323H3.5a2,2,0,0,0-2,2v2a1,1,0,0,0,1,1h1', 'M3.500 21.323 A2.000 2.000 0 1 0 7.500 21.323 A2.000 2.000 0 1 0 3.500 21.323 Z', 'M16.500 21.323 A2.000 2.000 0 1 0 20.500 21.323 A2.000 2.000 0 1 0 16.500 21.323 Z', 'M11.5,11.323v3a2,2,0,0,0,2,2h5.354' ] ],
+  CarGarage1:
+   [ 'car-garage-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M.5,10.823,11.326.939a1,1,0,0,1,1.348,0L23.5,10.823', 'M6.5,16.323h11a2,2,0,0,1,2,2v2a1,1,0,0,1-1,1H5.5a1,1,0,0,1-1-1v-2A2,2,0,0,1,6.5,16.323Z', 'M4.5 19.323L7 19.323', 'M17 19.323L19.5 19.323', 'M6.5,16.323,6.891,13.2a1,1,0,0,1,.992-.876h8.234a1,1,0,0,1,.992.876l.391,3.124', 'M4 14.823L6.5 16.323', 'M20 14.823L17.5 16.323', 'M7.5,21.323v1a1,1,0,0,1-2,0v-1', 'M18.5,21.323v1a1,1,0,0,1-2,0v-1' ] ],
+  CarGarage2:
+   [ 'car-garage-2',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M.5,10.823,11.326.939a1,1,0,0,1,1.348,0L23.5,10.823', 'M6.5,21.323v1.5a.5.5,0,0,1-.5.5H4a.5.5,0,0,1-.5-.5v-1.5', 'M20.5,21.323v1.5a.5.5,0,0,1-.5.5H18a.5.5,0,0,1-.5-.5v-1.5', 'M21,21.323a.5.5,0,0,0,.5-.5V17.53a.5.5,0,0,0-.146-.354L19.5,15.323H4.5L2.646,17.176a.5.5,0,0,0-.146.354v3.293a.5.5,0,0,0,.5.5Z', 'M19.5,15.323l-1.874-4.686a.5.5,0,0,0-.465-.314H6.839a.5.5,0,0,0-.465.314L4.5,15.323', 'M2.5 19.323L7 19.323', 'M17 19.323L21.5 19.323' ] ],
+  CarParking:
    [ 'car-parking',
      24,
      24,
@@ -62,24 +80,6 @@ export default { CarParking:
        'M23,21.75a.25.25,0,1,0,.25.25.25.25,0,0,0-.25-.25',
        'M19.5,21.75a.25.25,0,1,0,.25.25.25.25,0,0,0-.25-.25',
        'M16,21.75a.25.25,0,1,0,.25.25.25.25,0,0,0-.25-.25' ] ],
-  CarGarage:
-   [ 'car-garage',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M.5,10.823,11.326.939a1,1,0,0,1,1.348,0L23.5,10.823', 'M7.5 21.323L16.5 21.323', 'M20.5,21.323h1a1,1,0,0,0,1-1v-.354a3.646,3.646,0,0,0-3.646-3.646A2,2,0,0,1,17,15.066l-.743-1.857a3,3,0,0,0-2.785-1.886H9.14a2,2,0,0,0-1.962,1.608l-.356,1.784A2,2,0,0,1,4.86,16.323H3.5a2,2,0,0,0-2,2v2a1,1,0,0,0,1,1h1', 'M3.500 21.323 A2.000 2.000 0 1 0 7.500 21.323 A2.000 2.000 0 1 0 3.500 21.323 Z', 'M16.500 21.323 A2.000 2.000 0 1 0 20.500 21.323 A2.000 2.000 0 1 0 16.500 21.323 Z', 'M11.5,11.323v3a2,2,0,0,0,2,2h5.354' ] ],
-  CarGarage1:
-   [ 'car-garage-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M.5,10.823,11.326.939a1,1,0,0,1,1.348,0L23.5,10.823', 'M6.5,16.323h11a2,2,0,0,1,2,2v2a1,1,0,0,1-1,1H5.5a1,1,0,0,1-1-1v-2A2,2,0,0,1,6.5,16.323Z', 'M4.5 19.323L7 19.323', 'M17 19.323L19.5 19.323', 'M6.5,16.323,6.891,13.2a1,1,0,0,1,.992-.876h8.234a1,1,0,0,1,.992.876l.391,3.124', 'M4 14.823L6.5 16.323', 'M20 14.823L17.5 16.323', 'M7.5,21.323v1a1,1,0,0,1-2,0v-1', 'M18.5,21.323v1a1,1,0,0,1-2,0v-1' ] ],
-  CarGarage2:
-   [ 'car-garage-2',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M.5,10.823,11.326.939a1,1,0,0,1,1.348,0L23.5,10.823', 'M6.5,21.323v1.5a.5.5,0,0,1-.5.5H4a.5.5,0,0,1-.5-.5v-1.5', 'M20.5,21.323v1.5a.5.5,0,0,1-.5.5H18a.5.5,0,0,1-.5-.5v-1.5', 'M21,21.323a.5.5,0,0,0,.5-.5V17.53a.5.5,0,0,0-.146-.354L19.5,15.323H4.5L2.646,17.176a.5.5,0,0,0-.146.354v3.293a.5.5,0,0,0,.5.5Z', 'M19.5,15.323l-1.874-4.686a.5.5,0,0,0-.465-.314H6.839a.5.5,0,0,0-.465.314L4.5,15.323', 'M2.5 19.323L7 19.323', 'M17 19.323L21.5 19.323' ] ],
   CarKey:
    [ 'car-key',
      24,

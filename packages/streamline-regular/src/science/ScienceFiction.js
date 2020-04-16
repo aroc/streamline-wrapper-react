@@ -1,4 +1,11 @@
-export default { ScienceFictionAlien:
+export default { ScienceFictionAlien1: [ 'science-fiction-alien-1', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M21.75,10.5c0,4.142-4.365,12-9.75,12s-9.75-7.858-9.75-12,4.365-9,9.75-9S21.75,6.358,21.75,10.5Z', 'M5.335,9.835A3.248,3.248,0,0,1,8.517,10.9a3.252,3.252,0,0,1,1.061,3.183A3.252,3.252,0,0,1,6.4,13.017,3.248,3.248,0,0,1,5.335,9.835Z', 'M18.665,9.835a3.248,3.248,0,0,0-3.182,1.06,3.252,3.252,0,0,0-1.061,3.183,3.252,3.252,0,0,0,3.183-1.061A3.248,3.248,0,0,0,18.665,9.835Z' ] ],
+  ScienceFictionUfo:
+   [ 'science-fiction-ufo',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M6,6.75a6,6,0,0,1,12,0', 'M2.25,6.75h19.5S20.25,10.5,12,10.5,2.25,6.75,2.25,6.75Z', 'M5.683 11.974L0.75 23.25', 'M18.315 11.969L23.25 23.25', 'M10.500 16.500 A1.500 1.500 0 1 0 13.500 16.500 A1.500 1.500 0 1 0 10.500 16.500 Z', 'M8.25 18.75L15.75 18.75', 'M9 23.25L12 21 15 23.25', 'M12 18L12 21' ] ],
+  ScienceFictionAlien:
    [ 'science-fiction-alien',
      24,
      24,
@@ -15,7 +22,6 @@ export default { ScienceFictionAlien:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M20.25,18.75a2.25,2.25,0,0,1,0,4.5H3.75a2.25,2.25,0,0,1,0-4.5A.75.75,0,0,0,4.5,18V15.75a7.5,7.5,0,0,1,15,0V18A.75.75,0,0,0,20.25,18.75Z', 'M8.250 15.750 A3.750 3.750 0 1 0 15.750 15.750 A3.750 3.750 0 1 0 8.250 15.750 Z', 'M12,15.375a.375.375,0,0,1,.375.375', 'M11.625,15.75A.375.375,0,0,1,12,15.375', 'M12,16.125a.375.375,0,0,1-.375-.375', 'M12.375,15.75a.375.375,0,0,1-.375.375', 'M9.750 3.000 A2.250 2.250 0 1 0 14.250 3.000 A2.250 2.250 0 1 0 9.750 3.000 Z', 'M17.250 4.500 A2.250 2.250 0 1 0 21.750 4.500 A2.250 2.250 0 1 0 17.250 4.500 Z', 'M12 5.25L12 8.25', 'M18.386 6.455L16.017 9.416', 'M2.250 4.500 A2.250 2.250 0 1 0 6.750 4.500 A2.250 2.250 0 1 0 2.250 4.500 Z', 'M5.614 6.455L7.983 9.416' ] ],
-  ScienceFictionAlien1: [ 'science-fiction-alien-1', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M21.75,10.5c0,4.142-4.365,12-9.75,12s-9.75-7.858-9.75-12,4.365-9,9.75-9S21.75,6.358,21.75,10.5Z', 'M5.335,9.835A3.248,3.248,0,0,1,8.517,10.9a3.252,3.252,0,0,1,1.061,3.183A3.252,3.252,0,0,1,6.4,13.017,3.248,3.248,0,0,1,5.335,9.835Z', 'M18.665,9.835a3.248,3.248,0,0,0-3.182,1.06,3.252,3.252,0,0,0-1.061,3.183,3.252,3.252,0,0,0,3.183-1.061A3.248,3.248,0,0,0,18.665,9.835Z' ] ],
   ScienceFictionRobot:
    [ 'science-fiction-robot',
      24,
@@ -54,12 +60,6 @@ export default { ScienceFictionAlien:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M6 8.252L18 8.252', 'M12,4.125a.375.375,0,0,1,.375.375', 'M11.625,4.5A.375.375,0,0,1,12,4.125', 'M12,4.875a.375.375,0,0,1-.375-.375', 'M12.375,4.5A.375.375,0,0,1,12,4.875', 'M9 11.25L15 11.25', 'M9.000 15.750 A1.500 1.500 0 1 0 12.000 15.750 A1.500 1.500 0 1 0 9.000 15.750 Z', 'M15 23.25L9 23.25 9.75 20.25 14.25 20.25 15 23.25z', 'M18,6.75a6,6,0,0,0-12,0v13.5H18Z', 'M18,23.25h4.5V12.75A4.5,4.5,0,0,0,18,8.25Z', 'M22.5 20.25L18 20.25', 'M6,23.25H1.5V12.75A4.5,4.5,0,0,1,6,8.25Z', 'M1.5 20.25L6 20.25' ] ],
-  ScienceFictionUfo:
-   [ 'science-fiction-ufo',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M6,6.75a6,6,0,0,1,12,0', 'M2.25,6.75h19.5S20.25,10.5,12,10.5,2.25,6.75,2.25,6.75Z', 'M5.683 11.974L0.75 23.25', 'M18.315 11.969L23.25 23.25', 'M10.500 16.500 A1.500 1.500 0 1 0 13.500 16.500 A1.500 1.500 0 1 0 10.500 16.500 Z', 'M8.25 18.75L15.75 18.75', 'M9 23.25L12 21 15 23.25', 'M12 18L12 21' ] ],
   ScienceFictionWeapon:
    [ 'science-fiction-weapon',
      24,

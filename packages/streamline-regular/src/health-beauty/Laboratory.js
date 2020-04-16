@@ -1,4 +1,10 @@
-export default { LaboratoryChromosome:
+export default { LaboratorySperm:
+   [ 'laboratory-sperm',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.750 12.000 A11.250 11.250 0 1 0 23.250 12.000 A11.250 11.250 0 1 0 0.750 12.000 Z', 'M10.146,15.532c.8.949.939,2.151.306,2.686s-1.795.2-2.6-.75-.939-2.152-.306-2.686S9.343,14.583,10.146,15.532Z', 'M7.548,14.782S3.349,12.394,5.25,9s6-.75,8.25-3', 'M14.250 14.250 A1.500 1.500 0 1 0 17.250 14.250 A1.500 1.500 0 1 0 14.250 14.250 Z', 'M18,7.875a.375.375,0,0,1,.375.375', 'M17.625,8.25A.375.375,0,0,1,18,7.875', 'M18,8.625a.375.375,0,0,1-.375-.375', 'M18.375,8.25A.375.375,0,0,1,18,8.625' ] ],
+  LaboratoryChromosome:
    [ 'laboratory-chromosome',
      24,
      24,
@@ -51,10 +57,4 @@ export default { LaboratoryChromosome:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M19.531,9.772l-5.515,5.516a3,3,0,0,1-4.243,0L8.712,14.227a3,3,0,0,1,0-4.243l5.516-5.515', 'M6.738 17.262L9.243 14.757', 'M12.637 2.878L21.122 11.363', 'M21.653 4.469L17.94 8.181', 'M15.819 6.06L19.531 2.347', 'M17.94 0.756L23.244 6.06', 'M14.228 10.833L16.349 12.954', 'M22.432,15a3.7,3.7,0,0,1,.818,2.25c0,3.314-5.037,6-11.25,6S.75,20.564.75,17.25c0-1.575,1.138-3.009,3-4.079', 'M10.5,19.125a.375.375,0,0,1,.375.375', 'M10.125,19.5a.375.375,0,0,1,.375-.375', 'M10.5,19.875a.375.375,0,0,1-.375-.375', 'M10.875,19.5a.375.375,0,0,1-.375.375', 'M15.75,19.5c.678-2.415,2.776-1.293,3.75-3' ] ],
-  LaboratorySperm:
-   [ 'laboratory-sperm',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 12.000 A11.250 11.250 0 1 0 23.250 12.000 A11.250 11.250 0 1 0 0.750 12.000 Z', 'M10.146,15.532c.8.949.939,2.151.306,2.686s-1.795.2-2.6-.75-.939-2.152-.306-2.686S9.343,14.583,10.146,15.532Z', 'M7.548,14.782S3.349,12.394,5.25,9s6-.75,8.25-3', 'M14.250 14.250 A1.500 1.500 0 1 0 17.250 14.250 A1.500 1.500 0 1 0 14.250 14.250 Z', 'M18,7.875a.375.375,0,0,1,.375.375', 'M17.625,8.25A.375.375,0,0,1,18,7.875', 'M18,8.625a.375.375,0,0,1-.375-.375', 'M18.375,8.25A.375.375,0,0,1,18,8.625' ] ] }
+     [ 'M19.531,9.772l-5.515,5.516a3,3,0,0,1-4.243,0L8.712,14.227a3,3,0,0,1,0-4.243l5.516-5.515', 'M6.738 17.262L9.243 14.757', 'M12.637 2.878L21.122 11.363', 'M21.653 4.469L17.94 8.181', 'M15.819 6.06L19.531 2.347', 'M17.94 0.756L23.244 6.06', 'M14.228 10.833L16.349 12.954', 'M22.432,15a3.7,3.7,0,0,1,.818,2.25c0,3.314-5.037,6-11.25,6S.75,20.564.75,17.25c0-1.575,1.138-3.009,3-4.079', 'M10.5,19.125a.375.375,0,0,1,.375.375', 'M10.125,19.5a.375.375,0,0,1,.375-.375', 'M10.5,19.875a.375.375,0,0,1-.375-.375', 'M10.875,19.5a.375.375,0,0,1-.375.375', 'M15.75,19.5c.678-2.415,2.776-1.293,3.75-3' ] ] }

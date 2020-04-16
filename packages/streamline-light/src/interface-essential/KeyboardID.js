@@ -1,4 +1,10 @@
-export default { DialFinger1:
+export default { DialFinger:
+   [ 'dial-finger',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M2.5 2.5L4.5 2.5', 'M2.5 6.5L4.5 6.5', 'M2.5 10.5L4.5 10.5', 'M7.5 2.5L9.5 2.5', 'M7.5 6.5L9.5 6.5', 'M7.5 10.5L9.5 10.5', 'M12.5 2.5L14.5 2.5', 'M20,23.5l1.47-6.37a1.165,1.165,0,0,0-.761-1.366L15.5,14V9a1.5,1.5,0,1,0-3,0v8.693s-.629-.817-1.265-1.6A1.592,1.592,0,0,0,10,15.5H9.5a1.171,1.171,0,0,0-1.019,1.744L12,23.5' ] ],
+  DialFinger1:
    [ 'dial-finger-1',
      24,
      24,
@@ -12,12 +18,6 @@ export default { DialFinger1:
        'M3,11.752A1.249,1.249,0,0,1,1.75,13h0A1.249,1.249,0,0,1,.5,11.752h0A1.249,1.249,0,0,1,1.75,10.5h0A1.249,1.249,0,0,1,3,11.752Z',
        'M8.5,11.752A1.249,1.249,0,0,1,7.25,13h0A1.249,1.249,0,0,1,6,11.752H6A1.249,1.249,0,0,1,7.25,10.5h0a1.249,1.249,0,0,1,1.25,1.25Z',
        'M23.5,23.5v-2a4,4,0,0,0-4-4h-3V11a1.5,1.5,0,0,0-3,0v9.828l-2.346-2.823a1.5,1.5,0,1,0-2.307,1.918L11.822,23.5' ] ],
-  DialFinger:
-   [ 'dial-finger',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M2.5 2.5L4.5 2.5', 'M2.5 6.5L4.5 6.5', 'M2.5 10.5L4.5 10.5', 'M7.5 2.5L9.5 2.5', 'M7.5 6.5L9.5 6.5', 'M7.5 10.5L9.5 10.5', 'M12.5 2.5L14.5 2.5', 'M20,23.5l1.47-6.37a1.165,1.165,0,0,0-.761-1.366L15.5,14V9a1.5,1.5,0,1,0-3,0v8.693s-.629-.817-1.265-1.6A1.592,1.592,0,0,0,10,15.5H9.5a1.171,1.171,0,0,0-1.019,1.744L12,23.5' ] ],
   DialPad:
    [ 'dial-pad',
      24,

@@ -1,4 +1,5 @@
-export default { PathfinderMerge:
+export default { PathfinderMinusFront: [ 'pathfinder-minus-front', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M0.750 5.250 L23.250 5.250 L23.250 18.750 L0.750 18.750 Z', 'M14.250 5.250 L23.250 5.250 L23.250 9.750 L14.250 9.750 Z' ] ],
+  PathfinderMerge:
    [ 'pathfinder-merge',
      24,
      24,
@@ -91,5 +92,4 @@ export default { PathfinderMerge:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M17.25,6.75v9a1.5,1.5,0,0,1-1.5,1.5h-9v4.5a1.5,1.5,0,0,0,1.5,1.5h13.5a1.5,1.5,0,0,0,1.5-1.5V8.25a1.5,1.5,0,0,0-1.5-1.5Z', 'M2.25.75a1.5,1.5,0,0,0-1.5,1.5', 'M0.75 5.25L0.75 7.5', 'M0.75 10.5L0.75 12.75', 'M.75,15.75a1.5,1.5,0,0,0,1.5,1.5', 'M6.75 17.25L5.25 17.25', 'M5.25 0.75L7.5 0.75', 'M10.5 0.75L12.75 0.75', 'M15.75.75a1.5,1.5,0,0,1,1.5,1.5', 'M17.25 6.75L17.25 5.25' ] ],
-  PathfinderMinusFront: [ 'pathfinder-minus-front', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M0.750 5.250 L23.250 5.250 L23.250 18.750 L0.750 18.750 Z', 'M14.250 5.250 L23.250 5.250 L23.250 9.750 L14.250 9.750 Z' ] ],
   PathfinderOutline: [ 'pathfinder-outline', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M5.25,6A.75.75,0,0,1,6,5.25h7.5a.75.75,0,0,0,.75-.75v-3A.75.75,0,0,0,13.5.75H2.25a1.5,1.5,0,0,0-1.5,1.5V13.5a.75.75,0,0,0,.75.75h3a.75.75,0,0,0,.75-.75Z', 'M18.75,18a.75.75,0,0,1-.75.75H10.5a.75.75,0,0,0-.75.75v3a.75.75,0,0,0,.75.75H21.75a1.5,1.5,0,0,0,1.5-1.5V10.5a.75.75,0,0,0-.75-.75h-3a.75.75,0,0,0-.75.75Z', 'M8.250 8.250 L15.750 8.250 L15.750 15.750 L8.250 15.750 Z' ] ] }

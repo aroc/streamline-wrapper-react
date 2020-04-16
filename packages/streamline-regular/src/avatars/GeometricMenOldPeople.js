@@ -1,4 +1,10 @@
-export default { OldPeopleMan1:
+export default { OldPeopleMan3:
+   [ 'old-people-man-3',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M1.5,23.25a9.756,9.756,0,0,1,13.5-9', 'M13.5 23.25L11.25 13.5 9 23.25', 'M15.629,8.9A3.75,3.75,0,1,0,16.5,1.5a3.735,3.735,0,0,0-1.858.493S12.583,6,16.5,6', 'M6.871,8.9A3.75,3.75,0,1,1,6,1.5a3.735,3.735,0,0,1,1.858.493S9.917,6,6,6', 'M16.5,6A5.25,5.25,0,0,1,6,6', 'M14.642,1.993h0a5.25,5.25,0,0,0-6.784,0h0', 'M18,14.25a2.25,2.25,0,0,1,4.5,0v9' ] ],
+  OldPeopleMan1:
    [ 'old-people-man-1',
      24,
      24,
@@ -9,10 +15,4 @@ export default { OldPeopleMan1:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M6.913,9.575a3.72,3.72,0,1,1,.979-6.847S9.933,6.7,6.049,6.7', 'M17.087,9.575a3.72,3.72,0,1,0-.979-6.847S14.067,6.7,17.951,6.7', 'M16.858,8.942a5.3,5.3,0,1,1-9.716,0', 'M16.161,2.685a5.441,5.441,0,0,0-8.322,0', 'M17.308,6.659c0,1.51-1.194,4.688-2.221,5.25-.928.508-1.721-1.488-3.087-1.488s-2.159,2-3.087,1.488c-1.027-.562-2.232-3.738-2.232-5.248', 'M21.671,23.25a12.242,12.242,0,0,0-19.342,0' ] ],
-  OldPeopleMan3:
-   [ 'old-people-man-3',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M1.5,23.25a9.756,9.756,0,0,1,13.5-9', 'M13.5 23.25L11.25 13.5 9 23.25', 'M15.629,8.9A3.75,3.75,0,1,0,16.5,1.5a3.735,3.735,0,0,0-1.858.493S12.583,6,16.5,6', 'M6.871,8.9A3.75,3.75,0,1,1,6,1.5a3.735,3.735,0,0,1,1.858.493S9.917,6,6,6', 'M16.5,6A5.25,5.25,0,0,1,6,6', 'M14.642,1.993h0a5.25,5.25,0,0,0-6.784,0h0', 'M18,14.25a2.25,2.25,0,0,1,4.5,0v9' ] ] }
+     [ 'M6.913,9.575a3.72,3.72,0,1,1,.979-6.847S9.933,6.7,6.049,6.7', 'M17.087,9.575a3.72,3.72,0,1,0-.979-6.847S14.067,6.7,17.951,6.7', 'M16.858,8.942a5.3,5.3,0,1,1-9.716,0', 'M16.161,2.685a5.441,5.441,0,0,0-8.322,0', 'M17.308,6.659c0,1.51-1.194,4.688-2.221,5.25-.928.508-1.721-1.488-3.087-1.488s-2.159,2-3.087,1.488c-1.027-.562-2.232-3.738-2.232-5.248', 'M21.671,23.25a12.242,12.242,0,0,0-19.342,0' ] ] }

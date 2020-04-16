@@ -1,16 +1,4 @@
-export default { HospitalBedroom:
-   [ 'hospital-bedroom',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M5.250 16.500 A2.250 2.250 0 1 0 9.750 16.500 A2.250 2.250 0 1 0 5.250 16.500 Z', 'M12,14.25h8.5a2,2,0,0,1,2,2v2.5a0,0,0,0,1,0,0H12a0,0,0,0,1,0,0v-4.5A0,0,0,0,1,12,14.25Z', 'M1.5 18.75H22.5V21.75H1.5z', 'M1.5 23.25L1.5 14.25', 'M22.5 23.25L22.5 21.75', 'M17.25,3.75H15V1.5a.75.75,0,0,0-.75-.75h-3a.75.75,0,0,0-.75.75V3.75H8.25a.75.75,0,0,0-.75.75v3a.75.75,0,0,0,.75.75H10.5V10.5a.75.75,0,0,0,.75.75h3A.75.75,0,0,0,15,10.5V8.25h2.25A.75.75,0,0,0,18,7.5v-3A.75.75,0,0,0,17.25,3.75Z' ] ],
-  HospitalBedroomGraph:
-   [ 'hospital-bedroom-graph',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M5.250 16.500 A2.250 2.250 0 1 0 9.750 16.500 A2.250 2.250 0 1 0 5.250 16.500 Z', 'M12,14.25h8.5a2,2,0,0,1,2,2v2.5a0,0,0,0,1,0,0H12a0,0,0,0,1,0,0v-4.5A0,0,0,0,1,12,14.25Z', 'M1.5 18.75H22.5V21.75H1.5z', 'M1.5 23.25L1.5 14.25', 'M22.5 23.25L22.5 21.75', 'M4.500 0.750 L19.500 0.750 L19.500 9.750 L4.500 9.750 Z', 'M4.5,5.25H7.849a.75.75,0,0,0,.624-.334l.77-1.155A.75.75,0,0,1,10.4,3.647L13.72,6.97a.749.749,0,0,0,1.06,0l1.5-1.5a.751.751,0,0,1,.531-.22H19.5' ] ],
-  HospitalBedroomNurse:
+export default { HospitalBedroomNurse:
    [ 'hospital-bedroom-nurse',
      24,
      24,
@@ -30,4 +18,16 @@ export default { HospitalBedroom:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M5.375 15.750 A2.625 2.625 0 1 0 10.625 15.750 A2.625 2.625 0 1 0 5.375 15.750 Z', 'M11.75,23.25a3,3,0,0,0-3-3H7.25a3,3,0,0,0-3,3', 'M5,3.75a3,3,0,0,1,6,0Z', 'M4.25 6.75L3.5 9', 'M2.75 11.25L2 13.5', 'M11.75 6.75L12.5 9', 'M13.25 11.25L14 13.5', 'M8 6.75L8 9', 'M16.25 17.25L22.25 17.25', 'M19.25 14.25L19.25 20.25' ] ] }
+     [ 'M5.375 15.750 A2.625 2.625 0 1 0 10.625 15.750 A2.625 2.625 0 1 0 5.375 15.750 Z', 'M11.75,23.25a3,3,0,0,0-3-3H7.25a3,3,0,0,0-3,3', 'M5,3.75a3,3,0,0,1,6,0Z', 'M4.25 6.75L3.5 9', 'M2.75 11.25L2 13.5', 'M11.75 6.75L12.5 9', 'M13.25 11.25L14 13.5', 'M8 6.75L8 9', 'M16.25 17.25L22.25 17.25', 'M19.25 14.25L19.25 20.25' ] ],
+  HospitalBedroom:
+   [ 'hospital-bedroom',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M5.250 16.500 A2.250 2.250 0 1 0 9.750 16.500 A2.250 2.250 0 1 0 5.250 16.500 Z', 'M12,14.25h8.5a2,2,0,0,1,2,2v2.5a0,0,0,0,1,0,0H12a0,0,0,0,1,0,0v-4.5A0,0,0,0,1,12,14.25Z', 'M1.5 18.75H22.5V21.75H1.5z', 'M1.5 23.25L1.5 14.25', 'M22.5 23.25L22.5 21.75', 'M17.25,3.75H15V1.5a.75.75,0,0,0-.75-.75h-3a.75.75,0,0,0-.75.75V3.75H8.25a.75.75,0,0,0-.75.75v3a.75.75,0,0,0,.75.75H10.5V10.5a.75.75,0,0,0,.75.75h3A.75.75,0,0,0,15,10.5V8.25h2.25A.75.75,0,0,0,18,7.5v-3A.75.75,0,0,0,17.25,3.75Z' ] ],
+  HospitalBedroomGraph:
+   [ 'hospital-bedroom-graph',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M5.250 16.500 A2.250 2.250 0 1 0 9.750 16.500 A2.250 2.250 0 1 0 5.250 16.500 Z', 'M12,14.25h8.5a2,2,0,0,1,2,2v2.5a0,0,0,0,1,0,0H12a0,0,0,0,1,0,0v-4.5A0,0,0,0,1,12,14.25Z', 'M1.5 18.75H22.5V21.75H1.5z', 'M1.5 23.25L1.5 14.25', 'M22.5 23.25L22.5 21.75', 'M4.500 0.750 L19.500 0.750 L19.500 9.750 L4.500 9.750 Z', 'M4.5,5.25H7.849a.75.75,0,0,0,.624-.334l.77-1.155A.75.75,0,0,1,10.4,3.647L13.72,6.97a.749.749,0,0,0,1.06,0l1.5-1.5a.751.751,0,0,1,.531-.22H19.5' ] ] }

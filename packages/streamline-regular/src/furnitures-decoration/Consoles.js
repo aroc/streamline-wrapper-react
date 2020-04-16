@@ -1,15 +1,15 @@
-export default { Console:
-   [ 'console',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M21.443,18H2.557a1.5,1.5,0,0,1-1.474-1.776L3,6H21l1.917,10.224A1.5,1.5,0,0,1,21.443,18Z', 'M21 6L3 6 0.75 2.25 23.25 2.25 21 6z', 'M12 6L12 18', 'M15 11.25L15 13.5', 'M9 11.25L9 13.5', 'M3.75 18L3 21.75', 'M19.5 18L20.25 21.75' ] ],
-  ConsoleDrawers:
+export default { ConsoleDrawers:
    [ 'console-drawers',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M0.750 5.250 L23.250 5.250 L23.250 17.250 L0.750 17.250 Z', 'M3.75 17.25L3.75 18.75', 'M20.25 17.25L20.25 18.75', 'M0.75 14.25L23.25 14.25', 'M9.75 5.25L9.75 14.25', 'M23.25 9.75L9.75 9.75', 'M6.75 8.25L6.75 9.75' ] ],
+  Console:
+   [ 'console',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M21.443,18H2.557a1.5,1.5,0,0,1-1.474-1.776L3,6H21l1.917,10.224A1.5,1.5,0,0,1,21.443,18Z', 'M21 6L3 6 0.75 2.25 23.25 2.25 21 6z', 'M12 6L12 18', 'M15 11.25L15 13.5', 'M9 11.25L9 13.5', 'M3.75 18L3 21.75', 'M19.5 18L20.25 21.75' ] ],
   ConsoleLamp:
    [ 'console-lamp',
      24,

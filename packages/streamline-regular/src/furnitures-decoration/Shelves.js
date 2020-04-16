@@ -1,5 +1,4 @@
-export default { ShelfTv: [ 'shelf-tv', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M2.25,15a.75.75,0,0,0-.75.75v6a.75.75,0,0,0,.75.75h3A.75.75,0,0,0,6,21.75v-1.5a.75.75,0,0,1,.75-.75h10.5a.75.75,0,0,1,.75.75v1.5a.75.75,0,0,0,.75.75h3a.75.75,0,0,0,.75-.75v-6a.75.75,0,0,0-.75-.75Z', 'M4.500 1.500 L19.500 1.500 L19.500 12.000 L4.500 12.000 Z', 'M10.5 12L9.75 15', 'M13.5 12L14.25 15' ] ],
-  ShelfBooks:
+export default { ShelfBooks:
    [ 'shelf-books',
      24,
      24,
@@ -51,6 +50,7 @@ export default { ShelfTv: [ 'shelf-tv', 24, 24, [ { fill: 'none', stroke: '#000'
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M3.000 12.500 L21.000 12.500 L21.000 21.500 L3.000 21.500 Z', 'M4.5 21.5L4.5 23', 'M19.5 21.5L19.5 23', 'M12 21.5L12 12.5', 'M9,16.625A.375.375,0,1,1,8.625,17,.375.375,0,0,1,9,16.625', 'M15,16.625a.375.375,0,1,1-.375.375A.375.375,0,0,1,15,16.625', 'M4.5 12.5L4.5 0.5', 'M19.5 12.5L19.5 0.5', 'M3 3.5L21 3.5', 'M3 8L21 8' ] ],
+  ShelfTv: [ 'shelf-tv', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M2.25,15a.75.75,0,0,0-.75.75v6a.75.75,0,0,0,.75.75h3A.75.75,0,0,0,6,21.75v-1.5a.75.75,0,0,1,.75-.75h10.5a.75.75,0,0,1,.75.75v1.5a.75.75,0,0,0,.75.75h3a.75.75,0,0,0,.75-.75v-6a.75.75,0,0,0-.75-.75Z', 'M4.500 1.500 L19.500 1.500 L19.500 12.000 L4.500 12.000 Z', 'M10.5 12L9.75 15', 'M13.5 12L14.25 15' ] ],
   ShelfTv1:
    [ 'shelf-tv-1',
      24,

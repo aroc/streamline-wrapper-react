@@ -1,5 +1,19 @@
-export default { AsianInteriorLamp:
-   [ 'asian-interior-lamp',
+export default { AsianInteriorEntrance:
+   [ 'asian-interior-entrance', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M.5,3.5V23a.5.5,0,0,0,.5.5H4.871a.5.5,0,0,0,.356-.851,9.5,9.5,0,1,1,13.546,0,.5.5,0,0,0,.356.851H23a.5.5,0,0,0,.5-.5V3.5Z', 'M1,.5H23a.5.5,0,0,1,.5.5V3.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V1A.5.5,0,0,1,1,.5Z', 'M13.5 6.618L13.5 23.5 7.5 23.5', 'M13.5 19.5L5.5 19.5', 'M10.5 19.5L10.5 6.618', 'M7.5 19.5L7.5 7.631', 'M13.5 13.5L5 13.5' ] ],
+  AsianInteriorStove:
+   [ 'asian-interior-stove',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M0.500 11.635 L23.500 11.635 L23.500 14.635 L0.500 14.635 Z', 'M2.5 21.635L2.5 14.635', 'M21.5 21.635L21.5 14.635', 'M4.5,20.635a1,1,0,0,0,1,1h4a1,1,0,0,0,0-2h-4A1,1,0,0,0,4.5,20.635Z', 'M13.5,20.635a1,1,0,0,0,1,1h4a1,1,0,0,0,0-2h-4A1,1,0,0,0,13.5,20.635Z', 'M12.5 11.635L6 11.635 7 4.635 11.5 4.635 12.5 11.635z', 'M7,4.635a2.25,2.25,0,1,1,4.5,0', 'M4.25,9.135a1.25,1.25,0,0,1,0-2.5H6.625', 'M11.875,6.635h.977a1.248,1.248,0,0,0,1.118-.691l.56-1.118a1.249,1.249,0,0,1,1.118-.691h.477', 'M19.5,9.517a4.729,4.729,0,0,1-.5,2.118H16a4.729,4.729,0,0,1-.5-2.118V8.135a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5Z' ] ],
+  AsianInteriorBoiler:
+   [ 'asian-interior-boiler',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M13,.5v5a1,1,0,0,1-2,0V.5', 'M12 6.5L12 9.5', 'M.5,19.5H3.768a.5.5,0,0,1,.49.4l.618,3a.5.5,0,0,1-.49.6H.5', 'M23.5,19.5H20.232a.5.5,0,0,0-.49.4l-.618,3a.5.5,0,0,0,.49.6H23.5', 'M17,16.3a2.2,2.2,0,0,1-2.2,2.2H9.274a2.25,2.25,0,0,1-1.959-1.059,2.214,2.214,0,0,1,.2-2.554L8.86,13.268A2.132,2.132,0,0,1,10.5,12.5h3a2.135,2.135,0,0,1,1.64.768l1.349,1.619A2.2,2.2,0,0,1,17,16.3Z', 'M10,12.559V10.5a2,2,0,0,1,4,0v2.059', 'M19,11.5a2.414,2.414,0,0,0-1.707.707l-.822.822a1.611,1.611,0,0,1-1.138.471', 'M15.5,23.5a1.313,1.313,0,0,0,1-1.25,2.558,2.558,0,0,0-1-1.75l-2,1-1.5-1-1.5,1-2-1a2.558,2.558,0,0,0-1,1.75,1.313,1.313,0,0,0,1,1.25' ] ],
+  AsianInteriorPainting:
+   [ 'asian-interior-painting',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
@@ -14,28 +28,14 @@ export default { AsianInteriorLamp:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M12 2.5L12 0.5', 'M21.5 10.5L23.5 10.5', 'M21 6L22.5 4.5', 'M21 15L22.5 16.5', 'M2.5 10.5L0.5 10.5', 'M3 6L1.5 4.5', 'M3 15L1.5 16.5', 'M12 4.5L12 19.5', 'M4.927 9.5L19.073 9.5', 'M4.927 14.5L19.073 14.5', 'M4.500 12.000 A7.500 7.500 0 1 0 19.500 12.000 A7.500 7.500 0 1 0 4.500 12.000 Z', 'M7.5,6V3.5a1,1,0,0,1,1-1h7a1,1,0,0,1,1,1V6', 'M7.5,23.5v-3a1,1,0,0,1,1-1h7a1,1,0,0,1,1,1v3', 'M12 22L12 23.5', 'M7.5 22L16.5 22' ] ],
-  AsianInteriorBoiler:
-   [ 'asian-interior-boiler',
+     [ 'M23.5 20.5L0.5 20.5', 'M8.5 2.5H15.5V13.5H8.5z', 'M9.5 17.5L8.5 20.5', 'M15.5,16.5a1,1,0,0,1-1,1h-5a1,1,0,0,1-1-1', 'M14.5 17.5L15.5 20.5', 'M10.5,8l.954-.715a.925.925,0,0,0-.042-1.51A.927.927,0,0,1,11,5.005V4.5h1.5', 'M12 10.5L12 11.5', 'M16.5 13.5L7.5 13.5', 'M16.5 2.5L7.5 2.5', 'M10.5,10.5h1.558a2,2,0,0,0,1.9-1.368L14,9', 'M2.5,15l.793,2.775a1,1,0,0,0,.961.725H6', 'M21.5,15l-.793,2.775a1,1,0,0,1-.961.725H18', 'M0.500 0.500 L23.500 0.500 L23.500 23.500 L0.500 23.500 Z' ] ],
+  AsianInteriorWindows:
+   [ 'asian-interior-windows',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M13,.5v5a1,1,0,0,1-2,0V.5', 'M12 6.5L12 9.5', 'M.5,19.5H3.768a.5.5,0,0,1,.49.4l.618,3a.5.5,0,0,1-.49.6H.5', 'M23.5,19.5H20.232a.5.5,0,0,0-.49.4l-.618,3a.5.5,0,0,0,.49.6H23.5', 'M17,16.3a2.2,2.2,0,0,1-2.2,2.2H9.274a2.25,2.25,0,0,1-1.959-1.059,2.214,2.214,0,0,1,.2-2.554L8.86,13.268A2.132,2.132,0,0,1,10.5,12.5h3a2.135,2.135,0,0,1,1.64.768l1.349,1.619A2.2,2.2,0,0,1,17,16.3Z', 'M10,12.559V10.5a2,2,0,0,1,4,0v2.059', 'M19,11.5a2.414,2.414,0,0,0-1.707.707l-.822.822a1.611,1.611,0,0,1-1.138.471', 'M15.5,23.5a1.313,1.313,0,0,0,1-1.25,2.558,2.558,0,0,0-1-1.75l-2,1-1.5-1-1.5,1-2-1a2.558,2.558,0,0,0-1,1.75,1.313,1.313,0,0,0,1,1.25' ] ],
-  AsianInteriorBonsaiTree:
-   [ 'asian-interior-bonsai-tree',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M15.86,19.5a.5.5,0,0,1,.485.621l-.088.349a4,4,0,0,1-3.88,3.03H9.123a4,4,0,0,1-3.88-3.03l-.088-.349A.5.5,0,0,1,5.64,19.5Z', 'M23.5,8a3.034,3.034,0,0,0-3.067-3,3.1,3.1,0,0,0-1.689.5A3.809,3.809,0,0,0,15.067,2.75a3.852,3.852,0,0,0-1.892.507,4.623,4.623,0,0,0-8.568.27c-.092-.006-.18-.027-.274-.027A3.792,3.792,0,0,0,.5,7.25,2.275,2.275,0,0,0,2.8,9.5H21.967A1.517,1.517,0,0,0,23.5,8Z', 'M10.5,19.5l.769-2.692,5.138-1.927a1.566,1.566,0,0,0-.17-2.985L14.3,11.412A1.971,1.971,0,0,1,12.808,9.5', 'M11.269 16.808L7.62 15', 'M3.906,15H7.62a2.248,2.248,0,1,0-3.955-2.088A1.234,1.234,0,0,0,2.75,12.5a1.25,1.25,0,0,0,0,2.5Z' ] ],
-  AsianInteriorBonsaiTree1:
-   [ 'asian-interior-bonsai-tree-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M15.034,3.079a3.719,3.719,0,1,1,3,5.921H4.219a3.719,3.719,0,1,1,3-5.921', 'M7.216,3.079a4.252,4.252,0,0,1,7.818,0', 'M20.925,12.454A1.5,1.5,0,1,1,22,15H19a2,2,0,1,1,1.925-2.546', 'M6.5,9l2.775,2.294a1,1,0,0,1,.1,1.448L6.626,15.731a2,2,0,0,0-.341,2.2L7.017,19.5', 'M10,9l2.836,1.891a2,2,0,0,1,.555,2.773L12.067,15.65a1,1,0,0,0,.295,1.4L16.247,19.5', 'M20.5,15l-.329.658a3,3,0,0,1-2.147,1.61l-4.127.749', 'M1.04,19.5a.509.509,0,0,0-.5.588A4,4,0,0,0,4.5,23.5H18a4,4,0,0,0,3.957-3.412.509.509,0,0,0-.5-.588Z' ] ],
+     [ 'M0.500 0.500 L10.500 0.500 L10.500 23.500 L0.500 23.500 Z', 'M13.500 0.500 L23.500 0.500 L23.500 23.500 L13.500 23.500 Z', 'M10.5,12.19A1.992,1.992,0,0,0,7,13.5H6.5a2,2,0,0,0-1.6.8.75.75,0,0,0,.6,1.2h5Z', 'M23.5,7.69A1.992,1.992,0,0,0,20,9h-.5a2,2,0,0,0-1.6.8.75.75,0,0,0,.6,1.2h5Z', 'M8.5,15.5v1a1,1,0,0,1-.4.8l-1.2.9a1.5,1.5,0,0,1-.9.3H3.5a1.206,1.206,0,0,0-.853.353L.5,21', 'M10.5,17a1.942,1.942,0,0,1-.814,1.581L7.814,19.919A3.122,3.122,0,0,1,6,20.5a2.426,2.426,0,0,0-2.171,1.342L3,23.5', 'M15.518,14.977l1.488-1.859a3.589,3.589,0,0,1,1.2-.972L20.5,11h2L19,13.622a3.057,3.057,0,0,0-.817.925L17,16.632a1.723,1.723,0,0,1-1.5.868', 'M17.071,16.5H18.2a5.954,5.954,0,0,1,3.3,1' ] ],
   AsianInteriorDoor:
    [ 'asian-interior-door',
      24,
@@ -56,6 +56,18 @@ export default { AsianInteriorLamp:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M0.500 3.500 L9.500 3.500 L9.500 23.500 L0.500 23.500 Z', 'M0.5 18.5L9.5 18.5', 'M3.5 3.5L3.5 18.5', 'M6.5 3.5L6.5 18.5', 'M0.5 8.5L9.5 8.5', 'M0.5 13.5L9.5 13.5', 'M0.5 20.5L9.5 20.5', 'M14.500 3.500 L23.500 3.500 L23.500 23.500 L14.500 23.500 Z', 'M14.5 18.5L23.5 18.5', 'M17.5 3.5L17.5 18.5', 'M20.5 3.5L20.5 18.5', 'M14.5 8.5L23.5 8.5', 'M14.5 13.5L23.5 13.5', 'M14.5 20.5L23.5 20.5', 'M0.5 0.5L23.5 0.5' ] ],
+  AsianInteriorBonsaiTree:
+   [ 'asian-interior-bonsai-tree',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M15.86,19.5a.5.5,0,0,1,.485.621l-.088.349a4,4,0,0,1-3.88,3.03H9.123a4,4,0,0,1-3.88-3.03l-.088-.349A.5.5,0,0,1,5.64,19.5Z', 'M23.5,8a3.034,3.034,0,0,0-3.067-3,3.1,3.1,0,0,0-1.689.5A3.809,3.809,0,0,0,15.067,2.75a3.852,3.852,0,0,0-1.892.507,4.623,4.623,0,0,0-8.568.27c-.092-.006-.18-.027-.274-.027A3.792,3.792,0,0,0,.5,7.25,2.275,2.275,0,0,0,2.8,9.5H21.967A1.517,1.517,0,0,0,23.5,8Z', 'M10.5,19.5l.769-2.692,5.138-1.927a1.566,1.566,0,0,0-.17-2.985L14.3,11.412A1.971,1.971,0,0,1,12.808,9.5', 'M11.269 16.808L7.62 15', 'M3.906,15H7.62a2.248,2.248,0,1,0-3.955-2.088A1.234,1.234,0,0,0,2.75,12.5a1.25,1.25,0,0,0,0,2.5Z' ] ],
+  AsianInteriorBonsaiTree1:
+   [ 'asian-interior-bonsai-tree-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M15.034,3.079a3.719,3.719,0,1,1,3,5.921H4.219a3.719,3.719,0,1,1,3-5.921', 'M7.216,3.079a4.252,4.252,0,0,1,7.818,0', 'M20.925,12.454A1.5,1.5,0,1,1,22,15H19a2,2,0,1,1,1.925-2.546', 'M6.5,9l2.775,2.294a1,1,0,0,1,.1,1.448L6.626,15.731a2,2,0,0,0-.341,2.2L7.017,19.5', 'M10,9l2.836,1.891a2,2,0,0,1,.555,2.773L12.067,15.65a1,1,0,0,0,.295,1.4L16.247,19.5', 'M20.5,15l-.329.658a3,3,0,0,1-2.147,1.61l-4.127.749', 'M1.04,19.5a.509.509,0,0,0-.5.588A4,4,0,0,0,4.5,23.5H18a4,4,0,0,0,3.957-3.412.509.509,0,0,0-.5-.588Z' ] ],
   AsianInteriorEatingTable:
    [ 'asian-interior-eating-table',
      24,
@@ -79,8 +91,6 @@ export default { AsianInteriorLamp:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M8.5,23.25H9a1.5,1.5,0,0,0,0-3H8.5', 'M4.5,20.25H4a1.5,1.5,0,0,0,0,3h.5', 'M2.5,21.75v-6.5a2,2,0,0,0-2-2', 'M15.5,23.25H15a1.5,1.5,0,0,1,0-3h.5', 'M19.5,20.25H20a1.5,1.5,0,0,1,0,3h-.5', 'M21.5,21.75v-6.5a2,2,0,0,1,2-2', 'M4.500 14.250 L19.500 14.250 L19.500 17.250 L4.500 17.250 Z', 'M13.5,14.25h-3l.376-3.008a1.133,1.133,0,0,1,2.248,0Z', 'M12,10.25c0-2.5,1-5,4.5-5a2.812,2.812,0,0,0,3-2.5', 'M16.000 2.500 A0.750 0.750 0 1 0 17.500 2.500 A0.750 0.750 0 1 0 16.000 2.500 Z', 'M8.000 2.500 A0.750 0.750 0 1 0 9.500 2.500 A0.750 0.750 0 1 0 8.000 2.500 Z', 'M6.000 4.500 A0.750 0.750 0 1 0 7.500 4.500 A0.750 0.750 0 1 0 6.000 4.500 Z', 'M19.000 6.500 A0.750 0.750 0 1 0 20.500 6.500 A0.750 0.750 0 1 0 19.000 6.500 Z', 'M21.000 4.000 A0.750 0.750 0 1 0 22.500 4.000 A0.750 0.750 0 1 0 21.000 4.000 Z', 'M20.500 1.500 A0.750 0.750 0 1 0 22.000 1.500 A0.750 0.750 0 1 0 20.500 1.500 Z', 'M9,4.75c0,1,0,2,1.5,2,.773,0,1.762.114,1.873,1.138', 'M6.5 17.25L6.5 23.25', 'M17.5 17.25L17.5 23.25' ] ],
-  AsianInteriorEntrance:
-   [ 'asian-interior-entrance', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M.5,3.5V23a.5.5,0,0,0,.5.5H4.871a.5.5,0,0,0,.356-.851,9.5,9.5,0,1,1,13.546,0,.5.5,0,0,0,.356.851H23a.5.5,0,0,0,.5-.5V3.5Z', 'M1,.5H23a.5.5,0,0,1,.5.5V3.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V1A.5.5,0,0,1,1,.5Z', 'M13.5 6.618L13.5 23.5 7.5 23.5', 'M13.5 19.5L5.5 19.5', 'M10.5 19.5L10.5 6.618', 'M7.5 19.5L7.5 7.631', 'M13.5 13.5L5 13.5' ] ],
   AsianInteriorFurniture:
    [ 'asian-interior-furniture',
      24,
@@ -105,8 +115,8 @@ export default { AsianInteriorLamp:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M8.429,1.1a.5.5,0,0,0-.49-.6H3.061a.5.5,0,0,0-.49.6A2.781,2.781,0,0,0,5.5,3.5,2.781,2.781,0,0,0,8.429,1.1Z', 'M1.5,3.5h21a1,1,0,0,1,1,1v13a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V4.5A1,1,0,0,1,1.5,3.5Z', 'M12 9.5L12 17.5', 'M0.5 17.5L0.5 23.5', 'M23.5 17.5L23.5 23.5', 'M0.5 9.5L12 9.5', 'M8 3.5L8 9.5', 'M12 9.5L23.5 9.5', 'M16 3.5L16 9.5', 'M0.5 13.5L23.5 13.5', 'M13.5 20.5L19.5 20.5', 'M15 20.5L14 23.5', 'M18 20.5L19 23.5', 'M0.5 6.5L1.5 6.5', 'M7 6.5L8 6.5', 'M8 6.5L9 6.5', 'M15 6.5L16 6.5', 'M16 6.5L17 6.5', 'M22.5 6.5L23.5 6.5' ] ],
-  AsianInteriorPainting:
-   [ 'asian-interior-painting',
+  AsianInteriorLamp:
+   [ 'asian-interior-lamp',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
@@ -121,17 +131,7 @@ export default { AsianInteriorLamp:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M23.5 20.5L0.5 20.5', 'M8.5 2.5H15.5V13.5H8.5z', 'M9.5 17.5L8.5 20.5', 'M15.5,16.5a1,1,0,0,1-1,1h-5a1,1,0,0,1-1-1', 'M14.5 17.5L15.5 20.5', 'M10.5,8l.954-.715a.925.925,0,0,0-.042-1.51A.927.927,0,0,1,11,5.005V4.5h1.5', 'M12 10.5L12 11.5', 'M16.5 13.5L7.5 13.5', 'M16.5 2.5L7.5 2.5', 'M10.5,10.5h1.558a2,2,0,0,0,1.9-1.368L14,9', 'M2.5,15l.793,2.775a1,1,0,0,0,.961.725H6', 'M21.5,15l-.793,2.775a1,1,0,0,1-.961.725H18', 'M0.500 0.500 L23.500 0.500 L23.500 23.500 L0.500 23.500 Z' ] ],
-  AsianInteriorStove:
-   [ 'asian-interior-stove',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M0.500 11.635 L23.500 11.635 L23.500 14.635 L0.500 14.635 Z', 'M2.5 21.635L2.5 14.635', 'M21.5 21.635L21.5 14.635', 'M4.5,20.635a1,1,0,0,0,1,1h4a1,1,0,0,0,0-2h-4A1,1,0,0,0,4.5,20.635Z', 'M13.5,20.635a1,1,0,0,0,1,1h4a1,1,0,0,0,0-2h-4A1,1,0,0,0,13.5,20.635Z', 'M12.5 11.635L6 11.635 7 4.635 11.5 4.635 12.5 11.635z', 'M7,4.635a2.25,2.25,0,1,1,4.5,0', 'M4.25,9.135a1.25,1.25,0,0,1,0-2.5H6.625', 'M11.875,6.635h.977a1.248,1.248,0,0,0,1.118-.691l.56-1.118a1.249,1.249,0,0,1,1.118-.691h.477', 'M19.5,9.517a4.729,4.729,0,0,1-.5,2.118H16a4.729,4.729,0,0,1-.5-2.118V8.135a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5Z' ] ],
-  AsianInteriorWindows:
-   [ 'asian-interior-windows',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M0.500 0.500 L10.500 0.500 L10.500 23.500 L0.500 23.500 Z', 'M13.500 0.500 L23.500 0.500 L23.500 23.500 L13.500 23.500 Z', 'M10.5,12.19A1.992,1.992,0,0,0,7,13.5H6.5a2,2,0,0,0-1.6.8.75.75,0,0,0,.6,1.2h5Z', 'M23.5,7.69A1.992,1.992,0,0,0,20,9h-.5a2,2,0,0,0-1.6.8.75.75,0,0,0,.6,1.2h5Z', 'M8.5,15.5v1a1,1,0,0,1-.4.8l-1.2.9a1.5,1.5,0,0,1-.9.3H3.5a1.206,1.206,0,0,0-.853.353L.5,21', 'M10.5,17a1.942,1.942,0,0,1-.814,1.581L7.814,19.919A3.122,3.122,0,0,1,6,20.5a2.426,2.426,0,0,0-2.171,1.342L3,23.5', 'M15.518,14.977l1.488-1.859a3.589,3.589,0,0,1,1.2-.972L20.5,11h2L19,13.622a3.057,3.057,0,0,0-.817.925L17,16.632a1.723,1.723,0,0,1-1.5.868', 'M17.071,16.5H18.2a5.954,5.954,0,0,1,3.3,1' ] ] }
+     [ 'M12 2.5L12 0.5', 'M21.5 10.5L23.5 10.5', 'M21 6L22.5 4.5', 'M21 15L22.5 16.5', 'M2.5 10.5L0.5 10.5', 'M3 6L1.5 4.5', 'M3 15L1.5 16.5', 'M12 4.5L12 19.5', 'M4.927 9.5L19.073 9.5', 'M4.927 14.5L19.073 14.5', 'M4.500 12.000 A7.500 7.500 0 1 0 19.500 12.000 A7.500 7.500 0 1 0 4.500 12.000 Z', 'M7.5,6V3.5a1,1,0,0,1,1-1h7a1,1,0,0,1,1,1V6', 'M7.5,23.5v-3a1,1,0,0,1,1-1h7a1,1,0,0,1,1,1v3', 'M12 22L12 23.5', 'M7.5 22L16.5 22' ] ] }

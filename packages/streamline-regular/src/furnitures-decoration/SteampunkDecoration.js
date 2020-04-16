@@ -1,4 +1,19 @@
-export default { SteampunkDecoration:
+export default { SteampunkDecorationLamp:
+   [ 'steampunk-decoration-lamp',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M21.75,5.25a3,3,0,0,0-6,0v4.5h6Z', 'M14.25 9.75L23.25 9.75', 'M3.75,15.75v4.5a1.5,1.5,0,0,1-1.5,1.5H.75', 'M.75,3.75h1.5a1.5,1.5,0,0,1,1.5,1.5v7.5', 'M8.250 14.250 A1.500 1.500 0 1 0 11.250 14.250 A1.500 1.500 0 1 0 8.250 14.250 Z', 'M2.250 14.250 A1.500 1.500 0 1 0 5.250 14.250 A1.500 1.500 0 1 0 2.250 14.250 Z', 'M9.750 6.750 A1.500 1.500 0 1 0 12.750 6.750 A1.500 1.500 0 1 0 9.750 6.750 Z', 'M5.25 14.25L8.25 14.25', 'M15.75 5.25L12.673 6.276', 'M10.956 8.221L10.044 12.779' ] ],
+  SteampunkDecoration:
    [ 'steampunk-decoration',
      24,
      24,
@@ -17,19 +32,4 @@ export default { SteampunkDecoration:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M21.851,10.5a9.75,9.75,0,1,0-16.5,7.026V21a2.25,2.25,0,0,0,4.5,0,2.25,2.25,0,0,0,4.5,0,2.25,2.25,0,0,0,4.5,0V17.526A9.714,9.714,0,0,0,21.851,10.5Z', 'M5.351 10.500 A2.250 2.250 0 1 0 9.851 10.500 A2.250 2.250 0 1 0 5.351 10.500 Z', 'M12.101 15.75L12.101 17.25', 'M2.351 0.75L0.851 2.25', 'M1.601 1.5L4.502 4.401', 'M14.351 8.250 L18.851 8.250 L18.851 12.750 L14.351 12.750 Z', 'M18.851 0.75L17.651 2.484', 'M23.149 6.189L21.184 6.956', 'M21.396 3.136L19.743 4.445' ] ],
-  SteampunkDecorationLamp:
-   [ 'steampunk-decoration-lamp',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M21.75,5.25a3,3,0,0,0-6,0v4.5h6Z', 'M14.25 9.75L23.25 9.75', 'M3.75,15.75v4.5a1.5,1.5,0,0,1-1.5,1.5H.75', 'M.75,3.75h1.5a1.5,1.5,0,0,1,1.5,1.5v7.5', 'M8.250 14.250 A1.500 1.500 0 1 0 11.250 14.250 A1.500 1.500 0 1 0 8.250 14.250 Z', 'M2.250 14.250 A1.500 1.500 0 1 0 5.250 14.250 A1.500 1.500 0 1 0 2.250 14.250 Z', 'M9.750 6.750 A1.500 1.500 0 1 0 12.750 6.750 A1.500 1.500 0 1 0 9.750 6.750 Z', 'M5.25 14.25L8.25 14.25', 'M15.75 5.25L12.673 6.276', 'M10.956 8.221L10.044 12.779' ] ] }
+     [ 'M21.851,10.5a9.75,9.75,0,1,0-16.5,7.026V21a2.25,2.25,0,0,0,4.5,0,2.25,2.25,0,0,0,4.5,0,2.25,2.25,0,0,0,4.5,0V17.526A9.714,9.714,0,0,0,21.851,10.5Z', 'M5.351 10.500 A2.250 2.250 0 1 0 9.851 10.500 A2.250 2.250 0 1 0 5.351 10.500 Z', 'M12.101 15.75L12.101 17.25', 'M2.351 0.75L0.851 2.25', 'M1.601 1.5L4.502 4.401', 'M14.351 8.250 L18.851 8.250 L18.851 12.750 L14.351 12.750 Z', 'M18.851 0.75L17.651 2.484', 'M23.149 6.189L21.184 6.956', 'M21.396 3.136L19.743 4.445' ] ] }

@@ -1,4 +1,10 @@
-export default { FarmersMarketKiosk:
+export default { FarmersMarketVendor:
+   [ "farmer's-market-vendor",
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M.5,23.5V5.152a1,1,0,0,1,.671-.944L11.671.556a1,1,0,0,1,.658,0l10.5,3.652a1,1,0,0,1,.671.944V23.5', 'M2.500 17.500 L21.500 17.500 L21.500 23.500 L2.500 23.500 Z', 'M15.500 11.001 A2.000 2.000 0 1 0 19.500 11.001 A2.000 2.000 0 1 0 15.500 11.001 Z', 'M20.5,17.5V17a3,3,0,0,0-6,0v.5', 'M11.857,17.5l-.65-2.275a1,1,0,0,0-.961-.725H5.754a1,1,0,0,0-.961.725L4.143,17.5', 'M6.5 14.5L6.5 12.5', 'M7.5,10.5a1,1,0,0,1,0,2h-2a1,1,0,0,1,0-2Z' ] ],
+  FarmersMarketKiosk:
    [ "farmer's-market-kiosk",
      24,
      24,
@@ -39,10 +45,4 @@ export default { FarmersMarketKiosk:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M2.5 16.5L2.5 8.338', 'M21.5 8.338L21.5 16.5', 'M20.882.5H3.118a1,1,0,0,0-.894.553L.5,4.5h23L21.776,1.053A1,1,0,0,0,20.882.5Z', 'M23.5,5.5a2.861,2.861,0,0,1-5,2,4.048,4.048,0,0,1-6.5.64A4.048,4.048,0,0,1,5.5,7.5a2.863,2.863,0,0,1-5-2v-1h23Z', 'M5.5 7.5L5.5 4.5 6.5 0.5', 'M12 8.146L12 4.5 12 0.5', 'M18.5 7.5L18.5 4.5 17.5 0.5', 'M0.500 16.500 L23.500 16.500 L23.500 21.500 L0.500 21.500 Z', 'M2.5 21.5L2.5 23.5', 'M21.5 21.5L21.5 23.5', 'M4.500 15.000 A1.500 1.500 0 1 0 7.500 15.000 A1.500 1.500 0 1 0 4.500 15.000 Z', 'M7.500 15.000 A1.500 1.500 0 1 0 10.500 15.000 A1.500 1.500 0 1 0 7.500 15.000 Z', 'M13.500 15.000 A1.500 1.500 0 1 0 16.500 15.000 A1.500 1.500 0 1 0 13.500 15.000 Z', 'M17.913,13.5a1.5,1.5,0,1,0-2.826,0', 'M16.500 15.000 A1.500 1.500 0 1 0 19.500 15.000 A1.500 1.500 0 1 0 16.500 15.000 Z' ] ],
-  FarmersMarketVendor:
-   [ "farmer's-market-vendor",
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M.5,23.5V5.152a1,1,0,0,1,.671-.944L11.671.556a1,1,0,0,1,.658,0l10.5,3.652a1,1,0,0,1,.671.944V23.5', 'M2.500 17.500 L21.500 17.500 L21.500 23.500 L2.500 23.500 Z', 'M15.500 11.001 A2.000 2.000 0 1 0 19.500 11.001 A2.000 2.000 0 1 0 15.500 11.001 Z', 'M20.5,17.5V17a3,3,0,0,0-6,0v.5', 'M11.857,17.5l-.65-2.275a1,1,0,0,0-.961-.725H5.754a1,1,0,0,0-.961.725L4.143,17.5', 'M6.5 14.5L6.5 12.5', 'M7.5,10.5a1,1,0,0,1,0,2h-2a1,1,0,0,1,0-2Z' ] ] }
+     [ 'M2.5 16.5L2.5 8.338', 'M21.5 8.338L21.5 16.5', 'M20.882.5H3.118a1,1,0,0,0-.894.553L.5,4.5h23L21.776,1.053A1,1,0,0,0,20.882.5Z', 'M23.5,5.5a2.861,2.861,0,0,1-5,2,4.048,4.048,0,0,1-6.5.64A4.048,4.048,0,0,1,5.5,7.5a2.863,2.863,0,0,1-5-2v-1h23Z', 'M5.5 7.5L5.5 4.5 6.5 0.5', 'M12 8.146L12 4.5 12 0.5', 'M18.5 7.5L18.5 4.5 17.5 0.5', 'M0.500 16.500 L23.500 16.500 L23.500 21.500 L0.500 21.500 Z', 'M2.5 21.5L2.5 23.5', 'M21.5 21.5L21.5 23.5', 'M4.500 15.000 A1.500 1.500 0 1 0 7.500 15.000 A1.500 1.500 0 1 0 4.500 15.000 Z', 'M7.500 15.000 A1.500 1.500 0 1 0 10.500 15.000 A1.500 1.500 0 1 0 7.500 15.000 Z', 'M13.500 15.000 A1.500 1.500 0 1 0 16.500 15.000 A1.500 1.500 0 1 0 13.500 15.000 Z', 'M17.913,13.5a1.5,1.5,0,1,0-2.826,0', 'M16.500 15.000 A1.500 1.500 0 1 0 19.500 15.000 A1.500 1.500 0 1 0 16.500 15.000 Z' ] ] }

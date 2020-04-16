@@ -1,0 +1,6 @@
+export default { ImageLens:
+   [ 'image-lens',
+     14,
+     14,
+     [ { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 } ],
+     [ 'M5.000 7.000 A2.000 2.000 0 1 0 9.000 7.000 A2.000 2.000 0 1 0 5.000 7.000 Z', 'M5,4.13A3.476,3.476,0,0,1,7,3.5h5.61a.25.25,0,0,0,.207-.389A7,7,0,0,0,5.185.239.25.25,0,0,0,5,.481Z', 'M4.13,9A3.476,3.476,0,0,1,3.5,7V1.39a.25.25,0,0,0-.389-.207A7,7,0,0,0,.239,8.815.25.25,0,0,0,.481,9Z', 'M9.87,5a3.476,3.476,0,0,1,.63,2v5.61a.25.25,0,0,0,.389.207,7,7,0,0,0,2.872-7.632A.25.25,0,0,0,13.519,5Z', 'M9,9.87a3.476,3.476,0,0,1-2,.63H1.39a.25.25,0,0,0-.207.389,7,7,0,0,0,7.632,2.872A.25.25,0,0,0,9,13.519Z' ] ] }

@@ -1,16 +1,16 @@
 export default { TransformDirectSelect: [ 'transform-direct-select', 24, 24, [ { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 } ], [ 'M18.682,7.035l-18-7A.5.5,0,0,0,.033.677l7,18.5a.5.5,0,0,0,.926.024l3.348-7.655a.5.5,0,0,1,.247-.252l7.158-3.34A.5.5,0,0,0,18.682,7.035Z', 'M17,14H14a1,1,0,1,0,0,2h3a5.006,5.006,0,0,1,5,5v2a1,1,0,0,0,2,0V21A7.008,7.008,0,0,0,17,14Z' ] ],
-  TransformInside:
-   [ 'transform-inside',
-     24,
-     24,
-     [ { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 } ],
-     [ 'M14.5,2H16a1,1,0,0,0,0-2H14.5a1,1,0,0,0,0,2Z', 'M4,1H1A1,1,0,0,0,1,3H4A17.019,17.019,0,0,1,21,20v3a1,1,0,0,0,2,0V20A19.021,19.021,0,0,0,4,1Z', 'M12.116,10.116,5.9,16.336a.25.25,0,0,1-.354,0l-1.689-1.69A.5.5,0,0,0,3,15v5.5a.5.5,0,0,0,.5.5H9a.5.5,0,0,0,.354-.854l-1.69-1.689a.25.25,0,0,1,0-.354l6.22-6.219a1.25,1.25,0,0,0-1.768-1.768Z', 'M23,7a1,1,0,0,0-1,1V9.5a1,1,0,0,0,2,0V8A1,1,0,0,0,23,7Z', 'M22,0H20.5a1,1,0,0,0,0,2h1.25a.25.25,0,0,1,.25.25V3.5a1,1,0,0,0,2,0V2A2,2,0,0,0,22,0Z' ] ],
   TransformLeft:
    [ 'transform-left',
      24,
      24,
      [ { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 } ],
      [ 'M13.823,9.431A1,1,0,0,0,13,9H1a1,1,0,0,0-.823,1.57l9,13A1,1,0,0,0,10,24H22a1,1,0,0,0,.822-1.569ZM10.656,22a.249.249,0,0,1-.205-.107l-7.27-10.5A.25.25,0,0,1,3.386,11h8.959a.25.25,0,0,1,.206.108l7.27,10.5a.25.25,0,0,1-.206.392Z', 'M23,9H21.5a1,1,0,0,0,0,2h.25a.25.25,0,0,1,.25.25v.25a1,1,0,1,0,2,0V10A1,1,0,0,0,23,9Z', 'M23,14a1,1,0,0,0-1,1v3a1,1,0,0,0,2,0V15A1,1,0,0,0,23,14Z', 'M17,9a1,1,0,0,0,0,2h1a1,1,0,0,0,0-2Z', 'M8.673,6.877A.5.5,0,0,0,9.5,6.5V4.75a.25.25,0,0,1,.25-.25H18.5a1,1,0,0,0,0-2H9.751a.25.25,0,0,1-.25-.25V.5A.5.5,0,0,0,8.673.123l-3.455,3a.5.5,0,0,0,0,.754Z' ] ],
+  TransformInside:
+   [ 'transform-inside',
+     24,
+     24,
+     [ { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 } ],
+     [ 'M14.5,2H16a1,1,0,0,0,0-2H14.5a1,1,0,0,0,0,2Z', 'M4,1H1A1,1,0,0,0,1,3H4A17.019,17.019,0,0,1,21,20v3a1,1,0,0,0,2,0V20A19.021,19.021,0,0,0,4,1Z', 'M12.116,10.116,5.9,16.336a.25.25,0,0,1-.354,0l-1.689-1.69A.5.5,0,0,0,3,15v5.5a.5.5,0,0,0,.5.5H9a.5.5,0,0,0,.354-.854l-1.69-1.689a.25.25,0,0,1,0-.354l6.22-6.219a1.25,1.25,0,0,0-1.768-1.768Z', 'M23,7a1,1,0,0,0-1,1V9.5a1,1,0,0,0,2,0V8A1,1,0,0,0,23,7Z', 'M22,0H20.5a1,1,0,0,0,0,2h1.25a.25.25,0,0,1,.25.25V3.5a1,1,0,0,0,2,0V2A2,2,0,0,0,22,0Z' ] ],
   TransformRight:
    [ 'transform-right',
      24,

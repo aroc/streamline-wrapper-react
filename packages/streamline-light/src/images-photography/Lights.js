@@ -1,4 +1,10 @@
-export default { PhotographyEquipmentFlashLight:
+export default { PhotographyEquipmentLightUmbrella:
+   [ 'photography-equipment-light-umbrella',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', transform: 'translate(13.538 -8.047) rotate(45)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M15.543 13.5L15.543 23.5', 'M13.982,10.818h5a.5.5,0,0,1,.5.5v2a.5.5,0,0,1-.5.5h-5.5a0,0,0,0,1,0,0v-2.5a.5.5,0,0,1,.5-.5Z', 'M7.033,15.01A8.5,8.5,0,1,1,19.054,2.99a3.367,3.367,0,0,0-3.913,3.58l.024.309a3.951,3.951,0,0,0-4.243,4.242l-.308-.023A3.368,3.368,0,0,0,7.033,15.01Z', 'M10.922,11.121C7.6,7.8,5.861,4.161,7.033,2.99s4.812.569,8.132,3.889', 'M11.253 9.21L13.301 11.257', 'M12.043,23.5l1.446-2.168a2.091,2.091,0,0,1,1.554-.832h1a2.093,2.093,0,0,1,1.555.832L19.043,23.5' ] ],
+  PhotographyEquipmentFlashLight:
    [ 'photography-equipment-flash-light',
      24,
      24,
@@ -23,12 +29,6 @@ export default { PhotographyEquipmentFlashLight:
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M11 23.5L11 18.5 13 18.5 13 23.5', 'M9 6.5H15V12.5H9z', 'M16.561,1.816A1,1,0,0,0,15.613.5H8.387a1,1,0,0,0-.948,1.316L9,6.5h6Z', 'M19.684,14.061A1,1,0,0,0,21,13.113V5.887a1,1,0,0,0-1.316-.948L15,6.5v6Z', 'M7.439,17.184A1,1,0,0,0,8.387,18.5h7.226a1,1,0,0,0,.948-1.316L15,12.5H9Z', 'M4.316,4.939A1,1,0,0,0,3,5.887v7.226a1,1,0,0,0,1.316.948L9,12.5v-6Z', 'M11.000 9.500 A1.000 1.000 0 1 0 13.000 9.500 A1.000 1.000 0 1 0 11.000 9.500 Z' ] ],
   PhotographyEquipmentLight3: [ 'photography-equipment-light-3', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M10.25 16.5L10.25 23', 'M4.25 23L10.25 17', 'M16.25 23L10.25 17', 'M11.25,13v3a.5.5,0,0,1-.5.5h-1a.5.5,0,0,1-.5-.5V12.5', 'M4.224,4.816A1.322,1.322,0,0,0,3.25,6.041V8.449a1.233,1.233,0,0,0,.985,1.17L11.5,10.874a.989.989,0,0,1,.447.2c.351.275,1.117.865,1.8,1.314,1.5.98,5.5.491,5.5.491S20.75,11.9,20.75,7s-1.5-5.878-1.5-5.878-4-.489-5.5.49c-.7.46-1.487,1.065-1.827,1.333a1,1,0,0,1-.394.188Z' ] ],
-  PhotographyEquipmentLightUmbrella:
-   [ 'photography-equipment-light-umbrella',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', transform: 'translate(13.538 -8.047) rotate(45)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M15.543 13.5L15.543 23.5', 'M13.982,10.818h5a.5.5,0,0,1,.5.5v2a.5.5,0,0,1-.5.5h-5.5a0,0,0,0,1,0,0v-2.5a.5.5,0,0,1,.5-.5Z', 'M7.033,15.01A8.5,8.5,0,1,1,19.054,2.99a3.367,3.367,0,0,0-3.913,3.58l.024.309a3.951,3.951,0,0,0-4.243,4.242l-.308-.023A3.368,3.368,0,0,0,7.033,15.01Z', 'M10.922,11.121C7.6,7.8,5.861,4.161,7.033,2.99s4.812.569,8.132,3.889', 'M11.253 9.21L13.301 11.257', 'M12.043,23.5l1.446-2.168a2.091,2.091,0,0,1,1.554-.832h1a2.093,2.093,0,0,1,1.555.832L19.043,23.5' ] ],
   PhotographyEquipmentLightsBackground:
    [ 'photography-equipment-lights-background',
      24,

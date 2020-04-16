@@ -1,4 +1,16 @@
-export default { LandmarkPyramid:
+export default { LandmarkPyramidSphinx:
+   [ 'landmark-pyramid-sphinx',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M18.563,14.163l1.674-1.656a1.719,1.719,0,0,0,.513-1.224V9.4a8.751,8.751,0,0,0-17.5,0v1.879a1.719,1.719,0,0,0,.513,1.224l1.674,1.656', 'M20.75,19.5V18.058A4.155,4.155,0,0,0,19.512,15.1L14,9.649', 'M10,9.649,4.488,15.1A4.155,4.155,0,0,0,3.25,18.058V19.5', 'M15.5,4.212a3.5,3.5,0,0,0-7,0v2.6a3.5,3.5,0,0,0,7,0Z', 'M8.5,23.25V21A1.5,1.5,0,0,0,7,19.5H3A1.5,1.5,0,0,0,1.5,21v2.25', 'M15.5,23.25V21A1.5,1.5,0,0,1,17,19.5h4A1.5,1.5,0,0,1,22.5,21v2.25', 'M9.608 14.25L14.158 14.25', 'M9.608 17.25L14.158 17.25' ] ],
+  LandmarkHagiaSophia:
+   [ 'landmark-hagia-sophia',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M8.25,13.5V11.25a3.75,3.75,0,0,1,7.5,0V13.5', 'M2.25 3.75L2.25 0.75', 'M18.375,15.75a1.874,1.874,0,0,1,1.875,1.875V6.75l1.5-3,1.5,3v15a1.5,1.5,0,0,1-1.5,1.5H2.25a1.5,1.5,0,0,1-1.5-1.5v-15l1.5-3,1.5,3V17.625A1.874,1.874,0,0,1,5.625,15.75', 'M21.75 3.75L21.75 0.75', 'M7.5,19.5a4.5,4.5,0,0,1,9,0', 'M12 7.5L12 5.25', 'M15.75 11.25L8.25 11.25', 'M6 19.5L18 19.5' ] ],
+  LandmarkPyramid:
    [ 'landmark-pyramid',
      24,
      24,
@@ -32,18 +44,6 @@ export default { LandmarkPyramid:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M15.5,10.929a1.973,1.973,0,0,0,1-1.608C16.5,6.643,14,6.643,12,4.5,10,6.643,7.5,6.643,7.5,9.321a1.973,1.973,0,0,0,1,1.608', 'M18.749,8.494a11.263,11.263,0,0,0,1.5-1.744C21,8,22.5,8.84,22.5,9.875a1.634,1.634,0,0,1-.75,1.25V14.25', 'M21.75,23.25v-9a1.5,1.5,0,0,0-1.5-1.5h-1.5', 'M2.25,23.25v-9a1.5,1.5,0,0,1,1.5-1.5h1.5', 'M0.75 15.75L23.25 15.75', 'M14.25,23.25V21a2.25,2.25,0,0,0-4.5,0v2.25', 'M20.25 4.5L20.25 3', 'M5.251,8.494A11.263,11.263,0,0,1,3.75,6.75C3,8,1.5,8.84,1.5,9.875a1.634,1.634,0,0,0,.75,1.25V14.25', 'M3.75 4.5L3.75 3', 'M11.625 1.125 A0.375 0.375 0 1 0 12.375 1.125 A0.375 0.375 0 1 0 11.625 1.125 Z', 'M17.25 18L17.25 23.25', 'M6.75 18L6.75 23.25' ] ],
-  LandmarkHagiaSophia:
-   [ 'landmark-hagia-sophia',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M8.25,13.5V11.25a3.75,3.75,0,0,1,7.5,0V13.5', 'M2.25 3.75L2.25 0.75', 'M18.375,15.75a1.874,1.874,0,0,1,1.875,1.875V6.75l1.5-3,1.5,3v15a1.5,1.5,0,0,1-1.5,1.5H2.25a1.5,1.5,0,0,1-1.5-1.5v-15l1.5-3,1.5,3V17.625A1.874,1.874,0,0,1,5.625,15.75', 'M21.75 3.75L21.75 0.75', 'M7.5,19.5a4.5,4.5,0,0,1,9,0', 'M12 7.5L12 5.25', 'M15.75 11.25L8.25 11.25', 'M6 19.5L18 19.5' ] ],
-  LandmarkPyramidSphinx:
-   [ 'landmark-pyramid-sphinx',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M18.563,14.163l1.674-1.656a1.719,1.719,0,0,0,.513-1.224V9.4a8.751,8.751,0,0,0-17.5,0v1.879a1.719,1.719,0,0,0,.513,1.224l1.674,1.656', 'M20.75,19.5V18.058A4.155,4.155,0,0,0,19.512,15.1L14,9.649', 'M10,9.649,4.488,15.1A4.155,4.155,0,0,0,3.25,18.058V19.5', 'M15.5,4.212a3.5,3.5,0,0,0-7,0v2.6a3.5,3.5,0,0,0,7,0Z', 'M8.5,23.25V21A1.5,1.5,0,0,0,7,19.5H3A1.5,1.5,0,0,0,1.5,21v2.25', 'M15.5,23.25V21A1.5,1.5,0,0,1,17,19.5h4A1.5,1.5,0,0,1,22.5,21v2.25', 'M9.608 14.25L14.158 14.25', 'M9.608 17.25L14.158 17.25' ] ],
   LandmarkTajMahal:
    [ 'landmark-taj-mahal',
      24,

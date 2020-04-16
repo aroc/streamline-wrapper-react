@@ -1,4 +1,10 @@
-export default { PodcastLive:
+export default { MicrophonePodcastInternational:
+   [ 'microphone-podcast-international',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M8.25,13.5a3.75,3.75,0,0,0,7.5,0V12a3.75,3.75,0,0,0-7.5,0Z', 'M18.75,13.5a6.75,6.75,0,0,1-13.5,0', 'M9.75 23.25L14.25 23.25', 'M12 20.25L12 23.25', 'M18,10.6a6.75,6.75,0,1,0-12,0', 'M12,.75A8.282,8.282,0,0,0,9.75,6', 'M12,.75A8.282,8.282,0,0,1,14.25,6', 'M5.635 5.25L18.364 5.25' ] ],
+  PodcastLive:
    [ 'podcast-live',
      24,
      24,
@@ -19,12 +25,27 @@ export default { PodcastLive:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M6.76,17.427A2.908,2.908,0,0,1,3.775,20.25a2.908,2.908,0,0,1-3-2.8L.75,11.823A2.908,2.908,0,0,1,3.735,9,2.909,2.909,0,0,1,6.74,11.8Z', 'M0.753 13.5L3.749 13.5', 'M0.76 16.5L3.749 16.5', 'M3.75 20.25L3.76 23.243', 'M2.25 23.25L5.25 23.25', 'M9.525,14.794A6.751,6.751,0,0,1,20.25,20.25', 'M9.945,5.781a6.857,6.857,0,0,0,7.642,1.536', 'M9.375 7.875 A4.125 4.125 0 1 0 17.625 7.875 A4.125 4.125 0 1 0 9.375 7.875 Z', 'M6.944,5.884A6.754,6.754,0,0,1,13.5.75h0A6.75,6.75,0,0,1,20.25,7.5V9', 'M20.250 7.500 L23.250 7.500 L23.250 11.250 L20.250 11.250 Z' ] ],
-  MicrophonePodcastInternational:
-   [ 'microphone-podcast-international',
+  MicrophonePodcastPerson:
+   [ 'microphone-podcast-person',
      24,
      24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M8.25,13.5a3.75,3.75,0,0,0,7.5,0V12a3.75,3.75,0,0,0-7.5,0Z', 'M18.75,13.5a6.75,6.75,0,0,1-13.5,0', 'M9.75 23.25L14.25 23.25', 'M12 20.25L12 23.25', 'M18,10.6a6.75,6.75,0,1,0-12,0', 'M12,.75A8.282,8.282,0,0,0,9.75,6', 'M12,.75A8.282,8.282,0,0,1,14.25,6', 'M5.635 5.25L18.364 5.25' ] ],
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M6.76,17.427A2.908,2.908,0,0,1,3.775,20.25a2.909,2.909,0,0,1-3-2.8L.75,11.823A2.908,2.908,0,0,1,3.735,9,2.908,2.908,0,0,1,6.74,11.8Z', 'M0.753 13.5L3.749 13.5', 'M0.76 16.5L3.749 16.5', 'M3.749 20.25L3.76 23.243', 'M2.249 23.25L5.249 23.25', 'M16.499 12.750 A3.000 3.000 0 1 0 22.499 12.750 A3.000 3.000 0 1 0 16.499 12.750 Z', 'M19.499 6.75L19.489 9.75', 'M18.249.75h2.5a1,1,0,0,1,1,1v3.5a1.5,1.5,0,0,1-1.5,1.5h-1.5a1.5,1.5,0,0,1-1.5-1.5V1.75a1,1,0,0,1,1-1Z', 'M17.249,3.41C12.941,4.823,11.871,9.7,9.749,15h3v3.3a2.7,2.7,0,0,0,2.7,2.7H16.5v2.25', 'M23.249,3.628a8.511,8.511,0,0,0-1.5-.457' ] ],
+  MicrophonePodcastOnAir:
+   [ 'microphone-podcast-on-air',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M13.5 20.25L13.5 15.75 16.5 20.25 16.5 15.75', 'M9,15.75a1.5,1.5,0,0,0-1.5,1.5v1.5a1.5,1.5,0,0,0,3,0v-1.5A1.5,1.5,0,0,0,9,15.75Z', 'M0.750 12.750 L23.250 12.750 L23.250 23.250 L0.750 23.250 Z', 'M12 12.75L12 9.75', 'M8.250 0.750 L15.750 0.750 L15.750 9.750 L8.250 9.750 Z', 'M8.25 3.75L11.25 3.75', 'M8.25 6.75L11.25 6.75' ] ],
   MicrophonePodcastLaptop:
    [ 'microphone-podcast-laptop',
      24,
@@ -54,25 +75,4 @@ export default { PodcastLive:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M6.75,17.427A2.909,2.909,0,0,1,3.765,20.25a2.917,2.917,0,0,1-3.015-2.8V11.823A2.9,2.9,0,0,1,3.725,9,2.927,2.927,0,0,1,6.75,11.8Z', 'M0.75 13.5L3.739 13.5', 'M0.75 16.5L3.739 16.5', 'M3.75 20.25L3.76 23.243', 'M2.25 23.25L5.25 23.25', 'M11.25,17.25H9.75a6.751,6.751,0,0,1,12.626-3.324', 'M12.945,2.781a6.848,6.848,0,0,0,4.93,2.094,6.847,6.847,0,0,0,2.712-.558', 'M12.375 4.875 A4.125 4.125 0 1 0 20.625 4.875 A4.125 4.125 0 1 0 12.375 4.875 Z', 'M14.75,15.75h5a.5.5,0,0,1,.5.5v4.5a1,1,0,0,1-1,1h-4a1,1,0,0,1-1-1v-4.5a.5.5,0,0,1,.5-.5Z', 'M20.25,17.25h1.5a1.5,1.5,0,0,1,1.5,1.5h0a1.5,1.5,0,0,1-1.5,1.5h-1.5' ] ],
-  MicrophonePodcastOnAir:
-   [ 'microphone-podcast-on-air',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M13.5 20.25L13.5 15.75 16.5 20.25 16.5 15.75', 'M9,15.75a1.5,1.5,0,0,0-1.5,1.5v1.5a1.5,1.5,0,0,0,3,0v-1.5A1.5,1.5,0,0,0,9,15.75Z', 'M0.750 12.750 L23.250 12.750 L23.250 23.250 L0.750 23.250 Z', 'M12 12.75L12 9.75', 'M8.250 0.750 L15.750 0.750 L15.750 9.750 L8.250 9.750 Z', 'M8.25 3.75L11.25 3.75', 'M8.25 6.75L11.25 6.75' ] ],
-  MicrophonePodcastPerson:
-   [ 'microphone-podcast-person',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M6.76,17.427A2.908,2.908,0,0,1,3.775,20.25a2.909,2.909,0,0,1-3-2.8L.75,11.823A2.908,2.908,0,0,1,3.735,9,2.908,2.908,0,0,1,6.74,11.8Z', 'M0.753 13.5L3.749 13.5', 'M0.76 16.5L3.749 16.5', 'M3.749 20.25L3.76 23.243', 'M2.249 23.25L5.249 23.25', 'M16.499 12.750 A3.000 3.000 0 1 0 22.499 12.750 A3.000 3.000 0 1 0 16.499 12.750 Z', 'M19.499 6.75L19.489 9.75', 'M18.249.75h2.5a1,1,0,0,1,1,1v3.5a1.5,1.5,0,0,1-1.5,1.5h-1.5a1.5,1.5,0,0,1-1.5-1.5V1.75a1,1,0,0,1,1-1Z', 'M17.249,3.41C12.941,4.823,11.871,9.7,9.749,15h3v3.3a2.7,2.7,0,0,0,2.7,2.7H16.5v2.25', 'M23.249,3.628a8.511,8.511,0,0,0-1.5-.457' ] ] }
+     [ 'M6.75,17.427A2.909,2.909,0,0,1,3.765,20.25a2.917,2.917,0,0,1-3.015-2.8V11.823A2.9,2.9,0,0,1,3.725,9,2.927,2.927,0,0,1,6.75,11.8Z', 'M0.75 13.5L3.739 13.5', 'M0.75 16.5L3.739 16.5', 'M3.75 20.25L3.76 23.243', 'M2.25 23.25L5.25 23.25', 'M11.25,17.25H9.75a6.751,6.751,0,0,1,12.626-3.324', 'M12.945,2.781a6.848,6.848,0,0,0,4.93,2.094,6.847,6.847,0,0,0,2.712-.558', 'M12.375 4.875 A4.125 4.125 0 1 0 20.625 4.875 A4.125 4.125 0 1 0 12.375 4.875 Z', 'M14.75,15.75h5a.5.5,0,0,1,.5.5v4.5a1,1,0,0,1-1,1h-4a1,1,0,0,1-1-1v-4.5a.5.5,0,0,1,.5-.5Z', 'M20.25,17.25h1.5a1.5,1.5,0,0,1,1.5,1.5h0a1.5,1.5,0,0,1-1.5,1.5h-1.5' ] ] }

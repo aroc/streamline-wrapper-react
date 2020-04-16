@@ -1,4 +1,25 @@
-export default { SecurityOfficer: [ 'security-officer', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M9,4.5h1.5V6a3,3,0,0,0,6,0V4.5', 'M16.5 4.5L10.5 4.5 9.75 1.5 17.25 2.25 16.5 4.5z', 'M10.5,22.5V14.121h0L6.311,18.31a1.5,1.5,0,0,1-2.122-2.121l5.25-5.25A1.5,1.5,0,0,1,10.5,10.5H12l1.5,2.25L15,10.5A4.5,4.5,0,0,1,19.5,15v4.5a1.5,1.5,0,0,1-3,0V15', 'M0.75 22.5L23.25 22.5' ] ],
+export default { SecurityOfficerScannerBeep:
+   [ 'security-officer-scanner-beep',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M5.25,23.25V6.75a3,3,0,0,1,3-3h7.5a3,3,0,0,1,3,3v16.5', 'M15.75,3.75H8.25V2.25A1.5,1.5,0,0,1,9.75.75h4.5a1.5,1.5,0,0,1,1.5,1.5Z', 'M9.750 9.000 A2.250 2.250 0 1 0 14.250 9.000 A2.250 2.250 0 1 0 9.750 9.000 Z', 'M12,12.75A4.046,4.046,0,0,0,8.25,16.5v3h1.5v3.75h4.5V19.5h1.5v-3A4.046,4.046,0,0,0,12,12.75Z', 'M3 14.25L0.75 14.25', 'M3 9.75L1.5 9', 'M3 18.75L1.5 19.5', 'M21 14.25L23.25 14.25', 'M21 9.75L22.5 9', 'M21 18.75L22.5 19.5' ] ],
+  SecurityOfficerPassport:
+   [ 'security-officer-passport',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M12.75,6.75h1.5v1.5a3,3,0,0,0,6,0V6.75', 'M20.25 20.25L20.25 17.25', 'M20.25,23.25v-3a1.5,1.5,0,0,0,3,0v-3a4.5,4.5,0,0,0-4.5-4.5L17.25,15l-1.5-2.25a5.124,5.124,0,0,0-3.438,1.316l-1.5,1.5a1.5,1.5,0,0,1-2.122,0L6.311,13.189A1.5,1.5,0,0,0,4.189,15.31l2.379,2.379a4.507,4.507,0,0,0,6.364,0l1.318-1.318h0V23.25', 'M20.25 6.75L14.25 6.75 13.5 3.75 21 4.5 20.25 6.75z', 'M.75.75H7.5a.75.75,0,0,1,.75.75v6a.75.75,0,0,1-.75.75H5.25', 'M5.25,9.286a.75.75,0,0,1-1.085.671l-3-1.5A.751.751,0,0,1,.75,7.786V.75L4.835,2.792a.751.751,0,0,1,.415.671Z' ] ],
+  SecurityOfficer: [ 'security-officer', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M9,4.5h1.5V6a3,3,0,0,0,6,0V4.5', 'M16.5 4.5L10.5 4.5 9.75 1.5 17.25 2.25 16.5 4.5z', 'M10.5,22.5V14.121h0L6.311,18.31a1.5,1.5,0,0,1-2.122-2.121l5.25-5.25A1.5,1.5,0,0,1,10.5,10.5H12l1.5,2.25L15,10.5A4.5,4.5,0,0,1,19.5,15v4.5a1.5,1.5,0,0,1-3,0V15', 'M0.75 22.5L23.25 22.5' ] ],
   SecurityOfficerAnimal:
    [ 'security-officer-animal',
      24,
@@ -15,18 +36,6 @@ export default { SecurityOfficer: [ 'security-officer', 24, 24, [ { fill: 'none'
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M15,6.75h1.5v1.5a3,3,0,0,0,6,0V6.75', 'M22.499 6.75L16.499 6.75 15.749 3.75 23.249 4.5 22.499 6.75z', 'M23.251,13.353A4.475,4.475,0,0,0,21,12.75L19.5,15,18,12.75H16.5a1.5,1.5,0,0,0-1.06.439l-5.25,5.25a1.5,1.5,0,0,0,2.121,2.122l4.189-4.19h0V23.25', 'M0.749 23.25L23.249 23.25', 'M7.5.75A1.5,1.5,0,0,0,6,2.25v1.5l-4.5,3H6a3,3,0,0,0,3-3V2.25A1.5,1.5,0,0,0,7.5.75Z', 'M5.249 6.75L5.249 8.25', 'M8.999 2.25L10.499 2.25', 'M7.5,17.25A1.5,1.5,0,0,1,6,18.75H4.5A1.5,1.5,0,0,1,3,17.25a2.25,2.25,0,0,1,4.5,0Z', 'M5.249,11.625A.375.375,0,1,1,4.874,12a.374.374,0,0,1,.375-.375', 'M1.5,13.875a.375.375,0,1,1-.375.375.374.374,0,0,1,.375-.375', 'M9,13.875a.375.375,0,1,1-.375.375A.374.374,0,0,1,9,13.875' ] ],
-  SecurityOfficerCamera:
-   [ 'security-officer-camera',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M15,5.25h1.5v1.5a3,3,0,0,0,6,0V5.25', 'M22.499 5.25L16.499 5.25 15.749 2.25 23.249 3 22.499 5.25z', 'M23.251,11.852A4.485,4.485,0,0,0,21,11.25L19.5,13.5,18,11.25H16.5a1.5,1.5,0,0,0-1.06.439l-5.25,5.25A1.5,1.5,0,0,0,12.31,19.06L16.5,14.871h0V21.75', 'M0.749 21.75L23.249 21.75', 'M8.249,16.5A2.25,2.25,0,0,1,6,18.75H3a2.25,2.25,0,0,1,0-4.5H6A2.25,2.25,0,0,1,8.249,16.5Z', 'M4.5,16.125a.375.375,0,1,1-.375.375.374.374,0,0,1,.375-.375', 'M4.499 18.75L4.499 21.75' ] ],
-  SecurityOfficerGate:
-   [ 'security-officer-gate',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M18,23.15h3.75a1.5,1.5,0,0,0,1.5-1.5V7.55a1.5,1.5,0,0,0-.794-1.324l-9.75-5.2a1.5,1.5,0,0,0-1.412,0l-9.75,5.2A1.5,1.5,0,0,0,.75,7.55v14.1a1.5,1.5,0,0,0,1.5,1.5H6', 'M17.2,17.15a5.251,5.251,0,0,1-10.394,0', 'M18,12.65a11.867,11.867,0,0,0,1.5-4.5,8.368,8.368,0,0,1-5.766-.633L12,6.65l-1.734.867A8.368,8.368,0,0,1,4.5,8.15,11.9,11.9,0,0,0,6,12.65Z', 'M6.054,12.65c.364,2.542,3.3,3,5.946,3s5.582-.458,5.946-3Z', 'M12 9.65L12 9.65', 'M12,9.65a.375.375,0,1,0,.375.375A.374.374,0,0,0,12,9.65' ] ],
   SecurityOfficerLuggage:
    [ 'security-officer-luggage',
      24,
@@ -45,12 +54,12 @@ export default { SecurityOfficer: [ 'security-officer', 24, 24, [ { fill: 'none'
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M12.75,6.75h1.5v1.5a3,3,0,0,0,6,0V6.75', 'M20.25 20.25L20.25 17.25', 'M12.932 17.689L14.25 16.371 14.25 16.371 14.25 23.25', 'M20.25,23.25v-3a1.5,1.5,0,0,0,3,0v-3a4.5,4.5,0,0,0-4.5-4.5L17.25,15l-1.5-2.25a5.124,5.124,0,0,0-3.438,1.316L9.065,17.314', 'M20.25 6.75L14.25 6.75 13.5 3.75 21 4.5 20.25 6.75z', 'M2.25,20.25h9a0,0,0,0,1,0,0v2a1,1,0,0,1-1,1h-7a1,1,0,0,1-1-1v-2A0,0,0,0,1,2.25,20.25Z', 'M3.75,13.5v6.75H2.25a1.5,1.5,0,0,1-1.5-1.5v-6', 'M0.815 5.625 A4.875 4.875 0 1 0 10.565 5.625 A4.875 4.875 0 1 0 0.815 5.625 Z', 'M2.243 9.071L9.136 2.178' ] ],
-  SecurityOfficerPassport:
-   [ 'security-officer-passport',
+  SecurityOfficerScanner:
+   [ 'security-officer-scanner',
      24,
      24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M12.75,6.75h1.5v1.5a3,3,0,0,0,6,0V6.75', 'M20.25 20.25L20.25 17.25', 'M20.25,23.25v-3a1.5,1.5,0,0,0,3,0v-3a4.5,4.5,0,0,0-4.5-4.5L17.25,15l-1.5-2.25a5.124,5.124,0,0,0-3.438,1.316l-1.5,1.5a1.5,1.5,0,0,1-2.122,0L6.311,13.189A1.5,1.5,0,0,0,4.189,15.31l2.379,2.379a4.507,4.507,0,0,0,6.364,0l1.318-1.318h0V23.25', 'M20.25 6.75L14.25 6.75 13.5 3.75 21 4.5 20.25 6.75z', 'M.75.75H7.5a.75.75,0,0,1,.75.75v6a.75.75,0,0,1-.75.75H5.25', 'M5.25,9.286a.75.75,0,0,1-1.085.671l-3-1.5A.751.751,0,0,1,.75,7.786V.75L4.835,2.792a.751.751,0,0,1,.415.671Z' ] ],
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M16.875 7.500 A2.625 2.625 0 1 0 22.125 7.500 A2.625 2.625 0 1 0 16.875 7.500 Z', 'M17.25,21a2.25,2.25,0,0,0,4.5,0V18.75a1.5,1.5,0,0,0,1.5-1.5V15a3,3,0,0,0-3-3h-1.5a3,3,0,0,0-3,3v2.25a1.5,1.5,0,0,0,1.5,1.5Z', 'M12.75,23.25V3.75a3,3,0,0,1,3-3h7.5', 'M7.125,7.5a2.625,2.625,0,0,1-5.25,0Z', 'M2.25,21a2.25,2.25,0,0,0,4.5,0V18.75a1.5,1.5,0,0,0,1.5-1.5V15a3,3,0,0,0-3-3H3.75a3,3,0,0,0-3,3v2.25a1.5,1.5,0,0,0,1.5,1.5Z', 'M7.125 7.5L8.25 4.5 4.5 3 0.75 4.5 1.875 7.5', 'M2.25 18.75L7.712 13.288' ] ],
   SecurityOfficerPlant:
    [ 'security-officer-plant',
      24,
@@ -67,24 +76,15 @@ export default { SecurityOfficer: [ 'security-officer', 24, 24, [ { fill: 'none'
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M15,5.25h1.5v1.5a3,3,0,0,0,6,0V5.25', 'M22.499 5.25L16.499 5.25 15.749 2.25 23.249 3 22.499 5.25z', 'M23.251,11.852A4.485,4.485,0,0,0,21,11.25L19.5,13.5,18,11.25H16.5a1.5,1.5,0,0,0-1.06.439l-5.25,5.25A1.5,1.5,0,0,0,12.31,19.06L16.5,14.871h0V21.75', 'M0.749 21.75L23.249 21.75', 'M4.499 7.5L4.499 21.75', 'M.749,15s3,0,3.75,2.25', 'M8.249,15s-3,0-3.75,2.25', 'M1.488,12.071A3.594,3.594,0,0,1,4.5,14.25', 'M7.511,12.071A3.6,3.6,0,0,0,4.5,14.25', 'M2.4,9.3A3.165,3.165,0,0,1,4.5,11.25', 'M6.594,9.3A3.167,3.167,0,0,0,4.5,11.25' ] ],
-  SecurityOfficerScanner:
-   [ 'security-officer-scanner',
+  SecurityOfficerCamera:
+   [ 'security-officer-camera',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M16.875 7.500 A2.625 2.625 0 1 0 22.125 7.500 A2.625 2.625 0 1 0 16.875 7.500 Z', 'M17.25,21a2.25,2.25,0,0,0,4.5,0V18.75a1.5,1.5,0,0,0,1.5-1.5V15a3,3,0,0,0-3-3h-1.5a3,3,0,0,0-3,3v2.25a1.5,1.5,0,0,0,1.5,1.5Z', 'M12.75,23.25V3.75a3,3,0,0,1,3-3h7.5', 'M7.125,7.5a2.625,2.625,0,0,1-5.25,0Z', 'M2.25,21a2.25,2.25,0,0,0,4.5,0V18.75a1.5,1.5,0,0,0,1.5-1.5V15a3,3,0,0,0-3-3H3.75a3,3,0,0,0-3,3v2.25a1.5,1.5,0,0,0,1.5,1.5Z', 'M7.125 7.5L8.25 4.5 4.5 3 0.75 4.5 1.875 7.5', 'M2.25 18.75L7.712 13.288' ] ],
-  SecurityOfficerScannerBeep:
-   [ 'security-officer-scanner-beep',
+     [ 'M15,5.25h1.5v1.5a3,3,0,0,0,6,0V5.25', 'M22.499 5.25L16.499 5.25 15.749 2.25 23.249 3 22.499 5.25z', 'M23.251,11.852A4.485,4.485,0,0,0,21,11.25L19.5,13.5,18,11.25H16.5a1.5,1.5,0,0,0-1.06.439l-5.25,5.25A1.5,1.5,0,0,0,12.31,19.06L16.5,14.871h0V21.75', 'M0.749 21.75L23.249 21.75', 'M8.249,16.5A2.25,2.25,0,0,1,6,18.75H3a2.25,2.25,0,0,1,0-4.5H6A2.25,2.25,0,0,1,8.249,16.5Z', 'M4.5,16.125a.375.375,0,1,1-.375.375.374.374,0,0,1,.375-.375', 'M4.499 18.75L4.499 21.75' ] ],
+  SecurityOfficerGate:
+   [ 'security-officer-gate',
      24,
      24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M5.25,23.25V6.75a3,3,0,0,1,3-3h7.5a3,3,0,0,1,3,3v16.5', 'M15.75,3.75H8.25V2.25A1.5,1.5,0,0,1,9.75.75h4.5a1.5,1.5,0,0,1,1.5,1.5Z', 'M9.750 9.000 A2.250 2.250 0 1 0 14.250 9.000 A2.250 2.250 0 1 0 9.750 9.000 Z', 'M12,12.75A4.046,4.046,0,0,0,8.25,16.5v3h1.5v3.75h4.5V19.5h1.5v-3A4.046,4.046,0,0,0,12,12.75Z', 'M3 14.25L0.75 14.25', 'M3 9.75L1.5 9', 'M3 18.75L1.5 19.5', 'M21 14.25L23.25 14.25', 'M21 9.75L22.5 9', 'M21 18.75L22.5 19.5' ] ] }
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M18,23.15h3.75a1.5,1.5,0,0,0,1.5-1.5V7.55a1.5,1.5,0,0,0-.794-1.324l-9.75-5.2a1.5,1.5,0,0,0-1.412,0l-9.75,5.2A1.5,1.5,0,0,0,.75,7.55v14.1a1.5,1.5,0,0,0,1.5,1.5H6', 'M17.2,17.15a5.251,5.251,0,0,1-10.394,0', 'M18,12.65a11.867,11.867,0,0,0,1.5-4.5,8.368,8.368,0,0,1-5.766-.633L12,6.65l-1.734.867A8.368,8.368,0,0,1,4.5,8.15,11.9,11.9,0,0,0,6,12.65Z', 'M6.054,12.65c.364,2.542,3.3,3,5.946,3s5.582-.458,5.946-3Z', 'M12 9.65L12 9.65', 'M12,9.65a.375.375,0,1,0,.375.375A.374.374,0,0,0,12,9.65' ] ] }

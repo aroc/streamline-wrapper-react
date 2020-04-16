@@ -9,5 +9,6 @@ import Recording from "./Recording.js"
 import Speakers from "./Speakers.js"
 import Tickets from "./Tickets.js"
 import VolumeControl from "./VolumeControl.js"
+import index from "./index.js"
 
-export default { Camera, ControlButtons, MusicNotes, News, Party, Playlist, RadioWalkman, Recording, Speakers, Tickets, VolumeControl }
+export default { Camera, ControlButtons, MusicNotes, News, Party, Playlist, RadioWalkman, Recording, Speakers, Tickets, VolumeControl, index }

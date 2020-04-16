@@ -1,3 +1,4 @@
 import Medical from "./Medical.js"
+import index from "./index.js"
 
-export default { Medical }
+export default { Medical, index }

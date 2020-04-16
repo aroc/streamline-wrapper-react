@@ -129,6 +129,12 @@ export default { DatabaseBug:
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M0.522 4.501 A9.5 4 0 1 0 19.522 4.501 A9.5 4 0 1 0 0.522 4.501 Z', 'M10.022,12.5c-5.246,0-9.5-1.79-9.5-4', 'M8.522,16.95c-4.533-.3-8-1.955-8-3.949', 'M9.022,21.48c-4.776-.211-8.5-1.912-8.5-3.979V4.5', 'M19.522 4.501L19.522 9.001', 'M18.225,11.931,19.764,15.5h3a.735.735,0,0,1,.517,1.283l-2.6,2.316,1.44,3.313A.785.785,0,0,1,21,23.394l-3.481-1.961-3.48,1.961a.785.785,0,0,1-1.117-.982l1.44-3.313-2.6-2.315a.735.735,0,0,1,.514-1.284h3l1.541-3.569A.8.8,0,0,1,18.225,11.931Z' ] ],
+  DatabaseSubtract:
+   [ 'database-subtract',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M19.522,4.526c0,2.205-4.254,4-9.5,4s-9.5-1.795-9.5-4S4.776.5,10.022.5,19.522,2.315,19.522,4.526Z', 'M10.022,12.526c-5.246,0-9.5-1.795-9.5-4', 'M8.522,16.975c-4.533-.3-8-1.958-8-3.949', 'M9.022,21.493c-4.776-.212-8.5-1.9-8.5-3.967V4.5', 'M19.522 4.501L19.522 9.001', 'M11.519 17.501 A6.000 6.000 0 1 0 23.519 17.501 A6.000 6.000 0 1 0 11.519 17.501 Z', 'M20.519 17.501L14.519 17.501' ] ],
   DatabaseShare:
    [ 'database-share',
      24,
@@ -147,12 +153,6 @@ export default { DatabaseBug:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M8.000 2.501 A4 2 0 1 0 16.000 2.501 A4 2 0 1 0 8.000 2.501 Z', 'M8,5.5c0,1.1,1.791,2,4,2s4-.9,4-2', 'M16,2.5v6c0,1.1-1.791,2-4,2s-4-.9-4-2v-6', 'M3.5 23.501L8.5 23.501', 'M6 21.501L6 23.501', 'M1 19.501L11 19.501', 'M9.5,14.5A1.5,1.5,0,0,1,11,16v3.912A1.545,1.545,0,0,1,9.5,21.5h-7A1.546,1.546,0,0,1,1,19.913V16a1.5,1.5,0,0,1,1.5-1.5Z', 'M15.5 23.501L20.5 23.501', 'M18 21.501L18 23.501', 'M13 19.501L23 19.501', 'M21.5,14.5A1.5,1.5,0,0,1,23,16v3.912A1.545,1.545,0,0,1,21.5,21.5h-7A1.546,1.546,0,0,1,13,19.913V16a1.5,1.5,0,0,1,1.5-1.5Z', 'M18 6.501L21 6.501 21 11.501', 'M6 6.501L3 6.501 3 11.501' ] ],
-  DatabaseSubtract:
-   [ 'database-subtract',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M19.522,4.526c0,2.205-4.254,4-9.5,4s-9.5-1.795-9.5-4S4.776.5,10.022.5,19.522,2.315,19.522,4.526Z', 'M10.022,12.526c-5.246,0-9.5-1.795-9.5-4', 'M8.522,16.975c-4.533-.3-8-1.958-8-3.949', 'M9.022,21.493c-4.776-.212-8.5-1.9-8.5-3.967V4.5', 'M19.522 4.501L19.522 9.001', 'M11.519 17.501 A6.000 6.000 0 1 0 23.519 17.501 A6.000 6.000 0 1 0 11.519 17.501 Z', 'M20.519 17.501L14.519 17.501' ] ],
   DatabaseWarning:
    [ 'database-warning',
      24,

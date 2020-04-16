@@ -13,5 +13,6 @@ import Jewelry from "./Jewelry.js"
 import Legal from "./Legal.js"
 import Safe from "./Safe.js"
 import Wallet from "./Wallet.js"
+import index from "./index.js"
 
-export default { ATM, Bags, Bank, BuildingStore, Cart, Cash, Cashier, Categories, Currency, GiftPresent, Graphs, Jewelry, Legal, Safe, Wallet }
+export default { ATM, Bags, Bank, BuildingStore, Cart, Cash, Cashier, Categories, Currency, GiftPresent, Graphs, Jewelry, Legal, Safe, Wallet, index }

@@ -5,5 +5,6 @@ import Modules from "./Modules.js"
 import RSS from "./RSS.js"
 import Script from "./Script.js"
 import Web from "./Web.js"
+import index from "./index.js"
 
-export default { Browser, Bugs, Clouds, Modules, RSS, Script, Web }
+export default { Browser, Bugs, Clouds, Modules, RSS, Script, Web, index }

@@ -33,5 +33,6 @@ import UploadDownload from "./UploadDownload.js"
 import User from "./User.js"
 import Validation from "./Validation.js"
 import Weather from "./Weather.js"
+import index from "./index.js"
 
-export default { AddRemoveDelete, Alerts, Align, Arrows, BookmarkFavorite, Calendar, Content, Cursor, Dashboard, Edit, FilesFolders, GeometricShape, Help, Hierarchy, Home, ID, Layouts, Lighting, LinkUnlink, LockUnlock, LoginLogout, PageController, Presentation, Search, Security, Setting, Share, Signal, TextFormatting, Time, TrophyAward, UploadDownload, User, Validation, Weather }
+export default { AddRemoveDelete, Alerts, Align, Arrows, BookmarkFavorite, Calendar, Content, Cursor, Dashboard, Edit, FilesFolders, GeometricShape, Help, Hierarchy, Home, ID, Layouts, Lighting, LinkUnlink, LockUnlock, LoginLogout, PageController, Presentation, Search, Security, Setting, Share, Signal, TextFormatting, Time, TrophyAward, UploadDownload, User, Validation, Weather, index }

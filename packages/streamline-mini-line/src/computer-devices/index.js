@@ -16,5 +16,6 @@ import Storage from "./Storage.js"
 import VirtualReality from "./VirtualReality.js"
 import VoiceMail from "./VoiceMail.js"
 import Webcam from "./Webcam.js"
+import index from "./index.js"
 
-export default { Battery, Chips, Computer, Connection, Controller, Database, Handheld, Keyboard, Logo, Mouse, Printer, Robot, Screens, Smartwatch, Storage, VirtualReality, VoiceMail, Webcam }
+export default { Battery, Chips, Computer, Connection, Controller, Database, Handheld, Keyboard, Logo, Mouse, Printer, Robot, Screens, Smartwatch, Storage, VirtualReality, VoiceMail, Webcam, index }

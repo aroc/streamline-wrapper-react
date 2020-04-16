@@ -33,5 +33,5 @@
   "dependencies": {
     "@babel/polyfill": "^7.8.7"
   },
-  "gitHead": "ca30feaafd1ad8f079db9755b9414de1a46f25f3"
+  "gitHead": "e79804eb2a00ff818c92b184ebc31c9876b7cdad"
 }

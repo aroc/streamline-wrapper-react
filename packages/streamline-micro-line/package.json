@@ -27,7 +27,8 @@
     "url": "git+https://github.com/webalys-hq/streamline-icons.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "npx babel src -d lib --config-file ../../babel.config.js"
   },
   "bugs": {
     "url": "https://github.com/webalys-hq/streamline-icons/issues"

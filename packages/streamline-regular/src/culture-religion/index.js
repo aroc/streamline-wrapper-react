@@ -4,4 +4,4 @@ import PrimitiveSymbols from "./PrimitiveSymbols.js"
 import Religion from "./Religion.js"
 import index from "./index.js"
 
-export default { AstrologyMagic, HistoryFolklore, PrimitiveSymbols, Religion, index }
+export { AstrologyMagic, HistoryFolklore, PrimitiveSymbols, Religion, index }

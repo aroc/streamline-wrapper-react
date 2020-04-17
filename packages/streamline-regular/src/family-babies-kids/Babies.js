@@ -1,10 +1,4 @@
-export default { BabyHeart:
-   [ 'baby-heart',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M9,10.5a1.875,1.875,0,0,1-3,0', 'M11.25,22.468a8.067,8.067,0,0,1-3.475.782A7.028,7.028,0,0,1,.75,16.435l0-8.935', 'M0.75 15L8.114 19.295', 'M17.25,23.25l-5.114-5.335a3.023,3.023,0,0,1-.566-3.492h0a3.025,3.025,0,0,1,4.845-.786l.835.835.835-.835a3.026,3.026,0,0,1,4.846.786h0a3.025,3.025,0,0,1-.567,3.492Z', 'M8.25,14.209a6.869,6.869,0,0,1-.75.041,6.743,6.743,0,1,1,6.366-4.5', 'M8.652,6a1.5,1.5,0,0,1,2.6,0', 'M3.75,6a1.5,1.5,0,0,1,2.6,0' ] ],
-  BabyNewborn:
+export default { BabyNewborn:
    [ 'baby-newborn',
      24,
      24,
@@ -141,4 +135,10 @@ export default { BabyHeart:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M8.625,12.5A.375.375,0,0,1,9,12.875', 'M8.25,12.875a.375.375,0,0,1,.375-.375', 'M8.625,13.25a.375.375,0,0,1-.375-.375', 'M9,12.875a.375.375,0,0,1-.375.375', 'M15.375,12.5a.375.375,0,0,1,.375.375', 'M15,12.875a.375.375,0,0,1,.375-.375', 'M15.375,13.25A.375.375,0,0,1,15,12.875', 'M15.75,12.875a.375.375,0,0,1-.375.375', 'M20.625,11.375h-.014a9,9,0,0,0-17.222,0H3.375a2.625,2.625,0,0,0,0,5.25h.014a9,9,0,0,0,17.222,0h.014a2.625,2.625,0,0,0,0-5.25Z', 'M15.354,17.75a4.5,4.5,0,0,1-6.708,0', 'M14.488,1.25A4.5,4.5,0,1,1,7.642,6.124' ] ] }
+     [ 'M8.625,12.5A.375.375,0,0,1,9,12.875', 'M8.25,12.875a.375.375,0,0,1,.375-.375', 'M8.625,13.25a.375.375,0,0,1-.375-.375', 'M9,12.875a.375.375,0,0,1-.375.375', 'M15.375,12.5a.375.375,0,0,1,.375.375', 'M15,12.875a.375.375,0,0,1,.375-.375', 'M15.375,13.25A.375.375,0,0,1,15,12.875', 'M15.75,12.875a.375.375,0,0,1-.375.375', 'M20.625,11.375h-.014a9,9,0,0,0-17.222,0H3.375a2.625,2.625,0,0,0,0,5.25h.014a9,9,0,0,0,17.222,0h.014a2.625,2.625,0,0,0,0-5.25Z', 'M15.354,17.75a4.5,4.5,0,0,1-6.708,0', 'M14.488,1.25A4.5,4.5,0,1,1,7.642,6.124' ] ],
+  BabyHeart:
+   [ 'baby-heart',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M9,10.5a1.875,1.875,0,0,1-3,0', 'M11.25,22.468a8.067,8.067,0,0,1-3.475.782A7.028,7.028,0,0,1,.75,16.435l0-8.935', 'M0.75 15L8.114 19.295', 'M17.25,23.25l-5.114-5.335a3.023,3.023,0,0,1-.566-3.492h0a3.025,3.025,0,0,1,4.845-.786l.835.835.835-.835a3.026,3.026,0,0,1,4.846.786h0a3.025,3.025,0,0,1-.567,3.492Z', 'M8.25,14.209a6.869,6.869,0,0,1-.75.041,6.743,6.743,0,1,1,6.366-4.5', 'M8.652,6a1.5,1.5,0,0,1,2.6,0', 'M3.75,6a1.5,1.5,0,0,1,2.6,0' ] ] }

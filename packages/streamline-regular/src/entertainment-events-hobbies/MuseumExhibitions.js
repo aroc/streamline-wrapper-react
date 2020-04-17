@@ -1,10 +1,4 @@
-export default { MuseumPerson:
-   [ 'museum-person',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M1.500 6.750 A3.000 3.000 0 1 0 7.500 6.750 A3.000 3.000 0 1 0 1.500 6.750 Z', 'M8.25,17.25V15a3.75,3.75,0,0,0-7.5,0v2.25h1.5l.75,6H6l.75-6Z', 'M11.250 0.750 L23.250 0.750 L23.250 14.250 L11.250 14.250 Z', 'M14.25 3.75H20.25V11.25H14.25z', 'M23.25 17.25L23.25 23.25', 'M11.25 17.25L11.25 23.25', 'M23.25,18.75a8.613,8.613,0,0,1-6,2.25,8.613,8.613,0,0,1-6-2.25' ] ],
-  MuseumArt:
+export default { MuseumArt:
    [ 'museum-art',
      24,
      24,
@@ -31,4 +25,10 @@ export default { MuseumPerson:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M5.25 15L5.25 23.25', 'M18.75 15L18.75 23.25', 'M18.75,16.484a15.785,15.785,0,0,1-13.5,0', 'M23.25,17.841a15.648,15.648,0,0,1-4.5-1.357', 'M.75,17.841a15.648,15.648,0,0,0,4.5-1.357', 'M3.000 0.750 L21.000 0.750 L21.000 12.000 L3.000 12.000 Z', 'M6,9,9.236,4.77a.75.75,0,0,1,1.095-.062l2.612,2.836', 'M12,9l3.17-4.9a.75.75,0,0,1,1.236-.053L18,6' ] ] }
+     [ 'M5.25 15L5.25 23.25', 'M18.75 15L18.75 23.25', 'M18.75,16.484a15.785,15.785,0,0,1-13.5,0', 'M23.25,17.841a15.648,15.648,0,0,1-4.5-1.357', 'M.75,17.841a15.648,15.648,0,0,0,4.5-1.357', 'M3.000 0.750 L21.000 0.750 L21.000 12.000 L3.000 12.000 Z', 'M6,9,9.236,4.77a.75.75,0,0,1,1.095-.062l2.612,2.836', 'M12,9l3.17-4.9a.75.75,0,0,1,1.236-.053L18,6' ] ],
+  MuseumPerson:
+   [ 'museum-person',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M1.500 6.750 A3.000 3.000 0 1 0 7.500 6.750 A3.000 3.000 0 1 0 1.500 6.750 Z', 'M8.25,17.25V15a3.75,3.75,0,0,0-7.5,0v2.25h1.5l.75,6H6l.75-6Z', 'M11.250 0.750 L23.250 0.750 L23.250 14.250 L11.250 14.250 Z', 'M14.25 3.75H20.25V11.25H14.25z', 'M23.25 17.25L23.25 23.25', 'M11.25 17.25L11.25 23.25', 'M23.25,18.75a8.613,8.613,0,0,1-6,2.25,8.613,8.613,0,0,1-6-2.25' ] ] }

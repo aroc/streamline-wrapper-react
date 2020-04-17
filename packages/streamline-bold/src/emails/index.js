@@ -7,4 +7,4 @@ import SendEmail from "./SendEmail.js"
 import Stamps from "./Stamps.js"
 import index from "./index.js"
 
-export default { Drawers, EmailActions, Envelopes, Mailbox, ReadEmail, SendEmail, Stamps, index }
+export { Drawers, EmailActions, Envelopes, Mailbox, ReadEmail, SendEmail, Stamps, index }

@@ -1,10 +1,4 @@
-export default { PlaneBoardingPass:
-   [ 'plane-boarding-pass',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 3.000 L23.250 3.000 L23.250 21.000 L0.750 21.000 Z', 'M17.777,7.609,8.891,10.6,7.7,9.413l-1.766.593a.75.75,0,0,0-.32,1.211L8.005,13.89a1.5,1.5,0,0,0,1.6.423l2.617-.88-.53,3.781a.749.749,0,0,0,.981.815l1.361-.457a.751.751,0,0,0,.46-.44L16.484,12l2.488-.837a1.875,1.875,0,1,0-1.2-3.554Z', 'M15.289,8.445l-2.78-1.914a.746.746,0,0,0-.664-.093l-1.338.449a.75.75,0,0,0-.29,1.243l1.517,1.51', 'M3.75 6L3.75 7.5', 'M3.75 16.5L3.75 18' ] ],
-  PlaneBoard:
+export default { PlaneBoard:
    [ 'plane-board',
      24,
      24,
@@ -62,4 +56,10 @@ export default { PlaneBoardingPass:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 2.250 L23.250 2.250 L23.250 21.750 L0.750 21.750 Z', 'M3.75 5.25L3.75 7.5 9.75 9', 'M6.75 8.25L6.75 5.25', 'M14.25 6.75L14.25 9 20.25 7.5', 'M17.25 8.25L17.25 5.25', 'M3.75 12.75L4.5 12.75', 'M7.5 12.75L10.5 12.75', 'M3.75 15.75L4.5 15.75', 'M7.5 15.75L10.5 15.75', 'M3.75 18.75L4.5 18.75', 'M7.5 18.75L10.5 18.75', 'M13.5 12.75L14.25 12.75', 'M17.25 12.75L20.25 12.75', 'M13.5 15.75L14.25 15.75', 'M17.25 15.75L20.25 15.75', 'M13.5 18.75L14.25 18.75', 'M17.25 18.75L20.25 18.75' ] ] }
+     [ 'M0.750 2.250 L23.250 2.250 L23.250 21.750 L0.750 21.750 Z', 'M3.75 5.25L3.75 7.5 9.75 9', 'M6.75 8.25L6.75 5.25', 'M14.25 6.75L14.25 9 20.25 7.5', 'M17.25 8.25L17.25 5.25', 'M3.75 12.75L4.5 12.75', 'M7.5 12.75L10.5 12.75', 'M3.75 15.75L4.5 15.75', 'M7.5 15.75L10.5 15.75', 'M3.75 18.75L4.5 18.75', 'M7.5 18.75L10.5 18.75', 'M13.5 12.75L14.25 12.75', 'M17.25 12.75L20.25 12.75', 'M13.5 15.75L14.25 15.75', 'M17.25 15.75L20.25 15.75', 'M13.5 18.75L14.25 18.75', 'M17.25 18.75L20.25 18.75' ] ],
+  PlaneBoardingPass:
+   [ 'plane-boarding-pass',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.750 3.000 L23.250 3.000 L23.250 21.000 L0.750 21.000 Z', 'M17.777,7.609,8.891,10.6,7.7,9.413l-1.766.593a.75.75,0,0,0-.32,1.211L8.005,13.89a1.5,1.5,0,0,0,1.6.423l2.617-.88-.53,3.781a.749.749,0,0,0,.981.815l1.361-.457a.751.751,0,0,0,.46-.44L16.484,12l2.488-.837a1.875,1.875,0,1,0-1.2-3.554Z', 'M15.289,8.445l-2.78-1.914a.746.746,0,0,0-.664-.093l-1.338.449a.75.75,0,0,0-.29,1.243l1.517,1.51', 'M3.75 6L3.75 7.5', 'M3.75 16.5L3.75 18' ] ] }

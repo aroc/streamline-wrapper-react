@@ -11,4 +11,4 @@ import WeatherApps from "./WeatherApps.js"
 import Wind from "./Wind.js"
 import index from "./index.js"
 
-export default { DayNight, Humidity, IceSnow, NaturalDisasters, Rain, Temperatures, UV, Visibility, Weather, WeatherApps, Wind, index }
+export { DayNight, Humidity, IceSnow, NaturalDisasters, Rain, Temperatures, UV, Visibility, Weather, WeatherApps, Wind, index }

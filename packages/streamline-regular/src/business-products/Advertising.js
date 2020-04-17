@@ -1,16 +1,4 @@
-export default { AdsWindow:
-   [ 'ads-window',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 0.750 L23.250 0.750 L23.250 23.250 L0.750 23.250 Z', 'M20.25 6.75L17.25 3.75', 'M20.25 3.75L17.25 6.75', 'M20.25,10.5h-1.5a1.5,1.5,0,0,0-1.5,1.5c0,2.25,3,2.25,3,4.5a1.5,1.5,0,0,1-1.5,1.5h-1.5', 'M5.25,18V12a1.5,1.5,0,0,1,3,0v6', 'M5.25 15L8.25 15', 'M11.25,18a3,3,0,0,0,3-3V13.5a3,3,0,0,0-3-3Z' ] ],
-  AdvertisingMegaphone:
-   [ 'advertising-megaphone',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M3.132,12.8l.448-1.175L2.534,8.881a.929.929,0,0,1,.36-1.107L5.352,6.169l.767-2.834a.928.928,0,0,1,.942-.684L9.993,2.8,12.279.955a.928.928,0,0,1,1.165,0L15.73,2.8l2.932-.146a.928.928,0,0,1,.942.684l.767,2.834,2.458,1.605a.928.928,0,0,1,.36,1.107l-1.045,2.744,1.045,2.743a.929.929,0,0,1-.36,1.108l-2.458,1.6L19.6,19.914a.927.927,0,0,1-.942.685l-2.932-.146-2.286,1.841', 'M0.75 19.769L2.406 22.378', 'M9.908 8.147L16.202 18.063', 'M15.871 17.541L2.075 21.857 1.081 20.291 10.239 8.669 15.871 17.541z', 'M5.056,20.924l.876,1.346a2.041,2.041,0,0,0,2.906.614,2.256,2.256,0,0,0,.587-3.04l-.163-.236' ] ],
-  Invitation:
+export default { Invitation:
    [ 'invitation',
      24,
      24,
@@ -68,4 +56,16 @@ export default { AdsWindow:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M19.5,12.879V2.25A1.5,1.5,0,0,0,18,.75H6a1.5,1.5,0,0,0-1.5,1.5V12.879', 'M21.284,11.464a.751.751,0,0,1,1.216.588v9.7a1.5,1.5,0,0,1-1.5,1.5H3a1.5,1.5,0,0,1-1.5-1.5v-9.7a.751.751,0,0,1,1.216-.588l7.431,5.9a3,3,0,0,0,3.706,0Z', 'M15.808 15.808L18.75 18.75', 'M8.192 15.808L5.25 18.75', 'M16.606 3.646L14.55 10.5 9 10.5 7.5 6 15.9 6', 'M9.375,12.75A.375.375,0,1,1,9,13.125a.375.375,0,0,1,.375-.375', 'M14.175,12.75a.375.375,0,1,1-.375.375.375.375,0,0,1,.375-.375' ] ] }
+     [ 'M19.5,12.879V2.25A1.5,1.5,0,0,0,18,.75H6a1.5,1.5,0,0,0-1.5,1.5V12.879', 'M21.284,11.464a.751.751,0,0,1,1.216.588v9.7a1.5,1.5,0,0,1-1.5,1.5H3a1.5,1.5,0,0,1-1.5-1.5v-9.7a.751.751,0,0,1,1.216-.588l7.431,5.9a3,3,0,0,0,3.706,0Z', 'M15.808 15.808L18.75 18.75', 'M8.192 15.808L5.25 18.75', 'M16.606 3.646L14.55 10.5 9 10.5 7.5 6 15.9 6', 'M9.375,12.75A.375.375,0,1,1,9,13.125a.375.375,0,0,1,.375-.375', 'M14.175,12.75a.375.375,0,1,1-.375.375.375.375,0,0,1,.375-.375' ] ],
+  AdsWindow:
+   [ 'ads-window',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.750 0.750 L23.250 0.750 L23.250 23.250 L0.750 23.250 Z', 'M20.25 6.75L17.25 3.75', 'M20.25 3.75L17.25 6.75', 'M20.25,10.5h-1.5a1.5,1.5,0,0,0-1.5,1.5c0,2.25,3,2.25,3,4.5a1.5,1.5,0,0,1-1.5,1.5h-1.5', 'M5.25,18V12a1.5,1.5,0,0,1,3,0v6', 'M5.25 15L8.25 15', 'M11.25,18a3,3,0,0,0,3-3V13.5a3,3,0,0,0-3-3Z' ] ],
+  AdvertisingMegaphone:
+   [ 'advertising-megaphone',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M3.132,12.8l.448-1.175L2.534,8.881a.929.929,0,0,1,.36-1.107L5.352,6.169l.767-2.834a.928.928,0,0,1,.942-.684L9.993,2.8,12.279.955a.928.928,0,0,1,1.165,0L15.73,2.8l2.932-.146a.928.928,0,0,1,.942.684l.767,2.834,2.458,1.605a.928.928,0,0,1,.36,1.107l-1.045,2.744,1.045,2.743a.929.929,0,0,1-.36,1.108l-2.458,1.6L19.6,19.914a.927.927,0,0,1-.942.685l-2.932-.146-2.286,1.841', 'M0.75 19.769L2.406 22.378', 'M9.908 8.147L16.202 18.063', 'M15.871 17.541L2.075 21.857 1.081 20.291 10.239 8.669 15.871 17.541z', 'M5.056,20.924l.876,1.346a2.041,2.041,0,0,0,2.906.614,2.256,2.256,0,0,0,.587-3.04l-.163-.236' ] ] }

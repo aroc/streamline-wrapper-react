@@ -1,16 +1,4 @@
-export default { NauticSportsWaterSkiing:
-   [ 'nautic-sports-water-skiing',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M1.875 3.665 A2.625 2.625 0 1 0 7.125 3.665 A2.625 2.625 0 1 0 1.875 3.665 Z', 'M9.136,22.665l-1.8-4.2a.754.754,0,0,0-.543-.44l-2.589-.517a1.5,1.5,0,0,1-1.16-1.106l-1.5-6A1.5,1.5,0,0,1,3,8.54h7.5a1.5,1.5,0,0,1,0,3H4.922l.8,3.215L7,15.01a4.5,4.5,0,0,1,3.254,2.64l1.5,3.505', 'M12 10.04L23.25 10.04', 'M12.255,21.163l4.078-2.039a4.5,4.5,0,0,0,2.256-2.6l.161-.482', 'M.75,22.75a4.666,4.666,0,0,0,3.75-1.9,4.649,4.649,0,0,0,7.5,0,4.649,4.649,0,0,0,7.5,0,4.666,4.666,0,0,0,3.75,1.9' ] ],
-  NauticSportsSurfingWater:
-   [ 'nautic-sports-surfing-water',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M14.625 3.625 A2.625 2.625 0 1 0 19.875 3.625 A2.625 2.625 0 1 0 14.625 3.625 Z', 'M16.454,18.993a1.49,1.49,0,0,0,.046-.368V15.678a3,3,0,0,0-1.336-2.5l-.57-.38.7-1.758a12.508,12.508,0,0,1,1.616.91l4,2.669a1.5,1.5,0,1,0,1.665-2.5l-4-2.669a15.539,15.539,0,0,0-6.668-2.48,4.494,4.494,0,0,1-3.186-1.97,1.5,1.5,0,0,0-2.5,1.664A7.486,7.486,0,0,0,10.5,9.75L9.29,10.964a3.01,3.01,0,0,0-.79,2.848l.3,1.211L6.6,16.675a1.5,1.5,0,0,0-.473.6', 'M9.954,17.909l.648-.485A3,3,0,0,0,11.757,14.5c.05.044,1.743,1.18,1.743,1.18V18.5', 'M0.75 19.375L23.25 23.125', 'M2.137,19.606l-.844,2.532a.751.751,0,0,0,1.022.92l5.509-2.5' ] ],
-  NauticSportsSurfing:
+export default { NauticSportsSurfing:
    [ 'nautic-sports-surfing',
      24,
      24,
@@ -29,4 +17,16 @@ export default { NauticSportsWaterSkiing:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M1.125 8.157 A2.625 2.625 0 1 0 6.375 8.157 A2.625 2.625 0 1 0 1.125 8.157 Z', 'M9,19.032H7.6a3.016,3.016,0,0,1-2.573-1.456L3.214,14.554a1.5,1.5,0,0,1,.992-2.242L6,11.953a3.009,3.009,0,0,0,1.985-1.4L9.214,8.51a1.5,1.5,0,1,1,2.572,1.544L10.56,12.1A6.013,6.013,0,0,1,6.877,14.83l.723,1.2H9a6.029,6.029,0,0,1,3.724,1.3', 'M8.8,1a.75.75,0,0,0-.659,1.127L17.013,17.34a.75.75,0,0,0,1.356-.131,8.187,8.187,0,0,1,4.276-4.646.748.748,0,0,0,.36-.948C22.048,9.211,18.138,1.13,8.8,1Z', 'M10.563 6.282L19.796 6.282', 'M13.188 10.782L22.648 10.782', 'M.75,22.75a4.666,4.666,0,0,0,3.75-1.9,4.649,4.649,0,0,0,7.5,0,4.649,4.649,0,0,0,7.5,0,4.666,4.666,0,0,0,3.75,1.9' ] ] }
+     [ 'M1.125 8.157 A2.625 2.625 0 1 0 6.375 8.157 A2.625 2.625 0 1 0 1.125 8.157 Z', 'M9,19.032H7.6a3.016,3.016,0,0,1-2.573-1.456L3.214,14.554a1.5,1.5,0,0,1,.992-2.242L6,11.953a3.009,3.009,0,0,0,1.985-1.4L9.214,8.51a1.5,1.5,0,1,1,2.572,1.544L10.56,12.1A6.013,6.013,0,0,1,6.877,14.83l.723,1.2H9a6.029,6.029,0,0,1,3.724,1.3', 'M8.8,1a.75.75,0,0,0-.659,1.127L17.013,17.34a.75.75,0,0,0,1.356-.131,8.187,8.187,0,0,1,4.276-4.646.748.748,0,0,0,.36-.948C22.048,9.211,18.138,1.13,8.8,1Z', 'M10.563 6.282L19.796 6.282', 'M13.188 10.782L22.648 10.782', 'M.75,22.75a4.666,4.666,0,0,0,3.75-1.9,4.649,4.649,0,0,0,7.5,0,4.649,4.649,0,0,0,7.5,0,4.666,4.666,0,0,0,3.75,1.9' ] ],
+  NauticSportsWaterSkiing:
+   [ 'nautic-sports-water-skiing',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M1.875 3.665 A2.625 2.625 0 1 0 7.125 3.665 A2.625 2.625 0 1 0 1.875 3.665 Z', 'M9.136,22.665l-1.8-4.2a.754.754,0,0,0-.543-.44l-2.589-.517a1.5,1.5,0,0,1-1.16-1.106l-1.5-6A1.5,1.5,0,0,1,3,8.54h7.5a1.5,1.5,0,0,1,0,3H4.922l.8,3.215L7,15.01a4.5,4.5,0,0,1,3.254,2.64l1.5,3.505', 'M12 10.04L23.25 10.04', 'M12.255,21.163l4.078-2.039a4.5,4.5,0,0,0,2.256-2.6l.161-.482', 'M.75,22.75a4.666,4.666,0,0,0,3.75-1.9,4.649,4.649,0,0,0,7.5,0,4.649,4.649,0,0,0,7.5,0,4.666,4.666,0,0,0,3.75,1.9' ] ],
+  NauticSportsSurfingWater:
+   [ 'nautic-sports-surfing-water',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M14.625 3.625 A2.625 2.625 0 1 0 19.875 3.625 A2.625 2.625 0 1 0 14.625 3.625 Z', 'M16.454,18.993a1.49,1.49,0,0,0,.046-.368V15.678a3,3,0,0,0-1.336-2.5l-.57-.38.7-1.758a12.508,12.508,0,0,1,1.616.91l4,2.669a1.5,1.5,0,1,0,1.665-2.5l-4-2.669a15.539,15.539,0,0,0-6.668-2.48,4.494,4.494,0,0,1-3.186-1.97,1.5,1.5,0,0,0-2.5,1.664A7.486,7.486,0,0,0,10.5,9.75L9.29,10.964a3.01,3.01,0,0,0-.79,2.848l.3,1.211L6.6,16.675a1.5,1.5,0,0,0-.473.6', 'M9.954,17.909l.648-.485A3,3,0,0,0,11.757,14.5c.05.044,1.743,1.18,1.743,1.18V18.5', 'M0.75 19.375L23.25 23.125', 'M2.137,19.606l-.844,2.532a.751.751,0,0,0,1.022.92l5.509-2.5' ] ] }

@@ -1,10 +1,4 @@
-export default { SailingBoatWater:
-   [ 'sailing-boat-water',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M17.25,19.536A4.681,4.681,0,0,0,19.3,17.33l.892-2.067a.769.769,0,0,0-.808-1.013H4.612A.769.769,0,0,0,3.8,15.263L4.7,17.33a4.683,4.683,0,0,0,2.052,2.207', 'M21,20.25a3,3,0,0,0,2.25,2.905', 'M15,20.25a3,3,0,1,0,6,0', 'M9,20.25a3,3,0,0,0,6,0', 'M3,20.25a3,3,0,0,0,6,0', 'M.75,23.155A3,3,0,0,0,3,20.25', 'M12.748 14.25L12.748 0.75 5.998 9.75 12.75 9.75', 'M4.498 9.75L5.998 9.75' ] ],
-  SailingArchor:
+export default { SailingArchor:
    [ 'sailing-archor',
      24,
      24,
@@ -26,4 +20,10 @@ export default { SailingBoatWater:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M.75,19.5V16.2a1.5,1.5,0,0,1,1.887-1.449l16.128,4.3', 'M12.750 15.714 A2.250 2.250 0 1 0 17.250 15.714 A2.250 2.250 0 1 0 12.750 15.714 Z', 'M19.966 14.906L23.25 15.93', 'M11.374 12.227L2.782 9.547', 'M23.25,5.717,9.65,1.476a.75.75,0,0,0-.968.8,9.59,9.59,0,0,0,6.671,8.046l7.9,2.462', 'M15 3.144L18 0.75', 'M23.25,23.25a3.449,3.449,0,0,1-2.812-1.5,3.387,3.387,0,0,1-5.625,0,3.387,3.387,0,0,1-5.625,0,3.451,3.451,0,0,1-2.813,1.5,3.448,3.448,0,0,1-2.812-1.5A3.451,3.451,0,0,1,.75,23.25' ] ] }
+     [ 'M.75,19.5V16.2a1.5,1.5,0,0,1,1.887-1.449l16.128,4.3', 'M12.750 15.714 A2.250 2.250 0 1 0 17.250 15.714 A2.250 2.250 0 1 0 12.750 15.714 Z', 'M19.966 14.906L23.25 15.93', 'M11.374 12.227L2.782 9.547', 'M23.25,5.717,9.65,1.476a.75.75,0,0,0-.968.8,9.59,9.59,0,0,0,6.671,8.046l7.9,2.462', 'M15 3.144L18 0.75', 'M23.25,23.25a3.449,3.449,0,0,1-2.812-1.5,3.387,3.387,0,0,1-5.625,0,3.387,3.387,0,0,1-5.625,0,3.451,3.451,0,0,1-2.813,1.5,3.448,3.448,0,0,1-2.812-1.5A3.451,3.451,0,0,1,.75,23.25' ] ],
+  SailingBoatWater:
+   [ 'sailing-boat-water',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M17.25,19.536A4.681,4.681,0,0,0,19.3,17.33l.892-2.067a.769.769,0,0,0-.808-1.013H4.612A.769.769,0,0,0,3.8,15.263L4.7,17.33a4.683,4.683,0,0,0,2.052,2.207', 'M21,20.25a3,3,0,0,0,2.25,2.905', 'M15,20.25a3,3,0,1,0,6,0', 'M9,20.25a3,3,0,0,0,6,0', 'M3,20.25a3,3,0,0,0,6,0', 'M.75,23.155A3,3,0,0,0,3,20.25', 'M12.748 14.25L12.748 0.75 5.998 9.75 12.75 9.75', 'M4.498 9.75L5.998 9.75' ] ] }

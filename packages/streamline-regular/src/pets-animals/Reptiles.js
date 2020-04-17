@@ -1,16 +1,4 @@
-export default { ReptileCrocodile:
-   [ 'reptile-crocodile',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M6,18A5.251,5.251,0,0,1,.75,12.75C.75,9.851,3,7.5,5.25,7.5L6.75,6l1.5,1.5L9.75,6l1.5,1.5h1.5a3.344,3.344,0,0,1,3-2.25,3.344,3.344,0,0,1,3,2.25h4.5', 'M23.25,6V9a1.5,1.5,0,0,1-1.5,1.5h-3a1.51,1.51,0,1,0,0,3H22.5', 'M4.5,15s0-1.5,3-1.5h6.75', 'M13.5 13.5L13.5 16.5 15 16.5', 'M8.25 13.5L8.25 16.5 9.75 16.5', 'M15.75,7.875a.375.375,0,0,1,.375.375', 'M15.375,8.25a.375.375,0,0,1,.375-.375', 'M15.75,8.625a.375.375,0,0,1-.375-.375', 'M16.125,8.25a.375.375,0,0,1-.375.375' ] ],
-  ReptileCobra:
-   [ 'reptile-cobra',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M14.26,21.75v-6a5.064,5.064,0,0,1,3-4.5c2.25-.75,3.75-2.015,3.75-4.5a4.5,4.5,0,0,0-4.5-4.5H8.26a4.5,4.5,0,0,0-4.5,4.5c0,2.485,1.5,3.75,3.75,4.5a5.064,5.064,0,0,1,3,4.5v3C10.51,21,11.26,21.75,14.26,21.75Z', 'M14.26,21.75h7.125a1.875,1.875,0,1,0,0-3.75H14.26', 'M10.51,18H2.635a1.875,1.875,0,1,0,0,3.75H7.51', 'M8.26 2.25L12.385 6.75 16.51 2.25 8.26 2.25z', 'M12.385 6.75L12.385 8.25', 'M10.735 9.75L12.385 8.25 14.035 9.75' ] ],
-  ReptileCrocodileWater:
+export default { ReptileCrocodileWater:
    [ 'reptile-crocodile-water',
      24,
      24,
@@ -65,4 +53,16 @@ export default { ReptileCrocodile:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M20.26,17.25H3.76a3,3,0,1,0,0,6h16.5a3,3,0,1,0,0-6Z', 'M19.51,12.75h-15a2.25,2.25,0,1,0,0,4.5h15a2.25,2.25,0,1,0,0-4.5Z', 'M4.51,12.75c-2.25-1.5-1.5-5.25-1.5-5.25h3a5.25,5.25,0,0,0,10.5,0H14.26a2.4,2.4,0,0,1-2.25-2.25c0-.75,1.5-2.25,3-2.25,0-3,5.25-3,5.25,0a4.492,4.492,0,0,1,2.25,4.5,7.87,7.87,0,0,1-2.346,5.346', 'M2.26 7.5L6.76 7.5', 'M3.01 4.5L6.01 4.5', 'M3.76 1.5L5.26 1.5', 'M17.635,3.75a.375.375,0,0,0-.375.375', 'M18.01,4.125a.375.375,0,0,0-.375-.375', 'M17.635,4.5a.375.375,0,0,0,.375-.375', 'M17.26,4.125a.375.375,0,0,0,.375.375' ] ] }
+     [ 'M20.26,17.25H3.76a3,3,0,1,0,0,6h16.5a3,3,0,1,0,0-6Z', 'M19.51,12.75h-15a2.25,2.25,0,1,0,0,4.5h15a2.25,2.25,0,1,0,0-4.5Z', 'M4.51,12.75c-2.25-1.5-1.5-5.25-1.5-5.25h3a5.25,5.25,0,0,0,10.5,0H14.26a2.4,2.4,0,0,1-2.25-2.25c0-.75,1.5-2.25,3-2.25,0-3,5.25-3,5.25,0a4.492,4.492,0,0,1,2.25,4.5,7.87,7.87,0,0,1-2.346,5.346', 'M2.26 7.5L6.76 7.5', 'M3.01 4.5L6.01 4.5', 'M3.76 1.5L5.26 1.5', 'M17.635,3.75a.375.375,0,0,0-.375.375', 'M18.01,4.125a.375.375,0,0,0-.375-.375', 'M17.635,4.5a.375.375,0,0,0,.375-.375', 'M17.26,4.125a.375.375,0,0,0,.375.375' ] ],
+  ReptileCrocodile:
+   [ 'reptile-crocodile',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M6,18A5.251,5.251,0,0,1,.75,12.75C.75,9.851,3,7.5,5.25,7.5L6.75,6l1.5,1.5L9.75,6l1.5,1.5h1.5a3.344,3.344,0,0,1,3-2.25,3.344,3.344,0,0,1,3,2.25h4.5', 'M23.25,6V9a1.5,1.5,0,0,1-1.5,1.5h-3a1.51,1.51,0,1,0,0,3H22.5', 'M4.5,15s0-1.5,3-1.5h6.75', 'M13.5 13.5L13.5 16.5 15 16.5', 'M8.25 13.5L8.25 16.5 9.75 16.5', 'M15.75,7.875a.375.375,0,0,1,.375.375', 'M15.375,8.25a.375.375,0,0,1,.375-.375', 'M15.75,8.625a.375.375,0,0,1-.375-.375', 'M16.125,8.25a.375.375,0,0,1-.375.375' ] ],
+  ReptileCobra:
+   [ 'reptile-cobra',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M14.26,21.75v-6a5.064,5.064,0,0,1,3-4.5c2.25-.75,3.75-2.015,3.75-4.5a4.5,4.5,0,0,0-4.5-4.5H8.26a4.5,4.5,0,0,0-4.5,4.5c0,2.485,1.5,3.75,3.75,4.5a5.064,5.064,0,0,1,3,4.5v3C10.51,21,11.26,21.75,14.26,21.75Z', 'M14.26,21.75h7.125a1.875,1.875,0,1,0,0-3.75H14.26', 'M10.51,18H2.635a1.875,1.875,0,1,0,0,3.75H7.51', 'M8.26 2.25L12.385 6.75 16.51 2.25 8.26 2.25z', 'M12.385 6.75L12.385 8.25', 'M10.735 9.75L12.385 8.25 14.035 9.75' ] ] }

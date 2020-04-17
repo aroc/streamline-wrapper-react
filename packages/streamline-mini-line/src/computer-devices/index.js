@@ -18,4 +18,4 @@ import VoiceMail from "./VoiceMail.js"
 import Webcam from "./Webcam.js"
 import index from "./index.js"
 
-export default { Battery, Chips, Computer, Connection, Controller, Database, Handheld, Keyboard, Logo, Mouse, Printer, Robot, Screens, Smartwatch, Storage, VirtualReality, VoiceMail, Webcam, index }
+export { Battery, Chips, Computer, Connection, Controller, Database, Handheld, Keyboard, Logo, Mouse, Printer, Robot, Screens, Smartwatch, Storage, VirtualReality, VoiceMail, Webcam, index }

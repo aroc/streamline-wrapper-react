@@ -17,4 +17,4 @@ import Signal from "./Signal.js"
 import Vibrate from "./Vibrate.js"
 import index from "./index.js"
 
-export default { BluetoothWifi, CellularNetwork, ChargingBattery, ConnectDevices, ContentActions, FaxAnswerMachine, ForbidenBroken, ForceTouchSqueezableGestures, MobilePhones, Phone, PhoneActions, PhoneCameraSelfies, QRCode, RotateScrollExpand, SIMCard, Signal, Vibrate, index }
+export { BluetoothWifi, CellularNetwork, ChargingBattery, ConnectDevices, ContentActions, FaxAnswerMachine, ForbidenBroken, ForceTouchSqueezableGestures, MobilePhones, Phone, PhoneActions, PhoneCameraSelfies, QRCode, RotateScrollExpand, SIMCard, Signal, Vibrate, index }

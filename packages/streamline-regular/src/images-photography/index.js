@@ -18,4 +18,4 @@ import TransferingPictures from "./TransferingPictures.js"
 import VintageCameras from "./VintageCameras.js"
 import index from "./index.js"
 
-export default { Accessories, CameraSettings, Cameras, Composition, Focus, ImageFiles, Lenses, LightModes, Lights, Masks, ModernCameras, Pictures, PicturesFrames, RetouchingEnchancing, TakingPictures, Timer, TransferingPictures, VintageCameras, index }
+export { Accessories, CameraSettings, Cameras, Composition, Focus, ImageFiles, Lenses, LightModes, Lights, Masks, ModernCameras, Pictures, PicturesFrames, RetouchingEnchancing, TakingPictures, Timer, TransferingPictures, VintageCameras, index }

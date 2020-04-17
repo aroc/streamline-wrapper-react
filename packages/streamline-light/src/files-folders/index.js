@@ -4,4 +4,4 @@ import Folders from "./Folders.js"
 import ZippedFiles from "./ZippedFiles.js"
 import index from "./index.js"
 
-export default { CommonFiles, FilesCopyright, Folders, ZippedFiles, index }
+export { CommonFiles, FilesCopyright, Folders, ZippedFiles, index }

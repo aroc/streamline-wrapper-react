@@ -1,19 +1,4 @@
-export default { ShelfBooks:
-   [ 'shelf-books',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 0.750 L23.250 0.750 L23.250 23.250 L0.750 23.250 Z', 'M0.75 12.75L23.25 12.75', 'M0.75 6.75H3.75V12.75H0.75z', 'M3.75 6.75H6.75V12.75H3.75z', 'M6.75,6.75h2.5a.5.5,0,0,1,.5.5v5.5a0,0,0,0,1,0,0h-3a0,0,0,0,1,0,0v-6A0,0,0,0,1,6.75,6.75Z', 'M8.75,17.25h2.5a0,0,0,0,1,0,0v6a0,0,0,0,1,0,0h-3a0,0,0,0,1,0,0v-5.5A.5.5,0,0,1,8.75,17.25Z', 'M11.25 17.25H14.25V23.25H11.25z', 'M14.25,17.25h2.5a.5.5,0,0,1,.5.5v5.5a0,0,0,0,1,0,0h-3a0,0,0,0,1,0,0v-6A0,0,0,0,1,14.25,17.25Z', 'M17.75,6.75h2.5a0,0,0,0,1,0,0v6a0,0,0,0,1,0,0h-3a0,0,0,0,1,0,0V7.25A.5.5,0,0,1,17.75,6.75Z', 'M20.25 6.75H23.25V12.75H20.25z' ] ],
-  ShelfBooks1:
+export default { ShelfBooks1:
    [ 'shelf-books-1',
      24,
      24,
@@ -56,4 +41,19 @@ export default { ShelfBooks:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M1.500 11.250 L22.500 11.250 L22.500 23.250 L1.500 23.250 Z', 'M12 23.25L12 15.75', 'M9,19.125a.375.375,0,1,1-.375.375A.375.375,0,0,1,9,19.125', 'M15,19.125a.375.375,0,1,1-.375.375A.375.375,0,0,1,15,19.125', 'M1.5 15.75L22.5 15.75', 'M6.000 0.750 L18.000 0.750 L18.000 8.250 L6.000 8.250 Z', 'M12 8.25L12 11.25' ] ] }
+     [ 'M1.500 11.250 L22.500 11.250 L22.500 23.250 L1.500 23.250 Z', 'M12 23.25L12 15.75', 'M9,19.125a.375.375,0,1,1-.375.375A.375.375,0,0,1,9,19.125', 'M15,19.125a.375.375,0,1,1-.375.375A.375.375,0,0,1,15,19.125', 'M1.5 15.75L22.5 15.75', 'M6.000 0.750 L18.000 0.750 L18.000 8.250 L6.000 8.250 Z', 'M12 8.25L12 11.25' ] ],
+  ShelfBooks:
+   [ 'shelf-books',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.750 0.750 L23.250 0.750 L23.250 23.250 L0.750 23.250 Z', 'M0.75 12.75L23.25 12.75', 'M0.75 6.75H3.75V12.75H0.75z', 'M3.75 6.75H6.75V12.75H3.75z', 'M6.75,6.75h2.5a.5.5,0,0,1,.5.5v5.5a0,0,0,0,1,0,0h-3a0,0,0,0,1,0,0v-6A0,0,0,0,1,6.75,6.75Z', 'M8.75,17.25h2.5a0,0,0,0,1,0,0v6a0,0,0,0,1,0,0h-3a0,0,0,0,1,0,0v-5.5A.5.5,0,0,1,8.75,17.25Z', 'M11.25 17.25H14.25V23.25H11.25z', 'M14.25,17.25h2.5a.5.5,0,0,1,.5.5v5.5a0,0,0,0,1,0,0h-3a0,0,0,0,1,0,0v-6A0,0,0,0,1,14.25,17.25Z', 'M17.75,6.75h2.5a0,0,0,0,1,0,0v6a0,0,0,0,1,0,0h-3a0,0,0,0,1,0,0V7.25A.5.5,0,0,1,17.75,6.75Z', 'M20.25 6.75H23.25V12.75H20.25z' ] ] }

@@ -1,10 +1,4 @@
-export default { PrimitiveSymbolsMother:
-   [ 'primitive-symbols-mother',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M8.019 4.500 A3.750 3.750 0 1 0 15.519 4.500 A3.750 3.750 0 1 0 8.019 4.500 Z', 'M5.5,23.25H18.038a1.5,1.5,0,0,0,1.443-1.907l-1.937-6.869A6,6,0,0,0,6,14.474L4.057,21.343A1.5,1.5,0,0,0,5.5,23.25Z', 'M15.519,4.5c0,2.25.75,3.75,2.25,3.75', 'M8.019,4.5c0,2.25-.75,3.75-2.25,3.75', 'M9.936 14.583 A1.833 1.833 0 1 0 13.602 14.583 A1.833 1.833 0 1 0 9.936 14.583 Z', 'M11.769 19.333L14.519 21', 'M9.019 17.333L11.769 16.417 11.769 19.333 9.019 21', 'M11.769 16.417L14.519 17.333' ] ],
-  PrimitiveSymbolsAnimal1:
+export default { PrimitiveSymbolsAnimal1:
    [ 'primitive-symbols-animal-1',
      24,
      24,
@@ -47,4 +41,10 @@ export default { PrimitiveSymbolsMother:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M9.500 3.750 A2.25 3 0 1 0 14.000 3.750 A2.25 3 0 1 0 9.500 3.750 Z', 'M5.75,15.75V12a3,3,0,0,1,3-3h6a3,3,0,0,1,3,3v3.75', 'M9.5,9a11.082,11.082,0,0,1-.75,7.5h6A11.082,11.082,0,0,1,14,9Z', 'M8.75 16.5L8.75 23.25', 'M14.75 16.5L14.75 23.25', 'M7.25,6.75a3.647,3.647,0,0,0,2.7-1.2', 'M16.25,6.75a3.647,3.647,0,0,1-2.7-1.2' ] ] }
+     [ 'M9.500 3.750 A2.25 3 0 1 0 14.000 3.750 A2.25 3 0 1 0 9.500 3.750 Z', 'M5.75,15.75V12a3,3,0,0,1,3-3h6a3,3,0,0,1,3,3v3.75', 'M9.5,9a11.082,11.082,0,0,1-.75,7.5h6A11.082,11.082,0,0,1,14,9Z', 'M8.75 16.5L8.75 23.25', 'M14.75 16.5L14.75 23.25', 'M7.25,6.75a3.647,3.647,0,0,0,2.7-1.2', 'M16.25,6.75a3.647,3.647,0,0,1-2.7-1.2' ] ],
+  PrimitiveSymbolsMother:
+   [ 'primitive-symbols-mother',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M8.019 4.500 A3.750 3.750 0 1 0 15.519 4.500 A3.750 3.750 0 1 0 8.019 4.500 Z', 'M5.5,23.25H18.038a1.5,1.5,0,0,0,1.443-1.907l-1.937-6.869A6,6,0,0,0,6,14.474L4.057,21.343A1.5,1.5,0,0,0,5.5,23.25Z', 'M15.519,4.5c0,2.25.75,3.75,2.25,3.75', 'M8.019,4.5c0,2.25-.75,3.75-2.25,3.75', 'M9.936 14.583 A1.833 1.833 0 1 0 13.602 14.583 A1.833 1.833 0 1 0 9.936 14.583 Z', 'M11.769 19.333L14.519 21', 'M9.019 17.333L11.769 16.417 11.769 19.333 9.019 21', 'M11.769 16.417L14.519 17.333' ] ] }

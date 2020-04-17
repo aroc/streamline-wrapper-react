@@ -1,4 +1,5 @@
-export default { MapsPin:
+export default { MapsSearch: [ 'maps-search', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M23.25,11.25V4.65a1.5,1.5,0,0,0-.943-1.393l-6-2.4a1.5,1.5,0,0,0-1.114,0L8.807,3.412a1.5,1.5,0,0,1-1.114,0L1.779,1.046a.75.75,0,0,0-1.029.7V16.119a1.5,1.5,0,0,0,.943,1.393l6,2.4a1.5,1.5,0,0,0,1.114,0', 'M8.25 3.519L8.25 11.25', 'M15.75 0.75L15.75 7.5', 'M11.250 16.500 A5.250 5.250 0 1 0 21.750 16.500 A5.250 5.250 0 1 0 11.250 16.500 Z', 'M23.25 23.25L20.236 20.236' ] ],
+  MapsPin:
    [ 'maps-pin',
      24,
      24,
@@ -14,7 +15,6 @@ export default { MapsPin:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M12.13,4.875a.375.375,0,0,1,.375.375', 'M11.755,5.25a.375.375,0,0,1,.375-.375', 'M12.13,5.625a.375.375,0,0,1-.375-.375', 'M12.505,5.25a.375.375,0,0,1-.375.375', 'M12.13.75a4.5,4.5,0,0,1,4.5,4.5c0,1.921-2.688,5.576-3.909,7.138a.75.75,0,0,1-1.182,0C10.318,10.827,7.63,7.171,7.63,5.25A4.5,4.5,0,0,1,12.13.75Z', 'M6.135,9.781a1.5,1.5,0,0,0-1.108.97l-3.441,10.5A1.5,1.5,0,0,0,3,23.25H21.26a1.5,1.5,0,0,0,1.414-2l-3.441-10.5a1.5,1.5,0,0,0-1.117-.971', 'M7.63 23.249L9.13 14.25', 'M16.63 23.249L15.13 14.25', 'M2.434 18.75L21.855 18.75', 'M3.88 14.25L9.13 14.25', 'M15.13 14.25L20.38 14.25' ] ],
-  MapsSearch: [ 'maps-search', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M23.25,11.25V4.65a1.5,1.5,0,0,0-.943-1.393l-6-2.4a1.5,1.5,0,0,0-1.114,0L8.807,3.412a1.5,1.5,0,0,1-1.114,0L1.779,1.046a.75.75,0,0,0-1.029.7V16.119a1.5,1.5,0,0,0,.943,1.393l6,2.4a1.5,1.5,0,0,0,1.114,0', 'M8.25 3.519L8.25 11.25', 'M15.75 0.75L15.75 7.5', 'M11.250 16.500 A5.250 5.250 0 1 0 21.750 16.500 A5.250 5.250 0 1 0 11.250 16.500 Z', 'M23.25 23.25L20.236 20.236' ] ],
   MapsPin2:
    [ 'maps-pin-2',
      24,

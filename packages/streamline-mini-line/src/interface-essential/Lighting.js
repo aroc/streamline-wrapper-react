@@ -1,10 +1,4 @@
-export default { InterfaceLightingBrightness1:
-   [ 'interface-lighting-brightness-1',
-     14,
-     14,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M4.500 7.000 A2.500 2.500 0 1 0 9.500 7.000 A2.500 2.500 0 1 0 4.500 7.000 Z', 'M7 0.5L7 2.5', 'M2.404 2.404L3.818 3.818', 'M0.5 7L2.5 7', 'M2.404 11.596L3.818 10.182', 'M7 13.5L7 11.5', 'M11.596 11.596L10.182 10.182', 'M13.5 7L11.5 7', 'M11.596 2.404L10.182 3.818' ] ],
-  InterfaceLightingBrightness3:
+export default { InterfaceLightingBrightness3:
    [ 'interface-lighting-brightness-3',
      14,
      14,
@@ -23,4 +17,10 @@ export default { InterfaceLightingBrightness1:
      14,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M7 0.5L7 1.5', 'M7 12.5L7 13.5', 'M1.5 7L0.5 7', 'M3.111 10.889L2.404 11.596', 'M3.111 3.111L2.404 2.404', 'M7,3.5a3.5,3.5,0,0,0,0,7Z', 'M12.5 7L13.5 7', 'M10.889 10.889L11.596 11.596', 'M10.889 3.111L11.596 2.404' ] ],
-  InterfaceLightingLightBulb: [ 'interface-lighting-light-bulb', 14, 14, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M11.5,5.25A4.5,4.5,0,1,0,5,9.261V10.75a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5V9.261A4.485,4.485,0,0,0,11.5,5.25Z', 'M5 13.25L9 13.25' ] ] }
+  InterfaceLightingLightBulb: [ 'interface-lighting-light-bulb', 14, 14, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M11.5,5.25A4.5,4.5,0,1,0,5,9.261V10.75a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5V9.261A4.485,4.485,0,0,0,11.5,5.25Z', 'M5 13.25L9 13.25' ] ],
+  InterfaceLightingBrightness1:
+   [ 'interface-lighting-brightness-1',
+     14,
+     14,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M4.500 7.000 A2.500 2.500 0 1 0 9.500 7.000 A2.500 2.500 0 1 0 4.500 7.000 Z', 'M7 0.5L7 2.5', 'M2.404 2.404L3.818 3.818', 'M0.5 7L2.5 7', 'M2.404 11.596L3.818 10.182', 'M7 13.5L7 11.5', 'M11.596 11.596L10.182 10.182', 'M13.5 7L11.5 7', 'M11.596 2.404L10.182 3.818' ] ] }

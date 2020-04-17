@@ -6,4 +6,4 @@ import Transportation from "./Transportation.js"
 import Wayfinder from "./Wayfinder.js"
 import index from "./index.js"
 
-export default { Airport, Hotel, Map, Places, Transportation, Wayfinder, index }
+export { Airport, Hotel, Map, Places, Transportation, Wayfinder, index }

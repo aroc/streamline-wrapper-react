@@ -1,10 +1,4 @@
-export default { NonGmoOrganicFlask:
-   [ 'non-gmo-organic-flask',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M19.947,21.8l.021.023a1,1,0,0,1-.734,1.679H5.512a1,1,0,0,1-.8-1.6l2.511-3.367', 'M15.018 2.5L15.018 11.5', 'M10.018 5.5L10.018 2.5', 'M16.518,1.5a1,1,0,0,1-1,1h-6a1,1,0,0,1,0-2h6A1,1,0,0,1,16.518,1.5Z', 'M15.018 5.5L13.018 5.5', 'M15.018 8.5L13.018 8.5', 'M21.267,11.886a.5.5,0,0,1,.713.486C21.821,14.632,21,20.5,16.7,20.5a3.682,3.682,0,0,1,0-7.364A11.686,11.686,0,0,0,21.267,11.886Z', 'M12.518,21.5A9.936,9.936,0,0,1,17.927,16', 'M3.249,4.063a.5.5,0,0,0-.814.289C1.933,7.013.9,15.071,6.455,16.463A4.762,4.762,0,1,0,8.772,7.226,15.434,15.434,0,0,1,3.249,4.063Z', 'M12.518,21.5s-1.569-7.728-6.187-11.068' ] ],
-  NonGmoDna:
+export default { NonGmoDna:
    [ 'non-gmo-dna',
      24,
      24,
@@ -130,4 +124,10 @@ export default { NonGmoOrganicFlask:
        'M1.5,9.251A.25.25,0,0,1,1.25,9',
        'M1.75,9a.25.25,0,0,1-.25.25',
        'M0.5 23.501L23.5 0.501' ] ],
-  NonGmoFire: [ 'non-gmo-fire', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M6.916,21.2a7.429,7.429,0,0,0,5.151,1.975c6.62,0,8.5-6.683,6.318-13.008', 'M16.394,6.162A16.035,16.035,0,0,0,10.608.883a.5.5,0,0,0-.678.67C11.744,5.1,11.552,9.959,9.067,12.7a6.7,6.7,0,0,1-1.314-2.315.5.5,0,0,0-.8-.224,7.2,7.2,0,0,0-2.167,7.549', 'M21.75 3.675L2.25 23.175' ] ] }
+  NonGmoFire: [ 'non-gmo-fire', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M6.916,21.2a7.429,7.429,0,0,0,5.151,1.975c6.62,0,8.5-6.683,6.318-13.008', 'M16.394,6.162A16.035,16.035,0,0,0,10.608.883a.5.5,0,0,0-.678.67C11.744,5.1,11.552,9.959,9.067,12.7a6.7,6.7,0,0,1-1.314-2.315.5.5,0,0,0-.8-.224,7.2,7.2,0,0,0-2.167,7.549', 'M21.75 3.675L2.25 23.175' ] ],
+  NonGmoOrganicFlask:
+   [ 'non-gmo-organic-flask',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M19.947,21.8l.021.023a1,1,0,0,1-.734,1.679H5.512a1,1,0,0,1-.8-1.6l2.511-3.367', 'M15.018 2.5L15.018 11.5', 'M10.018 5.5L10.018 2.5', 'M16.518,1.5a1,1,0,0,1-1,1h-6a1,1,0,0,1,0-2h6A1,1,0,0,1,16.518,1.5Z', 'M15.018 5.5L13.018 5.5', 'M15.018 8.5L13.018 8.5', 'M21.267,11.886a.5.5,0,0,1,.713.486C21.821,14.632,21,20.5,16.7,20.5a3.682,3.682,0,0,1,0-7.364A11.686,11.686,0,0,0,21.267,11.886Z', 'M12.518,21.5A9.936,9.936,0,0,1,17.927,16', 'M3.249,4.063a.5.5,0,0,0-.814.289C1.933,7.013.9,15.071,6.455,16.463A4.762,4.762,0,1,0,8.772,7.226,15.434,15.434,0,0,1,3.249,4.063Z', 'M12.518,21.5s-1.569-7.728-6.187-11.068' ] ] }

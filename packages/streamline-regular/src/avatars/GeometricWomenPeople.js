@@ -1,24 +1,9 @@
-export default { PeopleWoman10:
-   [ 'people-woman-10',
+export default { PeopleWoman13:
+   [ 'people-woman-13',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M8.825,13.982a10.4,10.4,0,0,0-2.746,1.334L7.473,19.5l4.5-3Z', 'M15.121,13.982,11.973,16.5l4.5,3,1.394-4.184A10.4,10.4,0,0,0,15.121,13.982Z', 'M22.446,23.25a10.508,10.508,0,0,0-7.325-9.27v0L11.973,16.5,8.825,13.982v0A10.508,10.508,0,0,0,1.5,23.25', 'M6.727,5.808A3.353,3.353,0,0,0,8.6,6.374c1.864,0,3.938-1.875,3.938-2.625', 'M11.973.749a5.25,5.25,0,1,0,3.963,8.693', 'M11.973.749c0,5.25,4.5,6.75,4.5,11.25,0,0,1.5-.75,1.5-6C17.973,1.5,14.223.749,11.973.749Z' ] ],
-  PeopleWoman8:
-   [ 'people-woman-8',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M21.449,23.25a10.483,10.483,0,0,0-18.952,0', 'M14.223 23.25L16.257 18.164', 'M7.689 18.164L9.723 23.25', 'M17.223 7.5L17.223 9.75 6.723 9.75 6.723 7.5', 'M6.777,9.75a5.25,5.25,0,1,0,10.446.75,5.142,5.142,0,0,0-.054-.75Z', 'M14.223 9.75L14.223 8.25', 'M9.723 9.75L9.723 8.25', 'M14.973 3.000 A2.250 2.250 0 1 0 19.473 3.000 A2.250 2.250 0 1 0 14.973 3.000 Z', 'M20.223,21.274V9a8.228,8.228,0,0,0-.311-2.25', 'M13.473.886A8.257,8.257,0,0,0,3.723,9V21.274' ] ],
+     [ 'M6.728,9.875a3.346,3.346,0,0,0,1.871.567,3.744,3.744,0,0,0,3.375-2.625,3.744,3.744,0,0,0,3.375,2.625,3.346,3.346,0,0,0,1.871-.567', 'M8.224,18.256v.811c0,2.071,3.75,4.154,3.75,4.154s3.75-2.083,3.75-4.154v-.811', 'M21.29,23.221a10.5,10.5,0,0,0-18.632,0', 'M7.441,7.417a5.25,5.25,0,1,0,9.1.051', 'M6.279.843a.75.75,0,0,0-1.055.686V5.221a.75.75,0,0,0,1.055.685l5.7-2.531Z', 'M17.669.843a.75.75,0,0,1,1.055.686V5.221a.75.75,0,0,1-1.055.685L11.974,3.375Z' ] ],
   PeopleWoman11:
    [ 'people-woman-11',
      24,
@@ -61,12 +46,6 @@ export default { PeopleWoman10:
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M17.809,19.026A14.584,14.584,0,0,0,21.2,18.02a1.5,1.5,0,0,0,.763-1.961l-1.376-3.21a4.5,4.5,0,0,1-.364-1.773V9a8.25,8.25,0,1,0-16.5,0v2.076a4.5,4.5,0,0,1-.364,1.773l-1.375,3.21a1.5,1.5,0,0,0,.762,1.961,14.584,14.584,0,0,0,3.391,1.006', 'M21.449,23.25a10.483,10.483,0,0,0-18.952,0', 'M14.223 23.25L16.257 18.164', 'M7.689 18.164L9.723 23.25', 'M11.973,5.25s-1.433,3.6-5.031,3.745A5.25,5.25,0,1,0,17,8.995C13.407,8.847,11.973,5.25,11.973,5.25Z' ] ],
-  PeopleWoman13:
-   [ 'people-woman-13',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M6.728,9.875a3.346,3.346,0,0,0,1.871.567,3.744,3.744,0,0,0,3.375-2.625,3.744,3.744,0,0,0,3.375,2.625,3.346,3.346,0,0,0,1.871-.567', 'M8.224,18.256v.811c0,2.071,3.75,4.154,3.75,4.154s3.75-2.083,3.75-4.154v-.811', 'M21.29,23.221a10.5,10.5,0,0,0-18.632,0', 'M7.441,7.417a5.25,5.25,0,1,0,9.1.051', 'M6.279.843a.75.75,0,0,0-1.055.686V5.221a.75.75,0,0,0,1.055.685l5.7-2.531Z', 'M17.669.843a.75.75,0,0,1,1.055.686V5.221a.75.75,0,0,1-1.055.685L11.974,3.375Z' ] ],
   PeopleWoman12:
    [ 'people-woman-12',
      24,
@@ -151,4 +130,25 @@ export default { PeopleWoman10:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M17.223,6a5.25,5.25,0,1,1-10.5,0V.75h10.5Z', 'M0.723 0.75L23.223 0.75', 'M6.723 5.25L17.223 5.25', 'M2.223 0.75L2.223 8.25', 'M6.9 14.804L11.973 18.75 17.045 14.804', 'M22.446,23.25a10.5,10.5,0,0,0-20.946,0', 'M6.776,6.75S6.723,10.5,3.723,12', 'M17.169,6.75s.054,3.75,3.054,5.25' ] ] }
+     [ 'M17.223,6a5.25,5.25,0,1,1-10.5,0V.75h10.5Z', 'M0.723 0.75L23.223 0.75', 'M6.723 5.25L17.223 5.25', 'M2.223 0.75L2.223 8.25', 'M6.9 14.804L11.973 18.75 17.045 14.804', 'M22.446,23.25a10.5,10.5,0,0,0-20.946,0', 'M6.776,6.75S6.723,10.5,3.723,12', 'M17.169,6.75s.054,3.75,3.054,5.25' ] ],
+  PeopleWoman10:
+   [ 'people-woman-10',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M8.825,13.982a10.4,10.4,0,0,0-2.746,1.334L7.473,19.5l4.5-3Z', 'M15.121,13.982,11.973,16.5l4.5,3,1.394-4.184A10.4,10.4,0,0,0,15.121,13.982Z', 'M22.446,23.25a10.508,10.508,0,0,0-7.325-9.27v0L11.973,16.5,8.825,13.982v0A10.508,10.508,0,0,0,1.5,23.25', 'M6.727,5.808A3.353,3.353,0,0,0,8.6,6.374c1.864,0,3.938-1.875,3.938-2.625', 'M11.973.749a5.25,5.25,0,1,0,3.963,8.693', 'M11.973.749c0,5.25,4.5,6.75,4.5,11.25,0,0,1.5-.75,1.5-6C17.973,1.5,14.223.749,11.973.749Z' ] ],
+  PeopleWoman8:
+   [ 'people-woman-8',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M21.449,23.25a10.483,10.483,0,0,0-18.952,0', 'M14.223 23.25L16.257 18.164', 'M7.689 18.164L9.723 23.25', 'M17.223 7.5L17.223 9.75 6.723 9.75 6.723 7.5', 'M6.777,9.75a5.25,5.25,0,1,0,10.446.75,5.142,5.142,0,0,0-.054-.75Z', 'M14.223 9.75L14.223 8.25', 'M9.723 9.75L9.723 8.25', 'M14.973 3.000 A2.250 2.250 0 1 0 19.473 3.000 A2.250 2.250 0 1 0 14.973 3.000 Z', 'M20.223,21.274V9a8.228,8.228,0,0,0-.311-2.25', 'M13.473.886A8.257,8.257,0,0,0,3.723,9V21.274' ] ] }

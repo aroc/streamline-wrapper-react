@@ -8,4 +8,4 @@ import ModernArchitecture from "./ModernArchitecture.js"
 import Utilities from "./Utilities.js"
 import index from "./index.js"
 
-export default { ArchitecturalFeatures, Buildings, ConceptionProjects, Construction, HeavyEquipment, Houses, ModernArchitecture, Utilities, index }
+export { ArchitecturalFeatures, Buildings, ConceptionProjects, Construction, HeavyEquipment, Houses, ModernArchitecture, Utilities, index }

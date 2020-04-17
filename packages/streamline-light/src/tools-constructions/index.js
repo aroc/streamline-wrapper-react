@@ -8,4 +8,4 @@ import Safety from "./Safety.js"
 import Tools from "./Tools.js"
 import index from "./index.js"
 
-export default { ClampsJacks, Equipment, Hardware, Materials, MeasuresLevels, PowerTools, Safety, Tools, index }
+export { ClampsJacks, Equipment, Hardware, Materials, MeasuresLevels, PowerTools, Safety, Tools, index }

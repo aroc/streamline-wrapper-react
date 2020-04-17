@@ -1,16 +1,4 @@
-export default { Chick1:
-   [ 'chick-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M13.661.791A6.173,6.173,0,0,0,8.25,7.02v.492a6,6,0,0,1-6,6H.75A9.75,9.75,0,0,0,10.8,23.258,10.021,10.021,0,0,0,20.25,13.1V6.762A6,6,0,0,0,13.661.791Z', 'M15,15.762a3.75,3.75,0,0,1-7.5,0h3', 'M20.25,6.762a2.938,2.938,0,0,1,3,3h-3', 'M14.625,6.012A.375.375,0,0,1,15,6.387', 'M14.25,6.387a.375.375,0,0,1,.375-.375', 'M14.625,6.762a.374.374,0,0,1-.375-.375', 'M15,6.387a.374.374,0,0,1-.375.375' ] ],
-  ChickenHatch:
-   [ 'chicken-hatch',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M21,14.262a9,9,0,0,1-18,0V13.12a.751.751,0,0,1,1.029-.7l2.262.905a.751.751,0,0,0,.809-.166l1.44-1.441a.751.751,0,0,1,.98-.069l2.03,1.522a.75.75,0,0,0,.9,0l2.03-1.522a.751.751,0,0,1,.98.069L16.836,13.1a.749.749,0,0,0,.916.113l2.112-1.267A.751.751,0,0,1,21,12.587Z', 'M6,9.762v-3a6,6,0,0,1,12,0v3', 'M20.204 4.512L17.954 6.012 20.204 7.512', 'M12.375,5.262a.375.375,0,0,1,.375.375', 'M12,5.637a.375.375,0,0,1,.375-.375', 'M12.375,6.012A.374.374,0,0,1,12,5.637', 'M12.75,5.637a.374.374,0,0,1-.375.375' ] ],
-  Chick2:
+export default { Chick2:
    [ 'chick-2',
      24,
      24,
@@ -148,4 +136,16 @@ export default { Chick1:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M14.129,23.262c-3-3.75-6.75-11.25-5.25-12.75s5.519,3.336,8.25,6.75c3,3.75,4.5,4.5,5.25,3,1.007-2.012-4.638-6.75-3.888-12', 'M13.269,12.762h.11s1.5,0,3.75-2.25c3.825-3.824,0-9.75-6-9.75-5.25,0-9.75,3-9.75,9s5.25,13.5,5.25,13.5', 'M14.5,6.012a.374.374,0,0,1,.375.375', 'M14.129,6.387a.375.375,0,0,1,.375-.375', 'M14.5,6.762a.374.374,0,0,1-.375-.375', 'M14.879,6.387a.374.374,0,0,1-.375.375', 'M4.795 20.262L12.053 20.262' ] ] }
+     [ 'M14.129,23.262c-3-3.75-6.75-11.25-5.25-12.75s5.519,3.336,8.25,6.75c3,3.75,4.5,4.5,5.25,3,1.007-2.012-4.638-6.75-3.888-12', 'M13.269,12.762h.11s1.5,0,3.75-2.25c3.825-3.824,0-9.75-6-9.75-5.25,0-9.75,3-9.75,9s5.25,13.5,5.25,13.5', 'M14.5,6.012a.374.374,0,0,1,.375.375', 'M14.129,6.387a.375.375,0,0,1,.375-.375', 'M14.5,6.762a.374.374,0,0,1-.375-.375', 'M14.879,6.387a.374.374,0,0,1-.375.375', 'M4.795 20.262L12.053 20.262' ] ],
+  Chick1:
+   [ 'chick-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M13.661.791A6.173,6.173,0,0,0,8.25,7.02v.492a6,6,0,0,1-6,6H.75A9.75,9.75,0,0,0,10.8,23.258,10.021,10.021,0,0,0,20.25,13.1V6.762A6,6,0,0,0,13.661.791Z', 'M15,15.762a3.75,3.75,0,0,1-7.5,0h3', 'M20.25,6.762a2.938,2.938,0,0,1,3,3h-3', 'M14.625,6.012A.375.375,0,0,1,15,6.387', 'M14.25,6.387a.375.375,0,0,1,.375-.375', 'M14.625,6.762a.374.374,0,0,1-.375-.375', 'M15,6.387a.374.374,0,0,1-.375.375' ] ],
+  ChickenHatch:
+   [ 'chicken-hatch',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M21,14.262a9,9,0,0,1-18,0V13.12a.751.751,0,0,1,1.029-.7l2.262.905a.751.751,0,0,0,.809-.166l1.44-1.441a.751.751,0,0,1,.98-.069l2.03,1.522a.75.75,0,0,0,.9,0l2.03-1.522a.751.751,0,0,1,.98.069L16.836,13.1a.749.749,0,0,0,.916.113l2.112-1.267A.751.751,0,0,1,21,12.587Z', 'M6,9.762v-3a6,6,0,0,1,12,0v3', 'M20.204 4.512L17.954 6.012 20.204 7.512', 'M12.375,5.262a.375.375,0,0,1,.375.375', 'M12,5.637a.375.375,0,0,1,.375-.375', 'M12.375,6.012A.374.374,0,0,1,12,5.637', 'M12.75,5.637a.374.374,0,0,1-.375.375' ] ] }

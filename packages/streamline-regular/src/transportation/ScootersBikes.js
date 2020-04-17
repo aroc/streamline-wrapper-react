@@ -1,10 +1,4 @@
-export default { ScooterSport:
-   [ 'scooter-sport',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M17.250 19.000 A3.000 3.000 0 1 0 23.250 19.000 A3.000 3.000 0 1 0 17.250 19.000 Z', 'M17.88,7.386,2.25,8.5a1.5,1.5,0,0,0,0,3H3.99a6,6,0,0,1,4.556,2.1L10.8,16.226a1.5,1.5,0,0,0,1.139.524h1.607a1.5,1.5,0,0,0,1.153-.54l2.026-2.431A4.249,4.249,0,0,1,23,13.5l.255.255', 'M0.750 19.000 A3.000 3.000 0 1 0 6.750 19.000 A3.000 3.000 0 1 0 0.750 19.000 Z', 'M20.25,19,17.126,3.691A1.5,1.5,0,0,0,15.658,2.5H13.875', 'M3.75 19L9.489 14.696', 'M14.25,7.645V10a1.5,1.5,0,0,1-1.5,1.5H11.121a1.5,1.5,0,0,1-1.06-.439l-2.91-2.91', 'M22.125,9.25a1.875,1.875,0,0,1,0-3.75h.75V9.25Z' ] ],
-  Scooter1:
+export default { Scooter1:
    [ 'scooter-1',
      24,
      24,
@@ -21,4 +15,10 @@ export default { ScooterSport:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M13.239,13.206A5.027,5.027,0,0,0,9,11.25H6.2A5.5,5.5,0,0,0,.8,15.373,1.5,1.5,0,0,0,2.251,17.25h10.5a4.5,4.5,0,0,0,4.5-4.5V5.25a3,3,0,0,0-3-3h-1.5', 'M12.75,17.25H22.5a.749.749,0,0,0,.612-.317,7.174,7.174,0,0,0,.1-2.183,3,3,0,0,0-2.829-2H17.25', 'M20.25,8.25a1.125,1.125,0,0,1-1.8.9,3,3,0,0,1,0-4.8,1.125,1.125,0,0,1,1.8.9Z', 'M11.25 8.25L3.75 8.25', 'M9.75,18a3.75,3.75,0,0,1-7.5,0v-.75h7.5Z', 'M21.75,18a3.75,3.75,0,0,1-7.5,0v-.75h7.5Z' ] ] }
+     [ 'M13.239,13.206A5.027,5.027,0,0,0,9,11.25H6.2A5.5,5.5,0,0,0,.8,15.373,1.5,1.5,0,0,0,2.251,17.25h10.5a4.5,4.5,0,0,0,4.5-4.5V5.25a3,3,0,0,0-3-3h-1.5', 'M12.75,17.25H22.5a.749.749,0,0,0,.612-.317,7.174,7.174,0,0,0,.1-2.183,3,3,0,0,0-2.829-2H17.25', 'M20.25,8.25a1.125,1.125,0,0,1-1.8.9,3,3,0,0,1,0-4.8,1.125,1.125,0,0,1,1.8.9Z', 'M11.25 8.25L3.75 8.25', 'M9.75,18a3.75,3.75,0,0,1-7.5,0v-.75h7.5Z', 'M21.75,18a3.75,3.75,0,0,1-7.5,0v-.75h7.5Z' ] ],
+  ScooterSport:
+   [ 'scooter-sport',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M17.250 19.000 A3.000 3.000 0 1 0 23.250 19.000 A3.000 3.000 0 1 0 17.250 19.000 Z', 'M17.88,7.386,2.25,8.5a1.5,1.5,0,0,0,0,3H3.99a6,6,0,0,1,4.556,2.1L10.8,16.226a1.5,1.5,0,0,0,1.139.524h1.607a1.5,1.5,0,0,0,1.153-.54l2.026-2.431A4.249,4.249,0,0,1,23,13.5l.255.255', 'M0.750 19.000 A3.000 3.000 0 1 0 6.750 19.000 A3.000 3.000 0 1 0 0.750 19.000 Z', 'M20.25,19,17.126,3.691A1.5,1.5,0,0,0,15.658,2.5H13.875', 'M3.75 19L9.489 14.696', 'M14.25,7.645V10a1.5,1.5,0,0,1-1.5,1.5H11.121a1.5,1.5,0,0,1-1.06-.439l-2.91-2.91', 'M22.125,9.25a1.875,1.875,0,0,1,0-3.75h.75V9.25Z' ] ] }

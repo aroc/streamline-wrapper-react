@@ -5,4 +5,4 @@ import VideoGamesDevices from "./VideoGamesDevices.js"
 import VideoGamesLogos from "./VideoGamesLogos.js"
 import index from "./index.js"
 
-export default { FamousCharacters, FamousVideoGames, VideoGamesControl, VideoGamesDevices, VideoGamesLogos, index }
+export { FamousCharacters, FamousVideoGames, VideoGamesControl, VideoGamesDevices, VideoGamesLogos, index }

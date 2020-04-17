@@ -1,22 +1,4 @@
-export default { AudioBookRecordMicrophoneA:
-   [ 'audio-book-record-microphone-a',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M11.25,20.251h-9a1.5,1.5,0,0,1-1.5-1.5V2.251a1.5,1.5,0,0,1,1.5-1.5H12.879a1.5,1.5,0,0,1,1.06.44l2.872,2.871a1.5,1.5,0,0,1,.439,1.061V7.5', 'M16.500 10.501 L21.000 10.501 L21.000 18.001 L16.500 18.001 Z', 'M23.25,16.5a4.513,4.513,0,0,1-4.5,4.5h0a4.513,4.513,0,0,1-4.5-4.5', 'M18.75 21.001L18.75 23.251', 'M7.5,13.5v-6a1.5,1.5,0,0,1,3,0v6', 'M7.5 10.502L10.5 10.502' ] ],
-  AudioBookMusic:
-   [ 'audio-book-music',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M12,23.1c-.507-1.667-3.918-3.617-9.843-3.886A1.5,1.5,0,0,1,.75,17.708V4.357a1.5,1.5,0,0,1,1.607-1.5,25.04,25.04,0,0,1,2.966.324', 'M12,23.1c.507-1.667,3.918-3.617,9.843-3.886a1.5,1.5,0,0,0,1.407-1.507V4.357a1.5,1.5,0,0,0-1.607-1.5,25.348,25.348,0,0,0-2.842.3', 'M12 14.101L12 23.101', 'M6.750 8.580 A1.500 1.500 0 1 0 9.750 8.580 A1.500 1.500 0 1 0 6.750 8.580 Z', 'M12.750 7.080 A1.500 1.500 0 1 0 15.750 7.080 A1.500 1.500 0 1 0 12.750 7.080 Z', 'M15.75,7.08V2.251A1.5,1.5,0,0,0,13.886.8l-3,.75A1.5,1.5,0,0,0,9.75,3V8.58' ] ],
-  AudioBookExamA:
-   [ 'audio-book-exam-a',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M2.25,20.251a1.5,1.5,0,0,1-1.5-1.5V2.251a1.5,1.5,0,0,1,1.5-1.5H12.879a1.5,1.5,0,0,1,1.06.44l2.872,2.871a1.5,1.5,0,0,1,.439,1.061V8.251', 'M4.5,11.252v-6a1.5,1.5,0,1,1,3,0v6', 'M4.5 8.252L7.5 8.252', 'M20.25,22.5V16.919a5.841,5.841,0,0,0-6-5.668,5.841,5.841,0,0,0-6,5.668V22.5', 'M10.500 19.501 A3.750 3.750 0 1 0 18.000 19.501 A3.750 3.750 0 1 0 10.500 19.501 Z', 'M8.25,22.5a3,3,0,1,1,.016-6', 'M20.25,22.5a3,3,0,1,0-.016-6' ] ],
-  AudioBookArt:
+export default { AudioBookArt:
    [ 'audio-book-art',
      24,
      24,
@@ -91,4 +73,22 @@ export default { AudioBookRecordMicrophoneA:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M2.25,19.5h0A1.5,1.5,0,0,1,.75,18V15a1.5,1.5,0,0,1,1.5-1.5h0A1.5,1.5,0,0,1,3.75,15v3A1.5,1.5,0,0,1,2.25,19.5Z', 'M21.75,19.5h0a1.5,1.5,0,0,1-1.5-1.5V15a1.5,1.5,0,0,1,1.5-1.5h0a1.5,1.5,0,0,1,1.5,1.5v3A1.5,1.5,0,0,1,21.75,19.5Z', 'M20.25,15v-3.75A8.274,8.274,0,0,0,12,3h0a8.275,8.275,0,0,0-8.25,8.25V15', 'M6.750 9.001 L17.250 9.001 L17.250 21.001 L6.750 21.001 Z', 'M12 12.001L14.25 12.001', 'M9.75 15.001L14.25 15.001', 'M9.75 18.001L14.25 18.001' ] ] }
+     [ 'M2.25,19.5h0A1.5,1.5,0,0,1,.75,18V15a1.5,1.5,0,0,1,1.5-1.5h0A1.5,1.5,0,0,1,3.75,15v3A1.5,1.5,0,0,1,2.25,19.5Z', 'M21.75,19.5h0a1.5,1.5,0,0,1-1.5-1.5V15a1.5,1.5,0,0,1,1.5-1.5h0a1.5,1.5,0,0,1,1.5,1.5v3A1.5,1.5,0,0,1,21.75,19.5Z', 'M20.25,15v-3.75A8.274,8.274,0,0,0,12,3h0a8.275,8.275,0,0,0-8.25,8.25V15', 'M6.750 9.001 L17.250 9.001 L17.250 21.001 L6.750 21.001 Z', 'M12 12.001L14.25 12.001', 'M9.75 15.001L14.25 15.001', 'M9.75 18.001L14.25 18.001' ] ],
+  AudioBookRecordMicrophoneA:
+   [ 'audio-book-record-microphone-a',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M11.25,20.251h-9a1.5,1.5,0,0,1-1.5-1.5V2.251a1.5,1.5,0,0,1,1.5-1.5H12.879a1.5,1.5,0,0,1,1.06.44l2.872,2.871a1.5,1.5,0,0,1,.439,1.061V7.5', 'M16.500 10.501 L21.000 10.501 L21.000 18.001 L16.500 18.001 Z', 'M23.25,16.5a4.513,4.513,0,0,1-4.5,4.5h0a4.513,4.513,0,0,1-4.5-4.5', 'M18.75 21.001L18.75 23.251', 'M7.5,13.5v-6a1.5,1.5,0,0,1,3,0v6', 'M7.5 10.502L10.5 10.502' ] ],
+  AudioBookMusic:
+   [ 'audio-book-music',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M12,23.1c-.507-1.667-3.918-3.617-9.843-3.886A1.5,1.5,0,0,1,.75,17.708V4.357a1.5,1.5,0,0,1,1.607-1.5,25.04,25.04,0,0,1,2.966.324', 'M12,23.1c.507-1.667,3.918-3.617,9.843-3.886a1.5,1.5,0,0,0,1.407-1.507V4.357a1.5,1.5,0,0,0-1.607-1.5,25.348,25.348,0,0,0-2.842.3', 'M12 14.101L12 23.101', 'M6.750 8.580 A1.500 1.500 0 1 0 9.750 8.580 A1.500 1.500 0 1 0 6.750 8.580 Z', 'M12.750 7.080 A1.500 1.500 0 1 0 15.750 7.080 A1.500 1.500 0 1 0 12.750 7.080 Z', 'M15.75,7.08V2.251A1.5,1.5,0,0,0,13.886.8l-3,.75A1.5,1.5,0,0,0,9.75,3V8.58' ] ],
+  AudioBookExamA:
+   [ 'audio-book-exam-a',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M2.25,20.251a1.5,1.5,0,0,1-1.5-1.5V2.251a1.5,1.5,0,0,1,1.5-1.5H12.879a1.5,1.5,0,0,1,1.06.44l2.872,2.871a1.5,1.5,0,0,1,.439,1.061V8.251', 'M4.5,11.252v-6a1.5,1.5,0,1,1,3,0v6', 'M4.5 8.252L7.5 8.252', 'M20.25,22.5V16.919a5.841,5.841,0,0,0-6-5.668,5.841,5.841,0,0,0-6,5.668V22.5', 'M10.500 19.501 A3.750 3.750 0 1 0 18.000 19.501 A3.750 3.750 0 1 0 10.500 19.501 Z', 'M8.25,22.5a3,3,0,1,1,.016-6', 'M20.25,22.5a3,3,0,1,0-.016-6' ] ] }

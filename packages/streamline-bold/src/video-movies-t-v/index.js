@@ -8,4 +8,4 @@ import VideoPlayers from "./VideoPlayers.js"
 import VintageTV from "./VintageTV.js"
 import index from "./index.js"
 
-export default { Cameras, Controls, ModernTV, Movies, VideoEdition, VideoFiles, VideoPlayers, VintageTV, index }
+export { Cameras, Controls, ModernTV, Movies, VideoEdition, VideoFiles, VideoPlayers, VintageTV, index }

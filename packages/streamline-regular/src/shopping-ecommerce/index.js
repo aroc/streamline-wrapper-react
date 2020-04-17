@@ -10,4 +10,4 @@ import Shops from "./Shops.js"
 import TagsCodes from "./TagsCodes.js"
 import index from "./index.js"
 
-export default { Baskets, Carts, DiscountCoupons, ECommerce, MobileShopping, Products, Receipts, ShoppingBags, Shops, TagsCodes, index }
+export { Baskets, Carts, DiscountCoupons, ECommerce, MobileShopping, Products, Receipts, ShoppingBags, Shops, TagsCodes, index }

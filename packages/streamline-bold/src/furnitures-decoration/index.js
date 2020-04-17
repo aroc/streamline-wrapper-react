@@ -16,4 +16,4 @@ import SteampunkDecoration from "./SteampunkDecoration.js"
 import Tables from "./Tables.js"
 import index from "./index.js"
 
-export default { Armchairs, AsianInteriors, Beds, ChairsStools, Consoles, Decoration, DressersDrawers, Dressing, Fireplaces, Kitchen, NightStands, Shelves, SofasBenches, Stairs, SteampunkDecoration, Tables, index }
+export { Armchairs, AsianInteriors, Beds, ChairsStools, Consoles, Decoration, DressersDrawers, Dressing, Fireplaces, Kitchen, NightStands, Shelves, SofasBenches, Stairs, SteampunkDecoration, Tables, index }

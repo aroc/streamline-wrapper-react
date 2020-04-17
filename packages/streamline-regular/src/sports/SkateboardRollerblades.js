@@ -1,19 +1,4 @@
-export default { Rollerblades:
-   [ 'rollerblades',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M3.75 21.75L2.25 21.75', 'M21.75 21.75L20.25 21.75', 'M3.750 21.750 A1.500 1.500 0 1 0 6.750 21.750 A1.500 1.500 0 1 0 3.750 21.750 Z', 'M10.500 21.750 A1.500 1.500 0 1 0 13.500 21.750 A1.500 1.500 0 1 0 10.500 21.750 Z', 'M17.250 21.750 A1.500 1.500 0 1 0 20.250 21.750 A1.500 1.500 0 1 0 17.250 21.750 Z', 'M18.519,9.9a3.688,3.688,0,0,1-.463,7.348H5.25a3,3,0,0,1-3-3v-12A1.5,1.5,0,0,1,3.75.75h6a1.5,1.5,0,0,1,1.5,1.5V7.675a1.5,1.5,0,0,0,1.315,1.488Z', 'M6.75 21.75L10.5 21.75', 'M13.5 21.75L17.25 21.75', 'M11.25 3.75L8.25 3.75', 'M11.25 6.75L6.75 6.75' ] ],
-  RollerbladesPerson:
+export default { RollerbladesPerson:
    [ 'rollerblades-person',
      24,
      24,
@@ -73,18 +58,18 @@ export default { Rollerblades:
        'M18,23.25a.375.375,0,0,1-.375-.375',
        'M18.375,22.875A.375.375,0,0,1,18,23.25',
        'M21.75,9.749H19.277L15.938,7.077a1.485,1.485,0,0,0-.926-.326H7.5a1.5,1.5,0,0,0,0,3h4.109L7.283,14.509A1.5,1.5,0,0,1,6.173,15H3.75v3H6.174A4.5,4.5,0,0,0,9.5,16.527l1.624-1.786.714.357A3,3,0,0,1,13.5,17.782V20.25h3V17.782a5.966,5.966,0,0,0-3.278-5.345L15.163,10.3l2.239,1.79a3,3,0,0,0,1.874.657H21.75a1.5,1.5,0,0,0,0-3Z' ] ],
-  SkatingShoes:
-   [ 'skating-shoes',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M21.75,20.25H2.25a1.5,1.5,0,0,0,0,3h19.5a1.5,1.5,0,0,0,0-3Z', 'M6.75 20.25L6.75 17.25', 'M17.25 20.25L17.25 17.25', 'M18.75,17.25h-12a4.5,4.5,0,0,1-4.5-4.5v-9A1.5,1.5,0,0,1,3.386,2.3l6-1.5A1.5,1.5,0,0,1,11.25,2.25v4.5a3,3,0,0,0,3,3H16.5c2.25,0,5.25,1.5,5.25,4.5A2.747,2.747,0,0,1,18.75,17.25Z', 'M11.25,5.25h-3a1.5,1.5,0,0,0-1.5,1.5v1.5a4.5,4.5,0,0,0,4.5,4.5H21.47', 'M11.651 8.25L9.75 8.25' ] ],
   SkateboardPerson1:
    [ 'skateboard-person-1',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M15.75,20.25V17.782a5.965,5.965,0,0,0-3.279-5.345L14.914,9.75H21a1.5,1.5,0,0,0,0-3H5.25a1.5,1.5,0,0,0,0,3h5.609L6.532,14.509A1.5,1.5,0,0,1,5.423,15H3a1.5,1.5,0,0,0,0,3H5.423a4.507,4.507,0,0,0,3.329-1.472l1.625-1.787.715.357a2.985,2.985,0,0,1,1.658,2.684V20.25', 'M6.75 20.25L21 20.25', 'M8.250 21.750 A1.500 1.500 0 1 0 11.250 21.750 A1.500 1.500 0 1 0 8.250 21.750 Z', 'M16.500 21.750 A1.500 1.500 0 1 0 19.500 21.750 A1.500 1.500 0 1 0 16.500 21.750 Z', 'M13.125 3.375 A2.625 2.625 0 1 0 18.375 3.375 A2.625 2.625 0 1 0 13.125 3.375 Z' ] ],
+  SkatingShoes:
+   [ 'skating-shoes',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M21.75,20.25H2.25a1.5,1.5,0,0,0,0,3h19.5a1.5,1.5,0,0,0,0-3Z', 'M6.75 20.25L6.75 17.25', 'M17.25 20.25L17.25 17.25', 'M18.75,17.25h-12a4.5,4.5,0,0,1-4.5-4.5v-9A1.5,1.5,0,0,1,3.386,2.3l6-1.5A1.5,1.5,0,0,1,11.25,2.25v4.5a3,3,0,0,0,3,3H16.5c2.25,0,5.25,1.5,5.25,4.5A2.747,2.747,0,0,1,18.75,17.25Z', 'M11.25,5.25h-3a1.5,1.5,0,0,0-1.5,1.5v1.5a4.5,4.5,0,0,0,4.5,4.5H21.47', 'M11.651 8.25L9.75 8.25' ] ],
   Skateboard1: [ 'skateboard-1', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M20.823,7.839,7.918,20.745a4.912,4.912,0,0,1-2.757,1.378,1.993,1.993,0,0,1-.386.015L2.583,22a1.875,1.875,0,0,1,.241-3.743l1.951.126a1.14,1.14,0,0,0,.492-.287l12.905-12.9a1.14,1.14,0,0,0,.287-.492l-.126-1.951A1.875,1.875,0,0,1,22.076,2.5L22.217,4.7a1.993,1.993,0,0,1-.015.386A4.907,4.907,0,0,1,20.823,7.839Z', 'M12.515,19.33a2.25,2.25,0,1,1-3.182,0A2.251,2.251,0,0,1,12.515,19.33Z', 'M19.409,12.436a2.25,2.25,0,1,0,0-3.182A2.251,2.251,0,0,0,19.409,12.436Z' ] ],
   Skateboard:
    [ 'skateboard',
@@ -106,4 +91,19 @@ export default { Rollerblades:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M13.787 3.375 A2.625 2.625 0 1 0 19.037 3.375 A2.625 2.625 0 1 0 13.787 3.375 Z', 'M16,20.25l.121-.2a4.5,4.5,0,0,0-1.849-6.342l-1.116-.557,1.73-1.886h6.1a1.5,1.5,0,0,0,0-3H4.486a1.5,1.5,0,1,0,0,3h6.278L1.907,20.722a1.5,1.5,0,0,0,2.186,2.056l6.915-7.347,1.924.961a1.5,1.5,0,0,1,.615,2.114L12.5,20.25', 'M10.5 20.25L22.5 20.25', 'M9.000 21.750 A1.500 1.500 0 1 0 12.000 21.750 A1.500 1.500 0 1 0 9.000 21.750 Z', 'M17.250 21.750 A1.500 1.500 0 1 0 20.250 21.750 A1.500 1.500 0 1 0 17.250 21.750 Z' ] ] }
+     [ 'M13.787 3.375 A2.625 2.625 0 1 0 19.037 3.375 A2.625 2.625 0 1 0 13.787 3.375 Z', 'M16,20.25l.121-.2a4.5,4.5,0,0,0-1.849-6.342l-1.116-.557,1.73-1.886h6.1a1.5,1.5,0,0,0,0-3H4.486a1.5,1.5,0,1,0,0,3h6.278L1.907,20.722a1.5,1.5,0,0,0,2.186,2.056l6.915-7.347,1.924.961a1.5,1.5,0,0,1,.615,2.114L12.5,20.25', 'M10.5 20.25L22.5 20.25', 'M9.000 21.750 A1.500 1.500 0 1 0 12.000 21.750 A1.500 1.500 0 1 0 9.000 21.750 Z', 'M17.250 21.750 A1.500 1.500 0 1 0 20.250 21.750 A1.500 1.500 0 1 0 17.250 21.750 Z' ] ],
+  Rollerblades:
+   [ 'rollerblades',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M3.75 21.75L2.25 21.75', 'M21.75 21.75L20.25 21.75', 'M3.750 21.750 A1.500 1.500 0 1 0 6.750 21.750 A1.500 1.500 0 1 0 3.750 21.750 Z', 'M10.500 21.750 A1.500 1.500 0 1 0 13.500 21.750 A1.500 1.500 0 1 0 10.500 21.750 Z', 'M17.250 21.750 A1.500 1.500 0 1 0 20.250 21.750 A1.500 1.500 0 1 0 17.250 21.750 Z', 'M18.519,9.9a3.688,3.688,0,0,1-.463,7.348H5.25a3,3,0,0,1-3-3v-12A1.5,1.5,0,0,1,3.75.75h6a1.5,1.5,0,0,1,1.5,1.5V7.675a1.5,1.5,0,0,0,1.315,1.488Z', 'M6.75 21.75L10.5 21.75', 'M13.5 21.75L17.25 21.75', 'M11.25 3.75L8.25 3.75', 'M11.25 6.75L6.75 6.75' ] ] }

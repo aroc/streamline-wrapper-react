@@ -1,10 +1,4 @@
-export default { MaterialFabric:
-   [ 'material-fabric',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M8.625,20.25h13.5l.459,1.253A1.5,1.5,0,0,1,21.1,23.25H9.646A1.5,1.5,0,0,1,8.166,21.5Z', 'M8.625,3.75h13.5L22.584,2.5A1.5,1.5,0,0,0,21.1.75H9.646A1.5,1.5,0,0,0,8.166,2.5Z', 'M8.625,3.75A59.754,59.754,0,0,0,7.875,12a59.754,59.754,0,0,0,.75,8.25', 'M22.125,3.75a59.754,59.754,0,0,1,.75,8.25,59.754,59.754,0,0,1-.75,8.25', 'M5.625,23.25H3.375a2.25,2.25,0,0,1,0-4.5h2.25', 'M5.625,18.75H3.375a2.25,2.25,0,0,1,0-4.5h1.5', 'M4.875,14.25h-1.5a2.25,2.25,0,0,1,0-4.5h2.25' ] ],
-  MaterialTileRoof1:
+export default { MaterialTileRoof1:
    [ 'material-tile-roof-1',
      24,
      24,
@@ -87,4 +81,10 @@ export default { MaterialFabric:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.75 22.5L23.25 22.5', 'M0.75 18L23.25 18', 'M2.25 18H5.25V22.5H2.25z', 'M10.5 18H13.5V22.5H10.5z', 'M18.75 18H21.75V22.5H18.75z', 'M0.750 1.500 L23.250 1.500 L23.250 15.000 L0.750 15.000 Z', 'M0.75 10.5L23.25 10.5', 'M0.75 6L23.25 6', 'M6.75 1.5L6.75 6', 'M12.75 1.5L12.75 6', 'M18.75 1.5L18.75 6', 'M6.75 10.5L6.75 15', 'M12.75 10.5L12.75 15', 'M18.75 10.5L18.75 15', 'M5.25 6L5.25 10.5', 'M11.25 6L11.25 10.5', 'M17.25 6L17.25 10.5' ] ] }
+     [ 'M0.75 22.5L23.25 22.5', 'M0.75 18L23.25 18', 'M2.25 18H5.25V22.5H2.25z', 'M10.5 18H13.5V22.5H10.5z', 'M18.75 18H21.75V22.5H18.75z', 'M0.750 1.500 L23.250 1.500 L23.250 15.000 L0.750 15.000 Z', 'M0.75 10.5L23.25 10.5', 'M0.75 6L23.25 6', 'M6.75 1.5L6.75 6', 'M12.75 1.5L12.75 6', 'M18.75 1.5L18.75 6', 'M6.75 10.5L6.75 15', 'M12.75 10.5L12.75 15', 'M18.75 10.5L18.75 15', 'M5.25 6L5.25 10.5', 'M11.25 6L11.25 10.5', 'M17.25 6L17.25 10.5' ] ],
+  MaterialFabric:
+   [ 'material-fabric',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M8.625,20.25h13.5l.459,1.253A1.5,1.5,0,0,1,21.1,23.25H9.646A1.5,1.5,0,0,1,8.166,21.5Z', 'M8.625,3.75h13.5L22.584,2.5A1.5,1.5,0,0,0,21.1.75H9.646A1.5,1.5,0,0,0,8.166,2.5Z', 'M8.625,3.75A59.754,59.754,0,0,0,7.875,12a59.754,59.754,0,0,0,.75,8.25', 'M22.125,3.75a59.754,59.754,0,0,1,.75,8.25,59.754,59.754,0,0,1-.75,8.25', 'M5.625,23.25H3.375a2.25,2.25,0,0,1,0-4.5h2.25', 'M5.625,18.75H3.375a2.25,2.25,0,0,1,0-4.5h1.5', 'M4.875,14.25h-1.5a2.25,2.25,0,0,1,0-4.5h2.25' ] ] }

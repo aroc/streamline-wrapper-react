@@ -5,4 +5,4 @@ import Signs from "./Signs.js"
 import Smiley from "./Smiley.js"
 import index from "./index.js"
 
-export default { ChatBubble, Inbox, Send, Signs, Smiley, index }
+export { ChatBubble, Inbox, Send, Signs, Smiley, index }

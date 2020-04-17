@@ -1,10 +1,4 @@
-export default { BirdCageEmpty:
-   [ 'bird-cage-empty',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M1.000 21.500 L23.000 21.500 L23.000 23.500 L1.000 23.500 Z', 'M10.500 2.000 A1.500 1.500 0 1 0 13.500 2.000 A1.500 1.500 0 1 0 10.500 2.000 Z', 'M7 5.031L7 21.5', 'M17 5.03L17 21.5', 'M3,21.5v-9a9,9,0,0,1,18,0v9', 'M9.5 16.5L14.5 16.5', 'M12 16.5L12 21.5', 'M12 3.5L12 13.5' ] ],
-  BirdCage1:
+export default { BirdCage1:
    [ 'bird-cage-1',
      24,
      24,
@@ -77,4 +71,10 @@ export default { BirdCageEmpty:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M2.621,21.985A2,2,0,0,0,4.562,23.5H19.438a2,2,0,0,0,1.941-1.515l.5-2A.373.373,0,0,0,21.5,19.5H2.5a.373.373,0,0,0-.379.485Z', 'M4,19.5,5.3,6.271A2,2,0,0,1,7.283,4.5h9.434A2,2,0,0,1,18.7,6.271L20,19.5', 'M16,4.5a4,4,0,0,0-8,0', 'M15,16.5V13a3.5,3.5,0,0,0-7,0v3.5', 'M12,12.25a.25.25,0,0,0-.25.25', 'M12.25,12.5a.25.25,0,0,0-.25-.25', 'M12,12.75a.25.25,0,0,0,.25-.25', 'M11.75,12.5a.25.25,0,0,0,.25.25', 'M16.5 14.5L15 13', 'M13.565,10.174,14,8.5a1,1,0,0,0-1-1,.986.986,0,0,0-.75.356.968.968,0,0,0-1.5,0A.986.986,0,0,0,10,7.5a1,1,0,0,0-1,1l.37,1.722' ] ] }
+     [ 'M2.621,21.985A2,2,0,0,0,4.562,23.5H19.438a2,2,0,0,0,1.941-1.515l.5-2A.373.373,0,0,0,21.5,19.5H2.5a.373.373,0,0,0-.379.485Z', 'M4,19.5,5.3,6.271A2,2,0,0,1,7.283,4.5h9.434A2,2,0,0,1,18.7,6.271L20,19.5', 'M16,4.5a4,4,0,0,0-8,0', 'M15,16.5V13a3.5,3.5,0,0,0-7,0v3.5', 'M12,12.25a.25.25,0,0,0-.25.25', 'M12.25,12.5a.25.25,0,0,0-.25-.25', 'M12,12.75a.25.25,0,0,0,.25-.25', 'M11.75,12.5a.25.25,0,0,0,.25.25', 'M16.5 14.5L15 13', 'M13.565,10.174,14,8.5a1,1,0,0,0-1-1,.986.986,0,0,0-.75.356.968.968,0,0,0-1.5,0A.986.986,0,0,0,10,7.5a1,1,0,0,0-1,1l.37,1.722' ] ],
+  BirdCageEmpty:
+   [ 'bird-cage-empty',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M1.000 21.500 L23.000 21.500 L23.000 23.500 L1.000 23.500 Z', 'M10.500 2.000 A1.500 1.500 0 1 0 13.500 2.000 A1.500 1.500 0 1 0 10.500 2.000 Z', 'M7 5.031L7 21.5', 'M17 5.03L17 21.5', 'M3,21.5v-9a9,9,0,0,1,18,0v9', 'M9.5 16.5L14.5 16.5', 'M12 16.5L12 21.5', 'M12 3.5L12 13.5' ] ] }

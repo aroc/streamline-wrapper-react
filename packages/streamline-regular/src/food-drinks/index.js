@@ -31,4 +31,4 @@ import Water from "./Water.js"
 import Wine from "./Wine.js"
 import index from "./index.js"
 
-export default { AnimalProducts, Appliances, AsianFood, Barbeque, Beer, Bread, Breakfast, CakesCandies, ChampagneSpirits, ChefGear, Cocktails, Coffee, EatingRestaurant, ExoticFood, FastFood, FreezerCookingTemperatures, Fruits, IceCream, Kitchenware, Knives, Milk, PastaMeals, Seafood, Seasoning, SoftDrinks, Stove, Teas, Tools, Vegetables, Water, Wine, index }
+export { AnimalProducts, Appliances, AsianFood, Barbeque, Beer, Bread, Breakfast, CakesCandies, ChampagneSpirits, ChefGear, Cocktails, Coffee, EatingRestaurant, ExoticFood, FastFood, FreezerCookingTemperatures, Fruits, IceCream, Kitchenware, Knives, Milk, PastaMeals, Seafood, Seasoning, SoftDrinks, Stove, Teas, Tools, Vegetables, Water, Wine, index }

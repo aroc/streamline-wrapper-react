@@ -1,22 +1,4 @@
-export default { HistoryManCaveman:
-   [ 'history-man-caveman',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M7.477,6.335A8.714,8.714,0,0,0,13.751,9,8.725,8.725,0,0,0,17.2,8.29', 'M17.25,9v5.25a5.25,5.25,0,0,1-10.5,0V9a5.25,5.25,0,1,1,10.5,0Z', 'M20.65,23.25A9.781,9.781,0,0,0,15.085,18.5', 'M8.915,18.5A9.781,9.781,0,0,0,3.35,23.25', 'M9.75 0.75L12.001 3.75 14.25 0.75', 'M13.5,13.411c2.171-.282,3.754-1.282,3.754-3.661', 'M6.751,9.75c0,2.379,1.582,3.378,3.752,3.661', 'M10.5,12v2.25a1.5,1.5,0,0,0,3,0V12' ] ],
-  HistoryManSnakeCharmer:
-   [ 'history-man-snake-charmer',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M.75,23.25A9.756,9.756,0,0,1,7.5,13.97l3,2.53,3-2.53a9.726,9.726,0,0,1,3,1.594', 'M16.154,15.306A9.71,9.71,0,0,0,13.5,13.97l-3,2.53,4.5,3Z', 'M10.5,16.5l-3-2.53a9.726,9.726,0,0,0-2.653,1.336L6,19.5Z', 'M5.418 5.25L15.82 5.25', 'M18.750 12.000 A2.250 2.250 0 1 0 23.250 12.000 A2.250 2.250 0 1 0 18.750 12.000 Z', 'M21 9.75L21 6.75', 'M23.25 23.25L18.75 23.25 21 14.25 23.25 23.25z', 'M5.365 6.000 A5.250 5.250 0 1 0 15.865 6.000 A5.250 5.250 0 1 0 5.365 6.000 Z' ] ],
-  HistoryManKing:
-   [ 'history-man-king',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M17.25,8.25a5.25,5.25,0,0,1-10.5,0Z', 'M17.25 8.25L18 3 14.25 4.5 12 0.75 9.75 4.5 6 3 6.75 8.25 17.25 8.25z', 'M21.279,23.25a9.753,9.753,0,0,0-18.558,0', 'M7.659 17.527L10.737 19.989', 'M13.263 19.989L16.341 17.527', 'M10.125 21.375 A1.875 1.875 0 1 0 13.875 21.375 A1.875 1.875 0 1 0 10.125 21.375 Z' ] ],
-  HistoryManAviator:
+export default { HistoryManAviator:
    [ 'history-man-aviator',
      24,
      24,
@@ -63,4 +45,22 @@ export default { HistoryManCaveman:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M17.25,6v5.25a5.25,5.25,0,0,1-10.5,0V6a5.25,5.25,0,1,1,10.5,0Z', 'M21.635,23.25a9.763,9.763,0,0,0-6.55-7.752', 'M8.915,15.5a9.763,9.763,0,0,0-6.55,7.752', 'M6.865 6.75L17.25 6.75', 'M6.968,4.5H6.75A3.75,3.75,0,0,1,3,.75C3.071,4.47,2.989,6.609,6.75,8.2', 'M17.074,4.5h.218A3.75,3.75,0,0,0,21.042.75c-.073,3.841.142,5.8-3.792,7.47', 'M5.123,17.842a9,9,0,0,0,12.948-.721', 'M9.75 20.125L9.75 23.25', 'M6.75,8.335A6.453,6.453,0,0,0,9.065,12.75c.917.5,1.586-1.39,2.935-1.39', 'M12,11.36c1.349,0,2.018,1.892,2.935,1.39A6.453,6.453,0,0,0,17.25,8.335' ] ] }
+     [ 'M17.25,6v5.25a5.25,5.25,0,0,1-10.5,0V6a5.25,5.25,0,1,1,10.5,0Z', 'M21.635,23.25a9.763,9.763,0,0,0-6.55-7.752', 'M8.915,15.5a9.763,9.763,0,0,0-6.55,7.752', 'M6.865 6.75L17.25 6.75', 'M6.968,4.5H6.75A3.75,3.75,0,0,1,3,.75C3.071,4.47,2.989,6.609,6.75,8.2', 'M17.074,4.5h.218A3.75,3.75,0,0,0,21.042.75c-.073,3.841.142,5.8-3.792,7.47', 'M5.123,17.842a9,9,0,0,0,12.948-.721', 'M9.75 20.125L9.75 23.25', 'M6.75,8.335A6.453,6.453,0,0,0,9.065,12.75c.917.5,1.586-1.39,2.935-1.39', 'M12,11.36c1.349,0,2.018,1.892,2.935,1.39A6.453,6.453,0,0,0,17.25,8.335' ] ],
+  HistoryManCaveman:
+   [ 'history-man-caveman',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M7.477,6.335A8.714,8.714,0,0,0,13.751,9,8.725,8.725,0,0,0,17.2,8.29', 'M17.25,9v5.25a5.25,5.25,0,0,1-10.5,0V9a5.25,5.25,0,1,1,10.5,0Z', 'M20.65,23.25A9.781,9.781,0,0,0,15.085,18.5', 'M8.915,18.5A9.781,9.781,0,0,0,3.35,23.25', 'M9.75 0.75L12.001 3.75 14.25 0.75', 'M13.5,13.411c2.171-.282,3.754-1.282,3.754-3.661', 'M6.751,9.75c0,2.379,1.582,3.378,3.752,3.661', 'M10.5,12v2.25a1.5,1.5,0,0,0,3,0V12' ] ],
+  HistoryManSnakeCharmer:
+   [ 'history-man-snake-charmer',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M.75,23.25A9.756,9.756,0,0,1,7.5,13.97l3,2.53,3-2.53a9.726,9.726,0,0,1,3,1.594', 'M16.154,15.306A9.71,9.71,0,0,0,13.5,13.97l-3,2.53,4.5,3Z', 'M10.5,16.5l-3-2.53a9.726,9.726,0,0,0-2.653,1.336L6,19.5Z', 'M5.418 5.25L15.82 5.25', 'M18.750 12.000 A2.250 2.250 0 1 0 23.250 12.000 A2.250 2.250 0 1 0 18.750 12.000 Z', 'M21 9.75L21 6.75', 'M23.25 23.25L18.75 23.25 21 14.25 23.25 23.25z', 'M5.365 6.000 A5.250 5.250 0 1 0 15.865 6.000 A5.250 5.250 0 1 0 5.365 6.000 Z' ] ],
+  HistoryManKing:
+   [ 'history-man-king',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M17.25,8.25a5.25,5.25,0,0,1-10.5,0Z', 'M17.25 8.25L18 3 14.25 4.5 12 0.75 9.75 4.5 6 3 6.75 8.25 17.25 8.25z', 'M21.279,23.25a9.753,9.753,0,0,0-18.558,0', 'M7.659 17.527L10.737 19.989', 'M13.263 19.989L16.341 17.527', 'M10.125 21.375 A1.875 1.875 0 1 0 13.875 21.375 A1.875 1.875 0 1 0 10.125 21.375 Z' ] ] }

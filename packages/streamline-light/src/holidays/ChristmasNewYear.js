@@ -1,10 +1,4 @@
-export default { ChristmasSock:
-   [ 'christmas-sock',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', transform: 'translate(2.111 19.463) rotate(-87.308)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', transform: 'translate(-1.73 11.01) rotate(-41.572)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M8.012,6.585a1,1,0,0,0-.589,1.33l2.11,5.031h0a1.5,1.5,0,0,1-.879,1.931h0l-2.342.875A4,4,0,0,0,3.967,20.9h0a4,4,0,0,0,5.148,2.345l8.9-3.328h0a3.5,3.5,0,0,0,2.052-4.5h0l-1.752-3.659L15.849,4.875a1,1,0,0,0-1.274-.606Z', 'M8.7,23.376a4.463,4.463,0,0,0-2.786-7.449', 'M19.155,13.512a4.4,4.4,0,0,0-1.839.26,4.457,4.457,0,0,0-1.855,7.1', 'M10.378 8.625 A0.877 1.316 0 1 0 12.132 8.625 A0.877 1.316 0 1 0 10.378 8.625 Z', 'M12.322 7.784 A1.316 0.877 0 1 0 14.954 7.784 A1.316 0.877 0 1 0 12.322 7.784 Z', 'M15.243,11.426s-2.376-2.032-2.709-2.975c.333.943-.242,4.016-.242,4.016', 'M15.212 4.259L15.212 0.5' ] ],
-  ChristmasAngel:
+export default { ChristmasAngel:
    [ 'christmas-angel',
      24,
      24,
@@ -691,4 +685,10 @@ export default { ChristmasSock:
        'M4,9.25a.25.25,0,0,1,.25.25',
        'M3.75,9.5A.25.25,0,0,1,4,9.25',
        'M4,9.75a.25.25,0,0,1-.25-.25',
-       'M4.25,9.5A.25.25,0,0,1,4,9.75' ] ] }
+       'M4.25,9.5A.25.25,0,0,1,4,9.75' ] ],
+  ChristmasSock:
+   [ 'christmas-sock',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', transform: 'translate(2.111 19.463) rotate(-87.308)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', transform: 'translate(-1.73 11.01) rotate(-41.572)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M8.012,6.585a1,1,0,0,0-.589,1.33l2.11,5.031h0a1.5,1.5,0,0,1-.879,1.931h0l-2.342.875A4,4,0,0,0,3.967,20.9h0a4,4,0,0,0,5.148,2.345l8.9-3.328h0a3.5,3.5,0,0,0,2.052-4.5h0l-1.752-3.659L15.849,4.875a1,1,0,0,0-1.274-.606Z', 'M8.7,23.376a4.463,4.463,0,0,0-2.786-7.449', 'M19.155,13.512a4.4,4.4,0,0,0-1.839.26,4.457,4.457,0,0,0-1.855,7.1', 'M10.378 8.625 A0.877 1.316 0 1 0 12.132 8.625 A0.877 1.316 0 1 0 10.378 8.625 Z', 'M12.322 7.784 A1.316 0.877 0 1 0 14.954 7.784 A1.316 0.877 0 1 0 12.322 7.784 Z', 'M15.243,11.426s-2.376-2.032-2.709-2.975c.333.943-.242,4.016-.242,4.016', 'M15.212 4.259L15.212 0.5' ] ] }

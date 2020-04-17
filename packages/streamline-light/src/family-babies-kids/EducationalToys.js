@@ -1,10 +1,4 @@
-export default { EducativeToysAlphabet:
-   [ 'educative-toys-alphabet',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M0.500 13.000 L10.500 13.000 L10.500 23.000 L0.500 23.000 Z', 'M13.500 13.000 L23.500 13.000 L23.500 23.000 L13.500 23.000 Z', 'M7.000 1.000 L17.000 1.000 L17.000 11.000 L7.000 11.000 Z', 'M10.5,9V4.5a1.5,1.5,0,0,1,3,0V9', 'M10.5 6L13.5 6', 'M7,16.5A1.5,1.5,0,0,1,5.5,18H4V15H5.5A1.5,1.5,0,0,1,7,16.5Z', 'M7,19.5A1.5,1.5,0,0,1,5.5,21H4V18H5.5A1.5,1.5,0,0,1,7,19.5Z', 'M19.5,21a3,3,0,0,1,0-6' ] ],
-  EducativeToysCounting:
+export default { EducativeToysCounting:
    [ 'educative-toys-counting',
      24,
      24,
@@ -108,4 +102,10 @@ export default { EducativeToysAlphabet:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', transform: 'translate(38.5 42) rotate(-180)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M2.5,16.5v-5a1,1,0,0,1,1-1h17a1,1,0,0,1,1,1v5', 'M16.5 10.5L16.5 5.5', 'M7.5 5.5L7.5 10.5', 'M9,18.5a3,3,0,0,1,3-3h0a3,3,0,0,1,3,3', 'M6.522,4.58,11.687.606a.516.516,0,0,1,.626,0L17.478,4.58a.513.513,0,0,1-.313.92H6.835A.513.513,0,0,1,6.522,4.58Z', 'M1,18.5H9a0,0,0,0,1,0,0V23a.5.5,0,0,1-.5.5H1A.5.5,0,0,1,.5,23V19A.5.5,0,0,1,1,18.5Z', 'M4.5 18.5L4.5 23.5', 'M15.5,18.5H23a.5.5,0,0,1,.5.5v4.5a0,0,0,0,1,0,0h-8A.5.5,0,0,1,15,23V19A.5.5,0,0,1,15.5,18.5Z', 'M19.5 18.5L19.5 23.5' ] ] }
+     [ 'M2.5,16.5v-5a1,1,0,0,1,1-1h17a1,1,0,0,1,1,1v5', 'M16.5 10.5L16.5 5.5', 'M7.5 5.5L7.5 10.5', 'M9,18.5a3,3,0,0,1,3-3h0a3,3,0,0,1,3,3', 'M6.522,4.58,11.687.606a.516.516,0,0,1,.626,0L17.478,4.58a.513.513,0,0,1-.313.92H6.835A.513.513,0,0,1,6.522,4.58Z', 'M1,18.5H9a0,0,0,0,1,0,0V23a.5.5,0,0,1-.5.5H1A.5.5,0,0,1,.5,23V19A.5.5,0,0,1,1,18.5Z', 'M4.5 18.5L4.5 23.5', 'M15.5,18.5H23a.5.5,0,0,1,.5.5v4.5a0,0,0,0,1,0,0h-8A.5.5,0,0,1,15,23V19A.5.5,0,0,1,15.5,18.5Z', 'M19.5 18.5L19.5 23.5' ] ],
+  EducativeToysAlphabet:
+   [ 'educative-toys-alphabet',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M0.500 13.000 L10.500 13.000 L10.500 23.000 L0.500 23.000 Z', 'M13.500 13.000 L23.500 13.000 L23.500 23.000 L13.500 23.000 Z', 'M7.000 1.000 L17.000 1.000 L17.000 11.000 L7.000 11.000 Z', 'M10.5,9V4.5a1.5,1.5,0,0,1,3,0V9', 'M10.5 6L13.5 6', 'M7,16.5A1.5,1.5,0,0,1,5.5,18H4V15H5.5A1.5,1.5,0,0,1,7,16.5Z', 'M7,19.5A1.5,1.5,0,0,1,5.5,21H4V18H5.5A1.5,1.5,0,0,1,7,19.5Z', 'M19.5,21a3,3,0,0,1,0-6' ] ] }

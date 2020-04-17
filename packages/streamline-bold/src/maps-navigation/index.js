@@ -13,4 +13,4 @@ import SyncLocation from "./SyncLocation.js"
 import Trip from "./Trip.js"
 import index from "./index.js"
 
-export default { AddRemoveFavorites, Compass, Earth, Location, Maps, Pins, PinsStyleOne, PinsStyleThree, PinsStyleTwo, ShareLocation, SignShapes, SyncLocation, Trip, index }
+export { AddRemoveFavorites, Compass, Earth, Location, Maps, Pins, PinsStyleOne, PinsStyleThree, PinsStyleTwo, ShareLocation, SignShapes, SyncLocation, Trip, index }

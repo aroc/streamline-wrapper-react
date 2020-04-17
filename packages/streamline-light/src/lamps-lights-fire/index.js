@@ -6,4 +6,4 @@ import StandingLamps from "./StandingLamps.js"
 import TableLamps from "./TableLamps.js"
 import index from "./index.js"
 
-export default { CeilingLamps, LightBubbles, LighterMatchesCandles, SmartLighting, StandingLamps, TableLamps, index }
+export { CeilingLamps, LightBubbles, LighterMatchesCandles, SmartLighting, StandingLamps, TableLamps, index }

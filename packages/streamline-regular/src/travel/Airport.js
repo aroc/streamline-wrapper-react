@@ -1,10 +1,4 @@
-export default { AirportStairs:
-   [ 'airport-stairs',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M8.315,18V13.5a1.5,1.5,0,0,0-1.5-1.5H5.492a1.5,1.5,0,0,0-1.342.829L3.065,15,1.483,16.054A1.5,1.5,0,0,0,.815,17.3v2.2a1.5,1.5,0,0,0,1.5,1.5H4.693', 'M4.565 20.250 A2.250 2.250 0 1 0 9.065 20.250 A2.250 2.250 0 1 0 4.565 20.250 Z', 'M15.815 20.250 A2.250 2.250 0 1 0 20.315 20.250 A2.250 2.250 0 1 0 15.815 20.250 Z', 'M23,16.761,11.014,2.023A1.5,1.5,0,0,0,9.875,1.5H4.565a.749.749,0,0,0-.75.75v3a.75.75,0,0,0,.75.75h4.5l9,12h4.369A.75.75,0,0,0,23,16.761Z', 'M8.315 18L18.065 18', 'M8.936 21L15.943 21' ] ],
-  Airport:
+export default { Airport:
    [ 'airport',
      24,
      24,
@@ -40,4 +34,10 @@ export default { AirportStairs:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M7.500 8.250 A4.500 4.500 0 1 0 16.500 8.250 A4.500 4.500 0 1 0 7.500 8.250 Z', 'M10.5 6.75L13.5 6.75', 'M12 3.75L12 0.75', 'M0.75 8.25L7.5 8.25', 'M4.5 8.25L4.5 9.75', 'M23.25 8.25L16.5 8.25', 'M19.5 8.25L19.5 9.75', 'M0.75 23.25L5.25 13.5', 'M23.25 23.25L18.75 13.5', 'M12 20.25L12 23.25', 'M12 15L12 17.25' ] ] }
+     [ 'M7.500 8.250 A4.500 4.500 0 1 0 16.500 8.250 A4.500 4.500 0 1 0 7.500 8.250 Z', 'M10.5 6.75L13.5 6.75', 'M12 3.75L12 0.75', 'M0.75 8.25L7.5 8.25', 'M4.5 8.25L4.5 9.75', 'M23.25 8.25L16.5 8.25', 'M19.5 8.25L19.5 9.75', 'M0.75 23.25L5.25 13.5', 'M23.25 23.25L18.75 13.5', 'M12 20.25L12 23.25', 'M12 15L12 17.25' ] ],
+  AirportStairs:
+   [ 'airport-stairs',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M8.315,18V13.5a1.5,1.5,0,0,0-1.5-1.5H5.492a1.5,1.5,0,0,0-1.342.829L3.065,15,1.483,16.054A1.5,1.5,0,0,0,.815,17.3v2.2a1.5,1.5,0,0,0,1.5,1.5H4.693', 'M4.565 20.250 A2.250 2.250 0 1 0 9.065 20.250 A2.250 2.250 0 1 0 4.565 20.250 Z', 'M15.815 20.250 A2.250 2.250 0 1 0 20.315 20.250 A2.250 2.250 0 1 0 15.815 20.250 Z', 'M23,16.761,11.014,2.023A1.5,1.5,0,0,0,9.875,1.5H4.565a.749.749,0,0,0-.75.75v3a.75.75,0,0,0,.75.75h4.5l9,12h4.369A.75.75,0,0,0,23,16.761Z', 'M8.315 18L18.065 18', 'M8.936 21L15.943 21' ] ] }

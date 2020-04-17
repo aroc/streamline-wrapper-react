@@ -1,11 +1,4 @@
-export default { GridGuides: [ 'grid-guides', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M6.5 0.5L6.5 23.5', 'M11.5 0.5L11.5 23.5', 'M16.5 0.5L16.5 23.5', 'M23.5 6.5L0.5 6.5', 'M23.5 11.5L0.5 11.5', 'M23.5 16.5L0.5 16.5' ] ],
-  GridArtboard:
-   [ 'grid-artboard',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M5.5 0.5L5.5 3.5', 'M3.5 5.5L0.5 5.5', 'M3.5 18.5L0.5 18.5', 'M18.5 0.5L18.5 3.5', 'M5.5 20.5L5.5 23.5', 'M18.5 20.5L18.5 23.5', 'M23.5 5.5L20.5 5.5', 'M23.5 18.5L20.5 18.5', 'M5.5 5.5H18.5V18.5H5.5z' ] ],
-  GridDot:
+export default { GridDot:
    [ 'grid-dot',
      24,
      24,
@@ -146,4 +139,11 @@ export default { GridGuides: [ 'grid-guides', 24, 24, [ { fill: 'none', stroke: 
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M12 1L12 23', 'M1 17L12 21.5 23 17', 'M1 7L12 2.5 23 7', 'M1 14L12 16 23 14', 'M1 10L12 8 23 10', 'M16 4.136L16 19.864', 'M20 5.773L20 18.227', 'M8 4.136L8 19.864', 'M4 5.773L4 18.227' ] ] }
+     [ 'M12 1L12 23', 'M1 17L12 21.5 23 17', 'M1 7L12 2.5 23 7', 'M1 14L12 16 23 14', 'M1 10L12 8 23 10', 'M16 4.136L16 19.864', 'M20 5.773L20 18.227', 'M8 4.136L8 19.864', 'M4 5.773L4 18.227' ] ],
+  GridGuides: [ 'grid-guides', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M6.5 0.5L6.5 23.5', 'M11.5 0.5L11.5 23.5', 'M16.5 0.5L16.5 23.5', 'M23.5 6.5L0.5 6.5', 'M23.5 11.5L0.5 11.5', 'M23.5 16.5L0.5 16.5' ] ],
+  GridArtboard:
+   [ 'grid-artboard',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M5.5 0.5L5.5 3.5', 'M3.5 5.5L0.5 5.5', 'M3.5 18.5L0.5 18.5', 'M18.5 0.5L18.5 3.5', 'M5.5 20.5L5.5 23.5', 'M18.5 20.5L18.5 23.5', 'M23.5 5.5L20.5 5.5', 'M23.5 18.5L20.5 18.5', 'M5.5 5.5H18.5V18.5H5.5z' ] ] }

@@ -1,4 +1,34 @@
-export default { Unicycle:
+export default { BicycleSports:
+   [ 'bicycle-sports',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.750 15.287 A3.750 3.750 0 1 0 8.250 15.287 A3.750 3.750 0 1 0 0.750 15.287 Z', 'M15.750 15.287 A3.750 3.750 0 1 0 23.250 15.287 A3.750 3.750 0 1 0 15.750 15.287 Z', 'M20.25,8.537a1.5,1.5,0,0,0,0-3H16.842a.751.751,0,0,0-.7,1.019L19.5,15.287', 'M10.5 5.537L5.351 4.25', 'M10.536 12.434L7.5 4.787', 'M4.5 15.287L17.192 9.287' ] ],
+  BicyclePerson:
+   [ 'bicycle-person',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M.75,23.25V15a.75.75,0,0,1,.75-.75h3', 'M4.125 3.375 A2.625 2.625 0 1 0 9.375 3.375 A2.625 2.625 0 1 0 4.125 3.375 Z', 'M2.25,11.25a3,3,0,0,1,3-3h3a3,3,0,0,1,3,3', 'M5.250 19.500 A3.750 3.750 0 1 0 12.750 19.500 A3.750 3.750 0 1 0 5.250 19.500 Z', 'M23.244,23.174a3.751,3.751,0,0,1,0-7.349', 'M13.5 11.25L16.5 11.25', 'M21.463 12.75L15 19.5 9 19.5 15 13.5 21.463 12.75z', 'M22.5 9.75L20.329 9.733 23.25 17.504' ] ],
+  BicycleSports1:
+   [ 'bicycle-sports-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.750 18.000 A3.750 3.750 0 1 0 8.250 18.000 A3.750 3.750 0 1 0 0.750 18.000 Z', 'M15.750 18.000 A3.750 3.750 0 1 0 23.250 18.000 A3.750 3.750 0 1 0 15.750 18.000 Z', 'M4.5,18c1.573-6.366,6.424-9.171,13.35-8.25', 'M5.25 6.75L9.75 6.75', 'M7.5 6.75L8.999 11.247', 'M15.75,2.25H19.5a1.5,1.5,0,0,1,0,3H17.865a.751.751,0,0,0-.736.9L19.5,18' ] ],
+  BicycleRetro:
+   [ 'bicycle-retro',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.750 20.250 A3.000 3.000 0 1 0 6.750 20.250 A3.000 3.000 0 1 0 0.750 20.250 Z', 'M11.250 17.250 A6.000 6.000 0 1 0 23.250 17.250 A6.000 6.000 0 1 0 11.250 17.250 Z', 'M17.25,17.25V1.5a.75.75,0,0,1,.913-.733A4.481,4.481,0,0,1,21.75,4.4', 'M3.75,17.25c0-4.5,5.25-12,13.5-12', 'M5.25 2.25L11.25 2.25', 'M8.25 2.25L8.25 8.751' ] ],
+  Bicycle:
+   [ 'bicycle',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.750 16.786 A3.750 3.750 0 1 0 8.250 16.786 A3.750 3.750 0 1 0 0.750 16.786 Z', 'M15.750 16.786 A3.750 3.750 0 1 0 23.250 16.786 A3.750 3.750 0 1 0 15.750 16.786 Z', 'M19.5,16.786,14.514,5.677a.749.749,0,0,1,.467-1.025l2.984-.9', 'M9 7.036L3.75 7.036', 'M8.517 11.452L6 7.036', 'M4.5 16.786L8.517 11.452 16.173 9.375' ] ],
+  Unicycle:
    [ 'unicycle',
      24,
      24,
@@ -33,34 +63,4 @@ export default { Unicycle:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M10.908,4.81a.375.375,0,0,1-.375.375', 'M10.533,4.435a.375.375,0,0,1,.375.375', 'M10.158,4.81a.375.375,0,0,1,.375-.375', 'M10.533,5.185a.375.375,0,0,1-.375-.375', 'M14.25,6.434h5.215a1.624,1.624,0,1,0,0-3.248H14.25a4.06,4.06,0,1,0,0,3.248Z', 'M0.750 19.500 A3.750 3.750 0 1 0 8.250 19.500 A3.750 3.750 0 1 0 0.750 19.500 Z', 'M15.750 19.500 A3.750 3.750 0 1 0 23.250 19.500 A3.750 3.750 0 1 0 15.750 19.500 Z', 'M9 11.25L12 11.25', 'M18 12.75L10.5 19.5 4.5 19.5 10.5 13.5 18 12.75z', 'M19.5 9.75L17.329 9.733 19.5 19.5' ] ],
-  BicyclePerson:
-   [ 'bicycle-person',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M.75,23.25V15a.75.75,0,0,1,.75-.75h3', 'M4.125 3.375 A2.625 2.625 0 1 0 9.375 3.375 A2.625 2.625 0 1 0 4.125 3.375 Z', 'M2.25,11.25a3,3,0,0,1,3-3h3a3,3,0,0,1,3,3', 'M5.250 19.500 A3.750 3.750 0 1 0 12.750 19.500 A3.750 3.750 0 1 0 5.250 19.500 Z', 'M23.244,23.174a3.751,3.751,0,0,1,0-7.349', 'M13.5 11.25L16.5 11.25', 'M21.463 12.75L15 19.5 9 19.5 15 13.5 21.463 12.75z', 'M22.5 9.75L20.329 9.733 23.25 17.504' ] ],
-  BicycleSports1:
-   [ 'bicycle-sports-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 18.000 A3.750 3.750 0 1 0 8.250 18.000 A3.750 3.750 0 1 0 0.750 18.000 Z', 'M15.750 18.000 A3.750 3.750 0 1 0 23.250 18.000 A3.750 3.750 0 1 0 15.750 18.000 Z', 'M4.5,18c1.573-6.366,6.424-9.171,13.35-8.25', 'M5.25 6.75L9.75 6.75', 'M7.5 6.75L8.999 11.247', 'M15.75,2.25H19.5a1.5,1.5,0,0,1,0,3H17.865a.751.751,0,0,0-.736.9L19.5,18' ] ],
-  BicycleSports:
-   [ 'bicycle-sports',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 15.287 A3.750 3.750 0 1 0 8.250 15.287 A3.750 3.750 0 1 0 0.750 15.287 Z', 'M15.750 15.287 A3.750 3.750 0 1 0 23.250 15.287 A3.750 3.750 0 1 0 15.750 15.287 Z', 'M20.25,8.537a1.5,1.5,0,0,0,0-3H16.842a.751.751,0,0,0-.7,1.019L19.5,15.287', 'M10.5 5.537L5.351 4.25', 'M10.536 12.434L7.5 4.787', 'M4.5 15.287L17.192 9.287' ] ],
-  BicycleRetro:
-   [ 'bicycle-retro',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 20.250 A3.000 3.000 0 1 0 6.750 20.250 A3.000 3.000 0 1 0 0.750 20.250 Z', 'M11.250 17.250 A6.000 6.000 0 1 0 23.250 17.250 A6.000 6.000 0 1 0 11.250 17.250 Z', 'M17.25,17.25V1.5a.75.75,0,0,1,.913-.733A4.481,4.481,0,0,1,21.75,4.4', 'M3.75,17.25c0-4.5,5.25-12,13.5-12', 'M5.25 2.25L11.25 2.25', 'M8.25 2.25L8.25 8.751' ] ],
-  Bicycle:
-   [ 'bicycle',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 16.786 A3.750 3.750 0 1 0 8.250 16.786 A3.750 3.750 0 1 0 0.750 16.786 Z', 'M15.750 16.786 A3.750 3.750 0 1 0 23.250 16.786 A3.750 3.750 0 1 0 15.750 16.786 Z', 'M19.5,16.786,14.514,5.677a.749.749,0,0,1,.467-1.025l2.984-.9', 'M9 7.036L3.75 7.036', 'M8.517 11.452L6 7.036', 'M4.5 16.786L8.517 11.452 16.173 9.375' ] ] }
+     [ 'M10.908,4.81a.375.375,0,0,1-.375.375', 'M10.533,4.435a.375.375,0,0,1,.375.375', 'M10.158,4.81a.375.375,0,0,1,.375-.375', 'M10.533,5.185a.375.375,0,0,1-.375-.375', 'M14.25,6.434h5.215a1.624,1.624,0,1,0,0-3.248H14.25a4.06,4.06,0,1,0,0,3.248Z', 'M0.750 19.500 A3.750 3.750 0 1 0 8.250 19.500 A3.750 3.750 0 1 0 0.750 19.500 Z', 'M15.750 19.500 A3.750 3.750 0 1 0 23.250 19.500 A3.750 3.750 0 1 0 15.750 19.500 Z', 'M9 11.25L12 11.25', 'M18 12.75L10.5 19.5 4.5 19.5 10.5 13.5 18 12.75z', 'M19.5 9.75L17.329 9.733 19.5 19.5' ] ] }

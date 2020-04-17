@@ -10,4 +10,4 @@ import Spas from "./Spas.js"
 import TV from "./TV.js"
 import index from "./index.js"
 
-export default { ACHeating, Bathroom, GarageParking, HotelBedrooms, RatingReviews, Reception, RoomService, Sauna, Spas, TV, index }
+export { ACHeating, Bathroom, GarageParking, HotelBedrooms, RatingReviews, Reception, RoomService, Sauna, Spas, TV, index }

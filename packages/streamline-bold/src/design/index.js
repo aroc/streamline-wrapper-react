@@ -17,4 +17,4 @@ import Transform from "./Transform.js"
 import Vectors from "./Vectors.js"
 import index from "./index.js"
 
-export default { Align, ColorsPainting, CropsArtboards, DesignFiles, DesignProcess, DesignTools, Flip, GraphicTablets, GridsRulers, Layers, Pathfinder, Reorder, Resize, Rotate, Shapes, Transform, Vectors, index }
+export { Align, ColorsPainting, CropsArtboards, DesignFiles, DesignProcess, DesignTools, Flip, GraphicTablets, GridsRulers, Layers, Pathfinder, Reorder, Resize, Rotate, Shapes, Transform, Vectors, index }

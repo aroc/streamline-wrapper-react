@@ -8,4 +8,4 @@ import SmartHouse from "./SmartHouse.js"
 import VirtualReality from "./VirtualReality.js"
 import index from "./index.js"
 
-export default { ThreeDPrinting, ArtificialIntelligence, AutomatedTranslation, Beacons, Drones, FutureTechs, SmartHouse, VirtualReality, index }
+export { ThreeDPrinting, ArtificialIntelligence, AutomatedTranslation, Beacons, Drones, FutureTechs, SmartHouse, VirtualReality, index }

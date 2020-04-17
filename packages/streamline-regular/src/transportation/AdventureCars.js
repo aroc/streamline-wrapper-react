@@ -1,10 +1,4 @@
-export default { AdventureCar3:
-   [ 'adventure-car-3',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M3.000 18.250 A2.250 2.250 0 1 0 7.500 18.250 A2.250 2.250 0 1 0 3.000 18.250 Z', 'M16.500 18.250 A2.250 2.250 0 1 0 21.000 18.250 A2.250 2.250 0 1 0 16.500 18.250 Z', 'M.75,10H12.3a1.5,1.5,0,0,0,.832-.252l1.494-1a1.5,1.5,0,0,1,.832-.252h6.3a1.5,1.5,0,0,1,1.5,1.5v5.25A5.6,5.6,0,0,0,18.75,13a5.245,5.245,0,0,0-4.309,2.25H9.559A5.245,5.245,0,0,0,5.25,13a5.6,5.6,0,0,0-4.5,2.25Z', 'M17.25,8.5,16.061,5.088A1.5,1.5,0,0,0,14.619,4h-10a1.5,1.5,0,0,0-1.3.756L.75,10', 'M6.75 4L6.75 10' ] ],
-  AdventureCar1:
+export default { AdventureCar1:
    [ 'adventure-car-1',
      24,
      24,
@@ -83,4 +77,10 @@ export default { AdventureCar3:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M4.500 18.000 A2.250 2.250 0 1 0 9.000 18.000 A2.250 2.250 0 1 0 4.500 18.000 Z', 'M16.500 18.000 A2.250 2.250 0 1 0 21.000 18.000 A2.250 2.250 0 1 0 16.500 18.000 Z', 'M2.441,15a5.251,5.251,0,0,1,8.618,0h3.382a5.251,5.251,0,0,1,8.618,0', 'M21.75,13.691V11.25a1.5,1.5,0,0,0-1.5-1.5H3.75v3.942', 'M17.25,9.75,16.061,5.588A1.5,1.5,0,0,0,14.619,4.5h-7a1.5,1.5,0,0,0-1.3.756L3.75,9.75', 'M0.75 7.5L0.75 12.75', 'M9.75 4.5L9.75 9.75' ] ] }
+     [ 'M4.500 18.000 A2.250 2.250 0 1 0 9.000 18.000 A2.250 2.250 0 1 0 4.500 18.000 Z', 'M16.500 18.000 A2.250 2.250 0 1 0 21.000 18.000 A2.250 2.250 0 1 0 16.500 18.000 Z', 'M2.441,15a5.251,5.251,0,0,1,8.618,0h3.382a5.251,5.251,0,0,1,8.618,0', 'M21.75,13.691V11.25a1.5,1.5,0,0,0-1.5-1.5H3.75v3.942', 'M17.25,9.75,16.061,5.588A1.5,1.5,0,0,0,14.619,4.5h-7a1.5,1.5,0,0,0-1.3.756L3.75,9.75', 'M0.75 7.5L0.75 12.75', 'M9.75 4.5L9.75 9.75' ] ],
+  AdventureCar3:
+   [ 'adventure-car-3',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M3.000 18.250 A2.250 2.250 0 1 0 7.500 18.250 A2.250 2.250 0 1 0 3.000 18.250 Z', 'M16.500 18.250 A2.250 2.250 0 1 0 21.000 18.250 A2.250 2.250 0 1 0 16.500 18.250 Z', 'M.75,10H12.3a1.5,1.5,0,0,0,.832-.252l1.494-1a1.5,1.5,0,0,1,.832-.252h6.3a1.5,1.5,0,0,1,1.5,1.5v5.25A5.6,5.6,0,0,0,18.75,13a5.245,5.245,0,0,0-4.309,2.25H9.559A5.245,5.245,0,0,0,5.25,13a5.6,5.6,0,0,0-4.5,2.25Z', 'M17.25,8.5,16.061,5.088A1.5,1.5,0,0,0,14.619,4h-10a1.5,1.5,0,0,0-1.3.756L.75,10', 'M6.75 4L6.75 10' ] ] }

@@ -7,4 +7,4 @@ import LoveGifts from "./LoveGifts.js"
 import Wedding from "./Wedding.js"
 import index from "./index.js"
 
-export default { BreakupDivorce, Couples, Dating, Engagement, Love, LoveGifts, Wedding, index }
+export { BreakupDivorce, Couples, Dating, Engagement, Love, LoveGifts, Wedding, index }

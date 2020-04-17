@@ -1,10 +1,4 @@
-export default { CeilingLamp2:
-   [ 'ceiling-lamp-2',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.75 0.75L23.25 0.75', 'M12 0.75L12 5.25', 'M15.75,8.25H8.25V6.75a1.5,1.5,0,0,1,1.5-1.5h4.5a1.5,1.5,0,0,1,1.5,1.5Z', 'M12 20.25L12 23.25', 'M6.75 20.25L5.25 23.25', 'M17.25 20.25L18.75 23.25', 'M15.756,8.25H8.244A9.766,9.766,0,0,0,2.4,15.52,1.5,1.5,0,0,0,3.9,17.25h16.21A1.5,1.5,0,0,0,21.6,15.52,9.766,9.766,0,0,0,15.756,8.25Z' ] ],
-  CeilingBallChandelierRetro:
+export default { CeilingBallChandelierRetro:
    [ 'ceiling-ball-chandelier-retro',
      24,
      24,
@@ -89,4 +83,10 @@ export default { CeilingLamp2:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 12.750 A7.500 7.500 0 1 0 15.750 12.750 A7.500 7.500 0 1 0 0.750 12.750 Z', 'M13.436,21.882a6,6,0,1,0,5.23-10.463', 'M0.75 12.75L15.75 12.75', 'M2.257 8.25L14.248 8.25', 'M2.257 17.25L14.248 17.25', 'M18.75 17.25L23.25 17.25', 'M16.5 20.25L22.441 20.25', 'M18.75 14.25L22.443 14.25', 'M8.25 5.25L8.25 0.75', 'M17.25 6.75L17.25 0.75' ] ] }
+     [ 'M0.750 12.750 A7.500 7.500 0 1 0 15.750 12.750 A7.500 7.500 0 1 0 0.750 12.750 Z', 'M13.436,21.882a6,6,0,1,0,5.23-10.463', 'M0.75 12.75L15.75 12.75', 'M2.257 8.25L14.248 8.25', 'M2.257 17.25L14.248 17.25', 'M18.75 17.25L23.25 17.25', 'M16.5 20.25L22.441 20.25', 'M18.75 14.25L22.443 14.25', 'M8.25 5.25L8.25 0.75', 'M17.25 6.75L17.25 0.75' ] ],
+  CeilingLamp2:
+   [ 'ceiling-lamp-2',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M0.75 0.75L23.25 0.75', 'M12 0.75L12 5.25', 'M15.75,8.25H8.25V6.75a1.5,1.5,0,0,1,1.5-1.5h4.5a1.5,1.5,0,0,1,1.5,1.5Z', 'M12 20.25L12 23.25', 'M6.75 20.25L5.25 23.25', 'M17.25 20.25L18.75 23.25', 'M15.756,8.25H8.244A9.766,9.766,0,0,0,2.4,15.52,1.5,1.5,0,0,0,3.9,17.25h16.21A1.5,1.5,0,0,0,21.6,15.52,9.766,9.766,0,0,0,15.756,8.25Z' ] ] }

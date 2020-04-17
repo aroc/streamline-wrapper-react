@@ -1,5 +1,4 @@
-export default { FamilyOutdoorsSwing: [ 'family-outdoors-swing', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M2,23.5,3.682,4.153A4,4,0,0,1,7.667.5H16a4,4,0,0,1,3.985,3.653L22,23.5', 'M0.5 23.5L3.5 23.5', 'M20.5 23.5L23.5 23.5', 'M8.5 0.5L8.5 16.5', 'M15.5 0.5L15.5 16.5', 'M16.5,17.5a2,2,0,0,1-2,2h-5a2,2,0,0,1-2-2,1,1,0,0,1,1-1h7A1,1,0,0,1,16.5,17.5Z' ] ],
-  FamilyOutdoorsSwingTree:
+export default { FamilyOutdoorsSwingTree:
    [ 'family-outdoors-swing-tree',
      24,
      24,
@@ -23,6 +22,7 @@ export default { FamilyOutdoorsSwing: [ 'family-outdoors-swing', 24, 24, [ { fil
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M1.5 6.5L1.5 23.5', 'M8.5 23.5L8.5 6.5', 'M9.39,5.688A.5.5,0,0,1,9,6.5H1a.5.5,0,0,1-.391-.812l4-5a.5.5,0,0,1,.781,0Z', 'M1.5 21.5L8.5 21.5', 'M1.5 18.5L8.5 18.5', 'M1.5 15.5L8.5 15.5', 'M1.5 12.5L8.5 12.5', 'M8.5 8.5L23.5 8.5', 'M12.5 8.5L12.5 13.5', 'M11.000 15.000 A1.500 1.500 0 1 0 14.000 15.000 A1.500 1.500 0 1 0 11.000 15.000 Z', 'M18.5 8.5L18.5 11.5', 'M17.000 13.000 A1.500 1.500 0 1 0 20.000 13.000 A1.500 1.500 0 1 0 17.000 13.000 Z', 'M22.5 8.5L22.5 23.5' ] ],
+  FamilyOutdoorsSwing: [ 'family-outdoors-swing', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M2,23.5,3.682,4.153A4,4,0,0,1,7.667.5H16a4,4,0,0,1,3.985,3.653L22,23.5', 'M0.5 23.5L3.5 23.5', 'M20.5 23.5L23.5 23.5', 'M8.5 0.5L8.5 16.5', 'M15.5 0.5L15.5 16.5', 'M16.5,17.5a2,2,0,0,1-2,2h-5a2,2,0,0,1-2-2,1,1,0,0,1,1-1h7A1,1,0,0,1,16.5,17.5Z' ] ],
   FamilyOutdoorsTreeHouse:
    [ 'family-outdoors-tree-house',
      24,

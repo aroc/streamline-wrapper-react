@@ -11,4 +11,4 @@ import VideoMeetings from "./VideoMeetings.js"
 import WorkOffice from "./WorkOffice.js"
 import index from "./index.js"
 
-export default { HumanResources, IdeasCreativity, JobSearchRecruiting, Legal, MeetingsCollaboration, Office, OfficeFiles, Presentations, Tasks, VideoMeetings, WorkOffice, index }
+export { HumanResources, IdeasCreativity, JobSearchRecruiting, Legal, MeetingsCollaboration, Office, OfficeFiles, Presentations, Tasks, VideoMeetings, WorkOffice, index }

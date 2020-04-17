@@ -1,10 +1,4 @@
-export default { DrugsPillsBox:
-   [ 'drugs-pills-box',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M22.5,6.5v12a2.006,2.006,0,0,1-2,2h-7a2.006,2.006,0,0,1-2-2V6.5', 'M23.5,6a.5.5,0,0,1-.5.5H11a.5.5,0,0,1-.5-.5V5A1.5,1.5,0,0,1,12,3.5H22A1.5,1.5,0,0,1,23.5,5Z', 'M22.5,16.5H16a.5.5,0,0,1-.5-.5V10a.5.5,0,0,1,.5-.5h6.5Z', 'M8.5,19A1.5,1.5,0,0,1,7,20.5H2a1.5,1.5,0,0,1,0-3H7A1.5,1.5,0,0,1,8.5,19Z', 'M4.5 17.5L4.5 20.5', 'M9.1,10.44a1.5,1.5,0,0,1,0,2.121L5.56,16.1a1.5,1.5,0,0,1-2.121-2.121L6.975,10.44A1.5,1.5,0,0,1,9.1,10.44Z', 'M5.207 12.207L7.328 14.328' ] ],
-  PillClock:
+export default { PillClock:
    [ 'pill-clock',
      24,
      24,
@@ -120,4 +114,10 @@ export default { DrugsPillsBox:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M15.588 15.077L19.816 19.305', 'M17,22.124A2.99,2.99,0,0,1,12.769,17.9l5.638-5.638a2.99,2.99,0,0,1,4.228,4.229Z', 'M9.026,18.017H1.507a1,1,0,0,1-.93-1.354L2.5,10.044H17.413', 'M5.07 12.037L6.067 12.037', 'M8.06 12.037L9.056 12.037', 'M4.073 14.031L5.07 14.031', 'M7.063 14.031L8.06 14.031', 'M10.053 14.031L11.05 14.031', 'M11.05 12.037L12.046 12.037', 'M5.538 18.017L6.534 16.024 11.019 16.024', 'M2.464,10.044V2.071a1,1,0,0,1,1-1H16.417a1,1,0,0,1,1,1v7.973' ] ] }
+     [ 'M15.588 15.077L19.816 19.305', 'M17,22.124A2.99,2.99,0,0,1,12.769,17.9l5.638-5.638a2.99,2.99,0,0,1,4.228,4.229Z', 'M9.026,18.017H1.507a1,1,0,0,1-.93-1.354L2.5,10.044H17.413', 'M5.07 12.037L6.067 12.037', 'M8.06 12.037L9.056 12.037', 'M4.073 14.031L5.07 14.031', 'M7.063 14.031L8.06 14.031', 'M10.053 14.031L11.05 14.031', 'M11.05 12.037L12.046 12.037', 'M5.538 18.017L6.534 16.024 11.019 16.024', 'M2.464,10.044V2.071a1,1,0,0,1,1-1H16.417a1,1,0,0,1,1,1v7.973' ] ],
+  DrugsPillsBox:
+   [ 'drugs-pills-box',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M22.5,6.5v12a2.006,2.006,0,0,1-2,2h-7a2.006,2.006,0,0,1-2-2V6.5', 'M23.5,6a.5.5,0,0,1-.5.5H11a.5.5,0,0,1-.5-.5V5A1.5,1.5,0,0,1,12,3.5H22A1.5,1.5,0,0,1,23.5,5Z', 'M22.5,16.5H16a.5.5,0,0,1-.5-.5V10a.5.5,0,0,1,.5-.5h6.5Z', 'M8.5,19A1.5,1.5,0,0,1,7,20.5H2a1.5,1.5,0,0,1,0-3H7A1.5,1.5,0,0,1,8.5,19Z', 'M4.5 17.5L4.5 20.5', 'M9.1,10.44a1.5,1.5,0,0,1,0,2.121L5.56,16.1a1.5,1.5,0,0,1-2.121-2.121L6.975,10.44A1.5,1.5,0,0,1,9.1,10.44Z', 'M5.207 12.207L7.328 14.328' ] ] }

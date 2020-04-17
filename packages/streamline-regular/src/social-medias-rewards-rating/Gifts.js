@@ -1,4 +1,16 @@
-export default { GiftCircle:
+export default { GiftBox:
+   [ 'gift-box',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M21.75,11.25H2.25v10.5a1.5,1.5,0,0,0,1.5,1.5h16.5a1.5,1.5,0,0,0,1.5-1.5Z', 'M21.75,6.75H2.25a1.5,1.5,0,0,0-1.5,1.5V10.5a.75.75,0,0,0,.75.75h21a.75.75,0,0,0,.75-.75V8.25A1.5,1.5,0,0,0,21.75,6.75Z', 'M11.25,6.75c-3.314,0-6.75-2.686-6.75-6', 'M4.5.75c3.314,0,6.75,2.686,6.75,6', 'M12.75,6.75c3.314,0,6.75-2.686,6.75-6', 'M19.5.75c-3.314,0-6.75,2.686-6.75,6', 'M9.75 6.75H14.25V23.25H9.75z' ] ],
+  GiftBox1:
+   [ 'gift-box-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M18.75,13.5H5.25v8.25a1.5,1.5,0,0,0,1.5,1.5h10.5a1.5,1.5,0,0,0,1.5-1.5Z', 'M3.750 9.000 L20.250 9.000 L20.250 13.500 L3.750 13.500 Z', 'M12 9L12 23.25', 'M12 2.25L12 0.75', 'M17.25 3.311L18.311 2.25', 'M20.307 6.287L21.693 5.713', 'M6.75 3.311L5.689 2.25', 'M3.693 6.287L2.307 5.713' ] ],
+  GiftCircle:
    [ 'gift-circle',
      24,
      24,
@@ -15,16 +27,4 @@ export default { GiftCircle:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M22.651,5.387a5.659,5.659,0,0,0-5.4-3.128C14.966,2.385,14.01,3.533,12,5.25,9.99,3.533,9.034,2.385,6.75,2.259a5.659,5.659,0,0,0-5.4,3.128C-1.5,11.25,7.368,17.924,12,21.75,16.632,17.924,25.5,11.25,22.651,5.387Z', 'M12 5.25L12 21.75', 'M12 10.5L15.75 14.25', 'M8.25 14.25L12 10.5', 'M12,10.5l3.257-3.257A1.908,1.908,0,1,1,16.606,10.5Z', 'M12,10.5,8.743,7.243A1.908,1.908,0,1,0,7.394,10.5Z' ] ],
-  GiftBox:
-   [ 'gift-box',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M21.75,11.25H2.25v10.5a1.5,1.5,0,0,0,1.5,1.5h16.5a1.5,1.5,0,0,0,1.5-1.5Z', 'M21.75,6.75H2.25a1.5,1.5,0,0,0-1.5,1.5V10.5a.75.75,0,0,0,.75.75h21a.75.75,0,0,0,.75-.75V8.25A1.5,1.5,0,0,0,21.75,6.75Z', 'M11.25,6.75c-3.314,0-6.75-2.686-6.75-6', 'M4.5.75c3.314,0,6.75,2.686,6.75,6', 'M12.75,6.75c3.314,0,6.75-2.686,6.75-6', 'M19.5.75c-3.314,0-6.75,2.686-6.75,6', 'M9.75 6.75H14.25V23.25H9.75z' ] ],
-  GiftBox1:
-   [ 'gift-box-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M18.75,13.5H5.25v8.25a1.5,1.5,0,0,0,1.5,1.5h10.5a1.5,1.5,0,0,0,1.5-1.5Z', 'M3.750 9.000 L20.250 9.000 L20.250 13.500 L3.750 13.500 Z', 'M12 9L12 23.25', 'M12 2.25L12 0.75', 'M17.25 3.311L18.311 2.25', 'M20.307 6.287L21.693 5.713', 'M6.75 3.311L5.689 2.25', 'M3.693 6.287L2.307 5.713' ] ] }
+     [ 'M22.651,5.387a5.659,5.659,0,0,0-5.4-3.128C14.966,2.385,14.01,3.533,12,5.25,9.99,3.533,9.034,2.385,6.75,2.259a5.659,5.659,0,0,0-5.4,3.128C-1.5,11.25,7.368,17.924,12,21.75,16.632,17.924,25.5,11.25,22.651,5.387Z', 'M12 5.25L12 21.75', 'M12 10.5L15.75 14.25', 'M8.25 14.25L12 10.5', 'M12,10.5l3.257-3.257A1.908,1.908,0,1,1,16.606,10.5Z', 'M12,10.5,8.743,7.243A1.908,1.908,0,1,0,7.394,10.5Z' ] ] }

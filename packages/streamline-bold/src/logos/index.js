@@ -25,4 +25,4 @@ import Videos from "./Videos.js"
 import WebServices from "./WebServices.js"
 import index from "./index.js"
 
-export default { Advertising, BlogNewsFeed, DesignersCommunities, DeveloperCommunities, ECommerce, InternetProtocol, MailingServices, MessagingVideoMeetings, Music, OSSystems, OnlineReading, Payment, PhotosImages, ProfessionalNetworks, ProfessionalTools, QA, SearchEngines, SocialBookmarking, SocialMedias, Statistics, Technology, Travel, VideoGames, Videos, WebServices, index }
+export { Advertising, BlogNewsFeed, DesignersCommunities, DeveloperCommunities, ECommerce, InternetProtocol, MailingServices, MessagingVideoMeetings, Music, OSSystems, OnlineReading, Payment, PhotosImages, ProfessionalNetworks, ProfessionalTools, QA, SearchEngines, SocialBookmarking, SocialMedias, Statistics, Technology, Travel, VideoGames, Videos, WebServices, index }

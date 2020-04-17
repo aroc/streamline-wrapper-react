@@ -1,4 +1,10 @@
-export default { FarmingWindCock1:
+export default { FarmingFarmerCrops:
+   [ 'farming-farmer-crops',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M21.43.748a2,2,0,0,1-1.392,3.716.5.5,0,0,0-.6.368l-.385,1.581', 'M15.232,4.248a2,2,0,1,1-3.464,0', 'M9.5 4.248L17.5 4.248', 'M11,4.248l.793-2.275a1,1,0,0,1,.961-.725h1.492a1,1,0,0,1,.961.725L16,4.248', 'M18.872,6.319a1,1,0,0,0-1.3.557,3.663,3.663,0,0,1-2.878,2.262,6.549,6.549,0,0,1-1.024.11H11.5a3.864,3.864,0,0,0-3.231,2.057L6.052,15.3a1,1,0,1,0,1.748.971l2.217-3.989a1.988,1.988,0,0,1,1.483-.994v4.965l-1.442,5.663a1,1,0,0,0,1.884.672L13.5,18.22l1.558,4.363a1,1,0,0,0,1.884-.672L15.5,16.248v-5.24a5.669,5.669,0,0,0,3.929-3.389A1,1,0,0,0,18.872,6.319Z', 'M6.056 15.291L1.5 11.748', 'M3 9.748L6.185 15.056', 'M5.5 9.248L6.536 14.425' ] ],
+  FarmingWindCock1:
    [ 'farming-wind-cock-1',
      24,
      24,
@@ -46,12 +52,12 @@ export default { FarmingWindCock1:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M12.5,23a.5.5,0,0,1-.5.5H6.5v-6l3-3,2.854,2.854a.5.5,0,0,1,.146.353Z', 'M9.5,14.5H3.707a.5.5,0,0,0-.353.146L.5,17.5V23a.5.5,0,0,0,.5.5H6.5', 'M0.5 8.5L23.5 8.5', 'M0.5 11.5L23.5 11.5', 'M14.033 14.5L23.5 14.5', 'M12.5 20.5L23.5 20.5', 'M12.5,8.5a4,4,0,0,1,8,0', 'M16.5 2L16.5 0.5', 'M21.096 3.904L22.157 2.843', 'M11.904 3.904L10.843 2.843', 'M6.5 17.5L0.5 17.5', 'M15.5 20.5L15.5 23.5', 'M18.5 20.5L18.5 23.5', 'M21.5 20.5L21.5 23.5' ] ],
-  FarmingFarmerCrops:
-   [ 'farming-farmer-crops',
+  FarmingScarecrow:
+   [ 'farming-scarecrow',
      24,
      24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M21.43.748a2,2,0,0,1-1.392,3.716.5.5,0,0,0-.6.368l-.385,1.581', 'M15.232,4.248a2,2,0,1,1-3.464,0', 'M9.5 4.248L17.5 4.248', 'M11,4.248l.793-2.275a1,1,0,0,1,.961-.725h1.492a1,1,0,0,1,.961.725L16,4.248', 'M18.872,6.319a1,1,0,0,0-1.3.557,3.663,3.663,0,0,1-2.878,2.262,6.549,6.549,0,0,1-1.024.11H11.5a3.864,3.864,0,0,0-3.231,2.057L6.052,15.3a1,1,0,1,0,1.748.971l2.217-3.989a1.988,1.988,0,0,1,1.483-.994v4.965l-1.442,5.663a1,1,0,0,0,1.884.672L13.5,18.22l1.558,4.363a1,1,0,0,0,1.884-.672L15.5,16.248v-5.24a5.669,5.669,0,0,0,3.929-3.389A1,1,0,0,0,18.872,6.319Z', 'M6.056 15.291L1.5 11.748', 'M3 9.748L6.185 15.056', 'M5.5 9.248L6.536 14.425' ] ],
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M2.5 21L4.5 23 6.5 21', 'M4.5 19L4.5 23', 'M15.5,4.5V6a3.5,3.5,0,0,1-7,0V4.5', 'M18.5,4a.5.5,0,0,1-.5.5H6A.5.5,0,0,1,5.5,4V3A.5.5,0,0,1,6,2.5H8.5a2,2,0,0,1,2-2h3a2,2,0,0,1,2,2H18a.5.5,0,0,1,.5.5Z', 'M18.5,10.5a1,1,0,0,0-1-1H6.5a1,1,0,0,0-1,1V13a.5.5,0,0,0,.5.5h.69a2,2,0,0,1,1.99,1.8L9,18.5h6l.32-3.2a2,2,0,0,1,1.99-1.8H18a.5.5,0,0,0,.5-.5Z', 'M10.5 18.5L11 23.5', 'M13 23.5L13.5 18.5', 'M18.5 11.5L23.5 11.5', 'M0.5 11.5L5.5 11.5', 'M1.5 23.5L22.5 23.5' ] ],
   FarmingHay:
    [ 'farming-hay',
      24,
@@ -72,12 +78,6 @@ export default { FarmingWindCock1:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M0.5 15.5L23.5 15.5', 'M0.500 9.000 A6.500 6.500 0 1 0 13.500 9.000 A6.500 6.500 0 1 0 0.500 9.000 Z', 'M3.500 9.000 A3.500 3.500 0 1 0 10.500 9.000 A3.500 3.500 0 1 0 3.500 9.000 Z', 'M7,2.5h7a6.5,6.5,0,0,1,0,13H7', 'M10.5,2.5a6.5,6.5,0,0,1,0,13', 'M2 21.5L0.5 18.5', 'M2 21.5L3.5 18.5', 'M7 21.5L5.5 18.5', 'M7 21.5L8.5 18.5', 'M12 21.5L10.5 18.5', 'M12 21.5L13.5 18.5', 'M17 21.5L15.5 18.5', 'M17 21.5L18.5 18.5', 'M22 21.5L20.5 18.5', 'M22 21.5L23.5 18.5' ] ],
-  FarmingScarecrow:
-   [ 'farming-scarecrow',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M2.5 21L4.5 23 6.5 21', 'M4.5 19L4.5 23', 'M15.5,4.5V6a3.5,3.5,0,0,1-7,0V4.5', 'M18.5,4a.5.5,0,0,1-.5.5H6A.5.5,0,0,1,5.5,4V3A.5.5,0,0,1,6,2.5H8.5a2,2,0,0,1,2-2h3a2,2,0,0,1,2,2H18a.5.5,0,0,1,.5.5Z', 'M18.5,10.5a1,1,0,0,0-1-1H6.5a1,1,0,0,0-1,1V13a.5.5,0,0,0,.5.5h.69a2,2,0,0,1,1.99,1.8L9,18.5h6l.32-3.2a2,2,0,0,1,1.99-1.8H18a.5.5,0,0,0,.5-.5Z', 'M10.5 18.5L11 23.5', 'M13 23.5L13.5 18.5', 'M18.5 11.5L23.5 11.5', 'M0.5 11.5L5.5 11.5', 'M1.5 23.5L22.5 23.5' ] ],
   FarmingMilkCow:
    [ 'farming-milk-cow',
      24,

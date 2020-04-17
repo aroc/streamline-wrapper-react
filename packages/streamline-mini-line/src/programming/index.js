@@ -7,4 +7,4 @@ import Script from "./Script.js"
 import Web from "./Web.js"
 import index from "./index.js"
 
-export default { Browser, Bugs, Clouds, Modules, RSS, Script, Web, index }
+export { Browser, Bugs, Clouds, Modules, RSS, Script, Web, index }

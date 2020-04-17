@@ -10,4 +10,4 @@ import Money from "./Money.js"
 import Wealth from "./Wealth.js"
 import index from "./index.js"
 
-export default { AccountingBilling, CashPayments, CheckPayments, CreditCardPayments, CryptoCurrencies, Currencies, FinanceSavings, ModernPayments, Money, Wealth, index }
+export { AccountingBilling, CashPayments, CheckPayments, CreditCardPayments, CryptoCurrencies, Currencies, FinanceSavings, ModernPayments, Money, Wealth, index }

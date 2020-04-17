@@ -5,4 +5,4 @@ import Photos from "./Photos.js"
 import Pictures from "./Pictures.js"
 import index from "./index.js"
 
-export default { Camera, Flash, Lenses, Photos, Pictures, index }
+export { Camera, Flash, Lenses, Photos, Pictures, index }

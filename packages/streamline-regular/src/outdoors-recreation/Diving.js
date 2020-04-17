@@ -1,10 +1,4 @@
-export default { DivingOxygen:
-   [ 'diving-oxygen',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M3.75,6.75H2.25a1.5,1.5,0,0,1-1.5-1.5V3.75a3,3,0,0,1,3-3h3v3A3,3,0,0,1,3.75,6.75Z', 'M11.25,6.75H9.75a3,3,0,0,1-3-3v-3h3a3,3,0,0,1,3,3v1.5A1.5,1.5,0,0,1,11.25,6.75Z', 'M4.500 10.500 A2.250 2.250 0 1 0 9.000 10.500 A2.250 2.250 0 1 0 4.500 10.500 Z', 'M15.75 12.75H23.25V20.25H15.75z', 'M6.75,12.75v7.5a3,3,0,0,0,3,3h3', 'M17.25,7.5v-3A.75.75,0,0,1,18,3.75h3a.75.75,0,0,1,.75.75v3', 'M15.75,10.5a3.75,3.75,0,0,1,7.5,0V21.75a1.5,1.5,0,0,1-1.5,1.5h-4.5a1.5,1.5,0,0,1-1.5-1.5Z' ] ],
-  DivingOxygenTank:
+export default { DivingOxygenTank:
    [ 'diving-oxygen-tank',
      24,
      24,
@@ -54,4 +48,10 @@ export default { DivingOxygen:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M3.75,6.75H2.25a1.5,1.5,0,0,1-1.5-1.5V3.75a3,3,0,0,1,3-3h3v3A3,3,0,0,1,3.75,6.75Z', 'M11.25,6.75H9.75a3,3,0,0,1-3-3v-3h3a3,3,0,0,1,3,3v1.5A1.5,1.5,0,0,1,11.25,6.75Z', 'M4.500 12.000 A2.250 2.250 0 1 0 9.000 12.000 A2.250 2.250 0 1 0 4.500 12.000 Z', 'M9,12h3.75a3,3,0,0,0,3-3V6', 'M15.75 0.75L15.75 3', 'M23.25,23.25s-6.652-6.582-9.4-6.582a6.638,6.638,0,0,0-5.6,2.821,6.638,6.638,0,0,0,5.6,2.821c2.751,0,9.4-6.583,9.4-6.583Z', 'M4.5 12L3 12' ] ] }
+     [ 'M3.75,6.75H2.25a1.5,1.5,0,0,1-1.5-1.5V3.75a3,3,0,0,1,3-3h3v3A3,3,0,0,1,3.75,6.75Z', 'M11.25,6.75H9.75a3,3,0,0,1-3-3v-3h3a3,3,0,0,1,3,3v1.5A1.5,1.5,0,0,1,11.25,6.75Z', 'M4.500 12.000 A2.250 2.250 0 1 0 9.000 12.000 A2.250 2.250 0 1 0 4.500 12.000 Z', 'M9,12h3.75a3,3,0,0,0,3-3V6', 'M15.75 0.75L15.75 3', 'M23.25,23.25s-6.652-6.582-9.4-6.582a6.638,6.638,0,0,0-5.6,2.821,6.638,6.638,0,0,0,5.6,2.821c2.751,0,9.4-6.583,9.4-6.583Z', 'M4.5 12L3 12' ] ],
+  DivingOxygen:
+   [ 'diving-oxygen',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M3.75,6.75H2.25a1.5,1.5,0,0,1-1.5-1.5V3.75a3,3,0,0,1,3-3h3v3A3,3,0,0,1,3.75,6.75Z', 'M11.25,6.75H9.75a3,3,0,0,1-3-3v-3h3a3,3,0,0,1,3,3v1.5A1.5,1.5,0,0,1,11.25,6.75Z', 'M4.500 10.500 A2.250 2.250 0 1 0 9.000 10.500 A2.250 2.250 0 1 0 4.500 10.500 Z', 'M15.75 12.75H23.25V20.25H15.75z', 'M6.75,12.75v7.5a3,3,0,0,0,3,3h3', 'M17.25,7.5v-3A.75.75,0,0,1,18,3.75h3a.75.75,0,0,1,.75.75v3', 'M15.75,10.5a3.75,3.75,0,0,1,7.5,0V21.75a1.5,1.5,0,0,1-1.5,1.5h-4.5a1.5,1.5,0,0,1-1.5-1.5Z' ] ] }

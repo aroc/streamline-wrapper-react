@@ -5,4 +5,4 @@ import School from "./School.js"
 import StudyingLearning from "./StudyingLearning.js"
 import index from "./index.js"
 
-export default { AudioBooks, ELearning, LibraryReading, School, StudyingLearning, index }
+export { AudioBooks, ELearning, LibraryReading, School, StudyingLearning, index }

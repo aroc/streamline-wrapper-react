@@ -1,10 +1,4 @@
-export default { MicrophonePodcastInternational:
-   [ 'microphone-podcast-international',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M8.25,13.5a3.75,3.75,0,0,0,7.5,0V12a3.75,3.75,0,0,0-7.5,0Z', 'M18.75,13.5a6.75,6.75,0,0,1-13.5,0', 'M9.75 23.25L14.25 23.25', 'M12 20.25L12 23.25', 'M18,10.6a6.75,6.75,0,1,0-12,0', 'M12,.75A8.282,8.282,0,0,0,9.75,6', 'M12,.75A8.282,8.282,0,0,1,14.25,6', 'M5.635 5.25L18.364 5.25' ] ],
-  PodcastLive:
+export default { PodcastLive:
    [ 'podcast-live',
      24,
      24,
@@ -75,4 +69,10 @@ export default { MicrophonePodcastInternational:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M6.75,17.427A2.909,2.909,0,0,1,3.765,20.25a2.917,2.917,0,0,1-3.015-2.8V11.823A2.9,2.9,0,0,1,3.725,9,2.927,2.927,0,0,1,6.75,11.8Z', 'M0.75 13.5L3.739 13.5', 'M0.75 16.5L3.739 16.5', 'M3.75 20.25L3.76 23.243', 'M2.25 23.25L5.25 23.25', 'M11.25,17.25H9.75a6.751,6.751,0,0,1,12.626-3.324', 'M12.945,2.781a6.848,6.848,0,0,0,4.93,2.094,6.847,6.847,0,0,0,2.712-.558', 'M12.375 4.875 A4.125 4.125 0 1 0 20.625 4.875 A4.125 4.125 0 1 0 12.375 4.875 Z', 'M14.75,15.75h5a.5.5,0,0,1,.5.5v4.5a1,1,0,0,1-1,1h-4a1,1,0,0,1-1-1v-4.5a.5.5,0,0,1,.5-.5Z', 'M20.25,17.25h1.5a1.5,1.5,0,0,1,1.5,1.5h0a1.5,1.5,0,0,1-1.5,1.5h-1.5' ] ] }
+     [ 'M6.75,17.427A2.909,2.909,0,0,1,3.765,20.25a2.917,2.917,0,0,1-3.015-2.8V11.823A2.9,2.9,0,0,1,3.725,9,2.927,2.927,0,0,1,6.75,11.8Z', 'M0.75 13.5L3.739 13.5', 'M0.75 16.5L3.739 16.5', 'M3.75 20.25L3.76 23.243', 'M2.25 23.25L5.25 23.25', 'M11.25,17.25H9.75a6.751,6.751,0,0,1,12.626-3.324', 'M12.945,2.781a6.848,6.848,0,0,0,4.93,2.094,6.847,6.847,0,0,0,2.712-.558', 'M12.375 4.875 A4.125 4.125 0 1 0 20.625 4.875 A4.125 4.125 0 1 0 12.375 4.875 Z', 'M14.75,15.75h5a.5.5,0,0,1,.5.5v4.5a1,1,0,0,1-1,1h-4a1,1,0,0,1-1-1v-4.5a.5.5,0,0,1,.5-.5Z', 'M20.25,17.25h1.5a1.5,1.5,0,0,1,1.5,1.5h0a1.5,1.5,0,0,1-1.5,1.5h-1.5' ] ],
+  MicrophonePodcastInternational:
+   [ 'microphone-podcast-international',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M8.25,13.5a3.75,3.75,0,0,0,7.5,0V12a3.75,3.75,0,0,0-7.5,0Z', 'M18.75,13.5a6.75,6.75,0,0,1-13.5,0', 'M9.75 23.25L14.25 23.25', 'M12 20.25L12 23.25', 'M18,10.6a6.75,6.75,0,1,0-12,0', 'M12,.75A8.282,8.282,0,0,0,9.75,6', 'M12,.75A8.282,8.282,0,0,1,14.25,6', 'M5.635 5.25L18.364 5.25' ] ] }

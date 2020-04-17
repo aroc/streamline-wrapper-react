@@ -1,10 +1,4 @@
-export default { TakingPicturesWoman:
-   [ 'taking-pictures-woman',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M12.5,14.75a1,1,0,0,1-1,1H1.5a1,1,0,0,1-1-1v-6a1,1,0,0,1,1-1h4c.28-.56.451-1,1.118-1H8.882c.667,0,.838.44,1.118,1h1.5a1,1,0,0,1,1,1Z', 'M5.500 11.250 A2.000 2.000 0 1 0 9.500 11.250 A2.000 2.000 0 1 0 5.500 11.250 Z', 'M21,12.217a7.033,7.033,0,0,1-1.023-3.894V6.731A5.474,5.474,0,0,0,9.4,4.75', 'M19.977,7.635A7.25,7.25,0,0,1,14.5,5.124a7.4,7.4,0,0,1-1.294,1.162', 'M19.328,7.606A4.835,4.835,0,0,1,14.5,12.212', 'M7.018,17.75a8.952,8.952,0,0,0-1.518,5h18a9,9,0,0,0-9-9' ] ],
-  TakingPicturesCameras:
+export default { TakingPicturesCameras:
    [ 'taking-pictures-cameras',
      24,
      24,
@@ -21,4 +15,10 @@ export default { TakingPicturesWoman:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M12.5,14.25a1,1,0,0,1-1,1H1.5a1,1,0,0,1-1-1v-6a1,1,0,0,1,1-1h4c.28-.56.451-1,1.118-1H8.882c.667,0,.838.44,1.118,1h1.5a1,1,0,0,1,1,1Z', 'M5.500 10.750 A2.000 2.000 0 1 0 9.500 10.750 A2.000 2.000 0 1 0 5.500 10.750 Z', 'M14.532,13.576a8.145,8.145,0,0,0,5.627-1.493c-.85-.85-1.435-1.384-1.659-4.685C18.167,2.48,14.85.75,12,.75a6.166,6.166,0,0,0-5.726,3.5', 'M4.166,17.25A5.383,5.383,0,0,0,1.5,19.193a10.135,10.135,0,0,0-1,4.057h23a10.135,10.135,0,0,0-1-4.057c-.7-1.41-3.65-2.387-7.347-3.756A1,1,0,0,1,14.5,14.5V12.672a1,1,0,0,1,.325-.737A3.6,3.6,0,0,0,16,9.25V6.75a6.488,6.488,0,0,1-4-2.262,5.783,5.783,0,0,1-.778.763' ] ] }
+     [ 'M12.5,14.25a1,1,0,0,1-1,1H1.5a1,1,0,0,1-1-1v-6a1,1,0,0,1,1-1h4c.28-.56.451-1,1.118-1H8.882c.667,0,.838.44,1.118,1h1.5a1,1,0,0,1,1,1Z', 'M5.500 10.750 A2.000 2.000 0 1 0 9.500 10.750 A2.000 2.000 0 1 0 5.500 10.750 Z', 'M14.532,13.576a8.145,8.145,0,0,0,5.627-1.493c-.85-.85-1.435-1.384-1.659-4.685C18.167,2.48,14.85.75,12,.75a6.166,6.166,0,0,0-5.726,3.5', 'M4.166,17.25A5.383,5.383,0,0,0,1.5,19.193a10.135,10.135,0,0,0-1,4.057h23a10.135,10.135,0,0,0-1-4.057c-.7-1.41-3.65-2.387-7.347-3.756A1,1,0,0,1,14.5,14.5V12.672a1,1,0,0,1,.325-.737A3.6,3.6,0,0,0,16,9.25V6.75a6.488,6.488,0,0,1-4-2.262,5.783,5.783,0,0,1-.778.763' ] ],
+  TakingPicturesWoman:
+   [ 'taking-pictures-woman',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M12.5,14.75a1,1,0,0,1-1,1H1.5a1,1,0,0,1-1-1v-6a1,1,0,0,1,1-1h4c.28-.56.451-1,1.118-1H8.882c.667,0,.838.44,1.118,1h1.5a1,1,0,0,1,1,1Z', 'M5.500 11.250 A2.000 2.000 0 1 0 9.500 11.250 A2.000 2.000 0 1 0 5.500 11.250 Z', 'M21,12.217a7.033,7.033,0,0,1-1.023-3.894V6.731A5.474,5.474,0,0,0,9.4,4.75', 'M19.977,7.635A7.25,7.25,0,0,1,14.5,5.124a7.4,7.4,0,0,1-1.294,1.162', 'M19.328,7.606A4.835,4.835,0,0,1,14.5,12.212', 'M7.018,17.75a8.952,8.952,0,0,0-1.518,5h18a9,9,0,0,0-9-9' ] ] }

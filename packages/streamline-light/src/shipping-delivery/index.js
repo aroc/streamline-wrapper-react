@@ -5,4 +5,4 @@ import ShipmentManagement from "./ShipmentManagement.js"
 import WarehouseFullfiment from "./WarehouseFullfiment.js"
 import index from "./index.js"
 
-export default { Delivery, OverseasShipment, Shipment, ShipmentManagement, WarehouseFullfiment, index }
+export { Delivery, OverseasShipment, Shipment, ShipmentManagement, WarehouseFullfiment, index }

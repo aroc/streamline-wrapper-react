@@ -1,10 +1,4 @@
-export default { LensHorizontal:
-   [ 'lens-horizontal',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5', transform: 'translate(0.562 14.405) rotate(-45)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M13.920 6.524 A3.75 6.75 0 1 0 21.420 6.524 A3.75 6.75 0 1 0 13.920 6.524 Z', 'M12.9,1.751,4.412,10.236C2.947,11.7,3.9,15.025,6.533,17.661s5.96,3.586,7.425,2.121L22.443,11.3', 'M8.655,5.994c-1.465,1.464-.515,4.788,2.121,7.424S16.736,17,18.2,15.54', 'M13.173 6.778L8.93 11.021', 'M17.416 11.021L13.173 15.264', 'M4.005,10.805,1.227,15.7a3,3,0,0,0,.521,3.543l2.819,2.819a3,3,0,0,0,3.3.636L13.3,20.231' ] ],
-  LensShade:
+export default { LensShade:
    [ 'lens-shade',
      24,
      24,
@@ -39,4 +33,10 @@ export default { LensHorizontal:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M0.750 12.000 A11.250 11.250 0 1 0 23.250 12.000 A11.250 11.250 0 1 0 0.750 12.000 Z', 'M22.313 7.5L9.402 7.5', 'M13.26 0.818L6.804 12', 'M2.946 5.318L9.402 16.5', 'M1.687 16.5L14.598 16.5', 'M10.74 23.182L17.196 12', 'M21.054 18.682L14.598 7.5' ] ] }
+     [ 'M0.750 12.000 A11.250 11.250 0 1 0 23.250 12.000 A11.250 11.250 0 1 0 0.750 12.000 Z', 'M22.313 7.5L9.402 7.5', 'M13.26 0.818L6.804 12', 'M2.946 5.318L9.402 16.5', 'M1.687 16.5L14.598 16.5', 'M10.74 23.182L17.196 12', 'M21.054 18.682L14.598 7.5' ] ],
+  LensHorizontal:
+   [ 'lens-horizontal',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5', transform: 'translate(0.562 14.405) rotate(-45)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M13.920 6.524 A3.75 6.75 0 1 0 21.420 6.524 A3.75 6.75 0 1 0 13.920 6.524 Z', 'M12.9,1.751,4.412,10.236C2.947,11.7,3.9,15.025,6.533,17.661s5.96,3.586,7.425,2.121L22.443,11.3', 'M8.655,5.994c-1.465,1.464-.515,4.788,2.121,7.424S16.736,17,18.2,15.54', 'M13.173 6.778L8.93 11.021', 'M17.416 11.021L13.173 15.264', 'M4.005,10.805,1.227,15.7a3,3,0,0,0,.521,3.543l2.819,2.819a3,3,0,0,0,3.3.636L13.3,20.231' ] ] }

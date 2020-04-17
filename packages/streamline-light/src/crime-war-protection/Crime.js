@@ -1,10 +1,4 @@
-export default { CrimeSealForfeit:
-   [ 'crime-seal-forfeit',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M3.001 23.5L5.501 17.501 18.499 17.501 20.999 23.5 3.001 23.5z', 'M6.001 21.5L7 21.5', 'M16 19.5L17 19.5', 'M10.000 20.500 A2 1 0 1 0 14.000 20.500 A2 1 0 1 0 10.000 20.500 Z', 'M18.979,12.5a2,2,0,0,1-2,2H7.021a2,2,0,0,1-2-2', 'M20.5,11A1.5,1.5,0,0,0,19,9.5l-.02,0H15.5A1.5,1.5,0,0,1,14,8a2.6,2.6,0,0,1,.639-1.707,3.5,3.5,0,1,0-5.279,0A2.594,2.594,0,0,1,10,8,1.5,1.5,0,0,1,8.5,9.5H5.021L5,9.5A1.5,1.5,0,0,0,3.5,11c0,.389,0,.744.009,1.011a.5.5,0,0,0,.5.491l15.98,0a.5.5,0,0,0,.5-.491C20.5,11.742,20.5,11.388,20.5,11Z' ] ],
-  CrimeRobber:
+export default { CrimeRobber:
    [ 'crime-robber',
      24,
      24,
@@ -22,4 +16,10 @@ export default { CrimeSealForfeit:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M15,23.5h7.5a1,1,0,0,0,1-1V1.5a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v21a1,1,0,0,0,1,1H8', 'M9.750 7.750 A2.250 2.250 0 1 0 14.250 7.750 A2.250 2.250 0 1 0 9.750 7.750 Z', 'M16.5,14.5a4.644,4.644,0,0,0-9,0Z', 'M4.500 3.500 L19.500 3.500 L19.500 14.500 L4.500 14.500 Z', 'M13.5,17.5h-2a1,1,0,0,0-1,1c0,1.5,3,1.5,3,3a1,1,0,0,1-1,1h-2', 'M12 16.5L12 17.5', 'M12 22.5L12 23.5' ] ] }
+     [ 'M15,23.5h7.5a1,1,0,0,0,1-1V1.5a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v21a1,1,0,0,0,1,1H8', 'M9.750 7.750 A2.250 2.250 0 1 0 14.250 7.750 A2.250 2.250 0 1 0 9.750 7.750 Z', 'M16.5,14.5a4.644,4.644,0,0,0-9,0Z', 'M4.500 3.500 L19.500 3.500 L19.500 14.500 L4.500 14.500 Z', 'M13.5,17.5h-2a1,1,0,0,0-1,1c0,1.5,3,1.5,3,3a1,1,0,0,1-1,1h-2', 'M12 16.5L12 17.5', 'M12 22.5L12 23.5' ] ],
+  CrimeSealForfeit:
+   [ 'crime-seal-forfeit',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M3.001 23.5L5.501 17.501 18.499 17.501 20.999 23.5 3.001 23.5z', 'M6.001 21.5L7 21.5', 'M16 19.5L17 19.5', 'M10.000 20.500 A2 1 0 1 0 14.000 20.500 A2 1 0 1 0 10.000 20.500 Z', 'M18.979,12.5a2,2,0,0,1-2,2H7.021a2,2,0,0,1-2-2', 'M20.5,11A1.5,1.5,0,0,0,19,9.5l-.02,0H15.5A1.5,1.5,0,0,1,14,8a2.6,2.6,0,0,1,.639-1.707,3.5,3.5,0,1,0-5.279,0A2.594,2.594,0,0,1,10,8,1.5,1.5,0,0,1,8.5,9.5H5.021L5,9.5A1.5,1.5,0,0,0,3.5,11c0,.389,0,.744.009,1.011a.5.5,0,0,0,.5.491l15.98,0a.5.5,0,0,0,.5-.491C20.5,11.742,20.5,11.388,20.5,11Z' ] ] }

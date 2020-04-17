@@ -1,10 +1,4 @@
-export default { Camera2:
-   [ 'camera-2',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M17.466,19.5H21.5a2,2,0,0,0,2-2V9.117a2,2,0,0,0-1.581-1.956l-4.126-.884', 'M0.500 6.500 L5.500 6.500 L5.500 20.500 L0.500 20.500 Z', 'M10.192 6.327L5.5 7.5', 'M18.725,9.536,17.414,4.951A2,2,0,0,0,15.491,3.5H12.509a2,2,0,0,0-1.923,1.451L9.275,9.536', 'M10.435 5.5L17.571 5.5', 'M7.500 14.000 A6.500 6.500 0 1 0 20.500 14.000 A6.500 6.500 0 1 0 7.500 14.000 Z', 'M9.500 14.000 A4.500 4.500 0 1 0 18.500 14.000 A4.500 4.500 0 1 0 9.500 14.000 Z', 'M5.5 19.5L10.534 19.5' ] ],
-  CameraFlash:
+export default { CameraFlash:
    [ 'camera-flash',
      24,
      24,
@@ -77,4 +71,10 @@ export default { Camera2:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M16.118,10.5a1,1,0,0,1-.894-.553l-.671-1.341A2,2,0,0,0,12.764,7.5H10.236A2,2,0,0,0,8.447,8.606L7.776,9.947a1,1,0,0,1-.894.553H1.5a1,1,0,0,0-1,1v11a1,1,0,0,0,1,1h21a1,1,0,0,0,1-1v-11a1,1,0,0,0-1-1Z', 'M10.5 9.5L12.5 9.5', 'M2.5,10.5,11.207.852a1.068,1.068,0,0,1,1.585,0L21.5,10.5', 'M3.500 15.000 A1.500 1.500 0 1 0 6.500 15.000 A1.500 1.500 0 1 0 3.500 15.000 Z', 'M11.500 17.000 A4.500 4.500 0 1 0 20.500 17.000 A4.500 4.500 0 1 0 11.500 17.000 Z', 'M13.500 17.000 A2.500 2.500 0 1 0 18.500 17.000 A2.500 2.500 0 1 0 13.500 17.000 Z' ] ] }
+     [ 'M16.118,10.5a1,1,0,0,1-.894-.553l-.671-1.341A2,2,0,0,0,12.764,7.5H10.236A2,2,0,0,0,8.447,8.606L7.776,9.947a1,1,0,0,1-.894.553H1.5a1,1,0,0,0-1,1v11a1,1,0,0,0,1,1h21a1,1,0,0,0,1-1v-11a1,1,0,0,0-1-1Z', 'M10.5 9.5L12.5 9.5', 'M2.5,10.5,11.207.852a1.068,1.068,0,0,1,1.585,0L21.5,10.5', 'M3.500 15.000 A1.500 1.500 0 1 0 6.500 15.000 A1.500 1.500 0 1 0 3.500 15.000 Z', 'M11.500 17.000 A4.500 4.500 0 1 0 20.500 17.000 A4.500 4.500 0 1 0 11.500 17.000 Z', 'M13.500 17.000 A2.500 2.500 0 1 0 18.500 17.000 A2.500 2.500 0 1 0 13.500 17.000 Z' ] ],
+  Camera2:
+   [ 'camera-2',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M17.466,19.5H21.5a2,2,0,0,0,2-2V9.117a2,2,0,0,0-1.581-1.956l-4.126-.884', 'M0.500 6.500 L5.500 6.500 L5.500 20.500 L0.500 20.500 Z', 'M10.192 6.327L5.5 7.5', 'M18.725,9.536,17.414,4.951A2,2,0,0,0,15.491,3.5H12.509a2,2,0,0,0-1.923,1.451L9.275,9.536', 'M10.435 5.5L17.571 5.5', 'M7.500 14.000 A6.500 6.500 0 1 0 20.500 14.000 A6.500 6.500 0 1 0 7.500 14.000 Z', 'M9.500 14.000 A4.500 4.500 0 1 0 18.500 14.000 A4.500 4.500 0 1 0 9.500 14.000 Z', 'M5.5 19.5L10.534 19.5' ] ] }

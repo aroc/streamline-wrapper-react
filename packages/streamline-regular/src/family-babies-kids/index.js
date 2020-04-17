@@ -6,4 +6,4 @@ import OutdoorActivities from "./OutdoorActivities.js"
 import Toys from "./Toys.js"
 import index from "./index.js"
 
-export default { Babies, BabyCare, EducationalToys, Family, OutdoorActivities, Toys, index }
+export { Babies, BabyCare, EducationalToys, Family, OutdoorActivities, Toys, index }

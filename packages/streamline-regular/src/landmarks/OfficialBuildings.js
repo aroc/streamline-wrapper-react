@@ -1,4 +1,19 @@
-export default { OfficialBuilding:
+export default { OfficialBuilding2:
+   [ 'official-building-2',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M1.500 6.750 L22.500 6.750 L22.500 9.750 L1.500 9.750 Z', 'M21,6.75c0-3-4.5-6-9-6s-9,3-9,6', 'M1.500 17.250 L22.500 17.250 L22.500 20.250 L1.500 20.250 Z', 'M1.5 23.25L22.5 23.25', 'M3 9.75L3 17.25', 'M6 9.75L6 17.25', 'M9 9.75L9 17.25', 'M15 9.75L15 17.25', 'M21 9.75L21 17.25', 'M18 9.75L18 17.25' ] ],
+  OfficialBuilding:
    [ 'official-building',
      24,
      24,
@@ -36,19 +51,4 @@ export default { OfficialBuilding:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M2.25 15.75H21.75V23.25H2.25z', 'M0.75 23.25L23.25 23.25', 'M0.75 15.75L23.25 15.75', 'M4.5 8.25L19.5 8.25', 'M7.5 18.75L7.5 20.25', 'M10.5 18.75L10.5 20.25', 'M13.5 18.75L13.5 20.25', 'M10.5 11.25L10.5 12.75', 'M13.5 11.25L13.5 12.75', 'M16.5 18.75L16.5 20.25', 'M6 8.25H18V15.75H6z', 'M12 0.75L12 3.75', 'M18,8.25c0-2.485-2.686-4.5-6-4.5S6,5.765,6,8.25' ] ],
-  OfficialBuilding2:
-   [ 'official-building-2',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M1.500 6.750 L22.500 6.750 L22.500 9.750 L1.500 9.750 Z', 'M21,6.75c0-3-4.5-6-9-6s-9,3-9,6', 'M1.500 17.250 L22.500 17.250 L22.500 20.250 L1.500 20.250 Z', 'M1.5 23.25L22.5 23.25', 'M3 9.75L3 17.25', 'M6 9.75L6 17.25', 'M9 9.75L9 17.25', 'M15 9.75L15 17.25', 'M21 9.75L21 17.25', 'M18 9.75L18 17.25' ] ] }
+     [ 'M2.25 15.75H21.75V23.25H2.25z', 'M0.75 23.25L23.25 23.25', 'M0.75 15.75L23.25 15.75', 'M4.5 8.25L19.5 8.25', 'M7.5 18.75L7.5 20.25', 'M10.5 18.75L10.5 20.25', 'M13.5 18.75L13.5 20.25', 'M10.5 11.25L10.5 12.75', 'M13.5 11.25L13.5 12.75', 'M16.5 18.75L16.5 20.25', 'M6 8.25H18V15.75H6z', 'M12 0.75L12 3.75', 'M18,8.25c0-2.485-2.686-4.5-6-4.5S6,5.765,6,8.25' ] ] }

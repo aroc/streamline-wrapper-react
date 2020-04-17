@@ -1,10 +1,4 @@
-export default { MultipleUsers1:
-   [ 'multiple-users-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M2.250 6.000 A2.250 2.250 0 1 0 6.750 6.000 A2.250 2.250 0 1 0 2.250 6.000 Z', 'M4.5,9.75A3.75,3.75,0,0,0,.75,13.5v2.25h1.5l.75,6H6', 'M17.250 6.000 A2.250 2.250 0 1 0 21.750 6.000 A2.250 2.250 0 1 0 17.250 6.000 Z', 'M19.5,9.75a3.75,3.75,0,0,1,3.75,3.75v2.25h-1.5l-.75,6H18', 'M9.000 3.750 A3.000 3.000 0 1 0 15.000 3.750 A3.000 3.000 0 1 0 9.000 3.750 Z', 'M17.25,13.5a5.25,5.25,0,0,0-10.5,0v2.25H9l.75,7.5h4.5l.75-7.5h2.25Z' ] ],
-  MultipleCircle:
+export default { MultipleCircle:
    [ 'multiple-circle',
      24,
      24,
@@ -32,4 +26,10 @@ export default { MultipleUsers1:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M3.000 3.750 A3.000 3.000 0 1 0 9.000 3.750 A3.000 3.000 0 1 0 3.000 3.750 Z', 'M8.25,23.25,9,15.75h2.25V13.5A5.246,5.246,0,0,0,8.886,9.114L6,13.5,3.114,9.114A5.246,5.246,0,0,0,.75,13.5v2.25H3l.75,7.5Z', 'M3,3.75S3,7.5.75,7.5', 'M9,3.75S9,7.5,11.25,7.5', 'M15.000 3.750 A3.000 3.000 0 1 0 21.000 3.750 A3.000 3.000 0 1 0 15.000 3.750 Z', 'M13.5,15.75H15l.75,7.5h4.5l.75-7.5h2.25V13.5a5.246,5.246,0,0,0-2.364-4.386L18,13.5,15.114,9.114A5.292,5.292,0,0,0,13.5,10.8', 'M15,3.75a6.123,6.123,0,0,1-.75,2.908', 'M21,3.75S21,7.5,23.25,7.5' ] ] }
+     [ 'M3.000 3.750 A3.000 3.000 0 1 0 9.000 3.750 A3.000 3.000 0 1 0 3.000 3.750 Z', 'M8.25,23.25,9,15.75h2.25V13.5A5.246,5.246,0,0,0,8.886,9.114L6,13.5,3.114,9.114A5.246,5.246,0,0,0,.75,13.5v2.25H3l.75,7.5Z', 'M3,3.75S3,7.5.75,7.5', 'M9,3.75S9,7.5,11.25,7.5', 'M15.000 3.750 A3.000 3.000 0 1 0 21.000 3.750 A3.000 3.000 0 1 0 15.000 3.750 Z', 'M13.5,15.75H15l.75,7.5h4.5l.75-7.5h2.25V13.5a5.246,5.246,0,0,0-2.364-4.386L18,13.5,15.114,9.114A5.292,5.292,0,0,0,13.5,10.8', 'M15,3.75a6.123,6.123,0,0,1-.75,2.908', 'M21,3.75S21,7.5,23.25,7.5' ] ],
+  MultipleUsers1:
+   [ 'multiple-users-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M2.250 6.000 A2.250 2.250 0 1 0 6.750 6.000 A2.250 2.250 0 1 0 2.250 6.000 Z', 'M4.5,9.75A3.75,3.75,0,0,0,.75,13.5v2.25h1.5l.75,6H6', 'M17.250 6.000 A2.250 2.250 0 1 0 21.750 6.000 A2.250 2.250 0 1 0 17.250 6.000 Z', 'M19.5,9.75a3.75,3.75,0,0,1,3.75,3.75v2.25h-1.5l-.75,6H18', 'M9.000 3.750 A3.000 3.000 0 1 0 15.000 3.750 A3.000 3.000 0 1 0 9.000 3.750 Z', 'M17.25,13.5a5.25,5.25,0,0,0-10.5,0v2.25H9l.75,7.5h4.5l.75-7.5h2.25Z' ] ] }

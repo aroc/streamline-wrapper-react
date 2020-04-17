@@ -1,15 +1,15 @@
-export default { TicketBuy:
-   [ 'ticket-buy',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M.75,17.25V15a3.75,3.75,0,0,1,7.5,0v2.25H6.75l-.75,6H3l-.75-6Z', 'M1.500 6.750 A3.000 3.000 0 1 0 7.500 6.750 A3.000 3.000 0 1 0 1.500 6.750 Z', 'M23.25,15H12.75a1.5,1.5,0,0,0-1.5,1.5v5.25a1.5,1.5,0,0,0,1.5,1.5h10.5', 'M12.75 15L12.75 0.75', 'M15.75 3.75L21.75 3.75', 'M12.75 10.5L15.75 10.5', 'M15.75,10.5a3,3,0,0,1,6,0', 'M21.75 10.5L23.25 10.5' ] ],
-  Ticket:
+export default { Ticket:
    [ 'ticket',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M19.5,12.25a3.751,3.751,0,0,1,3.124-3.7.75.75,0,0,0,.626-.739V5.5A1.5,1.5,0,0,0,21.75,4H2.25A1.5,1.5,0,0,0,.75,5.5V7.813a.749.749,0,0,0,.626.739,3.751,3.751,0,0,1,0,7.4.75.75,0,0,0-.626.739V19a1.5,1.5,0,0,0,1.5,1.5h19.5a1.5,1.5,0,0,0,1.5-1.5V16.687a.749.749,0,0,0-.626-.739A3.751,3.751,0,0,1,19.5,12.25Z', 'M15.75 17.5L15.75 16', 'M15.75 13L15.75 11.5', 'M15.75 8.5L15.75 7', 'M8.25 17.5L8.25 16', 'M8.25 13L8.25 11.5', 'M8.25 8.5L8.25 7' ] ],
+  TicketBuy:
+   [ 'ticket-buy',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M.75,17.25V15a3.75,3.75,0,0,1,7.5,0v2.25H6.75l-.75,6H3l-.75-6Z', 'M1.500 6.750 A3.000 3.000 0 1 0 7.500 6.750 A3.000 3.000 0 1 0 1.500 6.750 Z', 'M23.25,15H12.75a1.5,1.5,0,0,0-1.5,1.5v5.25a1.5,1.5,0,0,0,1.5,1.5h10.5', 'M12.75 15L12.75 0.75', 'M15.75 3.75L21.75 3.75', 'M12.75 10.5L15.75 10.5', 'M15.75,10.5a3,3,0,0,1,6,0', 'M21.75 10.5L23.25 10.5' ] ],
   TicketBasketballGame:
    [ 'ticket-basketball-game',
      24,

@@ -1,15 +1,15 @@
-export default { GoldBars:
-   [ 'gold-bars',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M9.678,12.783A1,1,0,0,0,8.7,12h-5.4a1,1,0,0,0-.976.783l-1.556,7A1,1,0,0,0,1.751,21h8.506a1,1,0,0,0,.976-1.217Z', 'M21.678,12.783A1,1,0,0,0,20.7,12h-5.4a1,1,0,0,0-.976.783l-1.556,7A1,1,0,0,0,13.751,21h8.506a1,1,0,0,0,.976-1.217Z', 'M15.678,3.783A1,1,0,0,0,14.7,3h-5.4a1,1,0,0,0-.976.783l-1.556,7A1,1,0,0,0,7.751,12h8.506a1,1,0,0,0,.976-1.217Z', 'M12,5h-1.1a.5.5,0,0,0-.488.392L9.941,7.533', 'M6,14h-1.1a.5.5,0,0,0-.488.392l-.476,2.141', 'M18,14h-1.1a.5.5,0,0,0-.488.392l-.476,2.141' ] ],
-  DiamondGive:
+export default { DiamondGive:
    [ 'diamond-give',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M18.219 4.5L5.789 4.5', 'M12.76,11.129a1,1,0,0,1-1.512,0L6.032,5.11a1,1,0,0,1-.044-1.255L8.2.9A1,1,0,0,1,9,.5h6a1,1,0,0,1,.8.4L18.02,3.855a1,1,0,0,1-.044,1.255Z', 'M14.504 20.500 L20.504 20.500 L20.504 23.500 L14.504 23.500 Z', 'M19.5,20.5V18.969s2.605-2.579,3.706-3.675a1,1,0,0,0,.294-.709V6.938S21,6.031,21,13l-2.969,2.969.688-3c.343-1.438-.971-2.052-1.688-.938A23.457,23.457,0,0,0,15.5,15.992V20.5', 'M3.504 20.500 L9.504 20.500 L9.504 23.500 L3.504 23.500 Z', 'M4.5,20.5V18.969S2.039,16.377.833,15.285A1,1,0,0,1,.5,14.544V6.938S3,6.031,3,13l2.969,2.969-.688-3c-.344-1.438.971-2.052,1.688-.938A23.457,23.457,0,0,1,8.5,15.992V20.5', 'M8.539 0.615L11.839 11.46', 'M15.469 0.615L12.21 11.453' ] ],
+  GoldBars:
+   [ 'gold-bars',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M9.678,12.783A1,1,0,0,0,8.7,12h-5.4a1,1,0,0,0-.976.783l-1.556,7A1,1,0,0,0,1.751,21h8.506a1,1,0,0,0,.976-1.217Z', 'M21.678,12.783A1,1,0,0,0,20.7,12h-5.4a1,1,0,0,0-.976.783l-1.556,7A1,1,0,0,0,13.751,21h8.506a1,1,0,0,0,.976-1.217Z', 'M15.678,3.783A1,1,0,0,0,14.7,3h-5.4a1,1,0,0,0-.976.783l-1.556,7A1,1,0,0,0,7.751,12h8.506a1,1,0,0,0,.976-1.217Z', 'M12,5h-1.1a.5.5,0,0,0-.488.392L9.941,7.533', 'M6,14h-1.1a.5.5,0,0,0-.488.392l-.476,2.141', 'M18,14h-1.1a.5.5,0,0,0-.488.392l-.476,2.141' ] ],
   Diamond: [ 'diamond', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M23.503 7.5L0.504 7.5', 'M7.482 7.501L12.004 0.5 16.526 7.501', 'M5.521 0.559L12.004 23.5', 'M18.487 0.559L12.004 23.5', 'M11.609,23.3a.486.486,0,0,0,.79,0L23.361,7.95a.769.769,0,0,0-.008-.9L18.654.7a.5.5,0,0,0-.4-.2H5.756a.5.5,0,0,0-.4.2L.655,7.046a.769.769,0,0,0-.008.9Z' ] ],
   DiamondRing:
    [ 'diamond-ring',

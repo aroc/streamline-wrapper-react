@@ -1,16 +1,4 @@
-export default { SeafoodSardineCan1:
-   [ 'seafood-sardine-can-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M18.75,18v3.75a1.5,1.5,0,0,1-1.5,1.5h-15a1.5,1.5,0,0,1-1.5-1.5V2.25A1.5,1.5,0,0,1,2.25.75h15a1.5,1.5,0,0,1,1.5,1.5V7.5', 'M3.75,10.5A9.907,9.907,0,0,1,5.414,5L6.75,3,8.086,5A9.907,9.907,0,0,1,9.75,10.5', 'M9.75,10.5A9.907,9.907,0,0,1,11.414,5L12.75,3l1.336,2a9.907,9.907,0,0,1,1.664,5.5', 'M17.25,15a2.25,2.25,0,0,0,0-4.5H3', 'M.75,12.75A2.25,2.25,0,1,1,3,15H17.25', 'M19.5,12.75h2.25a1.5,1.5,0,0,1,0,3' ] ],
-  SeafoodSquid:
-   [ 'seafood-squid',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M7.5,17.25v3a3.009,3.009,0,0,1-3,3h0a3.009,3.009,0,0,1-3-3h0', 'M16.5,17.25v3a3.009,3.009,0,0,0,3,3h0a3.009,3.009,0,0,0,3-3h0', 'M14.853,6.75h4.823a.75.75,0,0,0,.372-1.4l-7.3-4.4a1.5,1.5,0,0,0-1.488,0l-7.3,4.4a.75.75,0,0,0,.372,1.4H9.147', 'M10.128,5.058h0A15.642,15.642,0,0,0,7.5,13.737V17.25h9V13.737a15.642,15.642,0,0,0-2.628-8.679h0A2.25,2.25,0,0,0,10.128,5.058Z', 'M10.5 17.25L10.5 21.75', 'M13.5 17.25L13.5 21.75' ] ],
-  SeafoodSardineCan:
+export default { SeafoodSardineCan:
    [ 'seafood-sardine-can',
      24,
      24,
@@ -72,4 +60,16 @@ export default { SeafoodSardineCan1:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M11.8,3.555c-3.173.016-6.3,1.619-7.362,3.8A1.452,1.452,0,0,0,4.757,9L7.3,11.541', 'M9.88,17.267c8.571-1.513,14.234-5.933,13.262-15.125A1.458,1.458,0,0,0,21.858.858C12.666-.114,8.246,5.549,6.733,14.12L1.16,16.6a.742.742,0,0,0,.1,1.367l3.9.87.87,3.9a.742.742,0,0,0,1.367.1Z', 'M20.445,12.2c-.016,3.173-1.619,6.3-3.8,7.362A1.452,1.452,0,0,1,15,19.243L12.462,16.7', 'M6.733 14.12L9.88 17.267', 'M16.875,4.5a.375.375,0,1,1-.375.375.375.375,0,0,1,.375-.375' ] ] }
+     [ 'M11.8,3.555c-3.173.016-6.3,1.619-7.362,3.8A1.452,1.452,0,0,0,4.757,9L7.3,11.541', 'M9.88,17.267c8.571-1.513,14.234-5.933,13.262-15.125A1.458,1.458,0,0,0,21.858.858C12.666-.114,8.246,5.549,6.733,14.12L1.16,16.6a.742.742,0,0,0,.1,1.367l3.9.87.87,3.9a.742.742,0,0,0,1.367.1Z', 'M20.445,12.2c-.016,3.173-1.619,6.3-3.8,7.362A1.452,1.452,0,0,1,15,19.243L12.462,16.7', 'M6.733 14.12L9.88 17.267', 'M16.875,4.5a.375.375,0,1,1-.375.375.375.375,0,0,1,.375-.375' ] ],
+  SeafoodSardineCan1:
+   [ 'seafood-sardine-can-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M18.75,18v3.75a1.5,1.5,0,0,1-1.5,1.5h-15a1.5,1.5,0,0,1-1.5-1.5V2.25A1.5,1.5,0,0,1,2.25.75h15a1.5,1.5,0,0,1,1.5,1.5V7.5', 'M3.75,10.5A9.907,9.907,0,0,1,5.414,5L6.75,3,8.086,5A9.907,9.907,0,0,1,9.75,10.5', 'M9.75,10.5A9.907,9.907,0,0,1,11.414,5L12.75,3l1.336,2a9.907,9.907,0,0,1,1.664,5.5', 'M17.25,15a2.25,2.25,0,0,0,0-4.5H3', 'M.75,12.75A2.25,2.25,0,1,1,3,15H17.25', 'M19.5,12.75h2.25a1.5,1.5,0,0,1,0,3' ] ],
+  SeafoodSquid:
+   [ 'seafood-squid',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M7.5,17.25v3a3.009,3.009,0,0,1-3,3h0a3.009,3.009,0,0,1-3-3h0', 'M16.5,17.25v3a3.009,3.009,0,0,0,3,3h0a3.009,3.009,0,0,0,3-3h0', 'M14.853,6.75h4.823a.75.75,0,0,0,.372-1.4l-7.3-4.4a1.5,1.5,0,0,0-1.488,0l-7.3,4.4a.75.75,0,0,0,.372,1.4H9.147', 'M10.128,5.058h0A15.642,15.642,0,0,0,7.5,13.737V17.25h9V13.737a15.642,15.642,0,0,0-2.628-8.679h0A2.25,2.25,0,0,0,10.128,5.058Z', 'M10.5 17.25L10.5 21.75', 'M13.5 17.25L13.5 21.75' ] ] }

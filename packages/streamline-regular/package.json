@@ -15,7 +15,7 @@
   "author": "Clément SAUVAGE <hello@clementsauvage.me>",
   "homepage": "https://streamlineicons.com",
   "license": "ISC",
-  "main": "lib/index.js",
+  "main": "lib/",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

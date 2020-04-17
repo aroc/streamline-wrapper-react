@@ -15,4 +15,4 @@ import Signs from "./Signs.js"
 import Update from "./Update.js"
 import index from "./index.js"
 
-export default { ActionsBuildings, ActionsHouses, Advertising, AppsWebsites, Deals, Favorites, InsuranceProtection, Location, MapsDimensions, Market, RealEstate, Search, Settings, Signs, Update, index }
+export { ActionsBuildings, ActionsHouses, Advertising, AppsWebsites, Deals, Favorites, InsuranceProtection, Location, MapsDimensions, Market, RealEstate, Search, Settings, Signs, Update, index }

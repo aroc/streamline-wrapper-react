@@ -20,4 +20,4 @@ import Walking from "./Walking.js"
 import WaterFountain from "./WaterFountain.js"
 import index from "./index.js"
 
-export default { Allowances, Cleaning, CloakLockersRoom, Disability, Escalators, Family, Garbages, InformationDesk, Laundry, Lifts, MovingWalkway, Safety, Seats, Stairs, SwimmingPool, Tickets, Toilets, WaitingRoom, Walking, WaterFountain, index }
+export { Allowances, Cleaning, CloakLockersRoom, Disability, Escalators, Family, Garbages, InformationDesk, Laundry, Lifts, MovingWalkway, Safety, Seats, Stairs, SwimmingPool, Tickets, Toilets, WaitingRoom, Walking, WaterFountain, index }

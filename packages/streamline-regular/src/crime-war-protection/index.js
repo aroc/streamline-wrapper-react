@@ -11,4 +11,4 @@ import Punishment from "./Punishment.js"
 import Surveillance from "./Surveillance.js"
 import index from "./index.js"
 
-export default { AntiqueWeapons, Army, Bombs, Crime, Death, Legal, ModernWeapons, Police, Protection, Punishment, Surveillance, index }
+export { AntiqueWeapons, Army, Bombs, Crime, Death, Legal, ModernWeapons, Police, Protection, Punishment, Surveillance, index }

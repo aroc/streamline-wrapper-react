@@ -1,25 +1,4 @@
-export default { AircraftMilitaryPlane2:
-   [ 'aircraft-military-plane-2',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M9.531,18c-1.463.143-3.4.693-4.169,2.238a1.089,1.089,0,0,0,.026,1.011.952.952,0,0,0,.825.5h3.6', 'M14.469,18c1.463.143,3.4.693,4.169,2.238a1.089,1.089,0,0,1-.026,1.011.952.952,0,0,1-.825.5h-3.6', 'M9.125,8.25H3a1.5,1.5,0,0,0-1.5,1.5v1.759a1.5,1.5,0,0,0,1.219,1.473L9.375,14.25', 'M14.875,8.25H21a1.5,1.5,0,0,1,1.5,1.5v1.759a1.5,1.5,0,0,1-1.219,1.473L14.625,14.25', 'M12 5.25L12 0.75', 'M7.5 2.25L16.5 2.25', 'M14.344,21a2.346,2.346,0,0,1-4.688,0L9.125,8.247a2.877,2.877,0,1,1,5.75,0Z', 'M12 8.25L12 9.75' ] ],
-  AircraftWaterPlane:
-   [ 'aircraft-water-plane',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M7.500 14.032 A4.500 4.500 0 1 0 16.500 14.032 A4.500 4.500 0 1 0 7.500 14.032 Z', 'M10.5 12.532L13.5 12.532', 'M12 9.532L12 5.468', 'M8.542 11.153L6.561 9.172', 'M4.000 8.111 A1.500 1.500 0 1 0 7.000 8.111 A1.500 1.500 0 1 0 4.000 8.111 Z', 'M15.458 11.153L17.439 9.172', 'M17.000 8.111 A1.500 1.500 0 1 0 20.000 8.111 A1.500 1.500 0 1 0 17.000 8.111 Z', 'M14.905,17.468H21.25a2,2,0,0,0,2-2', 'M.75,15.468a2,2,0,0,0,2,2H9.1', 'M10 5.468L14 5.468' ] ],
-  AircraftMilitaryPlane1:
+export default { AircraftMilitaryPlane1:
    [ 'aircraft-military-plane-1',
      24,
      24,
@@ -122,4 +101,25 @@ export default { AircraftMilitaryPlane2:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M23.007,17.931a1.5,1.5,0,0,0-1.257-.681H2.25A1.5,1.5,0,0,0,.878,19.356c.444,1,2.872,2.394,4.372,2.394h13.5c1.5,0,3.928-1.389,4.372-2.394A1.5,1.5,0,0,0,23.007,17.931Z', 'M18 17.25L16.5 14.25', 'M6 17.25L7.5 14.25', 'M7.5,8.25H5.625L4.954,6.908A3,3,0,0,0,2.271,5.25H1.5A.75.75,0,0,0,.808,6.288L3.356,12.4A3,3,0,0,0,6.125,14.25H16.5c2.25,0,5.25-3,5.25-6h-6a1.5,1.5,0,0,1-1.5-1.5v-3C10.5,3.75,7.5,8.25,7.5,8.25Z', 'M21.75 8.25L23.25 8.25', 'M23.25 5.25L23.25 2.25', 'M23.25 14.25L23.25 11.25', 'M18.75,8.25a4.5,4.5,0,0,0-4.5-4.5', 'M8.25 11.25L15.75 11.25' ] ] }
+     [ 'M23.007,17.931a1.5,1.5,0,0,0-1.257-.681H2.25A1.5,1.5,0,0,0,.878,19.356c.444,1,2.872,2.394,4.372,2.394h13.5c1.5,0,3.928-1.389,4.372-2.394A1.5,1.5,0,0,0,23.007,17.931Z', 'M18 17.25L16.5 14.25', 'M6 17.25L7.5 14.25', 'M7.5,8.25H5.625L4.954,6.908A3,3,0,0,0,2.271,5.25H1.5A.75.75,0,0,0,.808,6.288L3.356,12.4A3,3,0,0,0,6.125,14.25H16.5c2.25,0,5.25-3,5.25-6h-6a1.5,1.5,0,0,1-1.5-1.5v-3C10.5,3.75,7.5,8.25,7.5,8.25Z', 'M21.75 8.25L23.25 8.25', 'M23.25 5.25L23.25 2.25', 'M23.25 14.25L23.25 11.25', 'M18.75,8.25a4.5,4.5,0,0,0-4.5-4.5', 'M8.25 11.25L15.75 11.25' ] ],
+  AircraftMilitaryPlane2:
+   [ 'aircraft-military-plane-2',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M9.531,18c-1.463.143-3.4.693-4.169,2.238a1.089,1.089,0,0,0,.026,1.011.952.952,0,0,0,.825.5h3.6', 'M14.469,18c1.463.143,3.4.693,4.169,2.238a1.089,1.089,0,0,1-.026,1.011.952.952,0,0,1-.825.5h-3.6', 'M9.125,8.25H3a1.5,1.5,0,0,0-1.5,1.5v1.759a1.5,1.5,0,0,0,1.219,1.473L9.375,14.25', 'M14.875,8.25H21a1.5,1.5,0,0,1,1.5,1.5v1.759a1.5,1.5,0,0,1-1.219,1.473L14.625,14.25', 'M12 5.25L12 0.75', 'M7.5 2.25L16.5 2.25', 'M14.344,21a2.346,2.346,0,0,1-4.688,0L9.125,8.247a2.877,2.877,0,1,1,5.75,0Z', 'M12 8.25L12 9.75' ] ],
+  AircraftWaterPlane:
+   [ 'aircraft-water-plane',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M7.500 14.032 A4.500 4.500 0 1 0 16.500 14.032 A4.500 4.500 0 1 0 7.500 14.032 Z', 'M10.5 12.532L13.5 12.532', 'M12 9.532L12 5.468', 'M8.542 11.153L6.561 9.172', 'M4.000 8.111 A1.500 1.500 0 1 0 7.000 8.111 A1.500 1.500 0 1 0 4.000 8.111 Z', 'M15.458 11.153L17.439 9.172', 'M17.000 8.111 A1.500 1.500 0 1 0 20.000 8.111 A1.500 1.500 0 1 0 17.000 8.111 Z', 'M14.905,17.468H21.25a2,2,0,0,0,2-2', 'M.75,15.468a2,2,0,0,0,2,2H9.1', 'M10 5.468L14 5.468' ] ] }

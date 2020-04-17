@@ -1,16 +1,4 @@
-export default { ModernWeaponShotgun:
-   [ 'modern-weapon-shotgun',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5', transform: 'translate(-0.62 7.58) rotate(-25.749)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5', transform: 'translate(-2.625 7.235) rotate(-25.749)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M11.759,12.374,9.123,6.909,4.182,9.292A6.067,6.067,0,0,0,.8,15.529l.747,6.99a.758.758,0,0,0,1.081.586L5.4,21.77A1.516,1.516,0,0,0,6.222,20.1l-.611-4.757,6.148-2.965', 'M9.067,3.628h13.9a.507.507,0,0,1,.507.507V6.154a.507.507,0,0,1-.507.507H9.067a0,0,0,0,1,0,0V3.628a0,0,0,0,1,0,0Z', 'M10.724,7.843h7.584a0,0,0,0,1,0,0V9.862a1.015,1.015,0,0,1-1.015,1.015H10.724a0,0,0,0,1,0,0V7.843A0,0,0,0,1,10.724,7.843Z', 'M5.611 15.339L1.016 17.555', 'M6.059,18.631,8.9,17.5a1.517,1.517,0,0,0,.954-1.408V13.294' ] ],
-  ModernWeaponGun:
-   [ 'modern-weapon-gun',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M20.25,3.25h-15a4.5,4.5,0,0,0-4.5,4.5v4.5h0A2.771,2.771,0,0,1,3.46,15.6L2.25,21.25H9l1.674-7.814a1.5,1.5,0,0,1,1.467-1.186H20.25Z', 'M20.25,4.75h2.5a.5.5,0,0,1,.5.5v3.5a.5.5,0,0,1-.5.5h-2.5a0,0,0,0,1,0,0V4.75A0,0,0,0,1,20.25,4.75Z', 'M10.286,15.25h3.037a1.5,1.5,0,0,0,1.342-.829L15.75,12.25', 'M9 21.25L11.25 21.25', 'M15.75,3.25V5.5a.75.75,0,0,1-.75.75H10.5a.75.75,0,0,1-.75-.75V3.25', 'M11.25 9.25L0.75 9.25', 'M4.554 3.304L3 1.75' ] ],
-  ModernWeaponBullets:
+export default { ModernWeaponBullets:
    [ 'modern-weapon-bullets',
      24,
      24,
@@ -96,4 +84,16 @@ export default { ModernWeaponShotgun:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M6.750 20.250 A3.000 3.000 0 1 0 12.750 20.250 A3.000 3.000 0 1 0 6.750 20.250 Z', 'M6.75 20.25L0.75 23.25', 'M12.75,20.25h6.879a1.5,1.5,0,0,1,1.06.439L23.25,23.25', 'M11.568,17.864,14.03,15.4a.75.75,0,0,0,0-1.061l-2.651-2.652a1.5,1.5,0,0,0-2.122,0L5.545,15.4a.749.749,0,0,0,0,1.06L7.43,18.348', 'M11.845 12.155L18.75 5.25', 'M18.75,5.25h0a1.9,1.9,0,0,0,2.825-.156L23.25,3,21,.75,18.906,2.425A1.9,1.9,0,0,0,18.75,5.25Z', 'M6.723,14.223,5.561,13.061a1.5,1.5,0,0,1,0-2.122L6.75,9.75' ] ] }
+     [ 'M6.750 20.250 A3.000 3.000 0 1 0 12.750 20.250 A3.000 3.000 0 1 0 6.750 20.250 Z', 'M6.75 20.25L0.75 23.25', 'M12.75,20.25h6.879a1.5,1.5,0,0,1,1.06.439L23.25,23.25', 'M11.568,17.864,14.03,15.4a.75.75,0,0,0,0-1.061l-2.651-2.652a1.5,1.5,0,0,0-2.122,0L5.545,15.4a.749.749,0,0,0,0,1.06L7.43,18.348', 'M11.845 12.155L18.75 5.25', 'M18.75,5.25h0a1.9,1.9,0,0,0,2.825-.156L23.25,3,21,.75,18.906,2.425A1.9,1.9,0,0,0,18.75,5.25Z', 'M6.723,14.223,5.561,13.061a1.5,1.5,0,0,1,0-2.122L6.75,9.75' ] ],
+  ModernWeaponShotgun:
+   [ 'modern-weapon-shotgun',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5', transform: 'translate(-0.62 7.58) rotate(-25.749)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5', transform: 'translate(-2.625 7.235) rotate(-25.749)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M11.759,12.374,9.123,6.909,4.182,9.292A6.067,6.067,0,0,0,.8,15.529l.747,6.99a.758.758,0,0,0,1.081.586L5.4,21.77A1.516,1.516,0,0,0,6.222,20.1l-.611-4.757,6.148-2.965', 'M9.067,3.628h13.9a.507.507,0,0,1,.507.507V6.154a.507.507,0,0,1-.507.507H9.067a0,0,0,0,1,0,0V3.628a0,0,0,0,1,0,0Z', 'M10.724,7.843h7.584a0,0,0,0,1,0,0V9.862a1.015,1.015,0,0,1-1.015,1.015H10.724a0,0,0,0,1,0,0V7.843A0,0,0,0,1,10.724,7.843Z', 'M5.611 15.339L1.016 17.555', 'M6.059,18.631,8.9,17.5a1.517,1.517,0,0,0,.954-1.408V13.294' ] ],
+  ModernWeaponGun:
+   [ 'modern-weapon-gun',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M20.25,3.25h-15a4.5,4.5,0,0,0-4.5,4.5v4.5h0A2.771,2.771,0,0,1,3.46,15.6L2.25,21.25H9l1.674-7.814a1.5,1.5,0,0,1,1.467-1.186H20.25Z', 'M20.25,4.75h2.5a.5.5,0,0,1,.5.5v3.5a.5.5,0,0,1-.5.5h-2.5a0,0,0,0,1,0,0V4.75A0,0,0,0,1,20.25,4.75Z', 'M10.286,15.25h3.037a1.5,1.5,0,0,0,1.342-.829L15.75,12.25', 'M9 21.25L11.25 21.25', 'M15.75,3.25V5.5a.75.75,0,0,1-.75.75H10.5a.75.75,0,0,1-.75-.75V3.25', 'M11.25 9.25L0.75 9.25', 'M4.554 3.304L3 1.75' ] ] }

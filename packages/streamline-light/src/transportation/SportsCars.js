@@ -1,10 +1,4 @@
-export default { SportsCarConvertible:
-   [ 'sports-car-convertible',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M14.500 15.500 A2.500 2.500 0 1 0 19.500 15.500 A2.500 2.500 0 1 0 14.500 15.500 Z', 'M0.500 15.500 A2.500 2.500 0 1 0 5.500 15.500 A2.500 2.500 0 1 0 0.500 15.500 Z', 'M5 8L0.5 6', 'M17,13H12.5a2,2,0,0,1-2-2V8.6a.5.5,0,0,0-.6-.49c-1.156.25-3.639,1-4.4,2.891h-4a1,1,0,0,0-1,1v3.5', 'M15 17L4.999 17', 'M4 11L4 7.556', 'M2 11L2 6.667', 'M19,17h4.25a.25.25,0,0,0,.224-.362l-.714-1.427A4,4,0,0,0,19.182,13H17', 'M16.5,11a2,2,0,0,0-4,0' ] ],
-  SportsCarConvertible2:
+export default { SportsCarConvertible2:
    [ 'sports-car-convertible-2',
      24,
      24,
@@ -53,4 +47,10 @@ export default { SportsCarConvertible:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M2.5,15l-1.2-.9a2,2,0,0,1-.8-1.6V10H17a8.376,8.376,0,0,1,6.069,2.583A1.4,1.4,0,0,1,22.1,15H19.5', 'M15.5 15L6.5 15', 'M2.500 15.000 A2.000 2.000 0 1 0 6.500 15.000 A2.000 2.000 0 1 0 2.500 15.000 Z', 'M15.500 15.000 A2.000 2.000 0 1 0 19.500 15.000 A2.000 2.000 0 1 0 15.500 15.000 Z', 'M13.5 7L16.5 10', 'M.5,10,7.343,7.067A.839.839,0,0,1,7.67,7a.829.829,0,0,1,.83.83V10', 'M9.5,10v2a4.234,4.234,0,0,0,.447,1.894L10.5,15', 'M12.5 12L11.5 12' ] ] }
+     [ 'M2.5,15l-1.2-.9a2,2,0,0,1-.8-1.6V10H17a8.376,8.376,0,0,1,6.069,2.583A1.4,1.4,0,0,1,22.1,15H19.5', 'M15.5 15L6.5 15', 'M2.500 15.000 A2.000 2.000 0 1 0 6.500 15.000 A2.000 2.000 0 1 0 2.500 15.000 Z', 'M15.500 15.000 A2.000 2.000 0 1 0 19.500 15.000 A2.000 2.000 0 1 0 15.500 15.000 Z', 'M13.5 7L16.5 10', 'M.5,10,7.343,7.067A.839.839,0,0,1,7.67,7a.829.829,0,0,1,.83.83V10', 'M9.5,10v2a4.234,4.234,0,0,0,.447,1.894L10.5,15', 'M12.5 12L11.5 12' ] ],
+  SportsCarConvertible:
+   [ 'sports-car-convertible',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M14.500 15.500 A2.500 2.500 0 1 0 19.500 15.500 A2.500 2.500 0 1 0 14.500 15.500 Z', 'M0.500 15.500 A2.500 2.500 0 1 0 5.500 15.500 A2.500 2.500 0 1 0 0.500 15.500 Z', 'M5 8L0.5 6', 'M17,13H12.5a2,2,0,0,1-2-2V8.6a.5.5,0,0,0-.6-.49c-1.156.25-3.639,1-4.4,2.891h-4a1,1,0,0,0-1,1v3.5', 'M15 17L4.999 17', 'M4 11L4 7.556', 'M2 11L2 6.667', 'M19,17h4.25a.25.25,0,0,0,.224-.362l-.714-1.427A4,4,0,0,0,19.182,13H17', 'M16.5,11a2,2,0,0,0-4,0' ] ] }

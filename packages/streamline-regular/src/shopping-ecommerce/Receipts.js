@@ -1,10 +1,4 @@
-export default { ReceiptRegister:
-   [ 'receipt-register',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M17.625,18h3a1.5,1.5,0,0,1,1.5,1.5v2.25a1.5,1.5,0,0,1-1.5,1.5H3.375a1.5,1.5,0,0,1-1.5-1.5V18h5.25', 'M11.453 17.034L8.707 14.35', 'M10.983 18.114 A1.5 1.487 0 1 0 13.983 18.114 A1.5 1.487 0 1 0 10.983 18.114 Z', 'M1.875,4.5h6.75L9.814,3.311A1.5,1.5,0,0,0,8.754.75H3.375a1.5,1.5,0,0,0-1.5,1.5V18', 'M13.717 7.598L14.704 8.087', 'M16.385 9.291L17.222 10.003', 'M18.403 11.59L18.961 12.533', 'M8.625,4.5V7.737A12.219,12.219,0,0,1,18.917,18', 'M4.875 12.750 A2.250 2.250 0 1 0 9.375 12.750 A2.250 2.250 0 1 0 4.875 12.750 Z' ] ],
-  ReceiptDollar:
+export default { ReceiptDollar:
    [ 'receipt-dollar',
      24,
      24,
@@ -16,6 +10,18 @@ export default { ReceiptRegister:
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M12.75,23.25v-4.5a1.5,1.5,0,0,1,1.5-1.5h0a1.476,1.476,0,0,1,1.5,1.289V20.25a1.5,1.5,0,0,0,1.5,1.5h0a1.5,1.5,0,0,0,1.5-1.5V.75H8.25a3,3,0,0,0-3,3v13.5', 'M12.75,23.25H.75v-3a3,3,0,0,1,3-3h10.5', 'M17.25 21.75L12.75 21.75', 'M8.25 12.75L15.75 12.75', 'M8.25 9.75L15.75 9.75', 'M8.25 6.75L15.75 6.75', 'M20.25.75h-1.5v4.5h4.5V3.75A3,3,0,0,0,20.25.75Z' ] ],
+  Receipt1:
+   [ 'receipt-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M7.5 4.5L9.75 4.5', 'M8.25 8.25L14.25 8.25', 'M8.25 12L14.25 12', 'M8.25 15.75L14.25 15.75', 'M8.25 19.5L11.25 19.5', 'M19.5.75H21a1.5,1.5,0,0,1,1.5,1.5V6.5a1,1,0,0,1-1,1H18a0,0,0,0,1,0,0V2.25A1.5,1.5,0,0,1,19.5.75Z', 'M20.25.75H7.5a3,3,0,0,0-3,3v15c0,3-1.5,3.876-3,4.5h12a4.5,4.5,0,0,0,4.5-4.5V7.5' ] ],
+  ReceiptSlip:
+   [ 'receipt-slip',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M16.5,23.25a2.605,2.605,0,0,1,4.5,0', 'M12,23.25a2.605,2.605,0,0,1,4.5,0', 'M21,23.25V.75a2.614,2.614,0,0,1-2.25,1.293A2.613,2.613,0,0,1,16.5.75a2.614,2.614,0,0,1-2.25,1.293A2.613,2.613,0,0,1,12,.75,2.614,2.614,0,0,1,9.75,2.043,2.613,2.613,0,0,1,7.5.75,2.614,2.614,0,0,1,5.25,2.043,2.613,2.613,0,0,1,3,.75v22.5a2.605,2.605,0,0,1,4.5,0,2.605,2.605,0,0,1,4.5,0', 'M6 6.75L12 6.75', 'M6 11.25L12 11.25', 'M6 15.75L12 15.75', 'M16.5 6.75L18 6.75', 'M16.5 11.25L18 11.25', 'M16.5 15.75L18 15.75' ] ],
   ReceiptSlip1:
    [ 'receipt-slip-1',
      24,
@@ -38,15 +44,9 @@ export default { ReceiptRegister:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M7.062,13.438a.375.375,0,1,1-.375.375.374.374,0,0,1,.375-.375', 'M12.312,13.438a.375.375,0,1,1-.375.375.374.374,0,0,1,.375-.375', 'M17.562,13.438a.375.375,0,1,1-.375.375.374.374,0,0,1,.375-.375', 'M0.750 17.250 L23.250 17.250 L23.250 23.250 L0.750 23.250 Z', 'M17.25 6.75L17.25 3.75', 'M14.250 0.750 L20.250 0.750 L20.250 3.750 L14.250 3.750 Z', 'M6.75 9.75L12.75 9.75', 'M5.25,6.75H4.4A1.5,1.5,0,0,0,2.9,8.143L2.25,17.25', 'M21.75,17.25,21.1,8.143A1.5,1.5,0,0,0,19.6,6.75H14.25', 'M11.25 3.75L8.25 4.5 8.25 9.75 11.25 9.75 11.25 3.75z', 'M9.75 20.25L14.25 20.25' ] ],
-  ReceiptSlip:
-   [ 'receipt-slip',
+  ReceiptRegister:
+   [ 'receipt-register',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M16.5,23.25a2.605,2.605,0,0,1,4.5,0', 'M12,23.25a2.605,2.605,0,0,1,4.5,0', 'M21,23.25V.75a2.614,2.614,0,0,1-2.25,1.293A2.613,2.613,0,0,1,16.5.75a2.614,2.614,0,0,1-2.25,1.293A2.613,2.613,0,0,1,12,.75,2.614,2.614,0,0,1,9.75,2.043,2.613,2.613,0,0,1,7.5.75,2.614,2.614,0,0,1,5.25,2.043,2.613,2.613,0,0,1,3,.75v22.5a2.605,2.605,0,0,1,4.5,0,2.605,2.605,0,0,1,4.5,0', 'M6 6.75L12 6.75', 'M6 11.25L12 11.25', 'M6 15.75L12 15.75', 'M16.5 6.75L18 6.75', 'M16.5 11.25L18 11.25', 'M16.5 15.75L18 15.75' ] ],
-  Receipt1:
-   [ 'receipt-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M7.5 4.5L9.75 4.5', 'M8.25 8.25L14.25 8.25', 'M8.25 12L14.25 12', 'M8.25 15.75L14.25 15.75', 'M8.25 19.5L11.25 19.5', 'M19.5.75H21a1.5,1.5,0,0,1,1.5,1.5V6.5a1,1,0,0,1-1,1H18a0,0,0,0,1,0,0V2.25A1.5,1.5,0,0,1,19.5.75Z', 'M20.25.75H7.5a3,3,0,0,0-3,3v15c0,3-1.5,3.876-3,4.5h12a4.5,4.5,0,0,0,4.5-4.5V7.5' ] ] }
+     [ 'M17.625,18h3a1.5,1.5,0,0,1,1.5,1.5v2.25a1.5,1.5,0,0,1-1.5,1.5H3.375a1.5,1.5,0,0,1-1.5-1.5V18h5.25', 'M11.453 17.034L8.707 14.35', 'M10.983 18.114 A1.5 1.487 0 1 0 13.983 18.114 A1.5 1.487 0 1 0 10.983 18.114 Z', 'M1.875,4.5h6.75L9.814,3.311A1.5,1.5,0,0,0,8.754.75H3.375a1.5,1.5,0,0,0-1.5,1.5V18', 'M13.717 7.598L14.704 8.087', 'M16.385 9.291L17.222 10.003', 'M18.403 11.59L18.961 12.533', 'M8.625,4.5V7.737A12.219,12.219,0,0,1,18.917,18', 'M4.875 12.750 A2.250 2.250 0 1 0 9.375 12.750 A2.250 2.250 0 1 0 4.875 12.750 Z' ] ] }

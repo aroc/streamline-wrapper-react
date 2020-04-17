@@ -1,16 +1,4 @@
-export default { MedicalNanobotSearch:
-   [ 'medical-nanobot-search',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M0.500 10.500 A10.000 10.000 0 1 0 20.500 10.500 A10.000 10.000 0 1 0 0.500 10.500 Z', 'M23.5 23.5L17.571 17.571', 'M7.5,10.5l-1,1.251a2,2,0,0,0,0,2.5l1,1.251', 'M13.5,10.5l1,1.251a2,2,0,0,1,0,2.5l-1,1.251', 'M10.5 12L10.5 16.5', 'M9.500 8.500 A1.000 1.000 0 1 0 11.500 8.500 A1.000 1.000 0 1 0 9.500 8.500 Z', 'M10.724,5.112a.5.5,0,0,0-.448,0l-2.5,1.25a.5.5,0,0,0-.276.447V10.5l3,1.5,3-1.5V6.809a.5.5,0,0,0-.276-.447Z' ] ],
-  MedicalNanobotBlood:
-   [ 'medical-nanobot-blood',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M13.393,15.4a5.994,5.994,0,0,1-.57,5.346h0a5.993,5.993,0,0,1-10.084,0h0A5.994,5.994,0,0,1,2.168,15.4L7.313,1.684a.5.5,0,0,1,.936,0L9.305,4.5', 'M20.787,7.441V2.75A.5.5,0,0,0,20.51,2.3L17.01.553a.5.5,0,0,0-.447,0l-3.5,1.75a.5.5,0,0,0-.276.447V7.441l4,2Z', 'M12.787,7.441l-.841.841a2,2,0,0,0-.25,2.523l1.091,1.636', 'M20.787,7.441l.84.841a2,2,0,0,1,.25,2.523l-1.09,1.636', 'M16.787 9.441L16.787 13.5', 'M15.287 4.941 A1.500 1.500 0 1 0 18.287 4.941 A1.500 1.500 0 1 0 15.287 4.941 Z' ] ],
-  MedicalNanobotHeart:
+export default { MedicalNanobotHeart:
    [ 'medical-nanobot-heart',
      24,
      24,
@@ -144,4 +132,16 @@ export default { MedicalNanobotSearch:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M17 16.5L17 17', 'M14.5 16.5L14 16.5', 'M11.5 14.5L11 14.5', 'M15.5 18L15.5 18.5', 'M7.886 10.114L5 13', 'M7.5 7.586L3.207 3.293 1.793 4.707 7.543 10.457', 'M4.5 2L0.5 6', 'M19.172,18.55l.707.707a1,1,0,0,1,0,1.415l-.707.707a1,1,0,0,1-1.415,0l-.707-.707', 'M19.525 21.025L22 23.5', 'M9.285 12.881L8.211 13.954', 'M7.886,10.114,6.129,11.871l9.153,9.154a1,1,0,0,0,1.415,0L19.525,18.2a1,1,0,0,0,0-1.415l-.61-.61', 'M9.500 7.500 A7.000 7.000 0 1 0 23.500 7.500 A7.000 7.000 0 1 0 9.500 7.500 Z', 'M13.5,8l-.273.273a2,2,0,0,0-.186,2.615l.459.612', 'M19.5,8l.273.273a2,2,0,0,1,.186,2.615L19.5,11.5', 'M16.5 9.5L16.5 12.5', 'M15.500 6.000 A1.000 1.000 0 1 0 17.500 6.000 A1.000 1.000 0 1 0 15.500 6.000 Z', 'M16.724,2.612a.5.5,0,0,0-.448,0l-2.5,1.25a.5.5,0,0,0-.276.447V8l3,1.5,3-1.5V4.309a.5.5,0,0,0-.276-.447Z' ] ] }
+     [ 'M17 16.5L17 17', 'M14.5 16.5L14 16.5', 'M11.5 14.5L11 14.5', 'M15.5 18L15.5 18.5', 'M7.886 10.114L5 13', 'M7.5 7.586L3.207 3.293 1.793 4.707 7.543 10.457', 'M4.5 2L0.5 6', 'M19.172,18.55l.707.707a1,1,0,0,1,0,1.415l-.707.707a1,1,0,0,1-1.415,0l-.707-.707', 'M19.525 21.025L22 23.5', 'M9.285 12.881L8.211 13.954', 'M7.886,10.114,6.129,11.871l9.153,9.154a1,1,0,0,0,1.415,0L19.525,18.2a1,1,0,0,0,0-1.415l-.61-.61', 'M9.500 7.500 A7.000 7.000 0 1 0 23.500 7.500 A7.000 7.000 0 1 0 9.500 7.500 Z', 'M13.5,8l-.273.273a2,2,0,0,0-.186,2.615l.459.612', 'M19.5,8l.273.273a2,2,0,0,1,.186,2.615L19.5,11.5', 'M16.5 9.5L16.5 12.5', 'M15.500 6.000 A1.000 1.000 0 1 0 17.500 6.000 A1.000 1.000 0 1 0 15.500 6.000 Z', 'M16.724,2.612a.5.5,0,0,0-.448,0l-2.5,1.25a.5.5,0,0,0-.276.447V8l3,1.5,3-1.5V4.309a.5.5,0,0,0-.276-.447Z' ] ],
+  MedicalNanobotSearch:
+   [ 'medical-nanobot-search',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M0.500 10.500 A10.000 10.000 0 1 0 20.500 10.500 A10.000 10.000 0 1 0 0.500 10.500 Z', 'M23.5 23.5L17.571 17.571', 'M7.5,10.5l-1,1.251a2,2,0,0,0,0,2.5l1,1.251', 'M13.5,10.5l1,1.251a2,2,0,0,1,0,2.5l-1,1.251', 'M10.5 12L10.5 16.5', 'M9.500 8.500 A1.000 1.000 0 1 0 11.500 8.500 A1.000 1.000 0 1 0 9.500 8.500 Z', 'M10.724,5.112a.5.5,0,0,0-.448,0l-2.5,1.25a.5.5,0,0,0-.276.447V10.5l3,1.5,3-1.5V6.809a.5.5,0,0,0-.276-.447Z' ] ],
+  MedicalNanobotBlood:
+   [ 'medical-nanobot-blood',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M13.393,15.4a5.994,5.994,0,0,1-.57,5.346h0a5.993,5.993,0,0,1-10.084,0h0A5.994,5.994,0,0,1,2.168,15.4L7.313,1.684a.5.5,0,0,1,.936,0L9.305,4.5', 'M20.787,7.441V2.75A.5.5,0,0,0,20.51,2.3L17.01.553a.5.5,0,0,0-.447,0l-3.5,1.75a.5.5,0,0,0-.276.447V7.441l4,2Z', 'M12.787,7.441l-.841.841a2,2,0,0,0-.25,2.523l1.091,1.636', 'M20.787,7.441l.84.841a2,2,0,0,1,.25,2.523l-1.09,1.636', 'M16.787 9.441L16.787 13.5', 'M15.287 4.941 A1.500 1.500 0 1 0 18.287 4.941 A1.500 1.500 0 1 0 15.287 4.941 Z' ] ] }

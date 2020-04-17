@@ -1,10 +1,4 @@
-export default { MartialArtsSwords:
-   [ 'martial-arts-swords',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M9.75,16.325l-6.495,6.5A1.467,1.467,0,0,1,1.18,20.745l6.5-6.5', 'M4 14.466L9.534 20', 'M17.978 3.947L20.053 6.022', 'M20 14.466L14.466 20', 'M20.745,22.82a1.467,1.467,0,0,0,2.075-2.075L3.255,1.18A1.467,1.467,0,0,0,1.18,3.255Z', 'M6.022 3.947L3.947 6.022', 'M14.25,7.675l6.5-6.495A1.467,1.467,0,0,1,22.82,3.255l-6.5,6.5' ] ],
-  MartialArtsHelmet:
+export default { MartialArtsHelmet:
    [ 'martial-arts-helmet',
      24,
      24,
@@ -46,4 +40,10 @@ export default { MartialArtsSwords:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M10.5,19.1A4.422,4.422,0,0,0,7.534,22.81a.5.5,0,0,1-.5.44H5.692a.5.5,0,0,1-.485-.376,6.759,6.759,0,0,1-.187-1.58c0-1.838,1.078-4.794,2.605-5.544', 'M6.958,11.635a41.215,41.215,0,0,0,.667,4.115', 'M13.49,19.1a4.425,4.425,0,0,1,2.968,3.712.493.493,0,0,0,.5.44H18.3a.5.5,0,0,0,.485-.376,6.759,6.759,0,0,0,.187-1.58c0-1.838-1.077-4.794-2.605-5.544', 'M17.033,11.635a41.215,41.215,0,0,1-.667,4.115', 'M6.958,11.636a20.6,20.6,0,0,0-4.689,1.8.5.5,0,0,1-.664-.178L.821,11.976a.483.483,0,0,1,.12-.636,18.033,18.033,0,0,1,9.507-3.677', 'M17.03,11.635a20.506,20.506,0,0,1,4.692,1.8.5.5,0,0,0,.663-.176l.792-1.277a.482.482,0,0,0-.118-.639,18.031,18.031,0,0,0-9.515-3.683', 'M14.985,5.152a2.99,2.99,0,0,1-5.979,0', 'M9.006,5.152V2.6A3.6,3.6,0,0,1,12,.75,3.6,3.6,0,0,1,14.985,2.6V5.152', 'M7.625 15.75L10.501 19.098 13.492 19.099 16.366 15.75', 'M7.442 15L16.55 15' ] ] }
+     [ 'M10.5,19.1A4.422,4.422,0,0,0,7.534,22.81a.5.5,0,0,1-.5.44H5.692a.5.5,0,0,1-.485-.376,6.759,6.759,0,0,1-.187-1.58c0-1.838,1.078-4.794,2.605-5.544', 'M6.958,11.635a41.215,41.215,0,0,0,.667,4.115', 'M13.49,19.1a4.425,4.425,0,0,1,2.968,3.712.493.493,0,0,0,.5.44H18.3a.5.5,0,0,0,.485-.376,6.759,6.759,0,0,0,.187-1.58c0-1.838-1.077-4.794-2.605-5.544', 'M17.033,11.635a41.215,41.215,0,0,1-.667,4.115', 'M6.958,11.636a20.6,20.6,0,0,0-4.689,1.8.5.5,0,0,1-.664-.178L.821,11.976a.483.483,0,0,1,.12-.636,18.033,18.033,0,0,1,9.507-3.677', 'M17.03,11.635a20.506,20.506,0,0,1,4.692,1.8.5.5,0,0,0,.663-.176l.792-1.277a.482.482,0,0,0-.118-.639,18.031,18.031,0,0,0-9.515-3.683', 'M14.985,5.152a2.99,2.99,0,0,1-5.979,0', 'M9.006,5.152V2.6A3.6,3.6,0,0,1,12,.75,3.6,3.6,0,0,1,14.985,2.6V5.152', 'M7.625 15.75L10.501 19.098 13.492 19.099 16.366 15.75', 'M7.442 15L16.55 15' ] ],
+  MartialArtsSwords:
+   [ 'martial-arts-swords',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M9.75,16.325l-6.495,6.5A1.467,1.467,0,0,1,1.18,20.745l6.5-6.5', 'M4 14.466L9.534 20', 'M17.978 3.947L20.053 6.022', 'M20 14.466L14.466 20', 'M20.745,22.82a1.467,1.467,0,0,0,2.075-2.075L3.255,1.18A1.467,1.467,0,0,0,1.18,3.255Z', 'M6.022 3.947L3.947 6.022', 'M14.25,7.675l6.5-6.495A1.467,1.467,0,0,1,22.82,3.255l-6.5,6.5' ] ] }

@@ -1,19 +1,4 @@
-export default { Antenna2:
-   [ 'antenna-2',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
-     [ 'M13.5 17.799L13.5 23.25', 'M10.5 23.25L10.5 17.799', 'M9.750 11.250 L14.250 11.250 L14.250 18.000 L9.750 18.000 Z', 'M12 11.25L12 7.5', 'M9.75 14.25L5.962 14.852', 'M9,6.75a3,3,0,0,1,6,0', 'M6,5.642C6,2.94,8.686.75,12,.75s6,2.19,6,4.892', 'M5.019,18.415l.763-.135c.422-.075.725-.351.678-.617l-.94-5.3c-.047-.266-.427-.421-.849-.346l-.763.135A4.257,4.257,0,0,0,5.019,18.415Z', 'M14.25 14.25L18.039 14.852', 'M18.981,18.415l-.763-.135c-.422-.075-.725-.351-.678-.617l.94-5.3c.047-.266.427-.421.849-.346l.763.135A4.257,4.257,0,0,1,18.981,18.415Z' ] ],
-  NetworkSignal:
+export default { NetworkSignal:
    [ 'network-signal',
      24,
      24,
@@ -54,4 +39,19 @@ export default { Antenna2:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
      [ 'M0.75 23.25L21 23.25', 'M9.75,23.25h-9V7.992a.5.5,0,0,1,.5-.492h8a.5.5,0,0,1,.5.492Z', 'M7.5,5.144A.7.7,0,0,0,6.75,4.5h-3A.7.7,0,0,0,3,5.144V7.5H7.5Z', 'M5.25 4.5L5.25 0.75', 'M3.75 10.5L6.75 10.5', 'M3.75 13.5L6.75 13.5', 'M3.75 16.5L6.75 16.5', 'M3.75 19.5L6.75 19.5', 'M12.906,5.421a5.961,5.961,0,0,1,5.829,5.829', 'M13.905.764a9.751,9.751,0,0,1,9.33,9.288', 'M17.25,14.25H13.5a.75.75,0,0,0-.75.75v8.25H18V15A.75.75,0,0,0,17.25,14.25Z' ] ],
-  HouseSignal: [ 'house-signal', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M5.32,9a9.75,9.75,0,0,1,13.165-.029', 'M3,3.885a14.252,14.252,0,0,1,17.991.126', 'M7.419,15.948v5.8a1.5,1.5,0,0,0,1.5,1.5h6a1.5,1.5,0,0,0,1.5-1.5v-5.8', 'M5.919,17.26l4.518-3.953a2.25,2.25,0,0,1,2.963,0l4.519,3.953', 'M13.419,23.25h-3v-3a1.5,1.5,0,0,1,3,0Z' ] ] }
+  HouseSignal: [ 'house-signal', 24, 24, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ], [ 'M5.32,9a9.75,9.75,0,0,1,13.165-.029', 'M3,3.885a14.252,14.252,0,0,1,17.991.126', 'M7.419,15.948v5.8a1.5,1.5,0,0,0,1.5,1.5h6a1.5,1.5,0,0,0,1.5-1.5v-5.8', 'M5.919,17.26l4.518-3.953a2.25,2.25,0,0,1,2.963,0l4.519,3.953', 'M13.419,23.25h-3v-3a1.5,1.5,0,0,1,3,0Z' ] ],
+  Antenna2:
+   [ 'antenna-2',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': '1.5' } ],
+     [ 'M13.5 17.799L13.5 23.25', 'M10.5 23.25L10.5 17.799', 'M9.750 11.250 L14.250 11.250 L14.250 18.000 L9.750 18.000 Z', 'M12 11.25L12 7.5', 'M9.75 14.25L5.962 14.852', 'M9,6.75a3,3,0,0,1,6,0', 'M6,5.642C6,2.94,8.686.75,12,.75s6,2.19,6,4.892', 'M5.019,18.415l.763-.135c.422-.075.725-.351.678-.617l-.94-5.3c-.047-.266-.427-.421-.849-.346l-.763.135A4.257,4.257,0,0,0,5.019,18.415Z', 'M14.25 14.25L18.039 14.852', 'M18.981,18.415l-.763-.135c-.422-.075-.725-.351-.678-.617l.94-5.3c.047-.266.427-.421.849-.346l.763.135A4.257,4.257,0,0,1,18.981,18.415Z' ] ] }

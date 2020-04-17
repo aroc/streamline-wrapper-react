@@ -1,5 +1,5 @@
-export default { Building2:
-   [ 'building-2',
+export default { BuildingModern1:
+   [ 'building-modern-1',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
@@ -13,9 +13,14 @@ export default { Building2:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
-       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M0.5 23.5L23.5 23.5', 'M2.5 3.5H21.5V23.5H2.5z', 'M0.5 3.5L23.5 3.5', 'M20.5,3.5v-2a1,1,0,0,0-1-1H4.5a1,1,0,0,0-1,1v2', 'M10.5,23.5V20a1.5,1.5,0,0,1,3,0v3.5', 'M5.5 19.5L8.5 19.5', 'M15.5 19.5L18.5 19.5', 'M5.5 15.5L9.5 15.5', 'M14.5 15.5L18.5 15.5', 'M5.5 11.5L9.5 11.5', 'M14.5 11.5L18.5 11.5', 'M5.5 7.5L9.5 7.5', 'M14.5 7.5L18.5 7.5' ] ],
+     [ 'M6.5,12.434a.5.5,0,0,0-.777-.416l-5,3.334a.5.5,0,0,0-.223.416V23a.5.5,0,0,0,.5.5H6a.5.5,0,0,0,.5-.5Z', 'M16.5,7.707a.5.5,0,0,0-.146-.353L12.5,3.5,8.646,7.354a.5.5,0,0,0-.146.353V23a.5.5,0,0,0,.5.5h7a.5.5,0,0,0,.5-.5Z', 'M12.5 3.5L12.5 0.5', 'M18.5,13.5l2.146-2.146a.5.5,0,0,1,.708,0L23.5,13.5V23a.5.5,0,0,1-.5.5H19a.5.5,0,0,1-.5-.5Z', 'M18.5 13.5L23.5 13.5', 'M18.5 15.5L23.5 15.5', 'M18.5 17.5L23.5 17.5', 'M18.5 19.5L23.5 19.5', 'M18.5 21.5L23.5 21.5', 'M2.5 23.5L2.5 17', 'M4.5 23.5L4.5 17', 'M16.443 7.476L8.624 7.477 16.5 11.5 8.5 15.5 16.5 19.5 8.7 23.4' ] ],
+  Building1:
+   [ 'building-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M10.5,23.5V20a1.5,1.5,0,0,1,3,0v3.5', 'M8.5,16.5h-3v-3a1.5,1.5,0,0,1,3,0Z', 'M8.5,10h-3V7a1.5,1.5,0,0,1,3,0Z', 'M13.5,16.5h-3v-3a1.5,1.5,0,0,1,3,0Z', 'M13.5,10h-3V7a1.5,1.5,0,0,1,3,0Z', 'M18.5,16.5h-3v-3a1.5,1.5,0,0,1,3,0Z', 'M18.5,10h-3V7a1.5,1.5,0,0,1,3,0Z', 'M20.5,3.8a1,1,0,0,0-.168-.555L18.8.945A1,1,0,0,0,17.965.5H6.035A1,1,0,0,0,5.2.945l-1.535,2.3A1,1,0,0,0,3.5,3.8V22.5a1,1,0,0,0,1,1h15a1,1,0,0,0,1-1Z', 'M3.547 3.5L20.453 3.5' ] ],
   BuildingFlag:
    [ 'building-flag',
      24,
@@ -78,12 +83,6 @@ export default { Building2:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M7.5,23.5H15a.5.5,0,0,0,.5-.5V11a.5.5,0,0,0-.5-.5H8a.5.5,0,0,0-.5.5Z', 'M9.5,10.5V5A.5.5,0,0,0,9,4.5H1A.5.5,0,0,0,.5,5V23a.5.5,0,0,0,.5.5H7.5', 'M2.5,23.5V21a.5.5,0,0,1,.5-.5H5a.5.5,0,0,1,.5.5v2.5', 'M10.5,23.5V21a.5.5,0,0,1,.5-.5h2a.5.5,0,0,1,.5.5v2.5', 'M15.5 12.5L12.5 12.5', 'M9.5 8.5L6.5 8.5', 'M9.5 6.5L4.5 6.5', 'M15.5 14.5L13.5 14.5', 'M16.502 5.500 A2.000 2.000 0 1 0 20.502 5.500 A2.000 2.000 0 1 0 16.502 5.500 Z', 'M18.502 0.5L18.502 1.5', 'M14.967 1.964L15.674 2.671', 'M13.502 5.498L14.502 5.498', 'M14.966 9.035L15.673 8.327', 'M18.501 10.498L18.5 9.499', 'M22.036 9.035L21.328 8.329', 'M23.5 5.501L22.5 5.502', 'M22.036 1.966L21.33 2.674' ] ],
-  Building1:
-   [ 'building-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M10.5,23.5V20a1.5,1.5,0,0,1,3,0v3.5', 'M8.5,16.5h-3v-3a1.5,1.5,0,0,1,3,0Z', 'M8.5,10h-3V7a1.5,1.5,0,0,1,3,0Z', 'M13.5,16.5h-3v-3a1.5,1.5,0,0,1,3,0Z', 'M13.5,10h-3V7a1.5,1.5,0,0,1,3,0Z', 'M18.5,16.5h-3v-3a1.5,1.5,0,0,1,3,0Z', 'M18.5,10h-3V7a1.5,1.5,0,0,1,3,0Z', 'M20.5,3.8a1,1,0,0,0-.168-.555L18.8.945A1,1,0,0,0,17.965.5H6.035A1,1,0,0,0,5.2.945l-1.535,2.3A1,1,0,0,0,3.5,3.8V22.5a1,1,0,0,0,1,1h15a1,1,0,0,0,1-1Z', 'M3.547 3.5L20.453 3.5' ] ],
   Buildings2:
    [ 'buildings-2',
      24,
@@ -273,8 +272,14 @@ export default { Building2:
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
      [ 'M13,23.5H3.5A.5.5,0,0,1,3,23V9.5a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1Z', 'M11,8.5v-7a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1V23a.5.5,0,0,1-.5.5H13', 'M19,23.5V21a.5.5,0,0,0-.5-.5h-2a.5.5,0,0,0-.5.5v2.5', 'M8,23.5V21a.5.5,0,0,0-.5-.5h-2A.5.5,0,0,0,5,21v2.5', 'M3 11.5L7 11.5', 'M11 6.5L15 6.5', 'M11 3.5L17 3.5', 'M3 14.5L5 14.5' ] ],
-  BuildingModern1:
-   [ 'building-modern-1',
+  Building:
+   [ 'building',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M14.5,23.5H1.5a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1h21a1,1,0,0,1,1,1v16', 'M6.5,5.5a2,2,0,0,0-4,0V9a.5.5,0,0,0,.5.5H6A.5.5,0,0,0,6.5,9Z', 'M12.5,5.5a2,2,0,0,0-4,0V9a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5Z', 'M6.5,15.5a2,2,0,0,0-4,0V19a.5.5,0,0,0,.5.5H6a.5.5,0,0,0,.5-.5Z', 'M12.5,15.5a2,2,0,0,0-4,0V19a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5Z', 'M21.5,17.5v-6a2,2,0,0,0-2-2h-1a2,2,0,0,0-2,2v6', 'M17.000 5.000 A2.000 2.000 0 1 0 21.000 5.000 A2.000 2.000 0 1 0 17.000 5.000 Z', 'M23.5,17.5h-9v6h8a1,1,0,0,0,1-1Z', 'M14.5 19.5L23.5 19.5', 'M14.5 21.5L23.5 21.5', 'M14.5 0.5L14.5 17.5' ] ],
+  Building2:
+   [ 'building-2',
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
@@ -288,11 +293,6 @@ export default { Building2:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
+       { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M6.5,12.434a.5.5,0,0,0-.777-.416l-5,3.334a.5.5,0,0,0-.223.416V23a.5.5,0,0,0,.5.5H6a.5.5,0,0,0,.5-.5Z', 'M16.5,7.707a.5.5,0,0,0-.146-.353L12.5,3.5,8.646,7.354a.5.5,0,0,0-.146.353V23a.5.5,0,0,0,.5.5h7a.5.5,0,0,0,.5-.5Z', 'M12.5 3.5L12.5 0.5', 'M18.5,13.5l2.146-2.146a.5.5,0,0,1,.708,0L23.5,13.5V23a.5.5,0,0,1-.5.5H19a.5.5,0,0,1-.5-.5Z', 'M18.5 13.5L23.5 13.5', 'M18.5 15.5L23.5 15.5', 'M18.5 17.5L23.5 17.5', 'M18.5 19.5L23.5 19.5', 'M18.5 21.5L23.5 21.5', 'M2.5 23.5L2.5 17', 'M4.5 23.5L4.5 17', 'M16.443 7.476L8.624 7.477 16.5 11.5 8.5 15.5 16.5 19.5 8.7 23.4' ] ],
-  Building:
-   [ 'building',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M14.5,23.5H1.5a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1h21a1,1,0,0,1,1,1v16', 'M6.5,5.5a2,2,0,0,0-4,0V9a.5.5,0,0,0,.5.5H6A.5.5,0,0,0,6.5,9Z', 'M12.5,5.5a2,2,0,0,0-4,0V9a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5Z', 'M6.5,15.5a2,2,0,0,0-4,0V19a.5.5,0,0,0,.5.5H6a.5.5,0,0,0,.5-.5Z', 'M12.5,15.5a2,2,0,0,0-4,0V19a.5.5,0,0,0,.5.5h3a.5.5,0,0,0,.5-.5Z', 'M21.5,17.5v-6a2,2,0,0,0-2-2h-1a2,2,0,0,0-2,2v6', 'M17.000 5.000 A2.000 2.000 0 1 0 21.000 5.000 A2.000 2.000 0 1 0 17.000 5.000 Z', 'M23.5,17.5h-9v6h8a1,1,0,0,0,1-1Z', 'M14.5 19.5L23.5 19.5', 'M14.5 21.5L23.5 21.5', 'M14.5 0.5L14.5 17.5' ] ] }
+     [ 'M0.5 23.5L23.5 23.5', 'M2.5 3.5H21.5V23.5H2.5z', 'M0.5 3.5L23.5 3.5', 'M20.5,3.5v-2a1,1,0,0,0-1-1H4.5a1,1,0,0,0-1,1v2', 'M10.5,23.5V20a1.5,1.5,0,0,1,3,0v3.5', 'M5.5 19.5L8.5 19.5', 'M15.5 19.5L18.5 19.5', 'M5.5 15.5L9.5 15.5', 'M14.5 15.5L18.5 15.5', 'M5.5 11.5L9.5 11.5', 'M14.5 11.5L18.5 11.5', 'M5.5 7.5L9.5 7.5', 'M14.5 7.5L18.5 7.5' ] ] }

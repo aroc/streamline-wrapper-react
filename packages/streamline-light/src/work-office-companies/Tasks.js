@@ -1,22 +1,4 @@
-export default { TaskListCash:
-   [ 'task-list-cash',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M14.5 9.491L14.5 5.491 3.5 5.491 3.5 18.49 8.5 18.491', 'M17.5,8.491v-5a1,1,0,0,0-1-1H12.052a3.329,3.329,0,0,0-6.1,0H1.5a1,1,0,0,0-1,1v17a1,1,0,0,0,1,1h8', 'M6.5 8.491L11.5 8.491', 'M6.5 11.491L11.5 11.491', 'M6.5 14.491L9.5 14.491', 'M19,14.491H16.967a1.342,1.342,0,0,0-.5,2.588l2.064.825a1.342,1.342,0,0,1-.5,2.587H16', 'M17.5 21.491L17.5 20.491', 'M17.5 14.491L17.5 13.491', 'M11.500 17.491 A6.000 6.000 0 1 0 23.500 17.491 A6.000 6.000 0 1 0 11.500 17.491 Z' ] ],
-  TaskListCheck1:
-   [ 'task-list-check-1',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M14.5 9.5L14.5 5.5 3.5 5.5 3.5 18.499 8.5 18.5', 'M17.5,8.5v-5a1,1,0,0,0-1-1H12.052a3.329,3.329,0,0,0-6.1,0H1.5a1,1,0,0,0-1,1v17a1,1,0,0,0,1,1h8', 'M6.5 8.5L11.5 8.5', 'M6.5 11.5L11.5 11.5', 'M6.5 14.5L9.5 14.5', 'M11.500 17.500 A6.000 6.000 0 1 0 23.500 17.500 A6.000 6.000 0 1 0 11.500 17.500 Z', 'M20.174,15.755l-2.905,3.874a.751.751,0,0,1-1.131.08l-1.5-1.5' ] ],
-  ListQuill:
-   [ 'list-quill',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M8.59,23.5h-7a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1H14.883a1,1,0,0,1,.707.293L19.3,4.5a1,1,0,0,1,.293.707V8.5', 'M3.59,8.771,4.673,9.853a.5.5,0,0,0,.76-.062L7.59,6.771', 'M10.59 8.5L14.59 8.5', 'M3.59,13.771l1.083,1.082a.5.5,0,0,0,.76-.062l2.157-3.02', 'M10.59 13.5L12.09 13.5', 'M10.59 23.5L17.999 16.091', 'M16.142,13.019c-.83.1-5.45,4.493-2.534,7.407,1.018,1.019,3.293.858,6.035-1.882,2.1-2.105,3.3-5.719,3.748-7.285a.5.5,0,0,0-.577-.623,21.916,21.916,0,0,0-4.376,1.326s-.637,2.973-2.3,2.973Z' ] ],
-  TaskListEdit:
+export default { TaskListEdit:
    [ 'task-list-edit',
      24,
      24,
@@ -176,4 +158,22 @@ export default { TaskListCash:
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' },
        { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M15.5,22.5a1,1,0,0,1-1,1H4.5a1,1,0,0,1-1-1V6.5h12Z', 'M1.5,16.5a1,1,0,0,1-1-1V3.5a3,3,0,1,1,3,3', 'M15.5,6.5a3,3,0,0,0,0-6H3.5', 'M9.5 10.5L13.5 10.5', 'M9.5 14.5L13.5 14.5', 'M9.5 18.5L13.5 18.5', 'M5.5 10L6 10.5 8 8.5', 'M5.5 14L6 14.5 8 12.5', 'M23.5,22a1.5,1.5,0,0,1-3,0V7.5a1.5,1.5,0,0,1,3,0Z', 'M20.5 21.5L23.5 21.5', 'M20.5 14.5L23.5 14.5', 'M18.5,16V8.5A1.5,1.5,0,0,1,20,7h.586' ] ] }
+     [ 'M15.5,22.5a1,1,0,0,1-1,1H4.5a1,1,0,0,1-1-1V6.5h12Z', 'M1.5,16.5a1,1,0,0,1-1-1V3.5a3,3,0,1,1,3,3', 'M15.5,6.5a3,3,0,0,0,0-6H3.5', 'M9.5 10.5L13.5 10.5', 'M9.5 14.5L13.5 14.5', 'M9.5 18.5L13.5 18.5', 'M5.5 10L6 10.5 8 8.5', 'M5.5 14L6 14.5 8 12.5', 'M23.5,22a1.5,1.5,0,0,1-3,0V7.5a1.5,1.5,0,0,1,3,0Z', 'M20.5 21.5L23.5 21.5', 'M20.5 14.5L23.5 14.5', 'M18.5,16V8.5A1.5,1.5,0,0,1,20,7h.586' ] ],
+  TaskListCash:
+   [ 'task-list-cash',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M14.5 9.491L14.5 5.491 3.5 5.491 3.5 18.49 8.5 18.491', 'M17.5,8.491v-5a1,1,0,0,0-1-1H12.052a3.329,3.329,0,0,0-6.1,0H1.5a1,1,0,0,0-1,1v17a1,1,0,0,0,1,1h8', 'M6.5 8.491L11.5 8.491', 'M6.5 11.491L11.5 11.491', 'M6.5 14.491L9.5 14.491', 'M19,14.491H16.967a1.342,1.342,0,0,0-.5,2.588l2.064.825a1.342,1.342,0,0,1-.5,2.587H16', 'M17.5 21.491L17.5 20.491', 'M17.5 14.491L17.5 13.491', 'M11.500 17.491 A6.000 6.000 0 1 0 23.500 17.491 A6.000 6.000 0 1 0 11.500 17.491 Z' ] ],
+  TaskListCheck1:
+   [ 'task-list-check-1',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M14.5 9.5L14.5 5.5 3.5 5.5 3.5 18.499 8.5 18.5', 'M17.5,8.5v-5a1,1,0,0,0-1-1H12.052a3.329,3.329,0,0,0-6.1,0H1.5a1,1,0,0,0-1,1v17a1,1,0,0,0,1,1h8', 'M6.5 8.5L11.5 8.5', 'M6.5 11.5L11.5 11.5', 'M6.5 14.5L9.5 14.5', 'M11.500 17.500 A6.000 6.000 0 1 0 23.500 17.500 A6.000 6.000 0 1 0 11.500 17.500 Z', 'M20.174,15.755l-2.905,3.874a.751.751,0,0,1-1.131.08l-1.5-1.5' ] ],
+  ListQuill:
+   [ 'list-quill',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M8.59,23.5h-7a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1H14.883a1,1,0,0,1,.707.293L19.3,4.5a1,1,0,0,1,.293.707V8.5', 'M3.59,8.771,4.673,9.853a.5.5,0,0,0,.76-.062L7.59,6.771', 'M10.59 8.5L14.59 8.5', 'M3.59,13.771l1.083,1.082a.5.5,0,0,0,.76-.062l2.157-3.02', 'M10.59 13.5L12.09 13.5', 'M10.59 23.5L17.999 16.091', 'M16.142,13.019c-.83.1-5.45,4.493-2.534,7.407,1.018,1.019,3.293.858,6.035-1.882,2.1-2.105,3.3-5.719,3.748-7.285a.5.5,0,0,0-.577-.623,21.916,21.916,0,0,0-4.376,1.326s-.637,2.973-2.3,2.973Z' ] ] }

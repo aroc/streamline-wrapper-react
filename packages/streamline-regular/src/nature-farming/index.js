@@ -7,4 +7,4 @@ import Plants from "./Plants.js"
 import Trees from "./Trees.js"
 import index from "./index.js"
 
-export default { AgriculturalMachinery, Farming, Flowers, Gardening, Outdoors, Plants, Trees, index }
+export { AgriculturalMachinery, Farming, Flowers, Gardening, Outdoors, Plants, Trees, index }

@@ -1,10 +1,4 @@
-export default { BrainOpenSkill:
-   [ 'brain-open-skill',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M17.5,23.5V19.247a7.84,7.84,0,0,0,2.475-4.313,1.617,1.617,0,0,1,.925-1.2,3.3,3.3,0,0,0,1.436-3.851,86.327,86.327,0,0,1-20.672,0A3.3,3.3,0,0,0,3.1,13.73a1.617,1.617,0,0,1,.925,1.2A7.84,7.84,0,0,0,6.5,19.247V23.5', 'M5.093,5a2.52,2.52,0,0,0,2.861.029', 'M14.854,2.087A5.983,5.983,0,0,1,11,6', 'M13.462 4.45L15 6.5', 'M21.5,7.5A2.5,2.5,0,0,0,18.932,5l-.025,0A3.292,3.292,0,0,0,15.6,2a3.407,3.407,0,0,0-.741.087,3.36,3.36,0,0,0-5.708,0A3.407,3.407,0,0,0,8.4,2,3.292,3.292,0,0,0,5.093,5L5.068,5A2.535,2.535,0,0,0,2.5,7.5a2.736,2.736,0,0,0,.056.543', 'M17.5,6.5a2.181,2.181,0,0,0,1,1.5' ] ],
-  BrainHead:
+export default { BrainHead:
    [ 'brain-head',
      24,
      24,
@@ -21,4 +15,10 @@ export default { BrainOpenSkill:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M19.44,8.609A8.1,8.1,0,0,1,21,13.41a7.328,7.328,0,0,1-3.719,6.622V23.5', 'M8.6,23.5V21.9c-1.63.009-2.508-.116-3.112-.721-.775-.775-.608-4.252-.608-4.252s-.736.028-1.292,0a.644.644,0,0,1-.5-.264A1.019,1.019,0,0,1,3,16.124c-.1-1.385,1.757-3.452,1.757-4.142A6.233,6.233,0,0,1,5.2,9.643', 'M12 0.5L12 10', 'M10.500 11.500 A1.500 1.500 0 1 0 13.500 11.500 A1.500 1.500 0 1 0 10.500 11.500 Z', 'M14.500 7.500 A1.500 1.500 0 1 0 17.500 7.500 A1.500 1.500 0 1 0 14.500 7.500 Z', 'M6.500 7.500 A1.500 1.500 0 1 0 9.500 7.500 A1.500 1.500 0 1 0 6.500 7.500 Z', 'M12,3.5h2a2,2,0,0,1,2,2V6', 'M12,3.5H10a2,2,0,0,0-2,2V6' ] ] }
+     [ 'M19.44,8.609A8.1,8.1,0,0,1,21,13.41a7.328,7.328,0,0,1-3.719,6.622V23.5', 'M8.6,23.5V21.9c-1.63.009-2.508-.116-3.112-.721-.775-.775-.608-4.252-.608-4.252s-.736.028-1.292,0a.644.644,0,0,1-.5-.264A1.019,1.019,0,0,1,3,16.124c-.1-1.385,1.757-3.452,1.757-4.142A6.233,6.233,0,0,1,5.2,9.643', 'M12 0.5L12 10', 'M10.500 11.500 A1.500 1.500 0 1 0 13.500 11.500 A1.500 1.500 0 1 0 10.500 11.500 Z', 'M14.500 7.500 A1.500 1.500 0 1 0 17.500 7.500 A1.500 1.500 0 1 0 14.500 7.500 Z', 'M6.500 7.500 A1.500 1.500 0 1 0 9.500 7.500 A1.500 1.500 0 1 0 6.500 7.500 Z', 'M12,3.5h2a2,2,0,0,1,2,2V6', 'M12,3.5H10a2,2,0,0,0-2,2V6' ] ],
+  BrainOpenSkill:
+   [ 'brain-open-skill',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M17.5,23.5V19.247a7.84,7.84,0,0,0,2.475-4.313,1.617,1.617,0,0,1,.925-1.2,3.3,3.3,0,0,0,1.436-3.851,86.327,86.327,0,0,1-20.672,0A3.3,3.3,0,0,0,3.1,13.73a1.617,1.617,0,0,1,.925,1.2A7.84,7.84,0,0,0,6.5,19.247V23.5', 'M5.093,5a2.52,2.52,0,0,0,2.861.029', 'M14.854,2.087A5.983,5.983,0,0,1,11,6', 'M13.462 4.45L15 6.5', 'M21.5,7.5A2.5,2.5,0,0,0,18.932,5l-.025,0A3.292,3.292,0,0,0,15.6,2a3.407,3.407,0,0,0-.741.087,3.36,3.36,0,0,0-5.708,0A3.407,3.407,0,0,0,8.4,2,3.292,3.292,0,0,0,5.093,5L5.068,5A2.535,2.535,0,0,0,2.5,7.5a2.736,2.736,0,0,0,.056.543', 'M17.5,6.5a2.181,2.181,0,0,0,1,1.5' ] ] }

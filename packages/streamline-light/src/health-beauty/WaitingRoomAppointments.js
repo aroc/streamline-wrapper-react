@@ -1,4 +1,10 @@
-export default { MedicalRoomWait:
+export default { MedicalRoomClockMan:
+   [ 'medical-room-clock-man',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M1.000 4.500 A4.000 4.000 0 1 0 9.000 4.500 A4.000 4.000 0 1 0 1.000 4.500 Z', 'M6.768 4.5L5 4.5 5 2.732', 'M14,19.5H6.713A1.5,1.5,0,0,1,5.5,18.882l-3.213-4.5a1.5,1.5,0,0,1,2.426-1.764L7.477,16.5H12', 'M6.713,19.5H1.5A.5.5,0,0,0,1,20v3.5', 'M23,23.5V20a.5.5,0,0,0-.5-.5H22', 'M15.500 3.000 A2.500 2.500 0 1 0 20.500 3.000 A2.500 2.500 0 1 0 15.500 3.000 Z', 'M20,22.5v-7h1a1,1,0,0,0,1-1v-5a2,2,0,0,0-2-2H16a2,2,0,0,0-2,2v5a1,1,0,0,0,1,1h1v7a1,1,0,0,0,1,1h2A1,1,0,0,0,20,22.5Z' ] ],
+  MedicalRoomWait:
    [ 'medical-room-wait',
      24,
      24,
@@ -9,10 +15,4 @@ export default { MedicalRoomWait:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M11,19.5H6.713A1.5,1.5,0,0,1,5.5,18.882l-3.213-4.5a1.5,1.5,0,0,1,2.426-1.764L7.477,16.5H12', 'M6.713,19.5H1.5A.5.5,0,0,0,1,20v3.5', 'M23 21.5L23 23.5', 'M1.000 4.500 A4.000 4.000 0 1 0 9.000 4.500 A4.000 4.000 0 1 0 1.000 4.500 Z', 'M6.768 4.5L5 4.5 5 2.732', 'M15.522 3.000 A2.500 2.500 0 1 0 20.522 3.000 A2.500 2.500 0 1 0 15.522 3.000 Z', 'M21,13.5v-4a2,2,0,0,0-2-2H17a2,2,0,0,0-2,2v4l-2,5h3v4a1.019,1.019,0,0,0,1.022,1h2a.981.981,0,0,0,.978-1v-4h3Z' ] ],
-  MedicalRoomClockMan:
-   [ 'medical-room-clock-man',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M1.000 4.500 A4.000 4.000 0 1 0 9.000 4.500 A4.000 4.000 0 1 0 1.000 4.500 Z', 'M6.768 4.5L5 4.5 5 2.732', 'M14,19.5H6.713A1.5,1.5,0,0,1,5.5,18.882l-3.213-4.5a1.5,1.5,0,0,1,2.426-1.764L7.477,16.5H12', 'M6.713,19.5H1.5A.5.5,0,0,0,1,20v3.5', 'M23,23.5V20a.5.5,0,0,0-.5-.5H22', 'M15.500 3.000 A2.500 2.500 0 1 0 20.500 3.000 A2.500 2.500 0 1 0 15.500 3.000 Z', 'M20,22.5v-7h1a1,1,0,0,0,1-1v-5a2,2,0,0,0-2-2H16a2,2,0,0,0-2,2v5a1,1,0,0,0,1,1h1v7a1,1,0,0,0,1,1h2A1,1,0,0,0,20,22.5Z' ] ] }
+     [ 'M11,19.5H6.713A1.5,1.5,0,0,1,5.5,18.882l-3.213-4.5a1.5,1.5,0,0,1,2.426-1.764L7.477,16.5H12', 'M6.713,19.5H1.5A.5.5,0,0,0,1,20v3.5', 'M23 21.5L23 23.5', 'M1.000 4.500 A4.000 4.000 0 1 0 9.000 4.500 A4.000 4.000 0 1 0 1.000 4.500 Z', 'M6.768 4.5L5 4.5 5 2.732', 'M15.522 3.000 A2.500 2.500 0 1 0 20.522 3.000 A2.500 2.500 0 1 0 15.522 3.000 Z', 'M21,13.5v-4a2,2,0,0,0-2-2H17a2,2,0,0,0-2,2v4l-2,5h3v4a1.019,1.019,0,0,0,1.022,1h2a.981.981,0,0,0,.978-1v-4h3Z' ] ] }

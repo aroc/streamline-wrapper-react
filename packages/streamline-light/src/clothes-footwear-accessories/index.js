@@ -12,4 +12,4 @@ import TrousersShorts from "./TrousersShorts.js"
 import Underwear from "./Underwear.js"
 import index from "./index.js"
 
-export default { Accessories, Bags, Beanies, Caps, ClothesDesign, DressSkirts, Footwear, Glasses, Hats, ShirtsSweatersTop, TrousersShorts, Underwear, index }
+export { Accessories, Bags, Beanies, Caps, ClothesDesign, DressSkirts, Footwear, Glasses, Hats, ShirtsSweatersTop, TrousersShorts, Underwear, index }

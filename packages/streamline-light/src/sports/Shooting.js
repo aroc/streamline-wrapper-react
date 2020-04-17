@@ -1,10 +1,4 @@
-export default { ShootingRiflePersonAim:
-   [ 'shooting-rifle-person-aim',
-     24,
-     24,
-     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M3.000 2.999 A2.500 2.500 0 1 0 8.000 2.999 A2.500 2.500 0 1 0 3.000 2.999 Z', 'M8.882,9.133l1.471-2.395a.5.5,0,0,1,.426-.238H18a1,1,0,0,0,1-1v-1H9.714a.5.5,0,0,0-.363.156L6.4,7.78', 'M19 4.499L23 4.499 23 2.999', 'M10.5 2.499L14.5 2.499', 'M1.107,21.442,4,14.211V9A1.5,1.5,0,0,1,6.217,7.682L9.436,9.435a1.623,1.623,0,0,1,.143.089,1.5,1.5,0,0,0,1.76-.029l1.846-1.28a1.5,1.5,0,0,1,1.8,2.4L13.14,11.9a4.491,4.491,0,0,1-5.205.139L7,11.526v2.6l3.823,7.168a1.5,1.5,0,1,1-2.646,1.412L5.7,18.053l-1.8,4.5a1.5,1.5,0,0,1-2.786-1.115Z' ] ],
-  ShootingRifleAim:
+export default { ShootingRifleAim:
    [ 'shooting-rifle-aim',
      24,
      24,
@@ -17,4 +11,10 @@ export default { ShootingRiflePersonAim:
      24,
      24,
      [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', transform: 'translate(-4.971 8.709) rotate(-36.815)' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
-     [ 'M6.1,10.822h9a0,0,0,0,1,0,0v1.5a.5.5,0,0,1-.5.5H6.1a0,0,0,0,1,0,0v-2A0,0,0,0,1,6.1,10.822Z', 'M13.602 8.325L23.209 1.134', 'M21.608 2.333L20.709 1.132', 'M5.198 12.117L6.397 13.718', 'M10.002 8.522L11.2 10.123', 'M9.201 9.121L10.802 7.922', 'M4.798 12.417L5.599 11.817', 'M7.6,15.319,3.95,22.592a.5.5,0,0,1-.847.076L.891,19.713a.5.5,0,0,1,.1-.7l6-4.494' ] ] }
+     [ 'M6.1,10.822h9a0,0,0,0,1,0,0v1.5a.5.5,0,0,1-.5.5H6.1a0,0,0,0,1,0,0v-2A0,0,0,0,1,6.1,10.822Z', 'M13.602 8.325L23.209 1.134', 'M21.608 2.333L20.709 1.132', 'M5.198 12.117L6.397 13.718', 'M10.002 8.522L11.2 10.123', 'M9.201 9.121L10.802 7.922', 'M4.798 12.417L5.599 11.817', 'M7.6,15.319,3.95,22.592a.5.5,0,0,1-.847.076L.891,19.713a.5.5,0,0,1,.1-.7l6-4.494' ] ],
+  ShootingRiflePersonAim:
+   [ 'shooting-rifle-person-aim',
+     24,
+     24,
+     [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' }, { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ],
+     [ 'M3.000 2.999 A2.500 2.500 0 1 0 8.000 2.999 A2.500 2.500 0 1 0 3.000 2.999 Z', 'M8.882,9.133l1.471-2.395a.5.5,0,0,1,.426-.238H18a1,1,0,0,0,1-1v-1H9.714a.5.5,0,0,0-.363.156L6.4,7.78', 'M19 4.499L23 4.499 23 2.999', 'M10.5 2.499L14.5 2.499', 'M1.107,21.442,4,14.211V9A1.5,1.5,0,0,1,6.217,7.682L9.436,9.435a1.623,1.623,0,0,1,.143.089,1.5,1.5,0,0,0,1.76-.029l1.846-1.28a1.5,1.5,0,0,1,1.8,2.4L13.14,11.9a4.491,4.491,0,0,1-5.205.139L7,11.526v2.6l3.823,7.168a1.5,1.5,0,1,1-2.646,1.412L5.7,18.053l-1.8,4.5a1.5,1.5,0,0,1-2.786-1.115Z' ] ] }

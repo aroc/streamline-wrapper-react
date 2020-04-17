@@ -27,4 +27,4 @@ import Various from "./Various.js"
 import VintageCars from "./VintageCars.js"
 import index from "./index.js"
 
-export default { AdventureCars, Aircraft, AutonomusCars, Bicycles, Bus, CarActions, CarInsurance, Cars, DashboardSymbols, GarageRepairs, Gas, Navigation, Parking, PublicServices, Railroad, RoadsLights, ScootersBikes, SeaTransportation, Segway, Signs, SportsCars, Taxi, ToolsComponents, TransportationTicketsTransfers, Trucks, Various, VintageCars, index }
+export { AdventureCars, Aircraft, AutonomusCars, Bicycles, Bus, CarActions, CarInsurance, Cars, DashboardSymbols, GarageRepairs, Gas, Navigation, Parking, PublicServices, Railroad, RoadsLights, ScootersBikes, SeaTransportation, Segway, Signs, SportsCars, Taxi, ToolsComponents, TransportationTicketsTransfers, Trucks, Various, VintageCars, index }

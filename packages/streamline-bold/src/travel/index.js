@@ -8,4 +8,4 @@ import TravelInsurance from "./TravelInsurance.js"
 import TravelMetaphor from "./TravelMetaphor.js"
 import index from "./index.js"
 
-export default { Airport, Baggage, Passports, PlanesTrip, SecurityCustoms, TicketsCheckInSchedule, TravelInsurance, TravelMetaphor, index }
+export { Airport, Baggage, Passports, PlanesTrip, SecurityCustoms, TicketsCheckInSchedule, TravelInsurance, TravelMetaphor, index }

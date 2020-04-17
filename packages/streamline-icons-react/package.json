@@ -1,6 +1,6 @@
 {
   "name": "@streamlinehq/streamline-icons-react",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "dependencies": {
     "humps": "^2.0.1"
   },
@@ -12,9 +12,9 @@
     "extends": "react-app"
   },
   "author": {
-    "name" : "Clément SAUVAGE",
-    "email" : "hello@clementsauvage.me",
-    "url" : "https://clementsauvage.me"
+    "name": "Clément SAUVAGE",
+    "email": "hello@clementsauvage.me",
+    "url": "https://clementsauvage.me"
   },
   "browserslist": {
     "production": [

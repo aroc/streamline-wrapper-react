@@ -4,14 +4,17 @@
   "dependencies": {
     "humps": "^2.0.1"
   },
+  "main": "dist/",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "rm -rf dist && NODE_ENV=production babel src --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,__snapshots__",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "rm -rf dist && NODE_ENV=production babel src --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,__snapshots__"
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "author": {
+    "name" : "Clément SAUVAGE",
+    "email" : "hello@clementsauvage.me",
+    "url" : "https://clementsauvage.me"
   },
   "browserslist": {
     "production": [

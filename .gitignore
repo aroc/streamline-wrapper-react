@@ -112,3 +112,5 @@ temp/
 
 .npmrc
 packages/**/.npmrc
+
+.history

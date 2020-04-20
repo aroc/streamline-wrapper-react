@@ -1,2 +1,2 @@
-import StreamlineIcon from './lib/components/StreamlineIcon';
+import StreamlineIcon from './components/StreamlineIcon';
 export {StreamlineIcon};

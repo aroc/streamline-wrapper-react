@@ -6,7 +6,7 @@
   },
   "main": "dist/",
   "scripts": {
-    "build": "rm -rf dist && NODE_ENV=production babel src --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,__snapshots__"
+    "build": "rm -rf dist && NODE_ENV=production babel src --out-dir dist --copy-files --minified --ignore __tests__,spec.js,test.js,__snapshots__ "
   },
   "eslintConfig": {
     "extends": "react-app"

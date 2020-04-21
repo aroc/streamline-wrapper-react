@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render a component Testing Snapshots 1`] = `
+<span
+  className="Streamline_Icon"
+>
+  <svg
+    height={24}
+    style={
+      Object {
+        "height": 24,
+        "width": 24,
+      }
+    }
+    viewBox="0 0 24 24"
+    width={24}
+  >
+    <path
+      d="M12,1.753A7.5,7.5,0,0,0,.75,8.25"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M15.75,8.25a7.478,7.478,0,0,0-.624-3"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M8.25,23.25a7.563,7.563,0,0,0,1.5-.15"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M.75,12.75v3a7.5,7.5,0,0,0,4.5,6.876"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M12.75,12.75V8.25A4.5,4.5,0,0,0,6,4.352"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M3.75,8.25v7.5a4.5,4.5,0,0,0,6,4.244"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M6.75,15.75a1.5,1.5,0,0,0,3,0V8.25a1.5,1.5,0,0,0-3,0v3"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M14.250 15.750 L23.250 15.750 L23.250 23.250 L14.250 23.250 Z"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M18.75,11.25h0a3,3,0,0,0-3,3v1.5h6v-1.5A3,3,0,0,0,18.75,11.25Z"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+    <path
+      d="M18.75,19.154a.375.375,0,1,1-.375.375.375.375,0,0,1,.375-.375"
+      fill="none"
+      stroke="#000"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="1.5"
+    />
+  </svg>
+</span>
+`;

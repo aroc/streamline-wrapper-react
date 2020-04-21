@@ -6,6 +6,8 @@
   },
   "main": "dist/",
   "scripts": {
+    "pretest": "node src/components/__tests__/messages.js",
+    "test": "jest --config jest.config.json",
     "build": "rm -rf dist && NODE_ENV=production babel src --out-dir dist --copy-files --minified --ignore __tests__,spec.js,test.js,__snapshots__ "
   },
   "eslintConfig": {
@@ -35,8 +37,11 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "babel-jest": "^25.4.0",
+    "chalk": "^4.0.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
+    "identity-obj-proxy": "^3.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -44,8 +49,8 @@
     "react-test-renderer": "^16.13.1"
   },
   "peerDependencies": {
-    "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "prop-types": "^15.7.*",
+    "react": "^16.13.*",
+    "react-dom": "^16.13.*"
   }
 }

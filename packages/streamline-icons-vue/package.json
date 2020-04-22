@@ -1,35 +1,35 @@
 {
-  "name": "@streamlinehq/streamline-icons-vue",
+  "name": "streamline-icons-vue",
   "version": "0.1.0",
-  "description": "Vue.js wrapper for Streamline Icons",
-  "keywords": [
-    "icons",
-    "ui",
-    "svg",
-    "design",
-    "webalys",
-    "clementsauvage",
-    "iconography"
-  ],
-  "author": "Clément SAUVAGE <hello@clementsauvage.me>",
-  "homepage": "https://vue.streamlineicons.com",
-  "license": "ISC",
-  "main": "dist/",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/webalys-hq/streamline-icons.git"
-  },
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "lint": "vue-cli-service lint"
   },
-  "bugs": {
-    "url": "https://github.com/webalys-hq/streamline-icons/issues"
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-e2e-nightwatch": "~4.3.0",
+    "@vue/cli-plugin-eslint": "~4.3.0",
+    "@vue/cli-plugin-unit-mocha": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "@vue/test-utils": "1.0.0-beta.31",
+    "babel-eslint": "^10.1.0",
+    "chai": "^4.1.2",
+    "chromedriver": "81",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "geckodriver": "^1.19.1",
+    "vue-template-compiler": "^2.6.11"
   }
 }

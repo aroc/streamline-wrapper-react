@@ -2,11 +2,15 @@
   "name": "@streamlinehq/streamline-icons-vue",
   "version": "0.1.0",
   "private": true,
+  "main": "dist/index.umd.min.js",
   "scripts": {
-    "//": "rm -r ./lib",
     "build": "vue-cli-service build --target lib --filename index ./src/components/StreamlineIcon.vue",
     "test:unit": "vue-cli-service test:unit"
   },
+  "maintainers": [
+    "Thibault Roussel <thibault.roussel@gmail.com>",
+    "Clément Sauvage <hello@clementsauvage.me>"
+  ],
   "peerDependencies": {
     "core-js": "^3.6",
     "vue": "^2.6",

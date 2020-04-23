@@ -3,7 +3,7 @@ module.exports = {
   env: {
     node: true
   },
-  extends: [
+  'extends': [
     'plugin:vue/essential',
     '@vue/standard'
   ],
@@ -21,7 +21,7 @@ module.exports = {
         '**/tests/unit/**/*.spec.{j,t}s?(x)'
       ],
       env: {
-        mocha: true
+        jest: true
       }
     }
   ]

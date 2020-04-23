@@ -8,8 +8,8 @@
   "scripts": {
     "test": "jest --config jest.config.json",
     "prebuild": "rm -rf dist && echo \"Previous build files erased\"",
-    "build": "NODE_ENV=production babel src --out-dir dist",
-    "postbuild": "cp src/components/StreamlineIcon.css dist/components/StreamlineIcon.css && echo \"Build succeeded\""
+    "build": "NODE_ENV=production babel src --out-dir dist --copy-files",
+    "postbuild": "rm dist/setupTests.js && dist/components/__tests echo \"Build succeeded\""
   },
   "eslintConfig": {
     "extends": "react-app"

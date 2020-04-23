@@ -6,12 +6,10 @@ module.exports = function (api) {
   ];
   const plugins = [];
   const env = {};
-  const ignore = ["src/**/*.test.js", "src/**/*.spec.js", "src/**/*.test.js.snap", "src/**/*.spec.js.snap", "src/setupTests.js"];
 
   return {
     presets,
     plugins,
     env,
-    ignore
   };
 };

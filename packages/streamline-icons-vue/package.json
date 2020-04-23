@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "vue-cli-service build --target wc --name streamline-icon ./src/components/StreamlineIcon.vue",
-    "test:unit": "vue-cli-service test:unit",
+    "test:unit": "vue-cli-service test:unit"
   },
   "peerDependencies": {
     "core-js": "^3.6",

@@ -1,31 +1,15 @@
 {
-  "name": "streamline-icons-vue",
+  "name": "@streamlinehq/streamline-icons-vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "vue-cli-service build --target wc --name streamline-icon ./src/components/StreamlineIcon.vue",
+    "//": "rm -r ./lib",
+    "build": "vue-cli-service build --target lib --filename index ./src/components/StreamlineIcon.vue",
     "test:unit": "vue-cli-service test:unit"
   },
   "peerDependencies": {
     "core-js": "^3.6",
-    "vue": "^2.6"
-  },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.3.0",
-    "@vue/cli-plugin-eslint": "~4.3.0",
-    "@vue/cli-plugin-unit-jest": "~4.3.0",
-    "@vue/cli-service": "~4.3.0",
-    "@vue/eslint-config-standard": "^5.1.2",
-    "@vue/server-test-utils": "^1.0.0-beta.33",
-    "@vue/test-utils": "1.0.0-beta.31",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.0",
-    "eslint-plugin-vue": "^6.2.2",
-    "vue-server-renderer": "^2.6.11",
+    "vue": "^2.6",
     "vue-template-compiler": "^2.6.11"
   }
 }

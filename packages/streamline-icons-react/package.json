@@ -4,12 +4,12 @@
   "dependencies": {
     "humps": "^2.0.1"
   },
-  "main": "dist/",
+  "main": "dist/index.umd.min.js",
   "scripts": {
     "test": "jest --config jest.config.json",
     "prebuild": "rm -rf dist && echo \"Previous build files erased\"",
     "build": "NODE_ENV=production babel src --out-dir dist --copy-files",
-    "postbuild": "rm dist/setupTests.js && dist/components/__tests echo \"Build succeeded\""
+    "postbuild": "rm dist/setupTests.js && rm -rf dist/components/__tests__ && echo \"Build succeeded\""
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,27 +30,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.8.4",
-    "@babel/core": "^7.9.0",
-    "@babel/polyfill": "^7.8.7",
-    "@babel/preset-env": "^7.9.5",
-    "@babel/runtime": "^7.9.2",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "babel-jest": "^25.4.0",
-    "chalk": "^4.0.0",
-    "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.2",
-    "identity-obj-proxy": "^3.0.0",
-    "jest-enzyme": "^7.1.2",
-    "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "react-test-renderer": "^16.13.1"
   },
   "peerDependencies": {
     "prop-types": "^15.7.*",

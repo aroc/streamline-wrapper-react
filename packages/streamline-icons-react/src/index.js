@@ -1,2 +1,2 @@
 import StreamlineIcon from './components/StreamlineIcon';
-export {StreamlineIcon};
+export default StreamlineIcon;

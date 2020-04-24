@@ -30,9 +30,9 @@ export default {
     options () {
       const tempIcon = this.icon[3]
 
-      const tempOptions = { ...tempIcon[0] }
-      tempOptions.stroke = this.stroke || tempIcon.stroke
-      tempOptions.fill = this.fill || tempIcon.fill
+      const tempOptions = { ...tempIcon[this.index] }
+      tempOptions.stroke = this.stroke || tempIcon[this.index].stroke
+      tempOptions.fill = this.fill || tempIcon[this.index].fill
 
       return tempOptions
     }

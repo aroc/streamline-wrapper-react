@@ -102,10 +102,10 @@ export default {
         isDefault: true
       }
 
-      if (size) {
+      if (size !== 24) {
         sizeObject.isDefault = (size === sizeObject.width)
         sizeObject.height = size
-        sizeObject.isDefault = size
+        sizeObject.width = size
       } else {
         if (this.height && parseInt(this.height) !== sizeObject.height) {
           sizeObject.height = this.height

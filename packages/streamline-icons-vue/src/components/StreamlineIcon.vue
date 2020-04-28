@@ -102,7 +102,7 @@ export default {
         isDefault: true
       }
 
-      if (size) {
+      if (size !== 24) {
         sizeObject.isDefault = (size === sizeObject.width)
         sizeObject.height = size
         sizeObject.width = size

@@ -24,7 +24,8 @@
     "lib"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "directory": "lib"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
@@ -33,5 +34,5 @@
   "dependencies": {
     "@babel/polyfill": "^7.8.7"
   },
-  "gitHead": "e79804eb2a00ff818c92b184ebc31c9876b7cdad"
+  "gitHead": "e79804eb2a00ff818c92b184ebc31c9876b7cdad",
 }

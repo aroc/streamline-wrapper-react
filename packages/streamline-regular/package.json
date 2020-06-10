@@ -24,8 +24,7 @@
     "lib"
   ],
   "publishConfig": {
-    "access": "public",
-    "directory": "lib"
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",

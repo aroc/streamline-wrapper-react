@@ -74,8 +74,7 @@
     "url": "https://github.com/webalys-hq/streamline-icons/issues"
   },
   "publishConfig": {
-    "access": "public",
-    "directory": "dist"
+    "access": "public"
   },
   "gitHead": "513d16e75a06d9f128e47121ce3c213543901296"
 }

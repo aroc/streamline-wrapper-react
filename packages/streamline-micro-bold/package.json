@@ -33,7 +33,7 @@
   "bugs": {
     "url": "https://github.com/webalys-hq/streamline-icons/issues"
   },
-  "gitHead": "e79804eb2a00ff818c92b184ebc31c9876b7cdad",
+  "gitHead": "513d16e75a06d9f128e47121ce3c213543901296",
   "publishConfig": {
     "access": "public",
     "directory": "lib"

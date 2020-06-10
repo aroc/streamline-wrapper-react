@@ -4,7 +4,7 @@
   "dependencies": {
     "humps": "^2.0.1"
   },
-  "main": "dist/index.umd.min.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest --config jest.config.json",
     "prebuild": "rm -rf dist && echo \"Previous build files erased\"",

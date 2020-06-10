@@ -15,7 +15,7 @@
   "author": "Clément SAUVAGE <hello@clementsauvage.me>",
   "homepage": "http://angular.streamlineicons.dev",
   "license": "MIT",
-  "main": "dist/index.js",
+  "main": "dist/streamline-icons/bundles/streamline-icons.umd.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -30,7 +30,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --watch",
+    "build": "ng build --prod=true",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

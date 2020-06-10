@@ -4,40 +4,8 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
-    "@babel/polyfill": "^7.8.7",
     "@babel/preset-env": "^7.9.5",
-    "@babel/runtime": "^7.9.2",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "@vue/cli-plugin-babel": "~4.3.0",
-    "@vue/cli-plugin-eslint": "~4.3.0",
-    "@vue/cli-plugin-unit-jest": "~4.3.0",
-    "@vue/cli-service": "~4.3.0",
-    "@vue/eslint-config-standard": "^5.1.2",
-    "@vue/server-test-utils": "^1.0.0-beta.33",
-    "@vue/test-utils": "1.0.0-beta.31",
-    "babel-eslint": "^10.1.0",
-    "babel-jest": "^25.4.0",
-    "chalk": "^4.0.0",
-    "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.2",
-    "eslint": "^6.7.2",
-    "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.0",
-    "eslint-plugin-vue": "^6.2.2",
-    "identity-obj-proxy": "^3.0.0",
-    "jest-enzyme": "^7.1.2",
-    "lerna": "^3.20.2",
-    "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "react-test-renderer": "^16.13.1",
-    "vue-server-renderer": "^2.6.11",
-    "vue-template-compiler": "^2.6.11"
+    "lerna": "^3.20.2"
   },
   "scripts": {
     "build": "lerna exec -- ./node_modules/.bin/babel src -d lib"
@@ -49,16 +17,5 @@
   },
   "workspaces": [
     "packages/*"
-  ],
-  "dependencies": {
-    "@streamlinehq/streamline-bold": "file:packages/streamline-bold",
-    "@streamlinehq/streamline-icons-react": "file:packages/streamline-icons-react",
-    "@streamlinehq/streamline-icons-vue": "file:packages/streamline-icons-vue",
-    "@streamlinehq/streamline-light": "file:packages/streamline-light",
-    "@streamlinehq/streamline-micro-bold": "file:packages/streamline-micro-bold",
-    "@streamlinehq/streamline-micro-line": "file:packages/streamline-micro-line",
-    "@streamlinehq/streamline-mini-bold": "file:packages/streamline-mini-bold",
-    "@streamlinehq/streamline-mini-line": "file:packages/streamline-mini-line",
-    "@streamlinehq/streamline-regular": "file:packages/streamline-regular"
-  }
+  ]
 }

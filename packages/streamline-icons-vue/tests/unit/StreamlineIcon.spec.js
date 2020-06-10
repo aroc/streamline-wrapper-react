@@ -97,7 +97,7 @@ describe('StreamlineIcon.vue', () => {
   });
 
   it('Is colored correctly', () => {
-
+    let shallow = new Shallow(StreamlineIcon)
     const color = '#ff6e61';
     const wrapper = mount(StreamlineIcon, {
       propsData: {

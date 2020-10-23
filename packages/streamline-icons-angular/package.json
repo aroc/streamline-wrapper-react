@@ -1,6 +1,6 @@
 {
   "name": "@streamlinehq/streamline-icons-angular",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "description": "Angular wrapper for Streamline Icons",
   "keywords": [
     "UI",
@@ -30,7 +30,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod=true",
+    "build:dev": "ng build --prod=true",
+    "build": "./node_modules/.bin/ng build --prod streamline-icons",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

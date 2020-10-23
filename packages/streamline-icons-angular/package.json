@@ -15,9 +15,9 @@
   "author": "Clément SAUVAGE <hello@clementsauvage.me>",
   "homepage": "http://angular.streamlineicons.dev",
   "license": "MIT",
-  "main": "dist/streamline-icons/bundles/streamline-icons.umd.js",
+  "main": "dist/streamline-icons",
   "directories": {
-    "lib": "lib",
+    "lib": "dist/streamline-icons",
     "test": "__tests__"
   },
   "files": [

@@ -1,5 +1,5 @@
 {
-  "name": "streamline-icons",
+  "name": "streamline-icons-angular",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^9.1.7",

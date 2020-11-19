@@ -4,18 +4,17 @@ import humps from 'humps';
 
 import './StreamlineIcon.css';
 
-const StreamlineIcon = (props) => {
-
-  const {icon, fill, size, stroke, width, height, customClassName} = props;
+const StreamlineIcon = ({icon, fill, size, stroke, width, height, customClassName, spin, pulse, infinite, fast, easeInOut}) => {
+  console.debug('In custom StreamlineIcon')
 
   const getClassName = () => {
 
     let className = [`Streamline_Icon`];
-    if (props.spin) className.push('Streamline_Icon_Spin', 'Streamline_Icon_Animated');
-    if (props.pulse) className.push('Streamline_Icon_Pulse', 'Streamline_Icon_Animated');
-    if (props.infinite) className.push('Streamline_Animation_Infinite');
-    if (props.fast) className.push('Streamline_Animation_Fast');
-    if (props.easeInOut) className.push('Streamline_Animation_EaseInOut');
+    if (spin) className.push('Streamline_Icon_Spin', 'Streamline_Icon_Animated');
+    if (pulse) className.push('Streamline_Icon_Pulse', 'Streamline_Icon_Animated');
+    if (infinite) className.push('Streamline_Animation_Infinite');
+    if (fast) className.push('Streamline_Animation_Fast');
+    if (easeInOut) className.push('Streamline_Animation_EaseInOut');
     if (customClassName) className.push(customClassName);
 
     return [...new Set(className)].join(' ');
@@ -121,13 +120,9 @@ StreamlineIcon.propTypes = {
 
   icon: PropTypes.arrayOf(PropTypes.oneOfType([PropTypes.string, PropTypes.number, PropTypes.array])),
 
-  strokeWidth: PropTypes.number, // Not used
-
   height: PropTypes.number,
   width: PropTypes.number,
   size: PropTypes.number,
-
-  svgStyle: PropTypes.object, // Not used
 
   pulse: PropTypes.bool,
   spin: PropTypes.bool,

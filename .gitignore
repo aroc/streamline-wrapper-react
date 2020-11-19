@@ -104,6 +104,7 @@ typings/
 
 lib/
 packages/**/lib
+packages/**/es
 !packages/streamline-icons-angular/projects/streamline-icons/src/lib
 packages/**/__test__
 

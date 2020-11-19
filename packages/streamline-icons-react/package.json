@@ -15,9 +15,9 @@
     "extends": "react-app"
   },
   "author": {
-    "name": "Clément SAUVAGE",
-    "email": "hello@clementsauvage.me",
-    "url": "https://clementsauvage.me"
+    "name": "Webalys",
+    "email": "support@webalys.com",
+    "url": "https://app.streamline.to"
   },
   "browserslist": {
     "production": [

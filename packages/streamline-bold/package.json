@@ -9,9 +9,9 @@
     "iconography",
     "svg",
     "webalys",
-    "clementsauvage"
+    "webalys"
   ],
-  "author": "Clément SAUVAGE <hello@clementsauvage.me>",
+  "author": "Webalys <support@webalys.com>",
   "homepage": "https://streamlineicons.com",
   "license": "ISC",
   "main": "lib/",

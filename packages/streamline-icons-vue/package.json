@@ -8,7 +8,7 @@
   },
   "maintainers": [
     "Thibault Roussel <thibault.roussel@gmail.com>",
-    "Clément Sauvage <hello@clementsauvage.me>"
+    "Webalys <support@webalys.com>"
   ],
   "peerDependencies": {
     "core-js": "^3.6",

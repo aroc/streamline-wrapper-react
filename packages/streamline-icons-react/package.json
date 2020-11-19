@@ -10,8 +10,8 @@
   "module": "es/prod.js",
   "scripts": {
     "release": "yarn build:dev && yarn build:prod",
-    "build:prod": "NODE_ENV=production rollup -c",
-    "build:dev": "NODE_ENV=development rollup -c"
+    "build": "NODE_ENV=production rollup -c",
+    "dev": "yarn build -w"
   },
   "author": {
     "name": "Webalys",

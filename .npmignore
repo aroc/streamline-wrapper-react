@@ -2,4 +2,3 @@ __mocks__/
 babel.config.js
 jest.config.json
 src/
-

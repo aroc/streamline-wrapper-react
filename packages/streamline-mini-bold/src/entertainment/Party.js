@@ -1,6 +1,0 @@
-export default { EntertainmentPartyPopper:
-   [ 'entertainment-party-popper',
-     14,
-     14,
-     [ { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 }, { fill: '#000000', stroke: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', 'stroke-width': 0 } ],
-     [ 'M13.893,11.932,11.781,6.62A1.25,1.25,0,0,0,9.734,6.2L6.2,9.735l0,0a1.25,1.25,0,0,0,.424,2.043l5.315,2.114a1.511,1.511,0,0,0,1.961-1.962Z', 'M1.835,8.827A.751.751,0,0,1,1.742,7.77a2.575,2.575,0,0,1,1.862-.9,2.082,2.082,0,0,1,1.561.512.75.75,0,0,1-1.06,1.061,1.089,1.089,0,0,0-1.213.286A.75.75,0,0,1,1.835,8.827Z', 'M7.6,5.52a3.587,3.587,0,0,1-.638-3.879A2.681,2.681,0,0,1,9.136,0a.75.75,0,0,1,0,1.5,1.435,1.435,0,0,0-.837.825A2.081,2.081,0,0,0,8.772,4.58a.75.75,0,0,1-1.17.94Z', 'M-0.001 4.500 A1.250 1.250 0 1 0 2.499 4.500 A1.250 1.250 0 1 0 -0.001 4.500 Z', 'M4.564,4.548A3.783,3.783,0,0,1,3.32,1.667a.75.75,0,1,1,1.5,0A2.28,2.28,0,0,0,5.5,3.374a.75.75,0,0,1-.934,1.174Z' ] ] }

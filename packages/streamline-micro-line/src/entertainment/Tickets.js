@@ -1,1 +1,0 @@
-export default { EntertainmentTicket: [ 'entertainment-ticket', 10, 10, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M8.58,3.373A1.381,1.381,0,0,1,6.627,1.42L6.952,1.1,6.627.77a.92.92,0,0,0-1.3,0L.77,5.325a.92.92,0,0,0,0,1.3l2.6,2.6a.92.92,0,0,0,1.3,0L9.23,4.675a.92.92,0,0,0,0-1.3L8.9,3.048Z' ] ] }

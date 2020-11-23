@@ -1,1 +1,0 @@
-export default { ComputerBattery: [ 'computer-battery', 10, 10, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M8,6.5H9A.5.5,0,0,0,9.5,6V4A.5.5,0,0,0,9,3.5H8V3A1,1,0,0,0,7,2H1.5a1,1,0,0,0-1,1V7a1,1,0,0,0,1,1H7A1,1,0,0,0,8,7Z' ] ] }

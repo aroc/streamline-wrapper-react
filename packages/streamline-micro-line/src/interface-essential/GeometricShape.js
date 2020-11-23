@@ -1,5 +1,0 @@
-export default { InterfaceGeometricSquare: [ 'interface-geometric-square', 10, 10, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M0.500 0.500 L9.500 0.500 L9.500 9.500 L0.500 9.500 Z' ] ],
-  InterfaceGeometricPentagon: [ 'interface-geometric-pentagon', 10, 10, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M9.5 4.5L5 0.5 0.5 4.5 2.5 9.5 7.5 9.5 9.5 4.5z' ] ],
-  InterfaceGeometricPolygon: [ 'interface-geometric-polygon', 10, 10, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M7 9.5L3 9.5 0.5 7 0.5 3 3 0.5 7 0.5 9.5 3 9.5 7 7 9.5z' ] ],
-  InterfaceGeometricCircle: [ 'interface-geometric-circle', 10, 10, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M0.500 5.000 A4.500 4.500 0 1 0 9.500 5.000 A4.500 4.500 0 1 0 0.500 5.000 Z' ] ],
-  InterfaceGeometricTriangle: [ 'interface-geometric-triangle', 10, 10, [ { fill: 'none', stroke: '#000', 'stroke-linecap': 'round', 'stroke-linejoin': 'round' } ], [ 'M5 1.5L0.5 8.5 9.5 8.5 5 1.5z' ] ] }

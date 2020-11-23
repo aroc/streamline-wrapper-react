@@ -1,4 +1,5 @@
 __mocks__/
 babel.config.js
 jest.config.json
+.idea
 src/

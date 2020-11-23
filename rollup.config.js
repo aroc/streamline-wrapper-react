@@ -4,21 +4,17 @@ import commonjs from '@rollup/plugin-commonjs'
 import resolve from '@rollup/plugin-node-resolve'
 import postcss from 'rollup-plugin-postcss'
 import { terser } from "rollup-plugin-terser"
+import typescript from '@rollup/plugin-typescript'
 
 const NODE_ENV = process.env.NODE_ENV || "development"
-const outputFile = NODE_ENV === "production" ? "prod.js" : "dev.js"
 
 export default {
-  input: 'src/index.js',
-  output: [ {
-    file: `./lib/${outputFile}`,
-    format: 'cjs'
+  input: 'src/index.tsx',
+  output:  {
+    dir: 'build',
+    format: 'cjs',
+    sourcemap: true
   },
-    {
-      file: `./es/${outputFile}`,
-      format: 'es'
-    }
-  ],
   plugins: [
     replace({
       "process.env.NODE_ENV": JSON.stringify(NODE_ENV)
@@ -31,6 +27,11 @@ export default {
     }),
     resolve(),
     commonjs(),
+    typescript({
+      declaration: true,
+      declarationDir: 'build',
+      rootDir: 'src/'
+    }),
     terser(),
   ],
 };

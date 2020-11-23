@@ -5596,6 +5596,11 @@ human-signals@^1.1.1:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-1.1.1.tgz#c5b1cd14f50aeae09ab6c59fe63ba3395fe4dfa3"
   integrity sha512-SEQu7vl8KjNL2eoGBLF3+wAjpsNfA9XMlXAYj/3EdaNfAlxKthD1xjEQfGOUhllCGGJVNY34bRr6lPINhNjyZw==
 
+humps@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/humps/-/humps-2.0.1.tgz#dd02ea6081bd0568dc5d073184463957ba9ef9aa"
+  integrity sha1-3QLqYIG9BWjcXQcxhEY5V7qe+ao=
+
 iconv-lite@0.4.24:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
@@ -10063,6 +10068,14 @@ stream-shift@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/stream-shift/-/stream-shift-1.0.1.tgz#d7088281559ab2778424279b0877da3c392d5a3d"
   integrity sha512-AiisoFqQ0vbGcZgQPY1cdP2I76glaVA/RauYR4G4thNFgkTqr90yXTo4LYX60Jl+sIlPNHHdGSwo01AvbKUSVQ==
+
+streamline-wrapper-react@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/streamline-wrapper-react/-/streamline-wrapper-react-1.0.0.tgz#1e0ef2db545689444881e0e4b506302e8b7cc6ad"
+  integrity sha512-IGibb+FnYskUOiEOWXMOdncmb19F7lcN4wdc+q4zb9taR8iTtQKq9PuNLjF5A3aCsPkhh1cQd/VpZNhdxa9Nzg==
+  dependencies:
+    humps "^2.0.1"
+    prop-types "^15.7.2"
 
 strict-uri-encode@^1.0.0:
   version "1.1.0"

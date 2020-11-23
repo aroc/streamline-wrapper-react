@@ -2,7 +2,7 @@ import React from 'react';
 import IconsList from "./IconsList";
 
 const App = () => (
-    <IconsList/>
+  <IconsList/>
 );
 
 export default App;

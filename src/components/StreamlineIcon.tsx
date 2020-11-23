@@ -24,7 +24,6 @@ export type Icon = [
 const StreamlineIcon: FunctionComponent<{
   icon: Icon
   spin?: boolean
-  pulse?: boolean
   infinite?: boolean
   easeInOut?: boolean
   fast?: boolean
@@ -41,45 +40,41 @@ const StreamlineIcon: FunctionComponent<{
   width,
   height,
   customClassName,
-  size = 24,
+  size,
   spin = false,
-  pulse = false,
   infinite = false,
   fast = false,
   easeInOut = false,
 }) => {
   const getClassName = () => {
-    const className = [`Streamline_Icon`]
-    if (spin) className.push('Streamline_Icon_Spin', 'Streamline_Icon_Animated')
-    if (pulse)
-      className.push('Streamline_Icon_Pulse', 'Streamline_Icon_Animated')
-    if (infinite) className.push('Streamline_Animation_Infinite')
-    if (fast) className.push('Streamline_Animation_Fast')
-    if (easeInOut) className.push('Streamline_Animation_EaseInOut')
+    const className = ['Streamline_Icon']
+    if (spin)
+      className.push('Streamline_Icon--spin', 'Streamline_Icon--animated')
+    if (infinite) className.push('Streamline_Icon--infinite')
+    if (fast) className.push('Streamline_Animation--fast')
+    if (easeInOut) className.push('Streamline_Animation--ease_in_out')
     if (customClassName) className.push(customClassName)
 
     return className.join(' ')
   }
 
-  const finalSize = {
-    width: icon[1],
-    height: icon[2],
-    isDefault: true,
-  }
+  let shouldResize = true
+  let finalWidth = icon[1]
+  let finalHeight = icon[2]
 
   if (size) {
-    finalSize.isDefault = size === finalSize.width
-    finalSize.height = size
-    finalSize.width = size
+    shouldResize = size !== finalWidth
+    finalWidth = size
+    finalHeight = size
   } else {
-    if (height && height !== finalSize.height) {
-      finalSize.height = height
-      finalSize.isDefault = false
+    if (height && height !== finalHeight) {
+      finalHeight = height
+      shouldResize = true
     }
 
-    if (width && width !== finalSize.width) {
-      finalSize.width = width
-      finalSize.isDefault = false
+    if (width && width !== finalWidth) {
+      finalWidth = width
+      shouldResize = true
     }
   }
 
@@ -91,23 +86,23 @@ const StreamlineIcon: FunctionComponent<{
         strokeLinecap={icon[3][index]['stroke-linecap']}
         strokeLinejoin={icon[3][index]['stroke-linejoin']}
         strokeWidth={icon[3][index]['stroke-width']}
-        key={Math.random().toString()}
+        key={path}
         d={path}
       />
     ))
 
   return (
-    <span className={getClassName()}>
+    <i className={getClassName()}>
       <svg
-        viewBox={`0 0 ${finalSize.width} ${finalSize.height}`}
-        style={{ width: finalSize.width, height: finalSize.height }}
-        width={finalSize.width}
-        height={finalSize.height}
+        viewBox={`0 0 ${finalWidth} ${finalHeight}`}
+        style={{ width: finalWidth, height: finalHeight }}
+        width={finalWidth}
+        height={finalHeight}
       >
-        {!finalSize.isDefault ? (
+        {shouldResize ? (
           <g
-            transform={`scale(${finalSize.width / icon[1]},${
-              finalSize.height / icon[2]
+            transform={`scale(${finalWidth / icon[1]},${
+              finalHeight / icon[2]
             })`}
           >
             {renderPaths()}
@@ -116,7 +111,7 @@ const StreamlineIcon: FunctionComponent<{
           renderPaths()
         )}
       </svg>
-    </span>
+    </i>
   )
 }
 

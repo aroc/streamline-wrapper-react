@@ -3,42 +3,46 @@ import humps from 'humps';
 
 import './StreamlineIcon.css';
 
-type IconOptions = {
+type iconSlug = string
+type iconWidth = number
+type iconHeight = number
+type iconOptions = {
   fill: string
   stroke: string
   'stroke-linecap': string
   'stroke-linejoin': string
-  'stroke-width': number
+  'stroke-width': number | string
 }
-type Icon = [string, number, number, [IconOptions], [string]]
+type iconRepresentation = string
+export type Icon = [iconSlug, iconWidth, iconHeight, iconOptions[], iconRepresentation[]]
 
 const StreamlineIcon: FunctionComponent<{
   icon: Icon
+  spin?: boolean
+  pulse?: boolean
+  infinite?: boolean
+  easeInOut?: boolean
+  fast?: boolean
+  size?: number
   fill?: string
-  size: number
   stroke?: string
   width?: number
   height?: number
   customClassName?: string
-  spin: boolean
-  pulse: boolean
-  infinite: boolean
-  easeInOut: boolean
-  fast: boolean
 }> = ({
-                              icon,
-                              fill,
-                              size= 24,
-                              stroke,
-                              width,
-                              height,
-                              customClassName,
-                                spin= false,
-                              pulse= false,
-                                infinite= false,
-                                fast= false,
-                                easeInOut= false
-}) => {
+        icon,
+        fill,
+        stroke,
+        width,
+        height,
+        customClassName,
+        size= 24,
+        spin= false,
+        pulse= false,
+        infinite= false,
+        fast= false,
+        easeInOut= false
+      }) => {
   const getClassName = () => {
 
     let className = [`Streamline_Icon`];

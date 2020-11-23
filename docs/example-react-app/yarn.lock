@@ -1465,6 +1465,13 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@streamlinehq/streamline-wrapper-react@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@streamlinehq/streamline-wrapper-react/-/streamline-wrapper-react-1.1.0.tgz#beea2cc1522ea06cdcc117b5feb6ef2bda43f349"
+  integrity sha512-ap4J7l2+8sG/B/m8q6gTvztceWTLEYqIUlVHrwv5VFiSKRUoV7sf/Ee69Fhw+38QWRtV8UHZavngyLTUhf8BKA==
+  dependencies:
+    humps "^2.0.1"
+
 "@surma/rollup-plugin-off-main-thread@^1.1.1":
   version "1.4.2"
   resolved "https://registry.yarnpkg.com/@surma/rollup-plugin-off-main-thread/-/rollup-plugin-off-main-thread-1.4.2.tgz#e6786b6af5799f82f7ab3a82e53f6182d2b91a58"
@@ -10068,14 +10075,6 @@ stream-shift@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/stream-shift/-/stream-shift-1.0.1.tgz#d7088281559ab2778424279b0877da3c392d5a3d"
   integrity sha512-AiisoFqQ0vbGcZgQPY1cdP2I76glaVA/RauYR4G4thNFgkTqr90yXTo4LYX60Jl+sIlPNHHdGSwo01AvbKUSVQ==
-
-streamline-wrapper-react@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/streamline-wrapper-react/-/streamline-wrapper-react-1.0.0.tgz#1e0ef2db545689444881e0e4b506302e8b7cc6ad"
-  integrity sha512-IGibb+FnYskUOiEOWXMOdncmb19F7lcN4wdc+q4zb9taR8iTtQKq9PuNLjF5A3aCsPkhh1cQd/VpZNhdxa9Nzg==
-  dependencies:
-    humps "^2.0.1"
-    prop-types "^15.7.2"
 
 strict-uri-encode@^1.0.0:
   version "1.1.0"

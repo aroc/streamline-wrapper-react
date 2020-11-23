@@ -4,4 +4,4 @@ This is a small React library which allows you to render Streamline SVG icons an
 
 ## How to install
 
-1. `yarn add streamline-wrapper-react`
+1. `yarn add @streamlinehq/streamline-wrapper-react`

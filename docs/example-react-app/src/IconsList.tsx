@@ -1,10 +1,11 @@
 import React from 'react';
-import StreamlineIcon from 'streamline-wrapper-react'
+import StreamlineIcon from '@streamlinehq/streamline-wrapper-react'
+import HouseIcon from "./icon";
 
 const IconsList = () => {
     return (
         <div>
-            <StreamlineIcon />
+            <StreamlineIcon icon={HouseIcon}/>
         </div>
     )
 

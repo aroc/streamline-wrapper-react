@@ -3,14 +3,13 @@
   "version": "1.1.0",
   "private": false,
   "license": "MIT",
-  "dependencies": {
-    "humps": "^2.0.1"
-  },
+  "dependencies": {},
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
     "build": "NODE_ENV=production rollup -c",
-    "dev": "NODE_ENV=development rollup -c -w"
+    "dev": "NODE_ENV=development rollup -c -w",
+    "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
   },
   "author": {
     "name": "Webalys",
@@ -34,6 +33,13 @@
     "@rollup/plugin-replace": "^2.3.4",
     "@rollup/plugin-typescript": "^6.1.0",
     "@types/react": "^17.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.8.1",
+    "@typescript-eslint/parser": "^4.8.1",
+    "eslint": "^7.14.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.21.5",
+    "prettier": "^2.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "rollup": "^2.33.3",

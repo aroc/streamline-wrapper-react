@@ -3,35 +3,35 @@ import babel from '@rollup/plugin-babel'
 import commonjs from '@rollup/plugin-commonjs'
 import resolve from '@rollup/plugin-node-resolve'
 import postcss from 'rollup-plugin-postcss'
-import { terser } from "rollup-plugin-terser"
+import { terser } from 'rollup-plugin-terser'
 import typescript from '@rollup/plugin-typescript'
 
-const NODE_ENV = process.env.NODE_ENV || "development"
+const NODE_ENV = process.env.NODE_ENV || 'development'
 
 export default {
   input: 'src/index.tsx',
-  output:  {
+  output: {
     dir: 'build',
     format: 'cjs',
-    sourcemap: true
+    sourcemap: true,
   },
   plugins: [
     replace({
-      "process.env.NODE_ENV": JSON.stringify(NODE_ENV)
+      'process.env.NODE_ENV': JSON.stringify(NODE_ENV),
     }),
     babel({
-      exclude: "node_modules/**"
+      exclude: 'node_modules/**',
     }),
     postcss({
-      plugins: []
+      plugins: [],
     }),
     resolve(),
     commonjs(),
     typescript({
       declaration: true,
       declarationDir: 'build',
-      rootDir: 'src/'
+      rootDir: 'src/',
     }),
     terser(),
   ],
-};
+}

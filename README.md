@@ -22,3 +22,8 @@ const IconsList = () => (
 )
 
 ``` 
+
+## More info
+
+- It has full Typescript support
+- It has 0 dependencies

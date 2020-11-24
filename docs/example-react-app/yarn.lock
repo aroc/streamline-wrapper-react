@@ -1465,10 +1465,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@streamlinehq/streamline-wrapper-react@^1.3.1":
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/@streamlinehq/streamline-wrapper-react/-/streamline-wrapper-react-1.3.1.tgz#49d4c3c83e6a563a44d568d1c7cfec1d4b201a2e"
-  integrity sha512-t4ozLyPXmpuXYcKbfcg6kMk7SI9a7iJZ60IhWVqjZ6pMKyyGY6Zg/NnsHAqcsNWI2iGQ41/0T3ftAYlyF2FeEg==
+"@streamlinehq/streamline-wrapper-react@^1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@streamlinehq/streamline-wrapper-react/-/streamline-wrapper-react-1.3.2.tgz#26d3880395bb0a4fece00567b88547b14798a11c"
+  integrity sha512-UlnDw9rm7glHWeWsTkQzDTVuhJ1rywLTCRDGBYShrN3JYQUcn7zPTRDCKhh217u3CBhWw5XBx42TAHOXeWAZfQ==
 
 "@surma/rollup-plugin-off-main-thread@^1.1.1":
   version "1.4.2"

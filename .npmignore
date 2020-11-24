@@ -1,5 +1,26 @@
-__mocks__/
-babel.config.js
-jest.config.json
 .idea
+
+# dependencies
+/node_modules
+
+
+# misc
+.DS_Store
+
+.env
+
+tmp
+*.log*
+
+.eslintcache
+
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc.js
+.prettierrc.js
+rollup.config.js
+tsconfig.json
+
+docs/
 src/

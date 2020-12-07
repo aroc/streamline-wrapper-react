@@ -14,6 +14,8 @@ Check `docs/example-react-app` project created with CRA to see it in use.
 import StreamlineIcon from '@streamlinehq/streamline-wrapper-react'
 // Imported as Streamline's Icon type. Check source for more details
 import HouseIcon from './icon'
+// Or you can import icon from a Streamline icon package like 
+// import { Home } from "@streamlinehq/streamline-light/lib/interface-essential"
 
 const IconsList = () => (
     <div>

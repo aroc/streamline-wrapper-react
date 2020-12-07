@@ -12,14 +12,13 @@ Check `docs/example-react-app` project created with CRA to see it in use.
 
 ```
 import StreamlineIcon from '@streamlinehq/streamline-wrapper-react'
-// Imported as Streamline's Icon type. Check source for more details
-import HouseIcon from './icon'
-// Or you can import icon from a Streamline icon package like 
-// import { Home } from "@streamlinehq/streamline-light/lib/interface-essential"
+// To use a Streamline icon first import a category you want from a family you have access to, eg:
+import { Home } from "@streamlinehq/streamline-light/lib/interface-essential"
+// And then take the icon of your choice from that category, eg with `Home.House`.
 
 const IconsList = () => (
     <div>
-        <StreamlineIcon icon={HouseIcon}/>
+        <StreamlineIcon icon={Home.House}/>
     </div>
 )
 

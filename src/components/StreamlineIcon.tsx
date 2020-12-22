@@ -33,6 +33,7 @@ const StreamlineIcon: FunctionComponent<{
   width?: number
   height?: number
   customClassName?: string
+  customPathClassName?: string
 }> = ({
   icon,
   fill,
@@ -40,6 +41,7 @@ const StreamlineIcon: FunctionComponent<{
   width,
   height,
   customClassName,
+  customPathClassName,
   size,
   spin = false,
   infinite = false,
@@ -88,6 +90,7 @@ const StreamlineIcon: FunctionComponent<{
         strokeWidth={icon[3][index]['stroke-width']}
         key={path}
         d={path}
+        className={customPathClassName}
       />
     ))
 
